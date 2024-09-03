@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MALLACOOTA Victoria for June 2022,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 July 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MALLACOOTA,01/06/2022,1.9,0.0, ,12.4,7.5,90,45,5.15,6.02
+MALLACOOTA,02/06/2022,1.3,8.8, ,14.1,9.5,91,63,3.62,8.30
+MALLACOOTA,03/06/2022,1.2,0.0, ,13.1,5.1,93,58,3.12,7.55
+MALLACOOTA,04/06/2022,1.5,0.0, ,17.4,3.9,92,45,2.54,9.44
+MALLACOOTA,05/06/2022,2.0,0.0, ,19.8,3.4,90,42,3.26,9.46
+MALLACOOTA,06/06/2022,1.7,0.8, ,13.8,8.2,88,48,4.05,9.31
+MALLACOOTA,07/06/2022,1.8,0.0, ,14.4,3.2,88,44,4.15,9.33
+MALLACOOTA,08/06/2022,1.2,16.8, ,12.5,5.3,90,71,5.66,7.07
+MALLACOOTA,09/06/2022,2.1,1.6, ,13.6,7.7,74,55,6.02,8.05
+MALLACOOTA,10/06/2022,1.9,0.2, ,14.5,10.4,88,55,6.27,7.67
+MALLACOOTA,11/06/2022,2.1,6.6, ,13.5,8.1,87,52,7.21,8.57
+MALLACOOTA,12/06/2022,1.8,2.2, ,12.4,9.9,87,59,7.61,6.18
+MALLACOOTA,13/06/2022,1.4,4.2, ,11.5,8.2,77,60,3.49,5.25
+MALLACOOTA,14/06/2022,1.2,0.0, ,14.6,6.5,92,52,2.56,9.23
+MALLACOOTA,15/06/2022,1.2,0.2, ,15.4,3.3,93,53,2.62,8.46
+MALLACOOTA,16/06/2022,1.4,0.0, ,18.6,8.1,92,59,2.79,6.87
+MALLACOOTA,17/06/2022,1.0,10.0, ,14.5,11.5,92,77,3.53,6.53
+MALLACOOTA,18/06/2022,0.9,2.0, ,15.2,10.0,95,75,2.96,7.28
+MALLACOOTA,19/06/2022,0.8,0.2, ,15.7,6.5,95,77,2.35,8.69
+MALLACOOTA,20/06/2022,1.0,0.2, ,15.7,7.9,95,69,2.95,7.59
+MALLACOOTA,21/06/2022,0.9,0.0, ,12.1,9.1,92,72,2.62,2.86
+MALLACOOTA,22/06/2022,1.5,4.0, ,16.6,7.3,84,49,2.92,9.01
+MALLACOOTA,23/06/2022,1.2,0.0, ,15.8,7.0,90,66,3.09,6.57
+MALLACOOTA,24/06/2022,1.7,0.0, ,18.4,9.8,90,48,3.11,6.78
+MALLACOOTA,25/06/2022,1.6,0.0, ,17.3,6.6,93,44,3.10,9.25
+MALLACOOTA,26/06/2022,1.7,0.0, ,16.6,6.8,87,47,3.43,8.10
+MALLACOOTA,27/06/2022,1.1,0.8, ,11.9,7.6,91,70,4.09,8.27
+MALLACOOTA,28/06/2022,1.1,5.6, ,13.8,5.1,90,55,2.58,8.50
+MALLACOOTA,29/06/2022,1.3,0.0, ,14.6,2.7,91,49,2.59,7.39
+MALLACOOTA,30/06/2022,1.2,0.0, ,14.0,5.7,83,64,3.11,6.09
+Totals:,,42.7,64.2, ,,,,,, 

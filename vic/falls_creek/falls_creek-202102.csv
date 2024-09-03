@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/02/2021,2.1,0.0, ,12.6,10.4,99,49,7.31,3.68
+FALLS CREEK,02/02/2021,3.7,17.2, ,11.9,1.5,99,42,6.27,28.60
+FALLS CREEK,03/02/2021,2.4,0.4, ,13.1,2.1,99,73,4.69,18.32
+FALLS CREEK,04/02/2021,3.1,0.0, ,15.5,3.9,83,68,8.91,19.57
+FALLS CREEK,05/02/2021,1.6,1.2, ,13.9,11.1,99,73,13.41,3.19
+FALLS CREEK,06/02/2021,1.1,69.2, ,9.6,7.9,99,85,10.50,7.55
+FALLS CREEK,07/02/2021,2.9,0.0, ,14.2,6.0,99,58,4.16,18.14
+FALLS CREEK,08/02/2021,3.0,0.0, ,16.4,5.9,99,66,3.45,19.38
+FALLS CREEK,09/02/2021,3.5,0.2, ,14.9,5.1,96,17,2.45,18.60
+FALLS CREEK,10/02/2021,2.8,0.0, ,16.7,8.9,98,69,3.75,17.19
+FALLS CREEK,11/02/2021,3.5,0.0, ,17.5,10.3,94,66,6.07,21.52
+FALLS CREEK,12/02/2021, ,18.2, ,12.4,10.2,99,65,8.93, 
+FALLS CREEK,13/02/2021,2.9,15.2, ,14.1,7.8,99,67,4.38,20.11
+FALLS CREEK,14/02/2021,3.0,0.0, ,16.5,4.6,99,72,3.16,21.00
+FALLS CREEK,15/02/2021,4.4,0.2, ,15.6,6.2,99,16,3.21,26.74
+FALLS CREEK,16/02/2021,3.3,0.0, ,18.8,7.1,99,55,2.85,19.20
+FALLS CREEK,17/02/2021,2.9,0.2, ,17.9,9.5,91,60,2.92,15.31
+FALLS CREEK,18/02/2021,4.6,0.0, ,19.2,9.8,87,31,2.78,25.84
+FALLS CREEK,19/02/2021,3.8,0.0, ,17.4,9.3,90,63,5.70,24.25
+FALLS CREEK,20/02/2021,4.0,0.0, ,20.2,11.4,89,57,4.38,22.09
+FALLS CREEK,21/02/2021,4.4,0.0, ,20.2,13.9,77,53,4.12,22.20
+FALLS CREEK,22/02/2021,3.7,0.0, ,17.1,12.1,99,53,4.95,21.48
+FALLS CREEK,23/02/2021,2.3,0.4, ,7.5,-1.2,99,64,6.75,24.30
+FALLS CREEK,24/02/2021,2.3,0.0, ,11.5,-0.2,99,60,3.74,16.33
+FALLS CREEK,25/02/2021,2.6,0.2, ,12.7,4.8,99,48,6.73,11.86
+FALLS CREEK,26/02/2021,3.8,0.0, ,15.9,4.6,90,43,4.18,24.04
+FALLS CREEK,27/02/2021,2.9,0.0, ,13.3,6.8,83,55,5.55,15.29
+FALLS CREEK,28/02/2021,4.4,0.0, ,17.9,6.4,70,45,5.72,23.74
+Totals:,,85,122.6, ,,,,,, 

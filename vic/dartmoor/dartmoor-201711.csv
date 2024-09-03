@@ -1,0 +1,41 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DARTMOOR Victoria for November 2017,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 28 November 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DARTMOOR,01/11/2017,3.0,0.6, ,18.0,8.7,98,60,2.72,18.67
+DARTMOOR,02/11/2017,2.4,0.8, ,15.7,9.8,97,60,2.12,13.48
+DARTMOOR,03/11/2017,3.5,0.8, ,15.0,3.5,92,46,3.92,23.71
+DARTMOOR,04/11/2017,3.0,0.0, ,16.4,2.0,97,52,2.25,21.06
+DARTMOOR,05/11/2017,3.8,0.0, ,18.9,0.8,98,39,3.19,22.23
+DARTMOOR,06/11/2017,3.8,0.0, ,17.5,4.1,92,45,4.14,23.70
+DARTMOOR,07/11/2017,4.3,0.0, ,18.0,9.8,91,43,4.39,25.77
+DARTMOOR,08/11/2017,4.5,0.0, ,21.6,4.3,94,50,3.64,28.63
+DARTMOOR,09/11/2017, ,0.0, , ,6.4, , , ,28.71
+DARTMOOR,10/11/2017, , , ,30.3, , , , ,22.15
+DARTMOOR,11/11/2017,6.9,0.0, ,32.4,14.1,86,26,3.28,27.62
+DARTMOOR,12/11/2017,6.5,0.0, ,30.1,10.5,95,31,3.41,29.20
+DARTMOOR,13/11/2017,6.4,0.0, ,36.4,11.6,95,14,2.38,21.28
+DARTMOOR,14/11/2017,8.7,0.0, ,36.8,17.8,68,13,3.93,26.47
+DARTMOOR,15/11/2017,1.6,0.2, ,19.9,16.6,98,61,3.62,1.81
+DARTMOOR,16/11/2017,0.8,24.8, ,16.2,12.9,99,97,6.26,3.83
+DARTMOOR,17/11/2017,4.0,7.8, ,25.6,11.7,98,45,2.03,19.72
+DARTMOOR,18/11/2017,4.6,5.0, ,25.3,13.5,100,52,1.85,25.21
+DARTMOOR,19/11/2017,5.8,0.2, ,29.2,12.1,98,44,2.73,28.76
+DARTMOOR,20/11/2017,7.0,0.0, ,32.1,15.7,91,27,2.90,30.20
+DARTMOOR,21/11/2017,7.2,0.0, ,33.4,15.3,83,22,2.64,30.37
+DARTMOOR,22/11/2017,8.3,0.0, ,34.6,14.9,72,12,3.39,30.49
+DARTMOOR,23/11/2017,6.9,0.0, ,31.6,16.6,91,30,3.48,27.90
+DARTMOOR,24/11/2017,4.2,3.6, ,29.0,15.3,98,41,1.44,19.00
+DARTMOOR,25/11/2017,5.0,2.8, ,29.6,16.2,100,46,2.09,23.49
+DARTMOOR,26/11/2017, ,5.0, ,17.8,16.8,98,77,3.17, 
+DARTMOOR,27/11/2017, ,0.0, , ,9.9, , , ,29.26
+Totals:,,112.2,51.6, ,,,,,, 

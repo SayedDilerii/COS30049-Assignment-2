@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CHARLTON Victoria for April 2022,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 May 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CHARLTON,01/04/2022,5.1,0.0, ,22.8,11.1,73,34,6.87,17.40
+CHARLTON,02/04/2022,3.3,0.0, ,22.5,10.3,80,45,4.33,9.81
+CHARLTON,03/04/2022,2.9,0.0, ,23.2,12.2,86,43,2.27,12.82
+CHARLTON,04/04/2022, ,0.0, , ,11.3,92,30,1.90,16.44
+CHARLTON,05/04/2022,3.6, , ,26.7,9.2,94,31,2.38,16.83
+CHARLTON,06/04/2022,3.0,0.0, ,25.1,14.2,85,38,2.47,10.81
+CHARLTON,07/04/2022,3.6,0.0, ,26.5,11.0,96,35,2.94,14.95
+CHARLTON,08/04/2022,2.8,0.0, ,22.8,16.4,96,48,3.82,9.30
+CHARLTON,09/04/2022,2.7,0.6, ,24.1,15.7,93,56,3.76,9.47
+CHARLTON,10/04/2022,3.6,0.0, ,28.8,14.0,100,32,2.58,14.38
+CHARLTON,11/04/2022,3.6,0.0, ,23.7,16.0,80,37,3.48,13.97
+CHARLTON,12/04/2022,3.4,0.0, ,21.9,7.6,82,31,3.36,14.44
+CHARLTON,13/04/2022,2.9,0.0, ,24.1,6.3,90,38,2.12,15.63
+CHARLTON,14/04/2022,3.2,0.0, ,26.2,8.6,94,29,2.03,15.21
+CHARLTON,15/04/2022,2.9,0.0, ,26.4,15.6,67,31,2.00,7.69
+CHARLTON,16/04/2022,3.5,0.0, ,28.5,9.7,80,26,2.15,15.09
+CHARLTON,17/04/2022,4.4,0.0, ,29.8,14.8,95,25,3.69,13.76
+CHARLTON,18/04/2022,0.8,11.8, ,17.7,16.4,100,83,1.79,2.29
+CHARLTON,19/04/2022,1.5,27.2, ,18.9,13.6,100,70,2.60,7.11
+CHARLTON,20/04/2022,2.0,0.2, ,20.1,8.1,95,60,2.77,10.47
+CHARLTON,21/04/2022,2.0,0.0, ,18.6,7.3,100,50,2.35,11.58
+CHARLTON,22/04/2022,2.5,0.0, ,19.5,7.6,86,51,3.42,14.13
+CHARLTON,23/04/2022,2.6,0.0, ,22.0,8.9,87,53,3.08,14.41
+CHARLTON,24/04/2022,2.4,0.0, ,23.0,8.8,99,46,2.09,13.94
+CHARLTON,25/04/2022, ,0.0, , ,10.1,91,48,3.38,12.67
+CHARLTON,26/04/2022, , , , , , , , ,8.02
+CHARLTON,27/04/2022, , , , , , , , ,6.11
+CHARLTON,28/04/2022, , , ,21.5, ,100,66,2.52,9.01
+CHARLTON,29/04/2022,1.6,0.2, ,21.3,13.6,100,71,3.18,7.84
+CHARLTON,30/04/2022,2.2,13.0, ,19.0,10.6,100,48,3.38,12.05
+Totals:,,72.1,53, ,,,,,, 

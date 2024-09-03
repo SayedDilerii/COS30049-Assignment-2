@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/02/2019,6.7,0.0, ,26.5,4.6,87,25,5.24,28.01
+CASTERTON,02/02/2019,8.3,0.0, ,35.4,9.6,88,9,3.59,27.79
+CASTERTON,03/02/2019,9.3,0.0, ,39.0,11.5,79,10,3.96,26.54
+CASTERTON,04/02/2019,4.1,0.0, ,24.3,15.6,90,52,5.94,13.56
+CASTERTON,05/02/2019,6.0,0.0, ,26.1,14.5,91,42,5.79,26.84
+CASTERTON,06/02/2019,3.4,0.0, ,29.6,15.2,99,45,2.41,10.50
+CASTERTON,07/02/2019,5.4,0.0, ,30.1,13.3,99,35,3.16,22.08
+CASTERTON,08/02/2019,4.4,0.0, ,23.3,14.7,96,44,5.02,18.49
+CASTERTON,09/02/2019,4.2,3.0, ,19.9,11.6,98,42,6.51,19.25
+CASTERTON,10/02/2019,4.2,0.0, ,24.7,9.0,88,43,3.92,15.95
+CASTERTON,11/02/2019,3.6,0.2, ,23.6,13.6,99,61,5.85,16.61
+CASTERTON,12/02/2019,4.3,3.2, ,18.7,10.7,97,37,7.48,19.03
+CASTERTON,13/02/2019,4.0,0.6, ,20.2,6.1,97,38,4.40,19.00
+CASTERTON,14/02/2019,4.5,0.0, ,24.4,7.6,93,41,3.57,21.08
+CASTERTON,15/02/2019,5.0,0.0, ,27.7,10.3,99,31,3.00,21.30
+CASTERTON,16/02/2019,5.2,0.0, ,29.3,9.5,99,34,2.81,22.88
+CASTERTON,17/02/2019,5.4,0.0, ,32.5,12.2,98,23,2.86,17.88
+CASTERTON,18/02/2019,4.9,0.0, ,23.7,14.7,98,39,4.83,23.23
+CASTERTON,19/02/2019,3.9,0.0, ,23.0,7.5,96,36,3.77,14.83
+CASTERTON,20/02/2019,3.8,0.0, ,23.1,10.9,87,48,4.01,15.82
+CASTERTON,21/02/2019,4.3,0.0, ,24.0,7.2,99,41,2.86,22.96
+CASTERTON,22/02/2019,5.9,0.0, ,29.2,9.1,95,31,3.88,24.63
+CASTERTON,23/02/2019,6.7,0.0, ,28.5,12.8,89,27,5.62,24.41
+CASTERTON,24/02/2019,8.2,0.0, ,36.2,14.0,88,14,4.36,24.02
+CASTERTON,25/02/2019,8.4,0.0, ,36.9,17.3,59,12,4.14,22.66
+CASTERTON,26/02/2019,5.6,0.0, ,27.7,11.9,93,37,4.93,22.84
+CASTERTON,27/02/2019,8.4,0.0, ,37.5,11.8,89,12,4.15,23.36
+CASTERTON,28/02/2019,7.2,0.0, ,38.6,15.0,70,10,3.35,15.33
+Totals:,,155.3,7, ,,,,,, 

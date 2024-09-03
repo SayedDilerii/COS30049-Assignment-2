@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for December 2020,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 January 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/12/2020,3.0,0.0, ,17.4,11.7,99,61,9.63,13.43
+FALLS CREEK,02/12/2020,4.6,11.0, ,14.2,0.8,99,25,3.90,31.42
+FALLS CREEK,03/12/2020,4.7,0.0, ,14.0,3.1,78,39,5.89,31.30
+FALLS CREEK,04/12/2020,6.1,0.0, ,16.3,6.0,53,19,5.95,31.56
+FALLS CREEK,05/12/2020,4.5,0.0, ,16.5,9.3,99,26,9.71,15.74
+FALLS CREEK,06/12/2020,0.3,47.0, ,2.7,-0.1,99,99,11.74,3.57
+FALLS CREEK,07/12/2020,0.9,22.4, ,3.9,-0.1,99,91,9.26,11.41
+FALLS CREEK,08/12/2020,2.8,5.4, ,10.3,-1.4,99,72,3.83,26.13
+FALLS CREEK,09/12/2020,3.5,0.0, ,14.4,0.0,85,64,3.56,26.49
+FALLS CREEK,10/12/2020, ,0.0, , ,6.4,99,60,5.39,31.28
+FALLS CREEK,11/12/2020, , , ,13.9, ,93,14,4.64,31.89
+FALLS CREEK,12/12/2020,5.1,0.0, ,17.2,4.7,85,32,3.79,31.09
+FALLS CREEK,13/12/2020,5.0,0.0, ,17.8,7.7,82,47,2.49,31.30
+FALLS CREEK,14/12/2020,5.6,0.0, ,20.7,9.8,74,41,2.80,31.87
+FALLS CREEK,15/12/2020,5.0,0.0, ,20.9,12.3,72,43,3.36,24.19
+FALLS CREEK,16/12/2020,2.9,0.0, ,17.5,12.0,99,63,4.56,14.13
+FALLS CREEK,17/12/2020,2.3,27.8, ,15.9,10.4,99,84,5.11,15.54
+FALLS CREEK,18/12/2020,4.5,0.4, ,13.6,7.8,99,40,5.12,30.94
+FALLS CREEK,19/12/2020,4.2,0.0, ,12.8,0.0,99,33,3.76,30.34
+FALLS CREEK,20/12/2020,4.3,0.0, ,13.2,2.6,99,44,3.28,31.98
+FALLS CREEK,21/12/2020,3.3,0.2, ,13.7,4.0,99,41,4.97,17.57
+FALLS CREEK,22/12/2020,1.6,9.8, ,8.4,4.4,99,81,6.33,12.34
+FALLS CREEK,23/12/2020,3.2,0.8, ,13.8,4.2,99,64,4.98,23.48
+FALLS CREEK,24/12/2020,4.1,0.0, ,14.7,6.1,99,57,4.08,29.50
+FALLS CREEK,25/12/2020,3.9,0.6, ,14.2,-1.1,99,45,2.98,28.57
+FALLS CREEK,26/12/2020,4.0,0.0, ,14.7,6.3,99,47,6.24,25.73
+FALLS CREEK,27/12/2020,5.4,0.0, ,18.8,7.3,75,35,8.23,23.18
+FALLS CREEK,28/12/2020,4.1,1.0, ,15.0,6.4,99,51,6.96,28.32
+FALLS CREEK,29/12/2020,3.3,1.0, ,14.2,1.5,99,62,2.89,23.97
+FALLS CREEK,30/12/2020,3.8,0.0, ,17.1,5.7,99,61,3.86,25.32
+FALLS CREEK,31/12/2020,3.1,0.0, ,17.3,8.8,99,65,3.73,17.68
+Totals:,,109.1,127.4, ,,,,,, 

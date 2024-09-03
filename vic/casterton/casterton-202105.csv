@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for May 2021,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 June 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/05/2021,3.2,0.0, ,22.0,10.8,57,40,3.90,7.34
+CASTERTON,02/05/2021,2.6,0.0, ,21.7,14.1,100,44,4.21,11.19
+CASTERTON,03/05/2021,1.0,0.0, ,15.6,8.1,100,82,3.55,6.42
+CASTERTON,04/05/2021,1.6,4.6, ,13.9,5.5,100,56,3.75,10.92
+CASTERTON,05/05/2021,1.2,0.2, ,14.5,1.6,100,68,2.86,7.94
+CASTERTON,06/05/2021,1.7,0.0, ,19.3,2.1,100,46,2.05,10.36
+CASTERTON,07/05/2021,2.2,0.0, ,21.8,7.5,100,48,3.20,10.37
+CASTERTON,08/05/2021,1.5,1.4, ,18.2,10.1,100,63,2.88,7.70
+CASTERTON,09/05/2021,1.8,1.0, ,17.8,4.8,100,58,3.72,10.55
+CASTERTON,10/05/2021,1.3,4.2, ,14.9,10.3,100,73,6.39,5.04
+CASTERTON,11/05/2021,1.3,7.2, ,13.2,8.1,100,62,4.06,7.17
+CASTERTON,12/05/2021,1.6,0.0, ,16.7,5.8,100,52,2.64,11.24
+CASTERTON,13/05/2021,1.1,0.2, ,13.1,3.8,100,72,4.27,5.44
+CASTERTON,14/05/2021,1.5,2.4, ,14.8,5.3,100,62,4.47,7.82
+CASTERTON,15/05/2021, ,3.4, , ,4.6,100,62,3.71,8.24
+CASTERTON,16/05/2021, , , , , , , , ,6.31
+CASTERTON,20/05/2021, , , , , , , , ,7.89
+CASTERTON,21/05/2021, , , ,19.0, , , , ,10.40
+CASTERTON,22/05/2021,2.2, , ,20.1,7.5,87,40,3.11,10.32
+CASTERTON,23/05/2021,2.1,0.0, ,18.5,7.1,76,43,3.15,9.99
+CASTERTON,24/05/2021,3.5,0.0, ,20.6,9.6,63,43,6.14,7.55
+CASTERTON,25/05/2021,2.1,0.8, ,15.2,13.5,100,49,7.59,4.18
+CASTERTON,26/05/2021,1.4,10.4, ,14.6,8.2,100,60,4.74,8.83
+CASTERTON,27/05/2021,0.8,1.2, ,14.8,7.6,100,84,3.74,8.50
+CASTERTON,28/05/2021,0.9,1.2, ,13.6,7.3,100,65,2.10,7.25
+CASTERTON,29/05/2021,0.8,0.0, ,12.4,-0.7,100,67,1.88,9.84
+CASTERTON,30/05/2021,1.0,0.0, ,14.2,-1.1,100,55,1.86,9.79
+CASTERTON,31/05/2021,1.5,0.2, ,13.8,-0.1,100,46,3.63,9.31
+Totals:,,39.9,38.4, ,,,,,, 

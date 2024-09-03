@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for October 2010,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 November 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/10/2010,2.0,0.0, ,7.0,-4.6,99,97,1.17,22.84
+MOUNT BAW BAW,02/10/2010,2.9,0.0, ,10.4,-0.6,99,35,2.02,24.51
+MOUNT BAW BAW,03/10/2010,2.7,0.0, ,11.9,4.4,95,56,2.26,21.38
+MOUNT BAW BAW,04/10/2010,2.2,0.0, ,9.9,5.1,97,72,4.21,18.93
+MOUNT BAW BAW,05/10/2010,1.9,0.6, ,13.0,4.6,99,66,3.60,11.28
+MOUNT BAW BAW,06/10/2010,1.6,0.0, ,11.5,7.0,99,81,5.13,12.12
+MOUNT BAW BAW,07/10/2010,1.0,16.6, ,0.3,-3.4,99,98,6.14,18.49
+MOUNT BAW BAW,08/10/2010,0.8,3.0, ,3.3,-3.4,99,99,6.08,14.06
+MOUNT BAW BAW,09/10/2010,2.2,0.8, ,7.9,-0.9,99,50,1.72,18.43
+MOUNT BAW BAW,10/10/2010,2.9,0.0, ,12.4,1.7,97,51,2.71,23.12
+MOUNT BAW BAW,11/10/2010,3.1,0.0, ,12.5,3.8,98,61,4.03,25.77
+MOUNT BAW BAW,12/10/2010,1.6,0.0, ,9.3,6.5,99,92,4.26,15.44
+MOUNT BAW BAW,13/10/2010,1.4,4.6, ,8.0,6.7,99,93,2.28,11.08
+MOUNT BAW BAW,14/10/2010,2.6,18.4, ,9.3,3.9,99,70,3.92,24.98
+MOUNT BAW BAW,15/10/2010,0.9,13.2, ,6.5,4.4,99,97,4.59,8.09
+MOUNT BAW BAW,16/10/2010,0.8,36.8, ,-0.7,-6.4,99,96,5.25,13.26
+MOUNT BAW BAW,17/10/2010,1.1,19.2, ,0.8,-5.4,99,99,3.01,15.77
+MOUNT BAW BAW,18/10/2010,1.1,5.4, ,1.3,-2.4,99,99,5.64,18.97
+MOUNT BAW BAW,19/10/2010,2.5,8.0, ,4.8,-4.6,99,64,0.97,26.72
+MOUNT BAW BAW,20/10/2010,3.2,0.0, ,9.7,-4.4,95,30,2.14,28.22
+MOUNT BAW BAW,21/10/2010,4.1,0.0, ,12.8,4.8,91,11,2.67,27.67
+MOUNT BAW BAW,22/10/2010,3.8,0.0, ,14.2,5.9,97,51,3.76,28.12
+MOUNT BAW BAW,23/10/2010,1.1,13.0, ,4.9,4.0,99,98,4.79,12.19
+MOUNT BAW BAW,24/10/2010,2.5,7.2, ,8.7,-3.2,99,72,1.09,22.84
+MOUNT BAW BAW,25/10/2010,2.9,0.0, ,11.3,1.9,99,57,2.21,23.77
+MOUNT BAW BAW,26/10/2010,3.0,0.0, ,10.3,3.5,99,54,4.37,24.32
+MOUNT BAW BAW,27/10/2010,2.1,5.8, ,7.0,0.2,99,94,3.07,23.29
+MOUNT BAW BAW,28/10/2010,3.6,0.0, ,13.1,0.1,99,48,2.80,29.65
+MOUNT BAW BAW,29/10/2010,4.1,0.0, ,15.5,6.5,90,53,3.07,29.43
+MOUNT BAW BAW,30/10/2010,1.9,0.0, ,10.5,8.8,99,72,4.48,12.17
+MOUNT BAW BAW,31/10/2010,1.7,31.6, ,6.1,4.7,99,93,4.54,18.45
+Totals:,,69.3,184.2, ,,,,,, 

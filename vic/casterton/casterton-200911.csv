@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/11/2009,3.7,0.0, ,23.4,13.1,96,62,3.02,20.23
+CASTERTON,02/11/2009,6.3,0.0, ,31.6,11.9,93,38,4.31,24.26
+CASTERTON,03/11/2009,3.4,2.8, ,16.4,11.3,91,61,7.18,21.11
+CASTERTON,04/11/2009,2.8,0.4, ,14.7,5.5,96,60,4.04,19.27
+CASTERTON,05/11/2009,3.6,0.2, ,17.3,7.9,92,53,2.95,23.92
+CASTERTON,06/11/2009,5.7,0.0, ,24.0,5.7,90,29,3.27,31.50
+CASTERTON,07/11/2009,6.7,0.0, ,30.8,9.2,95,25,2.88,31.15
+CASTERTON,08/11/2009,7.7,0.0, ,32.2,16.7,69,26,3.66,30.93
+CASTERTON,09/11/2009,7.4,0.0, ,33.1,17.7,56,29,3.10,29.13
+CASTERTON,10/11/2009,7.1,0.0, ,34.0,14.6,82,28,2.62,30.46
+CASTERTON,11/11/2009,6.5,0.0, ,33.9,14.0,91,27,1.74,30.80
+CASTERTON,12/11/2009, ,0.0, ,29.6,13.0,90,33,3.02, 
+CASTERTON,13/11/2009,7.0,0.0, ,31.2,12.4,93,20,2.89,31.44
+CASTERTON,14/11/2009,7.2,0.0, ,32.2,11.8,88,27,3.32,30.38
+CASTERTON,15/11/2009,7.6,0.0, ,33.4,11.2,94,27,3.89,30.36
+CASTERTON,16/11/2009, ,0.0, ,20.9,14.6,89,53,4.87, 
+CASTERTON,17/11/2009, ,0.0, ,23.4,12.5,87,46,2.99, 
+CASTERTON,18/11/2009, ,0.0, ,32.0,9.7,91,24,3.21, 
+CASTERTON,19/11/2009, ,0.0, ,35.0,10.5,91,20,2.48, 
+CASTERTON,20/11/2009, ,0.0, ,29.9,21.3,91,23,3.88, 
+CASTERTON,21/11/2009, ,1.0, ,19.0,14.4,94,67,1.97, 
+CASTERTON,22/11/2009, ,10.0, ,18.9,12.1,96,46,4.97, 
+CASTERTON,23/11/2009, ,1.2, ,21.3,4.6,89,37,3.60, 
+CASTERTON,24/11/2009, ,0.0, ,25.0,5.6,96,43,2.28, 
+CASTERTON,25/11/2009, ,0.2, ,29.0,11.7,99,33,3.25, 
+CASTERTON,26/11/2009, ,0.4, ,27.0,13.8,97,53,4.38, 
+CASTERTON,27/11/2009, ,6.0, ,29.3,14.7,100,38,4.31, 
+CASTERTON,28/11/2009,3.5,8.6, ,19.5,11.3,96,61,5.79,19.04
+CASTERTON,29/11/2009,4.6,17.0, ,21.4,11.0,97,56,5.17,27.91
+CASTERTON,30/11/2009,4.6,0.2, ,21.8,11.3,90,52,4.86,24.67
+Totals:,,95.4,48, ,,,,,, 

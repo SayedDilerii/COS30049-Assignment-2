@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/02/2017,2.9, , ,19.9,13.2,76,42,1.86,11.24
+FRANKSTON,02/02/2017,5.0, , ,20.8,14.0,80,50,4.44,27.64
+FRANKSTON,03/02/2017,5.3, , ,24.8,15.5,82,48,3.34,27.43
+FRANKSTON,04/02/2017,6.0, , ,34.8,13.8,90,14,1.48,27.86
+FRANKSTON,05/02/2017,3.8, , ,27.5,17.3,100,50,3.59,13.50
+FRANKSTON,06/02/2017,1.7, , ,17.4,14.6,99,56,2.18,5.53
+FRANKSTON,07/02/2017,5.2, , ,24.6,13.9,76,56,4.47,27.03
+FRANKSTON,08/02/2017,7.2, , ,34.4,17.1,77,33,3.36,27.74
+FRANKSTON,09/02/2017,6.3, , ,29.5,20.1,82,41,4.64,24.85
+FRANKSTON,10/02/2017,4.5, , ,27.0,17.7,91,56,1.98,22.87
+FRANKSTON,11/02/2017,4.3, , ,21.8,17.9,85,48,3.42,20.89
+FRANKSTON,12/02/2017,3.5, , ,17.8,14.7,89,52,8.60,12.37
+FRANKSTON,13/02/2017,3.5, , ,18.5,13.8,89,64,8.38,18.43
+FRANKSTON,14/02/2017,2.8, , ,19.1,13.4,87,54,2.05,13.46
+FRANKSTON,15/02/2017,5.5, , ,28.9,10.8,87,38,2.91,25.81
+FRANKSTON,16/02/2017,3.9, , ,23.4,13.2,85,58,2.37,21.20
+FRANKSTON,17/02/2017,4.2, , ,23.0,15.3,75,45,2.93,19.43
+FRANKSTON,18/02/2017,4.5, , ,17.3,14.4,73,45,5.82,21.95
+FRANKSTON,19/02/2017,2.9, , ,15.7,12.9,86,59,8.34,10.47
+FRANKSTON,20/02/2017,3.5, , ,17.8,9.7,90,61,8.83,20.67
+FRANKSTON,21/02/2017,4.3, , ,22.0,12.1,85,54,3.58,24.70
+FRANKSTON,22/02/2017,6.8, , ,32.0,13.2,85,18,3.83,23.02
+FRANKSTON,23/02/2017,4.3, , ,23.1,16.6,80,57,3.03,23.00
+FRANKSTON,24/02/2017,2.6, , ,18.8,15.8,84,54,2.59,10.71
+FRANKSTON,25/02/2017,4.1, , ,21.0,12.7,82,47,2.61,23.31
+FRANKSTON,26/02/2017,5.7, , ,28.6,14.6,77,39,3.88,24.16
+FRANKSTON,27/02/2017,5.5, , ,31.0,14.8,85,28,2.41,24.14
+FRANKSTON,28/02/2017,5.3, , ,32.4,17.1,80,27,1.79,23.91
+Totals:,,125.1, , ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for July 2011,,,,,,,,,,
+Issued at 22:34 GMT on Monday 01 August 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/07/2011,1.2,0.0, ,9.9,0.2,93,56,3.92,11.06
+GELANTIPY,02/07/2011,1.6,0.0, ,12.1,-0.2,82,56,5.21,10.83
+GELANTIPY,03/07/2011,1.8,0.0, ,12.5,4.4,78,55,5.69,7.26
+GELANTIPY,04/07/2011,1.7,0.0, ,10.5,5.3,90,51,7.03,10.91
+GELANTIPY,05/07/2011,2.0,4.2, ,8.1,3.9,71,52,7.99,10.44
+GELANTIPY,06/07/2011,1.8,0.0, ,9.8,4.1,73,57,6.73,10.69
+GELANTIPY,07/07/2011,0.9,3.4, ,4.2,1.6,99,65,6.53,7.47
+GELANTIPY,08/07/2011,1.9,0.0, ,11.4,-2.2,88,34,4.57,11.21
+GELANTIPY,09/07/2011,2.2,0.0, ,10.0,1.3,69,40,6.28,11.22
+GELANTIPY,10/07/2011,1.7,0.0, ,8.6,3.9,99,46,8.41,10.49
+GELANTIPY,11/07/2011,1.0,4.4, ,7.1,1.8,99,65,5.65,6.81
+GELANTIPY,12/07/2011,1.5,0.2, ,9.7,0.1,76,45,3.81,11.28
+GELANTIPY,13/07/2011,1.5,0.0, ,10.1,1.7,98,52,6.30,10.59
+GELANTIPY,14/07/2011,0.7,3.4, ,5.1,1.9,99,78,4.44,7.08
+GELANTIPY,15/07/2011,0.8,2.2, ,6.5,1.0,99,65,2.67,11.69
+GELANTIPY,16/07/2011,1.2,0.0, ,8.5,-0.5,87,62,4.72,11.55
+GELANTIPY,17/07/2011,1.3,0.0, ,11.1,0.7,90,60,4.32,9.74
+GELANTIPY,18/07/2011,0.7,1.0, ,8.2,4.0,99,78,3.01,7.00
+GELANTIPY,19/07/2011,0.4,10.6, ,7.9,2.5,99,99,4.32,4.04
+GELANTIPY,20/07/2011,0.4,38.2, ,7.4,5.5,99,99,4.02,2.08
+GELANTIPY,21/07/2011,0.4,58.4, ,6.7,5.2,99,99,2.37,4.79
+GELANTIPY,22/07/2011,0.8,7.0, ,8.0,4.4,99,73,1.98,8.15
+GELANTIPY,23/07/2011,0.8,1.4, ,8.1,0.7,99,70,1.53,11.06
+GELANTIPY,24/07/2011,0.6,72.2, ,5.9,0.3,99,85,3.34,7.30
+GELANTIPY,25/07/2011,0.6,3.4, ,8.3,2.5,99,90,2.92,5.44
+GELANTIPY,26/07/2011,0.9,64.2, ,7.4,2.8,99,71,3.64,6.23
+GELANTIPY,27/07/2011,1.1, , ,9.7,-0.5,99,58,2.98,11.44
+GELANTIPY,28/07/2011,1.8, , ,12.0,0.8,80,40,3.44,11.83
+GELANTIPY,29/07/2011,2.2,0.0, ,11.4,1.2,67,36,4.63,11.90
+GELANTIPY,30/07/2011,2.6,0.0, ,13.7,2.1,68,38,5.44,10.74
+GELANTIPY,31/07/2011,1.9,0.0, ,14.3,5.9,87,51,4.29,10.74
+Totals:,,40,274.2, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for September 2022,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 October 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/09/2022,1.5,0.0, ,13.5,5.6,96,73,3.35,11.04
+CASTERTON,02/09/2022,1.9,2.8, ,12.3,2.7,95,54,3.37,14.20
+CASTERTON,03/09/2022,1.5,0.2, ,13.0,1.6,99,71,2.73,12.65
+CASTERTON,04/09/2022,1.6,0.4, ,12.2,7.0,94,67,3.28,11.10
+CASTERTON,05/09/2022,1.6,0.0, ,13.1,5.3,97,65,2.99,10.55
+CASTERTON,06/09/2022,2.2,0.0, ,15.6,5.0,95,56,3.45,14.90
+CASTERTON,07/09/2022,2.6,0.2, ,17.9,4.2,93,59,4.83,16.13
+CASTERTON,08/09/2022,1.2,3.0, ,15.2,12.6,96,82,4.33,5.15
+CASTERTON,09/09/2022,1.8,7.4, ,16.1,9.9,97,75,3.69,12.52
+CASTERTON,10/09/2022,2.0,12.8, ,13.1,8.7,95,60,4.24,12.80
+CASTERTON,11/09/2022,2.0,0.4, ,14.9,7.6,96,66,4.55,12.72
+CASTERTON,12/09/2022,2.2,4.0, ,13.4,5.1,96,54,3.18,15.55
+CASTERTON,13/09/2022,2.2,0.2, ,14.0,-0.1,98,49,2.14,17.45
+CASTERTON,14/09/2022,2.4,0.0, ,13.8,5.7,92,57,7.73,11.25
+CASTERTON,15/09/2022,3.0,3.0, ,16.9,5.6,98,44,4.28,18.31
+CASTERTON,16/09/2022,2.2,0.0, ,14.0,8.9,94,59,5.58,11.51
+CASTERTON,17/09/2022,1.8,12.8, ,13.0,9.0,94,73,7.58,10.72
+CASTERTON,18/09/2022,1.9,8.2, ,13.9,8.5,96,74,5.90,13.93
+CASTERTON,19/09/2022,2.0,3.6, ,14.8,4.4,97,63,2.99,13.69
+CASTERTON,20/09/2022,2.2,0.0, ,16.7,5.1,98,61,5.15,10.20
+CASTERTON,21/09/2022,2.1,0.6, ,19.1,10.9,95,68,3.04,11.12
+CASTERTON,22/09/2022,1.7,0.2, ,16.9,9.4,98,72,2.02,10.27
+CASTERTON,23/09/2022,1.5,0.0, ,14.7,5.7,99,75,2.81,9.64
+CASTERTON,24/09/2022,2.8,1.0, ,14.3,3.2,97,43,3.23,20.20
+CASTERTON,25/09/2022,2.6,0.0, ,17.6,0.9,95,53,2.59,17.21
+CASTERTON,26/09/2022,1.4,7.2, ,15.0,10.2,97,81,1.61,7.74
+CASTERTON,27/09/2022,1.6,5.4, ,14.2,1.6,99,73,3.74,10.23
+CASTERTON,28/09/2022,2.1,2.4, ,14.6,8.6,95,71,4.56,13.34
+CASTERTON,29/09/2022,2.0,0.0, ,15.6,6.0,95,69,3.37,12.74
+CASTERTON,30/09/2022,2.6,0.0, ,16.8,6.1,99,66,4.95,18.80
+Totals:,,60.2,75.8, ,,,,,, 

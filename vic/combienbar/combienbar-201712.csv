@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COMBIENBAR Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COMBIENBAR,01/12/2017,4.4,0.0, ,31.2,19.6,96,39,2.51,14.98
+COMBIENBAR,02/12/2017,1.2,13.0, ,16.0,13.3,99,79,0.69,4.33
+COMBIENBAR,03/12/2017,1.9,5.4, ,15.6,10.7,99,76,0.96,10.55
+COMBIENBAR,04/12/2017,1.8,1.4, ,15.7,6.9,96,64,0.40,9.43
+COMBIENBAR,05/12/2017,1.1,0.8, ,12.4,9.1,98,91,0.24,4.63
+COMBIENBAR,06/12/2017,1.4,0.6, ,17.1,9.9,98,81,1.67,5.90
+COMBIENBAR,07/12/2017,4.1,0.6, ,24.6,10.3,97,54,0.51,23.97
+COMBIENBAR,08/12/2017,2.5,0.6, ,15.5,9.2,97,63,0.94,14.58
+COMBIENBAR,09/12/2017,4.6,0.6, ,23.8,7.6,93,42,0.51,28.84
+COMBIENBAR,10/12/2017,4.1,0.4, ,25.2,11.4,94,58,0.21,23.52
+COMBIENBAR,11/12/2017,2.6,0.2, ,19.6,11.9,97,72,0.08,14.26
+COMBIENBAR,12/12/2017,5.1,0.4, ,26.1,9.9,98,56,0.30,30.45
+COMBIENBAR,13/12/2017,6.0,0.2, ,33.5,12.9,85,17,0.73,31.86
+COMBIENBAR,14/12/2017,4.3,0.2, ,33.2,22.8,94,23,1.86,12.86
+COMBIENBAR,15/12/2017,3.3,0.2, ,26.5,11.6,96,58,0.26,17.50
+COMBIENBAR,16/12/2017,4.8,0.2, ,28.3,15.1,89,51,0.26,26.11
+COMBIENBAR,17/12/2017,3.1,0.0, ,24.4,13.6,96,63,0.44,16.31
+COMBIENBAR,18/12/2017,3.9,0.0, ,28.7,15.7,87,25,0.34,19.72
+COMBIENBAR,19/12/2017,5.6,0.0, ,36.0,18.6,73,17,1.56,20.40
+COMBIENBAR,20/12/2017,1.3,0.0, ,17.1,13.3,98,46,0.44,4.39
+COMBIENBAR,21/12/2017,4.3,0.2, ,25.3,10.2,98,56,0.20,24.98
+COMBIENBAR,22/12/2017,4.2,0.2, ,26.4,11.4,97,59,0.45,23.54
+COMBIENBAR,23/12/2017,4.7,0.2, ,28.0,16.3,84,21,1.55,19.52
+COMBIENBAR,24/12/2017,2.3,0.0, ,17.6,14.7,98,28,1.43,7.86
+COMBIENBAR,25/12/2017,4.2,0.2, ,21.6,8.3,89,43,0.46,26.48
+COMBIENBAR,26/12/2017,5.6,0.0, ,26.5,10.5,82,39,1.44,31.32
+Totals:,,92.4,25.6, ,,,,,, 

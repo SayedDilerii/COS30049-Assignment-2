@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CHARLTON Victoria for February 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 March 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CHARLTON,01/02/2011,11.7,0.0, ,41.3,24.7,71,15,5.85,30.99
+CHARLTON,02/02/2011,8.0,0.0, ,37.4,16.7,82,36,3.85,28.93
+CHARLTON,03/02/2011,7.0,0.0, ,37.0,21.0,87,35,2.80,26.36
+CHARLTON,04/02/2011,6.8,0.0, ,34.7,24.7,85,23,4.17,17.86
+CHARLTON,05/02/2011,5.3,0.0, ,20.9,20.4,24,19,3.71,8.48
+CHARLTON,06/02/2011,7.2,0.0, ,22.3,10.5,25,9,4.33,31.42
+CHARLTON,07/02/2011,7.3,0.0, ,25.3,7.8,27,10,3.73,32.26
+CHARLTON,08/02/2011, ,0.0, , ,11.4,74,16,4.70,31.60
+CHARLTON,09/02/2011, , , ,29.5, ,88,42,2.93,28.65
+CHARLTON,10/02/2011,6.9,0.0, ,36.2,16.2,76,28,2.74,26.11
+CHARLTON,11/02/2011,3.5,0.0, ,27.1,23.1,94,48,2.88,11.58
+CHARLTON,12/02/2011,4.6,0.0, ,22.6,13.6,86,46,4.19,21.84
+CHARLTON,13/02/2011,6.1,0.0, ,24.6,10.0,81,41,5.06,30.99
+CHARLTON,14/02/2011,6.2,0.0, ,29.5,11.8,89,44,3.49,30.15
+CHARLTON,15/02/2011,6.2,0.0, ,30.6,17.6,82,44,3.84,26.42
+CHARLTON,16/02/2011,3.9,0.0, ,26.5,20.0,89,59,3.59,15.88
+CHARLTON,17/02/2011,5.8,0.0, ,30.9,16.2,99,38,2.67,26.80
+CHARLTON,18/02/2011,4.1,0.0, ,28.7,18.7,92,51,3.29,15.56
+CHARLTON,19/02/2011,4.5,0.0, ,25.3,19.7,98,55,4.73,20.85
+CHARLTON,20/02/2011,5.2,0.0, ,23.9,14.0,96,42,4.11,27.80
+CHARLTON,21/02/2011,4.4,0.0, ,22.1,7.2,100,41,4.01,24.32
+CHARLTON,22/02/2011,5.8,0.0, ,25.5,8.8,86,39,4.24,29.40
+CHARLTON,23/02/2011,5.9,0.0, ,29.7,9.3,93,27,2.36,29.43
+CHARLTON,24/02/2011,5.4,0.0, ,30.6,11.7,99,24,1.36,28.84
+CHARLTON,25/02/2011,6.4,0.0, ,33.5,18.1,71,25,2.89,24.27
+CHARLTON,26/02/2011,4.9,0.0, ,32.7,13.7,94,26,1.73,21.67
+CHARLTON,27/02/2011,4.6,7.2, ,29.1,19.3,97,54,2.39,21.99
+CHARLTON,28/02/2011,4.3,0.2, ,27.0,16.1,92,59,3.21,21.34
+Totals:,,152,7.4, ,,,,,, 

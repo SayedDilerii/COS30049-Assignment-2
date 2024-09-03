@@ -1,0 +1,43 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DARTMOOR Victoria for February 2020,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DARTMOOR,01/02/2020, , , ,18.2, , , , ,5.03
+DARTMOOR,02/02/2020, , , ,21.5, , , , ,20.05
+DARTMOOR,03/02/2020, ,0.0, , , , , , ,24.54
+DARTMOOR,04/02/2020, ,0.0, , , , , , ,26.48
+DARTMOOR,05/02/2020, ,0.0, ,21.8, , , , ,28.07
+DARTMOOR,06/02/2020, ,0.0, ,27.3,14.2, , , ,26.39
+DARTMOOR,07/02/2020, ,0.0, ,27.1, , , , ,25.72
+DARTMOOR,08/02/2020, ,0.0, ,28.1, , , , ,21.91
+DARTMOOR,09/02/2020, ,0.0, ,30.7, , , , ,22.78
+DARTMOOR,10/02/2020, ,0.0, ,29.6, , , , ,20.22
+DARTMOOR,11/02/2020, ,0.0, ,21.3, , , , ,9.32
+DARTMOOR,12/02/2020, ,0.0, ,19.8, , , , ,9.30
+DARTMOOR,13/02/2020, ,0.0, ,31.2, , , , ,25.47
+DARTMOOR,14/02/2020, ,0.0, ,30.3, , , , ,16.38
+DARTMOOR,15/02/2020, ,0.0, ,18.0, , , , ,6.94
+DARTMOOR,16/02/2020, ,0.0, , , , , , ,11.33
+DARTMOOR,17/02/2020, , , ,27.7, , , , ,23.78
+DARTMOOR,18/02/2020, ,0.0, ,22.4, , , , ,12.07
+DARTMOOR,19/02/2020, ,6.2, ,19.1,14.6, , , ,15.87
+DARTMOOR,20/02/2020, ,0.6, ,18.0, , , , ,10.64
+DARTMOOR,21/02/2020, ,0.2, ,21.1, , , , ,15.99
+DARTMOOR,22/02/2020, , , ,23.3, , , , ,25.02
+DARTMOOR,23/02/2020, , , ,29.3, , , , ,25.04
+DARTMOOR,24/02/2020, , , ,25.7, , , , ,13.10
+DARTMOOR,25/02/2020, ,0.0, ,24.3, , , , ,24.40
+DARTMOOR,26/02/2020, ,0.0, ,19.0, , , , ,21.86
+DARTMOOR,27/02/2020,2.5,0.0, ,20.1,7.7,98,54,3.37,9.78
+DARTMOOR,28/02/2020,2.7,1.2, ,20.3,11.8,99,62,2.52,14.55
+DARTMOOR,29/02/2020,2.3,0.2, ,21.9,12.5,99,65,1.80,11.56
+Totals:,,7.5,8.4, ,,,,,, 

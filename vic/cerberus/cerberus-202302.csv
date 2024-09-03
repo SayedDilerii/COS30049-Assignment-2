@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CERBERUS Victoria for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CERBERUS,01/02/2023,3.5,0.0, ,20.9,10.4,90,46,3.33,15.49
+CERBERUS,02/02/2023,3.8,0.2, ,21.2,9.7,88,34,4.26,11.99
+CERBERUS,03/02/2023,4.3,12.2, ,18.5,11.2,87,42,6.31,19.60
+CERBERUS,04/02/2023,3.6,18.0, ,20.0,11.1,89,52,6.14,14.31
+CERBERUS,05/02/2023,2.7,1.0, ,18.9,14.4,83,61,2.48,11.85
+CERBERUS,06/02/2023,3.6,0.0, ,20.8,14.6,85,56,2.78,18.11
+CERBERUS,07/02/2023,3.9,0.0, ,19.9,15.8,80,55,2.96,20.74
+CERBERUS,08/02/2023,4.0,0.0, ,22.4,12.0,86,56,2.36,22.39
+CERBERUS,09/02/2023,5.3,0.0, ,27.6,14.8,88,46,2.31,27.16
+CERBERUS,10/02/2023,4.4,0.0, ,25.9,13.0,92,63,2.22,25.21
+CERBERUS,11/02/2023,4.9,0.0, ,26.3,12.4,92,56,2.78,26.92
+CERBERUS,12/02/2023,3.9,0.2, ,20.6,16.0,86,46,5.05,14.97
+CERBERUS,13/02/2023,4.1,0.0, ,20.4,15.1,80,48,3.62,19.51
+CERBERUS,14/02/2023,4.2,0.0, ,21.4,9.7,89,49,2.33,25.83
+CERBERUS,15/02/2023,5.0,0.0, ,30.6,9.9,89,27,1.75,23.85
+CERBERUS,16/02/2023,5.9,0.0, ,36.8,15.6,100,15,2.05,21.47
+CERBERUS,17/02/2023,8.8,0.0, ,39.4,20.9,100,16,4.52,24.88
+CERBERUS,18/02/2023,3.9,0.0, ,21.8,12.6,87,56,3.04,21.99
+CERBERUS,19/02/2023,4.3,0.0, ,24.7,11.6,91,53,2.06,25.25
+CERBERUS,20/02/2023,4.1,0.0, ,23.3,9.9,92,56,2.31,25.19
+CERBERUS,21/02/2023,4.3,0.0, ,20.8,16.4,86,44,4.24,20.81
+CERBERUS,22/02/2023,6.2,0.0, ,27.3,16.3,69,34,4.90,22.97
+CERBERUS,23/02/2023,5.4,0.0, ,30.2,13.7,85,29,2.52,23.66
+CERBERUS,24/02/2023,6.1,0.0, ,33.0,14.6,80,20,2.62,24.02
+CERBERUS,25/02/2023,2.0,0.0, ,25.8,18.1,90,33,1.68,1.88
+CERBERUS,26/02/2023,4.0,1.4, ,24.3,14.3,89,50,3.57,17.77
+CERBERUS,27/02/2023,2.9,0.0, ,20.7,15.9,88,63,4.04,11.93
+CERBERUS,28/02/2023,1.9,0.0, ,17.7,16.0,90,64,3.22,6.04
+Totals:,,121,33, ,,,,,, 

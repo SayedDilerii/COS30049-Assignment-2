@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for March 2018,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 April 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/03/2018,3.0, , ,21.0,15.8,88,58,4.08,11.96
+FRANKSTON,02/03/2018,3.8, , ,23.5,14.3,86,54,2.46,20.46
+FRANKSTON,03/03/2018,5.8, , ,29.3,14.8,89,27,3.72,23.20
+FRANKSTON,04/03/2018, , , , ,15.2,100,50,3.55,16.93
+FRANKSTON,05/03/2018,3.5, , ,20.5,14.1,73,41,2.43,15.92
+FRANKSTON,06/03/2018,5.0, , ,26.4,12.2,86,31,3.26,22.50
+FRANKSTON,07/03/2018,5.1, , ,28.4,14.3,82,34,3.10,22.24
+FRANKSTON,08/03/2018,4.8, , ,28.6,14.7,79,32,2.42,22.02
+FRANKSTON,09/03/2018,4.9, , ,29.4,14.5,89,29,2.51,21.62
+FRANKSTON,10/03/2018,4.7, , ,33.6,15.3,81,17,1.45,21.56
+FRANKSTON,11/03/2018,4.2, , ,22.9,18.7,82,33,3.66,16.35
+FRANKSTON,12/03/2018,3.2, , ,19.9,15.8,74,49,3.73,10.49
+FRANKSTON,13/03/2018,3.2, , ,20.4,15.1,74,55,2.92,15.48
+FRANKSTON,14/03/2018,3.4, , ,19.9,15.3,73,57,2.79,18.18
+FRANKSTON,15/03/2018,2.3, , ,19.6,14.5,80,57,2.05,9.36
+FRANKSTON,16/03/2018,3.1, , ,23.4,13.6,88,45,1.70,15.71
+FRANKSTON,17/03/2018,6.1, , ,30.3,15.9,67,28,4.79,16.51
+FRANKSTON,18/03/2018,5.4, , ,20.9,20.3,85,31,10.48,14.42
+FRANKSTON,19/03/2018,4.2, , ,22.1,15.1,85,47,7.38,13.29
+FRANKSTON,20/03/2018,2.9, , ,18.2,14.8,84,45,3.62,10.92
+FRANKSTON,21/03/2018,4.8, , ,21.5,13.8,74,42,6.81,18.47
+FRANKSTON,22/03/2018,5.0, , ,26.3,13.8,70,32,3.96,18.95
+FRANKSTON,23/03/2018,3.9, , ,26.8,15.3,76,33,2.10,18.52
+FRANKSTON,24/03/2018,2.4, , ,23.3,18.7,93,48,2.91,5.68
+FRANKSTON,25/03/2018,4.2, , ,21.4,17.4,88,47,8.99,13.90
+FRANKSTON,26/03/2018,2.9, , ,16.9,11.6,83,63,10.18,9.50
+FRANKSTON,27/03/2018,3.3, , ,20.8,10.5,81,41,3.51,14.16
+FRANKSTON,28/03/2018,4.5, , ,25.5,11.8,84,33,4.22,17.73
+FRANKSTON,29/03/2018,2.3, , ,20.1,15.8,88,57,1.14,13.48
+FRANKSTON,30/03/2018,2.9, , ,19.6,13.3,80,63,3.75,15.83
+FRANKSTON,31/03/2018,2.8, , ,20.4,14.5,72,50,1.85,15.68
+Totals:,,117.6, , ,,,,,, 

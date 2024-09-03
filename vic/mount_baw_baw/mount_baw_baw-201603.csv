@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for March 2016,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 April 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/03/2016,4.4,0.0, ,21.1,10.3,65,34,2.36,23.90
+MOUNT BAW BAW,02/03/2016,4.8,0.0, ,23.3,13.9,45,30,2.55,22.22
+MOUNT BAW BAW,03/03/2016,4.3,0.0, ,23.1,13.8,76,38,3.04,19.34
+MOUNT BAW BAW,04/03/2016,4.7,0.0, ,24.4,15.1,83,36,3.52,20.98
+MOUNT BAW BAW,05/03/2016,4.8,0.8, ,24.1,15.2,56,30,3.52,16.90
+MOUNT BAW BAW,06/03/2016,4.7,0.0, ,24.5,17.9,70,39,2.80,21.17
+MOUNT BAW BAW,07/03/2016,2.9,0.0, ,24.6,17.9,93,44,2.27,9.92
+MOUNT BAW BAW,08/03/2016,4.5,0.0, ,26.2,16.0,72,32,2.51,19.41
+MOUNT BAW BAW,09/03/2016,2.7,0.0, ,20.2,17.3,94,38,3.38,7.21
+MOUNT BAW BAW,10/03/2016,1.5,2.0, ,16.3,12.9,99,66,2.64,4.84
+MOUNT BAW BAW,11/03/2016,2.3,15.0, ,18.9,11.9,100,76,2.65,13.18
+MOUNT BAW BAW,12/03/2016,2.1,2.8, ,18.9,13.0,100,73,1.65,11.28
+MOUNT BAW BAW,13/03/2016,2.5,0.0, ,18.9,11.4,99,51,1.16,13.83
+MOUNT BAW BAW,14/03/2016, ,0.0, , ,8.7,99,50,0.57,5.04
+MOUNT BAW BAW,15/03/2016, , , ,12.1, ,100,99,2.10,17.99
+MOUNT BAW BAW,16/03/2016,2.7,0.0, ,17.8,7.6,100,64,0.29,19.06
+MOUNT BAW BAW,17/03/2016,3.0,0.0, ,19.7,11.4,86,47,1.12,18.58
+MOUNT BAW BAW,18/03/2016,1.1,21.6, ,6.5,6.4,100,62,2.70,3.98
+MOUNT BAW BAW,19/03/2016,1.0,36.2, ,4.1,1.1,99,99,0.00,6.74
+MOUNT BAW BAW,20/03/2016,2.0,6.2, ,8.5,-0.8,99,78,0.04,19.14
+MOUNT BAW BAW,21/03/2016,2.1,0.2, ,9.3,2.2,99,84,0.00,18.46
+MOUNT BAW BAW,22/03/2016,2.1,0.0, ,13.4,4.2,99,32,0.13,17.55
+MOUNT BAW BAW,23/03/2016,1.8,0.0, ,13.2,6.5,73,33,0.38,12.39
+MOUNT BAW BAW,24/03/2016,1.1,0.6, ,12.1,7.8,99,68,0.00,5.53
+MOUNT BAW BAW,25/03/2016,1.1,0.8, ,9.4,7.0,99,98,0.00,6.16
+MOUNT BAW BAW,26/03/2016,1.5,0.0, ,12.7,3.2,99,70,0.79,11.11
+MOUNT BAW BAW,27/03/2016,1.0,5.2, ,7.8,3.6,99,99,1.36,8.02
+MOUNT BAW BAW,28/03/2016,1.4,0.2, ,11.0,2.6,99,86,0.00,10.33
+MOUNT BAW BAW,29/03/2016,1.2,0.0, ,8.3,3.6,99,95,0.03,9.08
+MOUNT BAW BAW,30/03/2016,0.8,0.0, ,6.3,4.1,99,99,0.00,4.11
+MOUNT BAW BAW,31/03/2016,1.9,3.6, ,11.4,1.4,99,89,0.32,17.50
+Totals:,,72,95.2, ,,,,,, 

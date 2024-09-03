@@ -1,0 +1,33 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WESTMERE Victoria for March 2017,,,,,,,,,,
+Issued at 06:30 GMT on Saturday 01 April 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WESTMERE,01/03/2017,5.6,0.0, ,35.2,11.4,83,17,2.20,20.21
+WESTMERE,02/03/2017,6.5,0.0, ,32.9,9.9,92,21,3.40,23.89
+WESTMERE,03/03/2017,5.6,0.0, ,28.6,12.4,94,37,4.69,22.87
+WESTMERE,04/03/2017,6.1,0.0, ,31.8,14.7,94,21,3.35,22.96
+WESTMERE,05/03/2017,5.4,0.0, ,27.9,14.1,95,36,4.99,20.78
+WESTMERE,06/03/2017,5.6,0.0, ,27.2,13.8,96,37,6.10,21.73
+WESTMERE,07/03/2017,5.9,0.0, ,28.0,11.8,92,32,5.32,22.80
+WESTMERE,08/03/2017,5.9,0.0, ,31.8,8.6,96,18,3.02,22.39
+WESTMERE,09/03/2017,6.6,0.0, ,33.3,10.4,87,17,3.69,20.91
+WESTMERE,10/03/2017,4.4,0.0, ,28.9,13.8,98,31,2.83,17.12
+WESTMERE,11/03/2017,3.9,0.0, ,28.8,11.9,98,26,2.80,10.81
+WESTMERE,12/03/2017,4.2,4.2, ,24.6,12.6,95,40,4.26,17.16
+WESTMERE,13/03/2017,4.0,0.0, ,26.8,14.8,97,43,3.54,16.03
+WESTMERE,14/03/2017,5.5,0.0, ,33.1,11.5,98,23,2.72,21.29
+WESTMERE,15/03/2017, ,0.0, , , , , , ,20.39
+WESTMERE,16/03/2017, , , , , , , , ,20.12
+WESTMERE,29/03/2017, , , , , , , , ,12.84
+WESTMERE,30/03/2017, , , , , , , , ,14.71
+WESTMERE,31/03/2017,2.5, , ,16.8,4.0,95,43,2.77,14.74
+Totals:,,77.7,4.2, ,,,,,, 

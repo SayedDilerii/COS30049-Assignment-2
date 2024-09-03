@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MALLACOOTA Victoria for June 2015,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 July 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MALLACOOTA,01/06/2015,1.2,18.6, ,10.0,4.6,90,65,4.88,4.62
+MALLACOOTA,02/06/2015,1.4,5.8, ,12.8,4.7,88,63,4.51,6.66
+MALLACOOTA,03/06/2015,1.4,0.0, ,13.5,6.4,85,58,3.57,8.87
+MALLACOOTA,04/06/2015,1.2,0.0, ,13.8,2.6,90,63,3.43,8.44
+MALLACOOTA,05/06/2015,1.1,0.0, ,14.8,6.0,91,64,2.87,8.79
+MALLACOOTA,06/06/2015,1.2,0.0, ,16.7,2.9,91,59,2.54,8.72
+MALLACOOTA,07/06/2015,1.4,0.0, ,17.0,6.2,91,52,2.66,8.69
+MALLACOOTA,08/06/2015,1.9,0.0, ,19.3,4.7,85,45,3.19,7.96
+MALLACOOTA,09/06/2015,1.5,2.2, ,13.2,8.0,90,51,3.87,6.55
+MALLACOOTA,10/06/2015,1.3,0.4, ,13.1,7.6,82,65,3.98,6.49
+MALLACOOTA,11/06/2015,1.2,0.0, ,13.9,5.0,93,58,2.90,8.54
+MALLACOOTA,12/06/2015,1.0,0.2, ,13.8,2.7,95,69,3.11,7.14
+MALLACOOTA,13/06/2015,0.9,0.2, ,14.0,2.9,95,69,2.65,8.35
+MALLACOOTA,14/06/2015,1.2,0.0, ,16.8,4.8,94,66,3.06,8.16
+MALLACOOTA,15/06/2015,0.9,0.4, ,15.2,6.3,95,77,3.19,4.96
+MALLACOOTA,16/06/2015,1.1,13.6, ,18.4,8.9,95,72,2.99,4.52
+MALLACOOTA,17/06/2015,0.9,1.0, ,15.3,9.7,95,79,3.33,3.44
+MALLACOOTA,18/06/2015,1.7,9.6, ,14.8,12.2,88,62,5.66,6.02
+MALLACOOTA,19/06/2015,0.8,1.0, ,12.0,8.1,93,83,3.48,3.70
+MALLACOOTA,20/06/2015,1.2,5.4, ,12.2,6.2,89,66,4.24,6.29
+MALLACOOTA,21/06/2015,1.2,0.0, ,14.5,4.8,92,57,3.10,8.52
+MALLACOOTA,22/06/2015,1.3,0.2, ,14.8,0.7,93,50,2.61,8.74
+MALLACOOTA,23/06/2015,1.5,0.0, ,16.3,4.1,92,49,2.97,8.25
+MALLACOOTA,24/06/2015,1.5,0.0, ,20.2,5.6,89,62,3.00,7.20
+MALLACOOTA,25/06/2015,1.4,0.0, ,14.2,10.5,89,61,3.92,5.80
+MALLACOOTA,26/06/2015,1.3,0.0, ,16.3,9.5,93,62,3.54,8.18
+MALLACOOTA,27/06/2015,1.3,0.0, ,15.1,5.6,93,57,3.03,8.24
+MALLACOOTA,28/06/2015,1.1,0.0, ,15.7,5.4,93,65,2.84,7.73
+MALLACOOTA,29/06/2015,1.0,0.2, ,14.3,3.7,93,64,2.66,8.58
+MALLACOOTA,30/06/2015,0.9,0.0, ,13.2,5.5,94,74,2.95,5.52
+Totals:,,37,58.8, ,,,,,, 

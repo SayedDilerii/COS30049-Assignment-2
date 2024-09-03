@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for July 2012,,,,,,,,,,
+Issued at 22:38 GMT on Wednesday 01 August 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/07/2012,0.3,2.4, ,-1.7,-3.8,100,100,1.17,3.47
+MOUNT BULLER,02/07/2012,0.4,5.0, ,-0.6,-3.8,100,100,0.59,3.23
+MOUNT BULLER,03/07/2012,0.3,11.0, ,-1.2,-3.2,100,100,2.49,6.17
+MOUNT BULLER,04/07/2012,0.2,0.0, ,-2.1,-4.7,100,100,3.96,7.82
+MOUNT BULLER,05/07/2012,0.3,0.0, ,-0.5,-6.2,100,100,3.16,8.24
+MOUNT BULLER,06/07/2012,0.3,0.0, ,0.6,-6.6,100,96,2.23,8.37
+MOUNT BULLER,07/07/2012,0.4,0.0, ,1.5,-4.6,100,90,3.21,8.46
+MOUNT BULLER,08/07/2012,0.3,0.0, ,1.0,-3.1,100,94,8.00,8.34
+MOUNT BULLER,09/07/2012,0.4,0.0, ,3.1,-2.5,100,90,6.89,3.83
+MOUNT BULLER,10/07/2012,0.6,1.4, ,1.7,0.1,99,82,13.83,2.23
+MOUNT BULLER,11/07/2012,0.3,43.2, ,1.2,-0.2,100,92,12.37,2.76
+MOUNT BULLER,12/07/2012,0.6,4.4, ,3.5,-0.7,100,79,10.77,3.46
+MOUNT BULLER,13/07/2012,0.6,21.4, ,2.4,-0.3,99,79,4.56,3.95
+MOUNT BULLER,14/07/2012,0.3,13.2, ,-0.5,-0.7,100,92,10.80,2.84
+MOUNT BULLER,15/07/2012,0.3,14.6, ,1.2,-4.6,100,94,6.51,3.58
+MOUNT BULLER,16/07/2012,0.5,29.0, ,2.2,-4.3,96,85,8.33,3.62
+MOUNT BULLER,17/07/2012,0.3,8.4, ,0.0,-0.2,100,90,12.15,3.38
+MOUNT BULLER,18/07/2012,0.2,0.0, ,-0.7,-1.7,100,100,10.07,3.63
+MOUNT BULLER,19/07/2012,0.2,1.6, ,0.0,-4.7,100,100,6.40,6.80
+MOUNT BULLER,20/07/2012,0.3,0.8, ,1.0,-3.6,100,94,6.33,6.41
+MOUNT BULLER,21/07/2012,0.5,0.2, ,1.7,-1.7,100,89,5.80,9.07
+MOUNT BULLER,22/07/2012,0.8,2.0, ,4.8,-1.9,100,74,3.42,9.43
+MOUNT BULLER,23/07/2012,0.5,0.0, ,2.3,-1.7,100,86,4.17,7.25
+MOUNT BULLER,24/07/2012,0.5,0.0, ,2.1,-2.3,100,90,6.65,9.08
+MOUNT BULLER,25/07/2012,0.3,0.0, ,0.9,-1.9,100,94,12.34,4.57
+MOUNT BULLER,26/07/2012,0.3,9.0, ,-0.3,-2.2,100,94,10.95,4.35
+MOUNT BULLER,27/07/2012,0.3,12.0, ,0.0,-2.1,100,100,4.21,5.76
+MOUNT BULLER,28/07/2012,0.2,1.8, ,0.1,-3.3,100,100,6.65,3.69
+MOUNT BULLER,29/07/2012,0.4,2.4, ,-1.5,-4.4,100,100,1.70,8.26
+MOUNT BULLER,30/07/2012,0.3,0.0, ,-1.8,-4.4,100,100,5.17,10.41
+MOUNT BULLER,31/07/2012,0.4,0.0, ,0.4,-5.4,100,100,5.23,9.93
+Totals:,,11.6,183.8, ,,,,,, 

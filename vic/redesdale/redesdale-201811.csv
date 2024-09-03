@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for November 2018,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/11/2018,6.5,0.0, ,34.3,11.6,100,12,3.13,19.80
+REDESDALE,02/11/2018,5.3,2.0, ,30.4,16.4,89,21,3.62,13.22
+REDESDALE,03/11/2018,4.7,2.2, ,22.1,7.1,86,35,2.98,25.51
+REDESDALE,04/11/2018,3.6,0.0, ,24.7,3.3,99,29,1.80,15.62
+REDESDALE,05/11/2018,3.6,0.2, ,27.7,11.9,90,40,1.86,13.73
+REDESDALE,06/11/2018,3.6,0.6, ,25.1,13.4,99,46,2.91,14.49
+REDESDALE,07/11/2018,3.8,5.8, ,18.8,4.9,92,34,3.03,19.82
+REDESDALE,08/11/2018,3.8,0.2, ,19.2,0.5,95,31,1.98,23.41
+REDESDALE,09/11/2018,3.6,0.0, ,21.2,2.5,99,32,2.54,16.82
+REDESDALE,10/11/2018,4.7,0.0, ,24.9,3.7,98,30,2.19,25.27
+REDESDALE,11/11/2018,5.4,0.0, ,26.2,5.0,96,24,2.31,28.54
+REDESDALE,12/11/2018,5.8,0.0, ,30.2,7.5,89,15,2.48,22.83
+REDESDALE,13/11/2018,5.0,0.0, ,29.3,12.9,65,29,3.67,10.12
+REDESDALE,14/11/2018,5.1,0.2, ,29.6,16.2,99,32,2.97,19.49
+REDESDALE,15/11/2018,4.9,0.2, ,20.4,8.9,93,30,4.69,23.22
+REDESDALE,16/11/2018,6.5,0.0, ,26.5,1.1,98,9,3.34,28.91
+REDESDALE,17/11/2018,7.1,0.0, ,23.8,8.2,74,25,7.41,28.98
+REDESDALE,18/11/2018,6.2,0.0, ,28.6,6.6,86,19,2.69,28.70
+REDESDALE,19/11/2018,6.6,0.0, ,30.2,9.3,79,23,3.30,26.61
+REDESDALE,20/11/2018,3.6,0.0, ,27.3,17.3,92,35,2.96,8.52
+REDESDALE,21/11/2018,4.6,3.6, ,22.8,8.0,95,29,3.10,21.23
+REDESDALE,22/11/2018,2.7,4.4, ,16.4,6.5,95,55,3.22,14.66
+REDESDALE,23/11/2018,2.5,2.2, ,15.3,7.3,91,59,4.81,11.68
+REDESDALE,24/11/2018,3.7,0.2, ,20.6,7.7,99,46,3.14,18.71
+REDESDALE,25/11/2018,5.2,0.0, ,23.5,9.0,87,33,3.77,24.28
+REDESDALE,26/11/2018,5.1,0.0, ,24.6,6.5,96,38,2.78,27.31
+REDESDALE,27/11/2018,4.0,0.0, ,24.6,9.7,92,38,3.19,14.74
+REDESDALE,28/11/2018,6.3,2.8, ,24.5,12.7,86,39,7.40,27.49
+REDESDALE,29/11/2018,5.4,0.0, ,24.0,12.9,86,40,4.10,26.04
+REDESDALE,30/11/2018,6.1,0.0, ,27.2,8.4,96,26,3.02,29.68
+Totals:,,145,24.6, ,,,,,, 

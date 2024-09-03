@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for June 2021,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 July 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/06/2021,1.7,0.0, ,9.6,2.3,72,34,3.42,4.99
+GELANTIPY,02/06/2021,1.7,0.0, ,13.6,5.1,72,51,3.45,7.36
+GELANTIPY,03/06/2021,0.8,1.8, ,9.9,6.3,97,71,2.94,3.80
+GELANTIPY,04/06/2021,0.9,0.2, ,7.8,6.6,96,72,4.41,5.28
+GELANTIPY,05/06/2021,1.4,1.8, ,9.3,-1.3,89,43,3.59,8.29
+GELANTIPY,06/06/2021,1.3,0.0, ,14.0,2.4,88,59,3.45,8.57
+GELANTIPY,07/06/2021,1.5,0.0, ,11.1,4.9,87,60,5.45,4.19
+GELANTIPY,08/06/2021,1.9,0.0, ,12.7,5.8,86,49,6.05,6.61
+GELANTIPY,09/06/2021,0.5,4.4, ,6.7,2.2,100,85,2.72,3.08
+GELANTIPY,10/06/2021,0.7,33.4, ,9.1,2.4,100,74,2.19,8.01
+GELANTIPY,11/06/2021,0.7,6.2, ,9.5,2.5,100,73,2.74,6.87
+GELANTIPY,12/06/2021,1.1,8.0, ,9.7,5.8,89,72,5.57,3.13
+GELANTIPY,13/06/2021,0.8,4.0, ,10.6,7.0,99,73,2.77,5.35
+GELANTIPY,14/06/2021,0.6,1.8, ,9.6,6.4,100,80,1.46,6.29
+GELANTIPY,15/06/2021,1.0,0.0, ,12.3,4.6,99,60,2.75,6.87
+GELANTIPY,16/06/2021,1.1,0.0, ,11.4,2.8,95,68,4.43,6.27
+GELANTIPY,17/06/2021,1.2,3.0, ,10.1,1.5,93,56,3.82,8.90
+GELANTIPY,18/06/2021,0.7,0.2, ,7.2,2.9,100,77,5.34,4.17
+GELANTIPY,19/06/2021,0.3,36.4, ,6.9,5.2,100,98,4.35,4.50
+GELANTIPY,20/06/2021,0.6,11.2, ,9.1,4.3,100,76,1.74,6.56
+GELANTIPY,21/06/2021,0.8,0.2, ,9.2,-0.2,100,68,3.50,9.40
+GELANTIPY,22/06/2021,0.9,0.2, ,9.8,0.3,98,68,4.29,8.14
+GELANTIPY,23/06/2021,1.4,0.0, ,12.1,3.1,85,63,4.69,3.84
+GELANTIPY,24/06/2021,1.4,0.2, ,12.5,7.3,88,61,4.25,5.94
+GELANTIPY,25/06/2021,1.5,0.6, ,12.1,5.4,83,55,4.49,8.53
+GELANTIPY,26/06/2021,0.9,0.0, ,10.1,5.1,100,65,3.07,6.26
+GELANTIPY,27/06/2021,0.9,0.4, ,10.7,1.9,99,65,3.27,7.34
+GELANTIPY,28/06/2021,0.7,0.0, ,10.7,0.5,99,66,1.68,9.35
+GELANTIPY,29/06/2021,0.9,0.4, ,9.3,0.8,100,72,5.04,9.50
+GELANTIPY,30/06/2021,1.2,0.0, ,12.2,2.1,91,67,5.29,9.29
+Totals:,,31.1,114.4, ,,,,,, 

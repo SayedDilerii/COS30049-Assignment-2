@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SHEOAKS Victoria for November 2019,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 December 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SHEOAKS,01/11/2019,7.3, , ,31.4,21.3,78,25,5.51,20.67
+SHEOAKS,02/11/2019, , , , , , , , ,5.38
+SHEOAKS,03/11/2019, , , , , , , , ,8.88
+SHEOAKS,04/11/2019, , , , , , , , ,13.73
+SHEOAKS,05/11/2019, , , ,17.6, ,91,46,3.12,23.70
+SHEOAKS,06/11/2019,5.4,0.0, ,20.7,8.9,81,32,7.15,21.60
+SHEOAKS,07/11/2019,2.3,0.0, ,14.1,8.4,94,58,7.62,7.45
+SHEOAKS,08/11/2019,2.9,15.6, ,12.7,7.7,91,53,6.01,17.07
+SHEOAKS,09/11/2019,2.2,2.0, ,12.7,4.8,93,69,6.58,14.07
+SHEOAKS,10/11/2019,2.1,0.4, ,17.6,7.9,98,72,4.20,10.62
+SHEOAKS,11/11/2019,7.3,0.0, ,27.4,6.3,100,16,5.62,27.67
+SHEOAKS,12/11/2019, ,0.0, ,14.1, ,93,49,6.68,18.38
+SHEOAKS,13/11/2019,2.7,1.8, ,14.7,6.4,92,61,5.80,15.40
+SHEOAKS,14/11/2019,3.4,0.8, ,19.1,9.6,96,56,5.51,16.62
+SHEOAKS,15/11/2019,3.1,0.0, ,17.0,9.8,90,57,5.39,14.59
+SHEOAKS,16/11/2019,3.1,0.0, ,16.3,5.9,92,51,3.62,17.04
+SHEOAKS,17/11/2019, ,0.0, ,17.6,7.8, , , ,19.02
+SHEOAKS,18/11/2019, , , , , , , , ,29.81
+SHEOAKS,19/11/2019,4.3, , ,20.9,5.6,95,47,2.74,25.99
+SHEOAKS,20/11/2019,8.0,0.0, ,33.4,10.3,92,18,3.94,29.64
+SHEOAKS,21/11/2019,12.3,0.0, ,39.1,15.3,83,10,8.42,20.65
+SHEOAKS,22/11/2019,4.6,0.0, ,20.4,7.6,90,39,1.95,29.24
+SHEOAKS,23/11/2019,4.2,0.0, ,20.7,5.9,94,45,3.67,23.48
+SHEOAKS,24/11/2019, , , , , , , , ,30.30
+SHEOAKS,25/11/2019, , , ,24.1, , , , ,15.82
+SHEOAKS,26/11/2019,3.5,0.4, ,15.1,9.0,92,46,5.22,18.87
+SHEOAKS,27/11/2019,5.7,9.8, ,23.4,3.9,88,23,3.26,30.51
+SHEOAKS,28/11/2019,4.7,0.0, ,22.4,6.3,95,45,2.51,28.55
+SHEOAKS,29/11/2019,3.5,0.0, ,22.4,7.7,93,49,2.01,17.72
+SHEOAKS,30/11/2019,3.9,1.4, ,18.4,6.2,92,39,2.53,23.19
+Totals:,,96.5,32.2, ,,,,,, 

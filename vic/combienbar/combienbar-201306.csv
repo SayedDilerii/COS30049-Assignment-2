@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COMBIENBAR Victoria for June 2013,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 July 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COMBIENBAR,01/06/2013,0.8,0.2, ,14.6,11.5,98,61,0.83,2.97
+COMBIENBAR,02/06/2013,0.6,4.2, ,9.0,6.4,98,84,2.00,3.50
+COMBIENBAR,03/06/2013,0.8,0.2, ,10.7,6.0,87,69,1.77,7.39
+COMBIENBAR,04/06/2013,0.6,0.0, ,12.8,7.7,94,73,0.35,8.23
+COMBIENBAR,05/06/2013,0.6,0.0, ,15.2,7.2,94,46,0.11,7.12
+COMBIENBAR,06/06/2013,1.0,0.0, ,15.8,8.9,63,28,0.80,6.57
+COMBIENBAR,07/06/2013,0.9,0.0, ,14.2,9.2,95,58,1.35,4.32
+COMBIENBAR,08/06/2013,0.6,4.0, ,12.3,3.5,83,49,0.42,9.73
+COMBIENBAR,09/06/2013,0.4,0.0, ,12.6,5.4,92,53,0.00,9.80
+COMBIENBAR,10/06/2013,0.4,0.0, ,14.1,5.5,87,48,0.00,8.54
+COMBIENBAR,11/06/2013,0.5,0.0, ,17.5,6.6,76,54,0.00,8.06
+COMBIENBAR,12/06/2013,0.5,0.0, ,12.7,8.9,97,58,0.00,3.06
+COMBIENBAR,13/06/2013,0.5,45.0, ,14.3,7.8,98,63,0.00,6.89
+COMBIENBAR,14/06/2013,0.5,27.8, ,8.6,7.4,98,93,0.00,2.15
+COMBIENBAR,15/06/2013,0.5,67.8, ,7.4,5.0,98,91,0.00,2.91
+COMBIENBAR,16/06/2013,0.5,32.4, ,7.0,4.9,98,96,0.00,3.41
+COMBIENBAR,17/06/2013,0.5,34.0, ,8.8,5.5,98,97,0.00,4.53
+COMBIENBAR,18/06/2013,0.5,10.8, ,8.8,5.0,99,98,0.00,2.94
+COMBIENBAR,19/06/2013,0.4,21.4, ,7.0,4.5,98,95,0.00,3.86
+COMBIENBAR,20/06/2013,0.4,10.0, ,9.0,3.6,97,80,0.00,7.18
+COMBIENBAR,21/06/2013,0.4,0.4, ,11.7,3.0,95,69,0.05,9.21
+COMBIENBAR,22/06/2013,0.5,0.0, ,12.3,3.6,90,62,0.19,9.97
+COMBIENBAR,23/06/2013,0.4,0.0, ,8.0,3.8,97,80,0.12,6.29
+COMBIENBAR,24/06/2013,0.5,14.2, ,8.8,5.3,98,85,0.50,4.53
+COMBIENBAR,25/06/2013,0.5,10.8, ,8.6,6.7,98,95,0.62,3.40
+COMBIENBAR,26/06/2013,0.6,11.6, ,13.7,6.5,98,75,0.46,8.19
+COMBIENBAR,27/06/2013,0.5,0.0, ,15.4,6.3,91,51,0.16,10.08
+COMBIENBAR,28/06/2013, ,0.0, ,14.4,7.4,94,41,0.07, 
+COMBIENBAR,29/06/2013,0.5,0.0, ,9.5,6.2,97,86,0.03,7.45
+COMBIENBAR,30/06/2013,0.5,0.0, ,13.4,5.1,95,59,0.14,10.20
+Totals:,,15.9,294.8, ,,,,,, 

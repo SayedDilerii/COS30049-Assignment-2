@@ -1,0 +1,36 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BENDIGO AIRPORT Victoria for December 2018,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 23 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BENDIGO AIRPORT,01/12/2018,9.6,0.0, ,32.8,7.0,93,10,5.72,31.14
+BENDIGO AIRPORT,02/12/2018,5.8,4.6, ,22.0,12.7,90,25,6.13,23.97
+BENDIGO AIRPORT,03/12/2018,6.2,0.0, ,26.2,9.6,78,31,5.37,22.64
+BENDIGO AIRPORT,04/12/2018,6.9,0.0, ,27.4,12.4,82,29,4.20,31.13
+BENDIGO AIRPORT,05/12/2018,8.1,0.0, ,31.7,10.8,83,10,3.78,30.53
+BENDIGO AIRPORT,06/12/2018,9.7,0.0, ,36.8,16.1,65,16,4.70,29.54
+BENDIGO AIRPORT,07/12/2018,10.2,0.0, ,39.0,20.2,55,14,5.27,22.60
+BENDIGO AIRPORT,08/12/2018,4.3,0.0, ,31.3,23.3,83,26,2.62,10.20
+BENDIGO AIRPORT,09/12/2018,3.5,0.4, ,26.6,16.9,97,47,3.21,10.68
+BENDIGO AIRPORT,10/12/2018,6.6,22.6, ,27.3,15.2,99,31,4.11,30.62
+BENDIGO AIRPORT,11/12/2018,7.9,0.0, ,31.3,10.9,87,14,3.60,31.90
+BENDIGO AIRPORT,12/12/2018,8.2,0.0, ,33.6,17.3,75,25,4.49,27.78
+BENDIGO AIRPORT,13/12/2018,2.1,5.4, ,20.6,18.2,97,68,4.24,6.30
+BENDIGO AIRPORT,14/12/2018,5.2,42.2, ,23.6,12.8,96,34,3.72,24.28
+BENDIGO AIRPORT,15/12/2018,3.5,0.0, ,21.0,12.5,93,52,2.61,17.59
+BENDIGO AIRPORT,16/12/2018,3.3,3.4, ,23.0,13.1,95,54,2.64,14.70
+BENDIGO AIRPORT,17/12/2018,6.5,1.4, ,28.8,13.5,97,34,3.37,30.18
+BENDIGO AIRPORT,18/12/2018,6.8,0.0, ,29.4,12.7,90,19,4.11,24.26
+BENDIGO AIRPORT,19/12/2018, ,0.0, ,28.3, ,82,37,2.59,13.89
+BENDIGO AIRPORT,20/12/2018,6.7,0.4, ,28.8,14.4,93,40,4.74,30.09
+BENDIGO AIRPORT,21/12/2018, ,0.0, , ,12.0,78,37,5.89,21.64
+BENDIGO AIRPORT,22/12/2018, , , , , ,100,68,0.40,28.40
+Totals:,,121.1,80.4, ,,,,,, 

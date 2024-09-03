@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KYABRAM DPI Victoria for September 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KYABRAM DPI,01/09/2009,1.9,1.4, ,15.3,1.6,94,43,1.04,16.29
+KYABRAM DPI,02/09/2009,3.1,0.0, ,19.2,3.2,87,40,3.42,18.33
+KYABRAM DPI,03/09/2009,3.7,0.0, ,24.4,9.3,91,26,3.17,14.79
+KYABRAM DPI,04/09/2009,2.2,0.8, ,16.7,2.9,93,44,2.09,13.51
+KYABRAM DPI,05/09/2009,2.2,1.4, ,16.6,0.1,94,41,1.99,15.35
+KYABRAM DPI,06/09/2009,3.4,0.0, ,19.5,2.9,85,31,3.82,14.83
+KYABRAM DPI,07/09/2009,2.5,0.0, ,17.8,3.7,89,47,2.40,16.49
+KYABRAM DPI,08/09/2009,2.4,0.0, ,16.8,4.4,93,47,3.08,13.41
+KYABRAM DPI,09/09/2009,2.1,1.2, ,15.0,3.9,90,54,2.75,13.32
+KYABRAM DPI,10/09/2009,2.3,0.0, ,16.0,2.1,88,45,1.29,19.49
+KYABRAM DPI,11/09/2009,5.0,0.2, ,24.3,3.3,90,21,4.57,20.27
+KYABRAM DPI,12/09/2009,8.6,0.0, ,32.2,9.2,59,10,6.47,18.70
+KYABRAM DPI,13/09/2009,4.5,0.0, ,22.1,13.9,76,11,3.93,14.11
+KYABRAM DPI,14/09/2009,2.5,0.0, ,17.1,-0.6,93,28,0.90,21.70
+KYABRAM DPI,15/09/2009,2.5,0.0, ,20.1,0.2,91,25,0.68,21.56
+KYABRAM DPI,16/09/2009,3.5,0.0, ,23.5,1.1,89,21,1.72,21.48
+KYABRAM DPI,17/09/2009,2.5,0.0, ,17.4,11.5,91,37,2.76,9.34
+KYABRAM DPI,18/09/2009,3.2,6.4, ,19.9,4.8,86,31,1.69,22.10
+KYABRAM DPI,19/09/2009,3.0,0.2, ,23.7,3.4,88,38,1.79,15.51
+KYABRAM DPI,20/09/2009,3.1,0.0, ,18.8,5.2,92,38,2.05,20.37
+KYABRAM DPI,21/09/2009,3.4,0.0, ,20.8,0.7,94,35,2.84,18.65
+KYABRAM DPI,22/09/2009,3.4,9.6, ,20.1,11.5,87,47,4.02,17.04
+KYABRAM DPI,23/09/2009,3.5,0.0, ,18.7,10.9,87,44,4.36,17.82
+KYABRAM DPI,24/09/2009,3.0,0.0, ,19.3,5.8,90,49,2.88,16.99
+KYABRAM DPI,25/09/2009,2.5,0.2, ,16.8,8.2,91,46,3.95,8.90
+KYABRAM DPI,26/09/2009,2.7,8.8, ,14.2,6.3,87,59,5.28,18.09
+KYABRAM DPI,27/09/2009,3.3,0.6, ,15.0,3.7,88,46,5.80,20.01
+KYABRAM DPI,28/09/2009,2.8,0.0, ,16.9,3.8,90,47,2.99,16.39
+KYABRAM DPI,29/09/2009,2.8,0.0, ,18.2,0.3,93,35,0.77,23.41
+KYABRAM DPI,30/09/2009,5.5,0.0, ,25.8,6.8,80,17,3.73,22.81
+Totals:,,97.1,30.8, ,,,,,, 

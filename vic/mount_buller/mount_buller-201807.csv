@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for July 2018,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 August 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/07/2018,0.5,6.8, ,-1.1,-4.6,99,78,4.80,8.98
+MOUNT BULLER,02/07/2018,0.8,0.4, ,1.0,-4.2,99,58,4.73,9.43
+MOUNT BULLER,03/07/2018,2.0,0.0, ,5.1,-2.0,99,17,7.53,6.94
+MOUNT BULLER,04/07/2018,2.2,0.0, ,5.0,-0.5,99,21,11.64,5.74
+MOUNT BULLER,05/07/2018,1.5,0.0, ,5.1,0.5,99,50,14.38,6.93
+MOUNT BULLER,06/07/2018,0.2,6.0, ,0.4,0.2,99,98,10.06,2.00
+MOUNT BULLER,07/07/2018,0.2,15.0, ,-0.6,-3.0,99,99,10.75,2.33
+MOUNT BULLER,08/07/2018,0.2,5.6, ,0.0,-3.3,99,99,9.72,2.77
+MOUNT BULLER,09/07/2018,0.2,16.6, ,1.4,-2.0,99,99,7.86,8.26
+MOUNT BULLER,10/07/2018,1.6,5.2, ,3.2,-4.6,99,13,4.92,9.37
+MOUNT BULLER,11/07/2018,1.4,0.0, ,-0.1,-2.9,99,18,6.07,9.43
+MOUNT BULLER,12/07/2018,0.5,0.0, ,-0.1,-5.3,99,82,2.87,7.83
+MOUNT BULLER,13/07/2018,0.8,0.0, ,2.1,-5.7,99,69,6.80,9.96
+MOUNT BULLER,14/07/2018,1.4,0.0, ,4.1,-4.9,99,14,3.70,10.01
+MOUNT BULLER,15/07/2018,0.8,0.0, ,-2.3,-5.6,99,53,6.52,5.25
+MOUNT BULLER,16/07/2018,0.2,0.2, ,-0.3,-3.8,99,99,9.64,4.22
+MOUNT BULLER,17/07/2018,0.8,0.8, ,1.9,-3.0,99,73,12.97,8.86
+MOUNT BULLER,18/07/2018,0.2,6.8, ,-0.6,-4.2,99,99,10.20,4.22
+MOUNT BULLER,19/07/2018,0.5,1.6, ,1.8,-2.8,99,84,14.34,8.55
+MOUNT BULLER,20/07/2018,0.2,11.4, ,-2.8,-4.4,99,99,7.66,2.76
+MOUNT BULLER,21/07/2018,0.3,2.6, ,-1.5,-4.7,99,99,5.93,6.51
+MOUNT BULLER,22/07/2018,0.3,6.4, ,-2.7,-4.3,99,99,5.27,5.34
+MOUNT BULLER,23/07/2018,0.2,0.8, ,-0.2,-5.0,99,99,11.62,7.83
+MOUNT BULLER,24/07/2018,0.2,6.0, ,1.6,-3.5,99,99,11.08,4.18
+MOUNT BULLER,25/07/2018,0.3,14.4, ,-0.7,-2.9,99,99,6.57,7.73
+MOUNT BULLER,26/07/2018,0.3,1.4, ,0.7,-2.6,99,99,5.90,5.88
+MOUNT BULLER,27/07/2018,0.4,3.8, ,2.7,-1.5,99,96,5.92,7.66
+MOUNT BULLER,28/07/2018,0.5,0.0, ,2.9,0.3,99,87,7.40,6.67
+MOUNT BULLER,29/07/2018,0.2,8.0, ,0.1,-0.1,99,99,10.87,2.16
+MOUNT BULLER,30/07/2018,0.2,5.6, ,-1.2,-4.0,99,99,10.26,6.35
+MOUNT BULLER,31/07/2018,0.2,8.4, ,0.0,-3.8,99,99,12.45,4.86
+Totals:,,19.3,133.8, ,,,,,, 

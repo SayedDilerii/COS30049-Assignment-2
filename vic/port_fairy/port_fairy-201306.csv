@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for June 2013,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 July 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/06/2013,1.3,6.0, ,16.5,11.8,99,66,4.47,5.92
+PORT FAIRY,02/06/2013,1.8,1.8, ,15.6,12.4,84,66,6.39,6.24
+PORT FAIRY,03/06/2013,1.3,0.0, ,16.0,9.8,96,70,4.70,6.84
+PORT FAIRY,04/06/2013,1.0,0.8, ,16.1,10.2,99,71,2.98,6.15
+PORT FAIRY,05/06/2013,0.9,0.0, ,13.3,9.4,93,76,3.36,3.16
+PORT FAIRY,06/06/2013,1.5,0.0, ,17.4,9.6,96,67,5.76,8.27
+PORT FAIRY,07/06/2013,1.7,27.4, ,14.6,10.3,98,52,5.72,9.24
+PORT FAIRY,08/06/2013,1.4,0.2, ,15.7,5.5,91,58,3.61,7.53
+PORT FAIRY,09/06/2013,1.6,0.0, ,15.7,7.5,81,58,3.98,7.49
+PORT FAIRY,10/06/2013,1.5,0.0, ,17.6,6.8,96,60,4.19,6.94
+PORT FAIRY,11/06/2013,0.9,0.2, ,16.4,10.0,97,75,2.79,6.69
+PORT FAIRY,12/06/2013,1.2,0.0, ,14.8,12.1,95,77,7.23,2.77
+PORT FAIRY,13/06/2013,1.4,22.8, ,15.1,12.3,96,72,8.63,3.79
+PORT FAIRY,14/06/2013,2.1,8.4, ,14.3,11.4,91,57,9.61,4.46
+PORT FAIRY,15/06/2013,1.6,1.2, ,15.2,11.1,93,60,5.49,8.09
+PORT FAIRY,16/06/2013,0.8,8.0, ,14.6,9.4,95,66,1.74,8.30
+PORT FAIRY,17/06/2013,0.7,7.4, ,14.2,6.9,96,68,1.48,7.97
+PORT FAIRY,18/06/2013,0.8,0.4, ,15.6,4.5,98,65,1.72,8.94
+PORT FAIRY,19/06/2013,1.0,0.2, ,15.0,2.3,97,52,2.00,9.18
+PORT FAIRY,20/06/2013,0.8,0.0, ,13.2,1.9,97,58,2.04,9.32
+PORT FAIRY,21/06/2013,1.4,0.0, ,14.7,4.4,89,59,4.37,9.10
+PORT FAIRY,22/06/2013,1.7,0.4, ,15.2,6.5,83,54,4.41,7.37
+PORT FAIRY,23/06/2013,1.1,0.0, ,14.5,4.2,96,63,3.40,9.43
+PORT FAIRY,24/06/2013,0.8,0.0, ,13.8,2.3,96,75,2.81,8.15
+PORT FAIRY,25/06/2013,1.4,0.0, ,15.9,4.2,95,57,3.81,9.06
+PORT FAIRY,26/06/2013,1.0,0.0, ,16.1,1.8,97,51,1.93,9.46
+PORT FAIRY,27/06/2013,1.2,0.0, ,15.9,2.9,91,62,2.77,5.71
+PORT FAIRY,28/06/2013, ,0.4, ,16.2,8.7,96,64,2.00, 
+PORT FAIRY,29/06/2013,1.0,4.8, ,16.4,5.6,98,64,2.45,9.10
+PORT FAIRY,30/06/2013,0.8,0.6, ,16.4,8.2,99,81,3.63,6.00
+Totals:,,35.7,91, ,,,,,, 

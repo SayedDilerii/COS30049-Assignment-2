@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for July 2022,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 August 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/07/2022,0.4,0.8, ,-0.7,-4.6,99,89,7.58,5.45
+MOUNT HOTHAM,02/07/2022,0.5,1.0, ,0.1,-5.2,99,84,5.93,9.43
+MOUNT HOTHAM,03/07/2022,0.5,0.2, ,-0.5,-4.3,99,79,6.84,9.15
+MOUNT HOTHAM,04/07/2022,0.2,0.2, ,0.1,-4.8,99,97,8.76,7.81
+MOUNT HOTHAM,05/07/2022,2.4,0.6, ,8.0,-5.7,95,5,5.96,9.73
+MOUNT HOTHAM,06/07/2022,1.1,0.0, ,8.1,-1.3,66,2,1.31,9.89
+MOUNT HOTHAM,07/07/2022,1.4,0.0, ,-1.2,-4.5,99,7,5.90,8.56
+MOUNT HOTHAM,08/07/2022,0.2,0.0, ,-1.8,-4.4,99,99,7.97,5.56
+MOUNT HOTHAM,09/07/2022,0.2,0.0, ,-1.3,-3.7,99,99,8.61,8.40
+MOUNT HOTHAM,10/07/2022,0.9,0.2, ,0.3,-3.6,100,44,3.69,9.39
+MOUNT HOTHAM,11/07/2022,1.2,3.2, ,0.1,-3.5,99,29,5.62,8.99
+MOUNT HOTHAM,12/07/2022,0.3,1.6, ,-1.4,-3.2,99,99,4.59,6.36
+MOUNT HOTHAM,13/07/2022,0.3,0.0, ,-2.4,-4.9,99,98,6.47,9.29
+MOUNT HOTHAM,14/07/2022,0.9,0.0, ,-0.3,-7.0,99,49,4.97,10.31
+MOUNT HOTHAM,15/07/2022,0.8,0.6, ,0.4,-5.8,99,57,4.26,10.40
+MOUNT HOTHAM,16/07/2022,1.2,0.0, ,-2.0,-4.7,99,35,10.87,8.68
+MOUNT HOTHAM,17/07/2022,0.2,0.0, ,-0.7,-4.3,99,99,6.22,5.11
+MOUNT HOTHAM,18/07/2022,0.3,0.0, ,-3.1,-6.2,99,97,4.11,7.90
+MOUNT HOTHAM,19/07/2022,0.3,0.0, ,-3.5,-7.3,99,96,5.24,8.40
+MOUNT HOTHAM,20/07/2022,0.4,0.0, ,-1.0,-7.4,99,96,2.57,10.10
+MOUNT HOTHAM,21/07/2022,0.6,3.8, ,1.9,-5.7,99,83,3.15,10.39
+MOUNT HOTHAM,22/07/2022,1.1,6.2, ,4.5,-2.7,90,53,3.91,10.87
+MOUNT HOTHAM,23/07/2022,0.8,2.6, ,1.8,-0.1,100,73,8.54,7.38
+MOUNT HOTHAM,24/07/2022,0.6,0.4, ,2.8,0.2,100,82,5.49,8.28
+MOUNT HOTHAM,25/07/2022,0.6,0.2, ,2.3,-0.1,100,83,11.17,9.60
+MOUNT HOTHAM,26/07/2022,0.3,17.4, ,-1.2,-2.1,100,99,7.30,7.96
+MOUNT HOTHAM,27/07/2022,0.3,4.2, ,0.2,-5.3,100,99,8.76,8.24
+MOUNT HOTHAM,28/07/2022,0.3,10.6, ,-0.4,-2.4,100,99,5.97,7.07
+MOUNT HOTHAM,29/07/2022,0.4,7.6, ,-2.2,-5.7,99,90,8.29,11.32
+MOUNT HOTHAM,30/07/2022,1.3,1.2, ,-1.4,-7.6,93,33,8.04,11.66
+MOUNT HOTHAM,31/07/2022,1.5,0.2, ,-0.2,-3.9,100,36,16.85,7.24
+Totals:,,21.5,62.8, ,,,,,, 

@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for August 2024,,,,,,,,,,
+Issued at 06:35 GMT on Tuesday 27 August 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/08/2024,1.6,0.0, ,16.3,4.1,92,47,2.42,11.33
+PORT FAIRY,02/08/2024, ,0.0, ,15.4,4.2, , , ,8.18
+PORT FAIRY,03/08/2024,1.5,0.2, ,15.1,5.4,94,54,2.48,10.92
+PORT FAIRY,04/08/2024,1.7,0.0, ,16.4,2.8,90,54,2.80,11.30
+PORT FAIRY,05/08/2024,1.6,0.0, ,15.5,2.2,87,49,2.32,11.81
+PORT FAIRY,06/08/2024,1.7,0.0, ,15.8,5.0,93,62,4.34,11.37
+PORT FAIRY,07/08/2024,2.0,0.0, ,17.6,8.0,93,56,3.85,11.60
+PORT FAIRY,08/08/2024,1.7,0.0, ,14.2,8.1,92,60,4.77,6.27
+PORT FAIRY,09/08/2024,1.5,0.2, ,17.0,7.7,95,65,2.90,10.36
+PORT FAIRY,10/08/2024,1.7,0.2, ,18.0,6.6,96,56,2.47,12.37
+PORT FAIRY,11/08/2024,1.9,0.2, ,18.7,4.1,95,48,2.25,12.53
+PORT FAIRY,12/08/2024,2.8,0.0, ,21.3,6.2,84,46,3.99,12.77
+PORT FAIRY,13/08/2024,3.5,0.0, ,22.6,9.7,73,41,4.77,12.52
+PORT FAIRY,14/08/2024,1.9,0.6, ,22.1,11.0,93,48,1.69,11.61
+PORT FAIRY,15/08/2024,2.2,0.8, ,22.6,6.8,95,49,2.67,8.81
+PORT FAIRY,16/08/2024,1.8,3.0, ,18.7,11.8,94,57,2.68,8.53
+PORT FAIRY,17/08/2024,1.4,10.8, ,16.4,8.8,95,78,3.10,11.55
+PORT FAIRY,18/08/2024,1.4,1.4, ,14.7,11.9,93,78,5.09,8.75
+PORT FAIRY,19/08/2024,1.7,0.8, ,19.0,5.0,96,61,2.56,9.84
+PORT FAIRY,20/08/2024,1.5,0.2, ,16.5,10.1,92,71,3.40,6.64
+PORT FAIRY,21/08/2024,2.1,2.2, ,17.7,10.9,94,62,4.54,12.36
+PORT FAIRY,22/08/2024,2.1,2.2, ,16.6,8.4,94,59,4.38,12.48
+PORT FAIRY,23/08/2024,1.4,0.0, ,16.7,7.8,93,70,3.00,6.67
+PORT FAIRY,24/08/2024,2.7,5.6, ,21.2,11.3,88,56,4.25,12.82
+PORT FAIRY,25/08/2024,3.1,0.2, ,21.9,10.9,91,49,5.29,11.07
+PORT FAIRY,26/08/2024,2.3,12.0, ,17.1,11.5,92,65,6.01,12.50
+Totals:,,48.8,40.6, ,,,,,, 

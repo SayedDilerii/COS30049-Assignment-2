@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/02/2014,7.6,0.0, ,27.0,18.0,55,20,4.38,30.53
+MOUNT BULLER,02/02/2014,6.4,0.0, ,28.2,17.1,41,15,1.87,31.02
+MOUNT BULLER,03/02/2014,7.5,0.0, ,28.1,18.7,74,26,5.93,26.65
+MOUNT BULLER,04/02/2014,5.6,3.6, ,16.7,6.1,99,9,5.61,31.27
+MOUNT BULLER,05/02/2014,4.8,0.0, ,19.7,9.2,77,48,2.09,29.53
+MOUNT BULLER,06/02/2014,5.0,0.0, ,20.5,10.1,75,40,2.33,28.58
+MOUNT BULLER,07/02/2014,5.7,0.0, ,22.9,12.5,68,38,4.58,26.17
+MOUNT BULLER,08/02/2014,8.4,0.0, ,26.0,15.4,46,28,8.34,28.64
+MOUNT BULLER,09/02/2014,8.7,0.0, ,25.9,17.7,59,23,12.07,20.18
+MOUNT BULLER,10/02/2014,6.3,0.0, ,23.7,9.6,86,3,3.40,29.69
+MOUNT BULLER,11/02/2014,6.3,0.0, ,23.9,12.9,61,13,3.27,28.98
+MOUNT BULLER,12/02/2014,5.3,0.0, ,25.2,14.5,56,17,2.20,23.66
+MOUNT BULLER,13/02/2014,3.4,0.0, ,20.5,16.7,96,34,3.42,12.18
+MOUNT BULLER,14/02/2014,2.5,0.0, ,17.4,11.2,98,62,4.05,10.98
+MOUNT BULLER,15/02/2014,1.0,2.4, ,15.2,11.0,100,96,3.47,5.02
+MOUNT BULLER,16/02/2014,3.9,6.0, ,13.6,8.6,100,30,7.55,21.00
+MOUNT BULLER,17/02/2014,5.1,0.0, ,18.1,5.4,77,9,3.38,27.39
+MOUNT BULLER,18/02/2014,4.0,0.0, ,19.1,9.2,99,53,7.25,21.94
+MOUNT BULLER,19/02/2014,2.0,0.0, ,12.6,10.0,100,54,9.35,3.60
+MOUNT BULLER,20/02/2014,0.9,26.4, ,4.9,-0.1,100,84,6.15,7.15
+MOUNT BULLER,21/02/2014,3.9,0.0, ,12.0,-0.1,100,11,4.76,24.25
+MOUNT BULLER,22/02/2014,5.1,0.0, ,17.1,2.5,65,7,4.04,27.20
+MOUNT BULLER,23/02/2014,5.1,0.0, ,19.2,9.1,65,21,3.54,26.56
+MOUNT BULLER,24/02/2014,4.6,0.0, ,20.1,10.3,70,42,3.43,24.19
+MOUNT BULLER,25/02/2014,3.7,0.0, ,19.3,12.0,95,49,8.34,14.38
+MOUNT BULLER,26/02/2014,3.3,2.8, ,16.1,9.4,99,56,5.77,19.82
+MOUNT BULLER,27/02/2014,4.2,0.0, ,17.3,4.7,94,19,2.37,26.26
+MOUNT BULLER,28/02/2014,3.5,0.0, ,18.0,8.5,99,51,4.24,19.58
+Totals:,,133.8,41.2, ,,,,,, 

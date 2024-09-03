@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for June 2016,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 July 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/06/2016,0.7,0.2, ,4.0,-0.4,99,78,5.10,7.76
+MOUNT HOTHAM,02/06/2016,0.7,0.0, ,2.9,-0.8,99,72,4.74,9.55
+MOUNT HOTHAM,03/06/2016,0.6,0.6, ,3.4,-1.3,99,77,5.32,4.24
+MOUNT HOTHAM,04/06/2016,0.2,4.0, ,6.5,0.4,99,99,10.17,3.03
+MOUNT HOTHAM,05/06/2016,0.2,15.8, ,5.6,2.5,100,99,9.13,2.40
+MOUNT HOTHAM,06/06/2016,0.2,17.8, ,-0.1,-1.0,99,99,7.39,3.12
+MOUNT HOTHAM,07/06/2016,0.4,2.6, ,1.3,-1.5,99,99,0.57,3.98
+MOUNT HOTHAM,08/06/2016,0.2,11.6, ,3.6,-1.4,99,99,13.63,3.88
+MOUNT HOTHAM,09/06/2016,0.2,48.6, ,1.3,-0.3,99,99,13.05,3.23
+MOUNT HOTHAM,10/06/2016,0.3,28.2, ,0.1,-1.0,99,99,5.72,4.25
+MOUNT HOTHAM,11/06/2016,0.4,1.0, ,-0.1,-3.6,99,96,0.00,3.42
+MOUNT HOTHAM,12/06/2016,0.3,0.0, ,5.8,-6.2,96,7,0.00,9.16
+MOUNT HOTHAM,13/06/2016,2.5,0.2, ,5.6,-0.9,54,7,6.33,9.35
+MOUNT HOTHAM,14/06/2016,3.6,0.2, ,7.7,0.6,28,4,8.21,8.82
+MOUNT HOTHAM,15/06/2016,3.1,0.0, ,9.1,2.5,27,3,5.22,9.51
+MOUNT HOTHAM,16/06/2016,2.5,0.2, ,3.3,-1.5,99,4,14.81,6.17
+MOUNT HOTHAM,17/06/2016,0.2,13.6, ,3.0,-0.2,99,99,12.46,2.55
+MOUNT HOTHAM,18/06/2016,0.3,11.2, ,3.3,1.1,99,99,3.10,4.91
+MOUNT HOTHAM,19/06/2016,0.6,2.2, ,3.9,1.5,99,83,5.79,5.67
+MOUNT HOTHAM,20/06/2016,0.2,15.6, ,2.5,-0.1,99,99,14.41,3.15
+MOUNT HOTHAM,21/06/2016,0.3,6.0, ,-0.3,-1.1,99,99,1.33,2.97
+MOUNT HOTHAM,22/06/2016,0.4,0.0, ,-0.5,-2.7,99,99,0.00,3.06
+MOUNT HOTHAM,23/06/2016,0.4,0.0, ,-1.1,-2.0,99,99,0.00,2.42
+MOUNT HOTHAM,24/06/2016,0.4,0.0, ,-4.6,-4.6,99,95,0.00,4.03
+MOUNT HOTHAM,25/06/2016,0.3,0.0, ,-4.1,-7.3,97,95,0.00,5.01
+MOUNT HOTHAM,26/06/2016,0.4,0.0, ,-1.8,-6.3,99,96,0.00,6.56
+MOUNT HOTHAM,27/06/2016,0.4,0.0, ,-2.3,-7.6,99,94,0.00,5.51
+MOUNT HOTHAM,28/06/2016,0.3,1.0, ,-0.7,-7.3,99,96,0.77,4.63
+MOUNT HOTHAM,29/06/2016,0.3,0.0, ,-0.3,-4.7,99,99,1.88,3.99
+MOUNT HOTHAM,30/06/2016,0.4,0.0, ,-2.2,-3.4,99,98,0.00,4.10
+Totals:,,21,180.6, ,,,,,, 

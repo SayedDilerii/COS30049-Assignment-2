@@ -1,0 +1,43 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for February 2024,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 March 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/02/2024,4.8,0.0, ,24.6,9.8,98,50,4.43,24.89
+CASTERTON,02/02/2024,5.8,0.2, ,24.9,14.2,96,30,3.77,28.35
+CASTERTON,03/02/2024,7.2,0.0, ,32.7,7.2,96,20,3.41,28.42
+CASTERTON,04/02/2024,8.5,0.0, ,37.8,13.7,99,18,4.05,26.43
+CASTERTON,05/02/2024,4.8,0.0, ,22.9,14.4,90,41,4.66,21.86
+CASTERTON,06/02/2024,4.5,0.2, ,22.9,4.8,96,37,2.93,24.21
+CASTERTON,07/02/2024, ,0.0, , ,6.4,98,41,2.73,18.99
+CASTERTON,08/02/2024, , , ,26.5, ,93,35,3.83,27.43
+CASTERTON,09/02/2024,5.3,0.0, ,24.3,9.0,94,41,4.44,27.10
+CASTERTON,10/02/2024,6.3,0.0, ,27.2,13.7,89,29,4.45,27.01
+CASTERTON,11/02/2024,6.6,0.0, ,33.3,8.9,98,20,2.72,26.88
+CASTERTON,12/02/2024,6.5,0.0, ,34.3,11.8,99,23,2.74,25.50
+CASTERTON,13/02/2024,7.0,0.0, ,29.3,14.3,88,31,6.01,25.04
+CASTERTON,14/02/2024,4.5,0.0, ,20.9,5.9,88,35,3.63,24.31
+CASTERTON,15/02/2024,4.4,0.0, ,23.7,3.6,93,40,2.62,24.70
+CASTERTON,16/02/2024,5.8,0.0, ,27.6,8.9,93,31,3.71,25.86
+CASTERTON,17/02/2024,5.7,0.0, ,29.8,10.3,96,30,3.18,23.71
+CASTERTON,18/02/2024,5.6,0.0, ,28.6,9.8,97,34,3.72,24.20
+CASTERTON,19/02/2024,6.3,0.0, ,28.9,12.7,89,32,4.57,25.21
+CASTERTON,20/02/2024,3.3,0.0, ,26.7,14.3,92,40,2.82,9.26
+CASTERTON,21/02/2024,6.9,0.0, ,35.6,12.9,94,22,3.22,24.47
+CASTERTON,22/02/2024,9.0,0.0, ,34.4,19.8,77,21,6.49,24.49
+CASTERTON,23/02/2024,3.7,0.0, ,19.3,13.5,78,46,5.20,12.12
+CASTERTON,24/02/2024,5.3,0.0, ,25.5,12.9,77,32,3.68,22.55
+CASTERTON,25/02/2024,4.9,0.0, ,27.5,8.1,93,31,3.61,17.41
+CASTERTON,26/02/2024,4.7,0.2, ,23.9,10.7,95,38,4.54,20.88
+CASTERTON,27/02/2024,6.5,0.0, ,32.6,10.3,86,22,3.48,23.43
+CASTERTON,28/02/2024,10.7,0.0, ,38.0,14.0,79,15,7.60,19.10
+CASTERTON,29/02/2024,5.1,0.0, ,27.7,16.1,86,40,3.57,21.62
+Totals:,,159.7,0.6, ,,,,,, 

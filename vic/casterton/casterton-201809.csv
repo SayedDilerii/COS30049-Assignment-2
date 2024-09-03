@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for September 2018,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 October 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/09/2018,1.6,4.4, ,13.4,5.9,99,70,4.25,11.82
+CASTERTON,02/09/2018,1.5,0.6, ,13.1,2.1,99,66,1.75,12.09
+CASTERTON,03/09/2018,1.4,0.2, ,12.5,-0.1,99,63,2.11,10.82
+CASTERTON,04/09/2018,2.4,0.0, ,16.3,3.3,98,47,3.02,15.48
+CASTERTON,05/09/2018,3.1,0.0, ,18.8,3.8,95,43,4.90,15.27
+CASTERTON,06/09/2018,2.4,0.0, ,14.7,11.3,99,44,5.77,8.50
+CASTERTON,07/09/2018,2.0,4.2, ,14.9,1.8,99,53,2.64,13.91
+CASTERTON,08/09/2018,2.3,0.0, ,15.8,2.1,98,57,4.90,12.92
+CASTERTON,09/09/2018,1.4,0.6, ,15.6,8.7,99,79,5.18,8.42
+CASTERTON,10/09/2018,2.3,0.4, ,19.0,11.3,99,69,3.20,16.16
+CASTERTON,11/09/2018,5.0,0.0, ,23.3,9.7,96,28,7.27,15.12
+CASTERTON,12/09/2018,2.3,2.4, ,15.5,5.7,95,58,5.25,13.22
+CASTERTON,13/09/2018,1.9,0.2, ,16.2,6.2,98,66,4.19,10.72
+CASTERTON,14/09/2018,4.2,0.0, ,22.0,6.4,97,36,5.58,18.10
+CASTERTON,15/09/2018,2.0,3.8, ,10.5,5.8,96,60,7.25,14.21
+CASTERTON,16/09/2018,1.8,5.8, ,14.1,1.7,98,65,3.76,11.50
+CASTERTON,17/09/2018,3.3,0.8, ,17.0,5.6,94,44,5.51,18.59
+CASTERTON,18/09/2018,2.9,0.2, ,15.6,8.3,95,40,5.71,12.04
+CASTERTON,19/09/2018,2.0,6.0, ,13.6,3.0,99,62,3.89,14.97
+CASTERTON,20/09/2018,1.8,0.8, ,15.6,2.0,99,67,3.39,11.39
+CASTERTON,21/09/2018,2.2,0.4, ,17.3,7.9,99,64,3.76,13.36
+CASTERTON,22/09/2018,1.9,0.0, ,16.6,3.0,99,64,2.65,10.86
+CASTERTON,23/09/2018,1.9,0.0, ,13.2,7.1,99,64,3.88,12.27
+CASTERTON,24/09/2018,1.7,0.0, ,11.7,4.4,93,66,3.90,9.79
+CASTERTON,25/09/2018,2.3,0.0, ,14.1,4.7,89,65,3.95,17.22
+CASTERTON,26/09/2018,3.1,0.0, ,18.2,0.7,98,37,2.48,20.00
+CASTERTON,27/09/2018,2.7,0.0, ,16.9,7.1,97,43,3.87,11.52
+CASTERTON,28/09/2018,2.5,1.2, ,14.8,6.9,99,57,4.94,16.67
+CASTERTON,29/09/2018,2.2,1.8, ,14.4,1.0,96,59,3.34,14.22
+CASTERTON,30/09/2018,2.8,0.0, ,17.3,4.5,99,60,2.32,20.76
+Totals:,,70.9,33.8, ,,,,,, 

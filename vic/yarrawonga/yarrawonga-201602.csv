@@ -1,0 +1,37 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for YARRAWONGA Victoria for February 2016,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 24 February 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+YARRAWONGA,01/02/2016, ,17.8, , ,12.5, , , ,29.51
+YARRAWONGA,02/02/2016, , , , , , , , ,27.54
+YARRAWONGA,03/02/2016, , , ,26.1, ,91,63,5.49,10.19
+YARRAWONGA,04/02/2016,7.1,0.0, ,31.9,12.7,79,26,3.38,29.69
+YARRAWONGA,05/02/2016,6.0,0.0, ,30.6,13.9,86,24,1.83,29.55
+YARRAWONGA,06/02/2016,6.1,0.0, ,30.6,16.1,86,29,2.05,29.20
+YARRAWONGA,07/02/2016,6.3,0.0, ,33.7,16.1,89,28,1.93,28.46
+YARRAWONGA,08/02/2016,7.5,0.0, ,35.9,17.4,89,24,3.10,28.65
+YARRAWONGA,09/02/2016,7.3,0.0, ,35.1,13.8,88,14,2.69,29.06
+YARRAWONGA,10/02/2016,7.4,0.0, ,34.7,12.7,90,15,3.02,28.56
+YARRAWONGA,11/02/2016,7.6,0.0, ,35.7,14.9,76,18,3.06,27.94
+YARRAWONGA,12/02/2016,6.1,0.0, ,35.3,14.3,87,18,1.59,28.02
+YARRAWONGA,13/02/2016,7.5,0.0, ,38.3,15.9,82,16,2.97,24.30
+YARRAWONGA,14/02/2016,7.3,0.0, ,29.2,17.6,85,24,5.01,28.53
+YARRAWONGA,15/02/2016,6.6,0.0, ,28.2,13.8,82,25,3.95,27.99
+YARRAWONGA,16/02/2016,7.0,0.0, ,24.2,14.7,74,28,7.53,27.79
+YARRAWONGA,17/02/2016,6.0,0.0, ,25.8,11.4,78,40,6.99,22.85
+YARRAWONGA,18/02/2016,6.0,0.0, ,29.6,13.1,89,34,3.42,26.88
+YARRAWONGA,19/02/2016,6.5,0.0, ,32.9,12.5,90,27,3.18,25.49
+YARRAWONGA,20/02/2016,7.1,0.0, ,29.8,13.5,84,19,4.36,27.56
+YARRAWONGA,21/02/2016,5.9,0.0, ,33.7,8.8,89,15,1.77,27.10
+YARRAWONGA,22/02/2016,6.4,0.0, ,36.3,14.3,69,19,2.36,23.00
+YARRAWONGA,23/02/2016, ,0.0, , ,20.5, , , ,24.12
+Totals:,,127.7,17.8, ,,,,,, 

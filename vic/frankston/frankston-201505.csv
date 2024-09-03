@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for May 2015,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 June 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/05/2015,2.0, , ,22.0,9.0,86,44,1.68,12.09
+FRANKSTON,02/05/2015,1.8, , ,19.8,13.9,81,59,2.67,4.91
+FRANKSTON,03/05/2015,1.4, , ,15.9,13.1,90,75,2.29,11.13
+FRANKSTON,04/05/2015, , , , , ,100,47,3.05,10.79
+FRANKSTON,05/05/2015, , , ,15.9, ,75,45,11.25,5.73
+FRANKSTON,06/05/2015,2.5, , ,15.1,11.2,81,62,10.07,6.67
+FRANKSTON,07/05/2015,2.3, , ,13.8,10.6,78,65,9.41,7.51
+FRANKSTON,08/05/2015,2.0, , ,15.1,11.1,84,69,8.41,6.51
+FRANKSTON,09/05/2015,2.1, , ,16.6,12.2,85,67,8.03,4.72
+FRANKSTON,10/05/2015,2.1, , ,14.7,12.6,87,65,9.68,5.72
+FRANKSTON,11/05/2015,1.9, , ,15.1,11.3,91,65,8.50,4.29
+FRANKSTON,12/05/2015,2.4, , ,14.3,11.5,87,60,10.83,6.53
+FRANKSTON,13/05/2015,2.1, , ,13.1,6.2,88,52,7.14,8.01
+FRANKSTON,14/05/2015,1.4, , ,14.2,8.7,89,73,5.94,6.97
+FRANKSTON,15/05/2015,0.9, , ,13.6,11.1,90,74,1.71,4.49
+FRANKSTON,16/05/2015,1.1, , ,15.5,9.8,91,69,1.54,10.18
+FRANKSTON,17/05/2015,1.2, , ,20.4,8.7,91,47,0.92,10.11
+FRANKSTON,18/05/2015,1.2, , ,19.1,7.8,87,49,1.22,10.10
+FRANKSTON,19/05/2015,1.7, , ,15.2,11.3,86,47,3.16,3.09
+FRANKSTON,20/05/2015,1.5, , ,15.6,13.1,91,69,5.12,4.86
+FRANKSTON,21/05/2015,1.0, , ,13.0,10.8,93,68,2.04,4.36
+FRANKSTON,22/05/2015,1.0, , ,14.0,9.8,91,64,1.65,5.23
+FRANKSTON,23/05/2015,1.0, , ,12.7,10.2,82,67,1.47,6.80
+FRANKSTON,24/05/2015,1.0, , ,13.2,5.9,88,57,1.44,8.26
+FRANKSTON,25/05/2015,0.8, , ,15.4,6.8,100,62,0.82,7.48
+FRANKSTON,26/05/2015,0.7, , ,14.9,6.2,100,61,0.64,7.22
+FRANKSTON,27/05/2015,1.4, , ,16.5,9.3,79,67,3.25,5.36
+FRANKSTON,28/05/2015,2.0, , ,17.4,12.3,84,63,6.12,7.71
+FRANKSTON,29/05/2015,2.1, , ,14.1,11.6,73,62,6.00,7.12
+FRANKSTON,30/05/2015,2.2, , ,14.7,11.4,78,63,7.60,7.46
+FRANKSTON,31/05/2015,1.7, , ,14.1,11.9,85,68,6.99,5.42
+Totals:,,46.5, , ,,,,,, 

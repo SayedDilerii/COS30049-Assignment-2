@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for September 2014,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 October 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/09/2014,1.7,8.2, ,13.9,10.5,100,60,3.76,8.96
+CASTERTON,02/09/2014,1.8,5.8, ,13.5,3.6,99,59,3.27,12.53
+CASTERTON,03/09/2014,1.6,0.4, ,13.4,1.4,100,51,1.45,13.33
+CASTERTON,04/09/2014,2.1,0.0, ,14.3,5.3,98,50,2.61,15.76
+CASTERTON,05/09/2014,2.1,0.0, ,15.4,2.6,100,56,3.00,14.93
+CASTERTON,06/09/2014,2.4,0.2, ,18.4,0.6,100,41,2.00,16.93
+CASTERTON,07/09/2014,3.3,0.0, ,19.7,4.1,98,38,4.42,17.09
+CASTERTON,08/09/2014,4.8,0.0, ,21.5,12.2,65,39,7.86,12.12
+CASTERTON,09/09/2014,3.2,3.6, ,18.0,12.0,98,46,6.55,15.98
+CASTERTON,10/09/2014,2.6,0.0, ,17.3,7.2,98,56,6.52,11.65
+CASTERTON,11/09/2014,2.5,3.0, ,14.1,7.2,99,46,4.87,13.85
+CASTERTON,12/09/2014,1.6,0.8, ,14.5,1.7,99,56,1.65,10.39
+CASTERTON,13/09/2014,1.8,0.0, ,16.2,3.0,100,57,1.82,10.90
+CASTERTON,14/09/2014,2.4,0.0, ,17.5,4.9,99,62,3.77,16.37
+CASTERTON,15/09/2014,1.8,0.6, ,17.3,9.6,98,79,5.75,11.55
+CASTERTON,16/09/2014,2.2,0.0, ,15.9,8.4,99,61,4.38,12.64
+CASTERTON,17/09/2014,2.2,1.6, ,13.0,5.0,99,58,5.12,14.98
+CASTERTON,18/09/2014,2.1,0.4, ,14.6,6.0,99,59,3.06,14.56
+CASTERTON,19/09/2014,1.9,0.0, ,15.4,-0.7,100,57,1.65,14.46
+CASTERTON,20/09/2014,2.4,0.0, ,16.5,-0.1,100,54,2.15,18.22
+CASTERTON,21/09/2014,2.4,0.0, ,16.2,0.7,99,54,1.68,20.18
+CASTERTON,22/09/2014,3.5,0.0, ,22.1,0.7,99,34,2.49,20.54
+CASTERTON,23/09/2014,3.8,0.2, ,24.0,7.4,98,41,3.47,18.12
+CASTERTON,24/09/2014,1.5,0.6, ,16.7,12.1,99,65,2.41,5.38
+CASTERTON,25/09/2014,1.7,3.2, ,15.9,10.8,99,66,3.51,7.41
+CASTERTON,26/09/2014,2.0,0.0, ,18.3,6.5,100,66,2.71,11.41
+CASTERTON,27/09/2014,4.1,0.2, ,24.4,7.3,100,43,4.11,19.87
+CASTERTON,28/09/2014,6.3,0.0, ,26.6,14.8,95,25,9.20,13.49
+CASTERTON,29/09/2014,3.6,0.2, ,19.7,8.0,99,44,5.16,19.02
+CASTERTON,30/09/2014,2.7,0.2, ,17.8,9.1,98,56,7.25,10.28
+Totals:,,78.1,29.2, ,,,,,, 

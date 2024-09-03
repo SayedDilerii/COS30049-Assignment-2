@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for February 2015,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 March 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/02/2015,2.6,4.0, ,13.8,4.2,99,70,2.48,18.22
+MOUNT BAW BAW,02/02/2015,2.3,0.0, ,13.0,4.8,99,77,2.71,16.13
+MOUNT BAW BAW,03/02/2015,3.6,0.0, ,15.5,5.6,99,28,3.59,19.04
+MOUNT BAW BAW,04/02/2015,2.4,0.0, ,12.0,2.7,99,70,3.90,17.93
+MOUNT BAW BAW,05/02/2015,4.3,0.0, ,17.0,4.5,99,44,2.59,29.28
+MOUNT BAW BAW,06/02/2015,5.4,0.0, ,21.3,10.7,63,26,2.47,29.20
+MOUNT BAW BAW,07/02/2015,4.7,0.0, ,21.4,14.3,62,48,2.98,22.89
+MOUNT BAW BAW,08/02/2015,4.3,0.0, ,19.8,15.1,82,18,3.45,16.06
+MOUNT BAW BAW,09/02/2015,5.0,0.0, ,17.7,7.5,99,11,3.42,28.32
+MOUNT BAW BAW,10/02/2015,4.2,0.0, ,20.9,7.9,99,65,2.87,26.73
+MOUNT BAW BAW,11/02/2015,5.3,0.0, ,23.6,13.6,83,24,3.36,23.60
+MOUNT BAW BAW,12/02/2015,4.2,0.0, ,20.4,10.7,99,33,2.29,22.31
+MOUNT BAW BAW,13/02/2015,3.2,0.0, ,20.8,10.2,99,55,2.57,16.41
+MOUNT BAW BAW,14/02/2015,1.6,26.0, ,12.5,9.9,99,75,4.76,7.57
+MOUNT BAW BAW,15/02/2015,5.1,19.2, ,20.1,8.2,99,12,3.22,27.49
+MOUNT BAW BAW,16/02/2015,2.8,0.0, ,21.6,12.5,99,46,3.27,9.13
+MOUNT BAW BAW,17/02/2015,2.3,0.0, ,21.1,10.6,99,63,2.82,9.59
+MOUNT BAW BAW,18/02/2015,2.3,0.0, ,17.4,10.4,99,46,3.15,7.16
+MOUNT BAW BAW,19/02/2015,3.0,3.2, ,18.3,10.1,99,68,3.21,17.80
+MOUNT BAW BAW,20/02/2015,4.5,0.0, ,20.9,12.0,95,44,2.74,26.14
+MOUNT BAW BAW,21/02/2015,4.2,0.0, ,22.2,14.7,99,46,2.30,22.88
+MOUNT BAW BAW,22/02/2015,3.3,14.6, ,22.6,14.2,88,48,2.38,14.56
+MOUNT BAW BAW,23/02/2015,2.9,8.2, ,21.4,13.8,99,40,3.49,8.51
+MOUNT BAW BAW,24/02/2015,2.5,9.8, ,11.9,3.1,99,68,3.18,19.72
+MOUNT BAW BAW,25/02/2015,2.7,0.2, ,13.8,4.9,100,82,3.21,23.50
+MOUNT BAW BAW,26/02/2015,2.3,0.0, ,14.4,9.0,99,65,3.67,13.01
+MOUNT BAW BAW,27/02/2015,3.5,0.0, ,17.0,6.6,99,46,2.31,23.39
+MOUNT BAW BAW,28/02/2015,3.2,0.0, ,17.5,8.9,99,16,3.92,7.89
+Totals:,,97.7,85.2, ,,,,,, 

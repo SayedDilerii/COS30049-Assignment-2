@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for April 2020,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 May 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/04/2020,3.7,0.2, ,23.8,8.3,96,28,2.85,17.28
+GELANTIPY,02/04/2020,2.4,0.6, ,20.4,12.7,95,54,4.67,6.29
+GELANTIPY,03/04/2020,2.8,1.0, ,19.6,9.1,86,48,4.23,10.15
+GELANTIPY,04/04/2020,2.0,2.6, ,14.9,10.4,98,52,4.90,6.58
+GELANTIPY,05/04/2020,2.6,12.6, ,14.1,5.1,99,50,7.68,15.36
+GELANTIPY,06/04/2020,1.6,7.4, ,11.8,6.2,100,66,2.62,12.34
+GELANTIPY,07/04/2020,1.6,0.0, ,13.2,6.0,93,69,1.47,11.92
+GELANTIPY,08/04/2020,0.8,0.0, ,11.8,7.6,99,80,1.63,3.35
+GELANTIPY,09/04/2020,2.3,0.2, ,17.6,7.4,97,59,4.00,14.29
+GELANTIPY,10/04/2020,2.8,0.0, ,20.0,8.0,97,42,3.89,11.84
+GELANTIPY,11/04/2020,2.0,0.0, ,11.5,10.0,97,54,8.11,7.14
+GELANTIPY,12/04/2020,1.7,3.8, ,12.5,4.2,96,66,4.58,10.61
+GELANTIPY,13/04/2020,1.6,0.0, ,15.0,7.0,100,60,1.35,11.97
+GELANTIPY,14/04/2020,1.9,0.2, ,17.8,7.0,99,54,2.57,9.97
+GELANTIPY,15/04/2020,4.4,0.0, ,26.3,11.2,86,22,3.98,15.04
+GELANTIPY,16/04/2020,3.8,0.0, ,23.4,16.7,99,33,5.67,12.70
+GELANTIPY,17/04/2020,2.8,0.6, ,18.5,4.8,100,28,3.27,14.77
+GELANTIPY,18/04/2020,2.2,0.0, ,15.0,6.3,92,50,3.19,14.53
+GELANTIPY,19/04/2020,1.6,0.0, ,15.3,7.2,95,46,1.57,10.20
+GELANTIPY,20/04/2020,2.7,1.0, ,17.6,6.7,91,46,4.98,12.32
+GELANTIPY,21/04/2020,2.4,0.0, ,17.2,4.4,100,41,3.49,13.81
+GELANTIPY,22/04/2020,2.6,0.0, ,18.9,7.4,96,32,2.80,13.86
+GELANTIPY,23/04/2020,2.5,0.0, ,18.7,5.7,98,37,3.12,13.35
+GELANTIPY,24/04/2020,3.2,0.0, ,21.0,9.6,84,36,4.03,13.46
+GELANTIPY,25/04/2020,3.1,0.0, ,20.2,5.9,87,24,3.75,9.67
+GELANTIPY,26/04/2020,1.9,4.2, ,17.7,11.0,100,52,3.88,6.43
+GELANTIPY,27/04/2020,1.5,4.8, ,14.7,3.8,99,61,1.77,13.15
+GELANTIPY,28/04/2020,3.0,0.0, ,20.1,4.9,96,36,4.68,12.44
+GELANTIPY,29/04/2020,1.7,5.8, ,18.8,11.9,100,65,4.90,4.94
+GELANTIPY,30/04/2020,1.1,10.2, ,10.2,7.7,100,67,4.25,4.75
+Totals:,,70.3,55.2, ,,,,,, 

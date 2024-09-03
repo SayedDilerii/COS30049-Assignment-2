@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for November 2011,,,,,,,,,,
+Issued at 22:35 GMT on Thursday 01 December 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/11/2011,1.0,0.0, ,6.2,-0.6,99,99,6.25,12.68
+MOUNT BAW BAW,02/11/2011,0.8,4.4, ,4.2,1.8,99,99,7.35,11.24
+MOUNT BAW BAW,03/11/2011,0.9,6.0, ,4.4,-1.3,99,99,5.12,11.12
+MOUNT BAW BAW,04/11/2011,3.1,0.2, ,13.2,-0.4,99,76,3.83,29.00
+MOUNT BAW BAW,05/11/2011,5.0,0.0, ,18.6,4.4,85,30,3.19,31.07
+MOUNT BAW BAW,06/11/2011,4.1,0.0, ,19.0,11.5,99,46,3.84,22.35
+MOUNT BAW BAW,07/11/2011,4.3,0.0, ,16.8,6.5,99,55,3.34,30.32
+MOUNT BAW BAW,08/11/2011,2.7,16.4, ,14.1,8.3,99,70,4.00,18.27
+MOUNT BAW BAW,09/11/2011,2.6,8.4, ,14.0,8.4,99,85,5.03,21.58
+MOUNT BAW BAW,10/11/2011,1.9,41.2, ,7.0,2.1,99,83,6.77,21.79
+MOUNT BAW BAW,11/11/2011,3.9,1.0, ,11.7,0.3,99,36,3.25,30.77
+MOUNT BAW BAW,12/11/2011,3.9,0.2, ,12.6,4.9,93,59,4.38,31.73
+MOUNT BAW BAW,13/11/2011,3.4,0.0, ,14.7,7.4,95,43,3.71,19.42
+MOUNT BAW BAW,14/11/2011,3.0,5.0, ,10.5,7.2,99,59,5.68,23.87
+MOUNT BAW BAW,15/11/2011,4.1,6.6, ,15.1,3.7,99,55,4.98,31.90
+MOUNT BAW BAW,16/11/2011,3.2,24.0, ,11.8,2.7,99,42,3.37,21.85
+MOUNT BAW BAW,17/11/2011,4.2,0.0, ,14.7,3.8,99,36,3.16,28.40
+MOUNT BAW BAW,18/11/2011,4.5,0.0, ,19.1,8.7,99,62,4.49,30.65
+MOUNT BAW BAW,19/11/2011,2.6,18.0, ,13.2,10.8,99,63,4.55,15.25
+MOUNT BAW BAW,20/11/2011,2.6,28.2, ,7.3,2.8,99,72,5.68,27.20
+MOUNT BAW BAW,21/11/2011,3.5,0.2, ,11.3,-0.3,99,67,3.97,33.00
+MOUNT BAW BAW,22/11/2011,2.4,0.0, ,7.4,1.9,99,74,4.54,23.07
+MOUNT BAW BAW,23/11/2011,2.6,1.4, ,7.8,-0.3,99,71,4.18,26.05
+MOUNT BAW BAW,24/11/2011,4.5,0.0, ,12.8,0.2,99,20,3.44,33.70
+MOUNT BAW BAW,25/11/2011,2.9,0.0, ,13.2,4.9,99,52,2.17,18.05
+MOUNT BAW BAW,26/11/2011,2.7,14.2, ,11.5,8.9,99,83,4.26,22.28
+MOUNT BAW BAW,27/11/2011,3.2,62.0, ,12.8,3.4,99,72,6.26,28.74
+MOUNT BAW BAW,28/11/2011,4.3,0.6, ,17.3,4.6,94,53,4.12,29.18
+MOUNT BAW BAW,29/11/2011,5.4,0.0, ,20.6,11.2,72,44,4.92,27.18
+MOUNT BAW BAW,30/11/2011,2.0,4.8, ,7.1,6.9,99,60,6.30,13.65
+Totals:,,95.3,242.8, ,,,,,, 

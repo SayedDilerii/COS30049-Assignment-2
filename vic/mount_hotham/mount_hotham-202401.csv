@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for January 2024,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 03 January 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,27/12/2023,2.6,9.8, ,13.4,6.8,100,70,3.38,16.88
+MOUNT HOTHAM,28/12/2023,3.4,4.8, ,15.9,6.7,100,70,5.42,24.96
+MOUNT HOTHAM,29/12/2023,4.3,0.0, ,13.8,6.8,90,49,5.63,29.48
+MOUNT HOTHAM,30/12/2023,4.1,0.0, ,12.9,2.7,100,44,4.53,30.81
+MOUNT HOTHAM,31/12/2023,4.5,0.0, ,15.4,0.7,92,18,3.18,27.47
+MOUNT HOTHAM,01/01/2024,4.2,0.0, ,17.7,7.7,100,62,4.23,28.41
+MOUNT HOTHAM,02/01/2024, ,0.0, , ,9.7,100,72,5.91,16.17
+Totals:,,23.1,14.6, ,,,,,, 

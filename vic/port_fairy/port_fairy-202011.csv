@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for November 2020,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 December 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/11/2020,3.5,0.0, ,16.7,11.1,100,41,3.56,20.57
+PORT FAIRY,02/11/2020, ,0.0, , ,9.4,100,23,3.36,27.63
+PORT FAIRY,03/11/2020,8.4,0.0, ,31.8,13.7,33,13,4.50,24.84
+PORT FAIRY,04/11/2020,5.5,1.4, ,17.7,13.9,46,29,6.37,16.41
+PORT FAIRY,05/11/2020,4.1,2.6, ,15.9,10.1,84,37,6.01,20.69
+PORT FAIRY,06/11/2020,3.5,0.0, ,16.8,10.1,87,55,5.52,19.27
+PORT FAIRY,07/11/2020,4.6,0.4, ,16.8,11.3,72,47,5.30,25.88
+PORT FAIRY,08/11/2020,4.3,0.0, ,17.6,10.6,85,56,4.50,28.73
+PORT FAIRY,09/11/2020,6.1,0.0, ,30.1,10.9,85,29,3.07,26.09
+PORT FAIRY,10/11/2020,9.0,0.0, ,34.2,16.6,64,24,5.30,28.91
+PORT FAIRY,11/11/2020,2.7,2.4, ,19.4,18.9,91,43,3.56,7.02
+PORT FAIRY,12/11/2020,3.5,10.6, ,19.4,12.9,89,63,6.42,17.57
+PORT FAIRY,13/11/2020,3.5,0.6, ,18.3,11.9,91,62,5.70,19.76
+PORT FAIRY,14/11/2020,2.8,1.0, ,19.0,10.1,92,61,3.10,14.50
+PORT FAIRY,15/11/2020,7.9,0.2, ,32.7,12.0,86,24,4.41,29.44
+PORT FAIRY,16/11/2020,4.3,0.2, ,18.4,13.3,86,53,8.35,22.21
+PORT FAIRY,17/11/2020,4.2,0.0, ,19.7,8.5,90,63,3.85,28.20
+PORT FAIRY,18/11/2020,6.4,0.0, ,29.8,10.2,91,24,3.30,26.55
+PORT FAIRY,19/11/2020,9.7,0.0, ,35.5,14.9,84,9,5.78,23.77
+PORT FAIRY,20/11/2020,3.2,0.0, ,18.5,14.5,86,68,5.66,16.26
+PORT FAIRY,21/11/2020,3.9,0.0, ,21.4,12.1,90,66,3.12,23.11
+PORT FAIRY,22/11/2020,2.9,0.2, ,26.0,13.8,94,55,3.03,8.27
+PORT FAIRY,23/11/2020,3.5,16.0, ,18.8,13.9,96,72,5.18,23.47
+PORT FAIRY,24/11/2020,4.0,0.0, ,19.8,13.6,86,62,4.89,21.95
+PORT FAIRY,25/11/2020,6.1,0.0, ,28.4,11.1,91,44,3.45,30.75
+PORT FAIRY,26/11/2020,4.9,0.0, ,19.1,14.4,86,53,4.90,29.05
+PORT FAIRY,27/11/2020,6.5,0.0, ,31.4,10.5,88,44,3.38,29.43
+PORT FAIRY,28/11/2020,1.8,0.0, ,18.6,14.5,98,77,3.95,7.83
+PORT FAIRY,29/11/2020,3.9,32.2, ,18.8,12.2,99,62,6.74,24.95
+PORT FAIRY,30/11/2020,4.4,0.4, ,20.8,9.5,92,64,3.25,28.66
+Totals:,,139.1,68.2, ,,,,,, 

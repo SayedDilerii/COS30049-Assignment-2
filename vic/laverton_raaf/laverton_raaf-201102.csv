@@ -1,0 +1,41 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAVERTON RAAF Victoria for February 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 March 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAVERTON RAAF,01/02/2011,11.8,0.0, ,40.5,21.8,87,20,7.99,27.36
+LAVERTON RAAF,02/02/2011,5.5,0.0, ,26.3,17.0,86,61,3.73,29.05
+LAVERTON RAAF,03/02/2011,4.1,0.0, ,23.3,17.4,91,64,3.54,21.29
+LAVERTON RAAF,04/02/2011, ,1.8, , ,17.4,96,67,4.21,12.42
+LAVERTON RAAF,06/02/2011, ,117.8, , , ,100,100,7.34,29.58
+LAVERTON RAAF,07/02/2011, ,0.0, , , , , , ,31.22
+LAVERTON RAAF,08/02/2011, , , ,19.3, ,95,58,5.10,24.75
+LAVERTON RAAF,09/02/2011,4.7,0.0, ,23.6,10.9,91,57,3.06,28.61
+LAVERTON RAAF,10/02/2011,3.8,0.2, ,27.8,15.0,97,58,3.62,15.12
+LAVERTON RAAF,11/02/2011,2.4,12.8, ,25.4,20.2,100,76,4.92,9.47
+LAVERTON RAAF,12/02/2011,4.4,0.6, ,18.3,15.0,88,53,5.41,26.11
+LAVERTON RAAF,13/02/2011,4.2,0.2, ,20.4,9.8,85,51,4.58,23.41
+LAVERTON RAAF,14/02/2011,4.6,0.0, ,23.2,14.1,87,61,3.65,26.59
+LAVERTON RAAF,15/02/2011,5.6,0.0, ,28.1,13.8,97,48,3.61,28.34
+LAVERTON RAAF,16/02/2011,4.3,0.0, ,28.4,16.1,98,52,3.02,18.76
+LAVERTON RAAF,17/02/2011,4.6,16.8, ,25.7,18.2,98,65,3.16,25.43
+LAVERTON RAAF,18/02/2011,4.1,0.2, ,25.9,18.8,95,61,3.88,19.48
+LAVERTON RAAF,19/02/2011,5.5,17.8, ,26.2,19.4,99,54,7.77,26.77
+LAVERTON RAAF,20/02/2011,4.6,0.0, ,21.0,14.1,95,43,6.61,21.58
+LAVERTON RAAF,21/02/2011,4.0,0.2, ,18.8,9.4,86,56,6.95,23.02
+LAVERTON RAAF,22/02/2011,3.6,0.0, ,18.5,13.7,72,59,4.27,17.16
+LAVERTON RAAF,23/02/2011,4.2,0.0, ,20.3,15.1,91,63,2.91,27.18
+LAVERTON RAAF,24/02/2011,4.2,0.0, ,21.9,12.5,91,61,2.51,26.89
+LAVERTON RAAF,25/02/2011,3.5,0.0, ,21.4,15.4,92,63,2.45,20.35
+LAVERTON RAAF,26/02/2011,4.4,0.0, ,27.6,12.1,98,49,2.07,23.25
+LAVERTON RAAF,27/02/2011,1.8,9.8, ,18.2,16.4,98,77,3.22,8.64
+LAVERTON RAAF,28/02/2011,1.8,0.8, ,16.9,15.9,88,77,3.23,7.66
+Totals:,,101.7,179, ,,,,,, 

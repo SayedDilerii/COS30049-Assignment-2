@@ -1,0 +1,34 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for December 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 January 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/12/2021,3.7,0.0, ,18.4,9.0,100,56,2.60,21.40
+FALLS CREEK,12/12/2021, , , , , , , , ,24.94
+FALLS CREEK,13/12/2021, , , , , , , , ,30.61
+FALLS CREEK,14/12/2021,5.3, , ,18.3,11.6,70,44,4.12,29.22
+FALLS CREEK,15/12/2021,3.8,0.2, ,15.8,12.3,93,26,5.70,13.40
+FALLS CREEK,16/12/2021,4.1,1.4, ,14.3,3.2,99,46,3.48,28.87
+FALLS CREEK,17/12/2021,4.6,0.0, ,16.7,5.3,84,59,6.15,31.93
+FALLS CREEK,18/12/2021,5.2,0.0, ,20.2,11.3,87,42,8.67,22.79
+FALLS CREEK,19/12/2021, ,9.8, ,12.2,11.6,100,87,11.44, 
+FALLS CREEK,21/12/2021, , , , , , , , ,32.26
+FALLS CREEK,22/12/2021, , , , , ,100,45,4.23,32.25
+FALLS CREEK,23/12/2021, , , ,17.5, ,99,39,3.81,31.16
+FALLS CREEK,24/12/2021,5.0,0.4, ,18.1,7.5,99,47,2.76,32.21
+FALLS CREEK,25/12/2021,5.4,0.0, ,18.9,10.7,76,47,4.54,30.20
+FALLS CREEK,26/12/2021,4.6,0.0, ,16.5,10.8,99,42,4.66,27.88
+FALLS CREEK,27/12/2021,4.3,0.0, ,10.9,-0.1,99,20,5.65,31.76
+FALLS CREEK,28/12/2021,4.8,0.4, ,14.2,1.3,99,19,4.26,32.19
+FALLS CREEK,29/12/2021,4.9,0.2, ,17.0,6.3,81,11,2.96,25.59
+FALLS CREEK,30/12/2021,5.4,0.0, ,19.1,9.6,82,42,3.15,32.13
+FALLS CREEK,31/12/2021, ,0.0, , ,12.9,56,42,3.02,31.25
+Totals:,,61.1,12.4, ,,,,,, 

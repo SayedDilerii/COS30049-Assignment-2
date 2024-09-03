@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MELBOURNE REGIONAL OFFICE Victoria for January 2015,,,,,,,,,,
+Issued at 06:31 GMT on Tuesday 06 January 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MELBOURNE REGIONAL OFFICE,30/12/2014,4.2,0.2, ,24.6,13.4,68,28,0.00,27.10
+MELBOURNE REGIONAL OFFICE,31/12/2014,5.0,0.2, ,25.8,11.9,74,33,0.00,32.69
+MELBOURNE REGIONAL OFFICE,01/01/2015,3.7,0.0, ,20.8,14.0,80,35,0.00,23.45
+MELBOURNE REGIONAL OFFICE,02/01/2015,5.1,0.0, ,39.4,19.5,99,8,0.00,28.47
+MELBOURNE REGIONAL OFFICE,03/01/2015,4.9,0.0, ,38.4,20.8,87,15,0.00,26.28
+MELBOURNE REGIONAL OFFICE,04/01/2015,4.0,5.4, ,23.9,16.4,91,29,0.00,24.10
+MELBOURNE REGIONAL OFFICE,05/01/2015,4.9,0.2,29.2,23.9,15.6,82,52,0.00,29.70
+Totals:,,31.8,6,29.2,,,,,, 

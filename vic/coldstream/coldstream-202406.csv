@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLDSTREAM Victoria for June 2024,,,,,,,,,,
+Issued at 22:35 GMT on Monday 01 July 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLDSTREAM,01/06/2024,0.7,0.8, ,14.1,1.4,100,69,0.91,8.49
+COLDSTREAM,02/06/2024,0.7,0.2, ,13.2,-0.4,100,64,1.03,5.66
+COLDSTREAM,03/06/2024,0.6,0.0, ,12.3,4.5,100,70,0.57,4.55
+COLDSTREAM,04/06/2024,0.6,0.0, ,13.0,3.8,100,57,0.49,6.61
+COLDSTREAM,05/06/2024,0.6,0.0, ,13.6,5.1,100,72,0.74,5.15
+COLDSTREAM,06/06/2024,1.0,0.0, ,16.4,4.4,100,62,1.93,9.05
+COLDSTREAM,07/06/2024, ,0.0, , ,5.6,99,74,2.80,8.13
+COLDSTREAM,08/06/2024, , , ,11.3, ,100,95,0.24,3.87
+COLDSTREAM,09/06/2024,0.5,0.8, ,11.8,6.8,100,93,0.74,3.99
+COLDSTREAM,10/06/2024,0.9,3.0, ,13.9,4.9,100,50,1.65,9.09
+COLDSTREAM,11/06/2024,1.3,7.6, ,14.6,5.6,99,64,4.85,3.98
+COLDSTREAM,12/06/2024,1.0,10.8, ,13.1,8.6,99,61,2.64,6.56
+COLDSTREAM,13/06/2024,0.5,0.2, ,10.8,5.4,100,84,0.44,4.43
+COLDSTREAM,14/06/2024,0.5,0.0, ,11.3,6.2,100,76,0.29,6.76
+COLDSTREAM,15/06/2024,0.6,0.2, ,13.5,0.4,100,70,1.15,7.91
+COLDSTREAM,16/06/2024,0.6,0.2, ,13.2,1.2,100,64,0.68,7.54
+COLDSTREAM,17/06/2024,0.6,0.2, ,13.9,-0.1,100,55,0.87,8.48
+COLDSTREAM,18/06/2024,0.5,0.0, ,13.2,-3.9,100,52,0.64,9.15
+COLDSTREAM,19/06/2024,0.5,0.0, ,12.0,-4.5,100,52,0.70,9.14
+COLDSTREAM,20/06/2024,0.6,0.0, ,13.4,-2.6,100,53,0.86,8.02
+COLDSTREAM,21/06/2024,0.4,0.0, ,9.4,-2.1,100,87,0.15,5.30
+COLDSTREAM,22/06/2024,0.6,0.2, ,13.2,2.9,100,57,0.82,6.83
+COLDSTREAM,23/06/2024,0.6,0.0, ,14.1,-0.7,100,55,0.77,8.78
+COLDSTREAM,24/06/2024,0.8,0.0, ,13.2,-2.2,100,59,1.51,7.89
+COLDSTREAM,25/06/2024,1.5,0.0, ,16.2,1.3,85,52,3.17,7.82
+COLDSTREAM,26/06/2024,1.2,0.0, ,14.1,5.3,94,56,2.99,8.47
+COLDSTREAM,27/06/2024,1.0,0.2, ,15.4,5.1,100,51,1.66,8.77
+COLDSTREAM,28/06/2024,1.5,0.0, ,16.5,1.9,100,48,3.09,9.07
+COLDSTREAM,29/06/2024,1.3,0.0, ,13.4,11.1,100,47,3.26,2.94
+COLDSTREAM,30/06/2024,0.5,18.6, ,11.3,1.7,100,77,0.96,7.36
+Totals:,,21.7,43, ,,,,,, 

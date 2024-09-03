@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for YARRAWONGA Victoria for March 2024,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 April 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+YARRAWONGA,01/03/2024,5.5,0.0, ,34.6,14.6,84,18,2.24,19.70
+YARRAWONGA,02/03/2024,6.9,0.0, ,29.4,16.3,73,25,5.40,22.12
+YARRAWONGA,03/03/2024,6.8,0.0, ,28.2,8.2,87,23,5.94,22.64
+YARRAWONGA,04/03/2024,5.6,0.0, ,30.6,9.1,71,7,2.30,22.52
+YARRAWONGA,05/03/2024,6.1,0.0, ,32.8,11.9,67,19,2.81,22.32
+YARRAWONGA,06/03/2024,5.5,0.0, ,36.1,15.7,73,10,1.98,19.16
+YARRAWONGA,07/03/2024,6.5,0.0, ,36.1,15.0,71,17,2.83,21.86
+YARRAWONGA,08/03/2024,5.6,0.0, ,35.4,15.1,87,23,2.27,21.62
+YARRAWONGA,09/03/2024,7.3,0.0, ,37.3,20.9,69,20,3.74,21.15
+YARRAWONGA,10/03/2024,5.8,0.0, ,35.1,18.8,71,22,2.46,21.09
+YARRAWONGA,11/03/2024,5.6,0.0, ,35.1,17.0,71,23,2.43,19.41
+YARRAWONGA,12/03/2024,5.5,0.0, ,38.2,17.0,80,16,2.14,17.40
+YARRAWONGA,13/03/2024, ,0.0, , ,18.5,79,24,1.72,11.86
+YARRAWONGA,14/03/2024, , , , , ,94,47,3.85,11.30
+YARRAWONGA,15/03/2024, , , ,30.9, ,75,19,3.18,20.26
+YARRAWONGA,16/03/2024,5.8,0.2, ,29.2,15.7,72,23,3.92,19.65
+YARRAWONGA,17/03/2024,4.5,0.0, ,29.3,13.4,85,31,2.53,18.52
+YARRAWONGA,18/03/2024,5.1,0.0, ,31.4,14.7,83,29,2.94,19.42
+YARRAWONGA,19/03/2024,5.1,0.0, ,34.1,20.0,100,37,4.79,11.81
+YARRAWONGA,20/03/2024,5.1,11.8, ,21.5,14.1,83,28,7.20,17.25
+YARRAWONGA,21/03/2024,3.4,0.0, ,24.0,5.7,94,27,1.72,19.07
+YARRAWONGA,22/03/2024,3.9,0.0, ,26.6,8.4,90,27,2.11,18.86
+YARRAWONGA,23/03/2024,4.5,0.0, ,27.9,11.1,90,23,2.60,19.19
+YARRAWONGA,24/03/2024,4.7,0.0, ,25.4,7.4,95,20,3.52,19.17
+YARRAWONGA,25/03/2024,3.7,0.0, ,27.9,8.0,91,25,1.58,18.85
+YARRAWONGA,26/03/2024,4.4,0.0, ,29.3,9.5,89,22,2.34,18.61
+YARRAWONGA,27/03/2024, ,0.0, , ,9.1,89,19,3.32,18.36
+YARRAWONGA,28/03/2024, , , , , ,97,20,1.92,18.27
+YARRAWONGA,29/03/2024, , , , , ,84,22,1.46,18.04
+YARRAWONGA,30/03/2024, , , , , ,82,24,1.21,17.82
+YARRAWONGA,31/03/2024, , , , , ,77,13,1.58,17.66
+Totals:,,122.9,12, ,,,,,, 

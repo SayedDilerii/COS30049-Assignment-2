@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for July 2011,,,,,,,,,,
+Issued at 22:34 GMT on Monday 01 August 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/07/2011,0.9,0.0, ,14.2,2.3,98,61,1.94,10.60
+REDESDALE,02/07/2011,1.2,0.0, ,14.5,1.7,99,59,3.17,10.59
+REDESDALE,03/07/2011,0.8,1.4, ,9.3,5.1,99,69,2.45,4.24
+REDESDALE,04/07/2011,0.9,8.0, ,11.4,7.5,99,74,4.73,6.78
+REDESDALE,05/07/2011,0.7,4.4, ,9.5,5.2,97,80,4.07,6.94
+REDESDALE,06/07/2011,0.7,3.4, ,10.1,5.6,99,84,4.22,5.17
+REDESDALE,07/07/2011,1.0,2.8, ,11.0,1.7,97,59,2.72,10.33
+REDESDALE,08/07/2011,0.8,0.0, ,9.0,3.4,95,69,2.61,6.88
+REDESDALE,09/07/2011,0.9,0.2, ,12.3,5.3,99,60,2.10,9.76
+REDESDALE,10/07/2011,1.0,0.0, ,11.3,3.0,95,71,4.04,5.67
+REDESDALE,11/07/2011,1.0,3.0, ,12.1,3.7,98,64,2.72,7.88
+REDESDALE,12/07/2011,1.0,0.0, ,11.7,4.7,91,62,2.10,7.51
+REDESDALE,13/07/2011,1.1,0.4, ,12.6,6.5,99,62,2.75,9.27
+REDESDALE,14/07/2011,1.1,0.8, ,13.1,-0.3,99,60,2.72,10.28
+REDESDALE,15/07/2011,1.0,0.2, ,12.3,-0.7,99,54,1.73,11.71
+REDESDALE,16/07/2011,1.1,0.0, ,13.4,-1.7,99,59,2.27,10.05
+REDESDALE,17/07/2011,0.4,9.2, ,9.8,3.3,99,96,3.40,4.46
+REDESDALE,18/07/2011,0.8,8.0, ,10.6,3.1,99,70,1.68,7.10
+REDESDALE,19/07/2011,1.2,0.0, ,14.3,3.8,99,70,4.62,8.21
+REDESDALE,20/07/2011,1.6,0.0, ,12.6,8.3,85,70,8.08,5.28
+REDESDALE,21/07/2011,1.7,0.0, ,13.4,6.3,90,66,7.41,11.63
+REDESDALE,22/07/2011,1.6,0.0, ,16.5,4.2,99,49,2.96,11.39
+REDESDALE,23/07/2011,1.1,0.0, ,13.5,-0.3,99,61,1.80,11.90
+REDESDALE,24/07/2011,0.6,5.6, ,9.6,4.5,99,88,1.73,4.58
+REDESDALE,25/07/2011,0.8,2.0, ,13.8,7.1,99,72,1.09,5.87
+REDESDALE,26/07/2011,1.1,0.4, ,13.6,0.5,99,56,1.88,8.25
+REDESDALE,27/07/2011,1.1,0.2, ,12.1,-2.2,99,54,2.01,11.09
+REDESDALE,28/07/2011,1.2,0.2, ,13.4,-2.5,99,55,1.96,11.41
+REDESDALE,29/07/2011,1.4,0.0, ,14.6,-1.5,99,54,2.48,11.62
+REDESDALE,30/07/2011,1.1,0.0, ,13.9,3.5,99,56,1.61,6.27
+REDESDALE,31/07/2011,1.1,0.6, ,15.8,1.3,99,69,1.59,11.37
+Totals:,,32,50.8, ,,,,,, 

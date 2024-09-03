@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/11/2016,3.7,0.0, ,14.6,3.8,76,43,5.26,20.17
+GELANTIPY,02/11/2016,3.5,0.2, ,16.1,3.7,100,51,2.26,25.06
+GELANTIPY,03/11/2016,3.9,0.0, ,18.4,5.2,100,53,2.15,27.36
+GELANTIPY,04/11/2016,5.4,0.0, ,21.2,6.4,96,28,5.26,26.78
+GELANTIPY,05/11/2016,4.1,0.0, ,14.7,5.9,96,35,6.34,24.50
+GELANTIPY,06/11/2016,4.7,0.0, ,17.5,6.7,73,42,5.20,27.32
+GELANTIPY,07/11/2016,4.4,0.0, ,21.6,9.7,94,34,5.80,14.02
+GELANTIPY,08/11/2016,1.4,0.0, ,12.3,7.3,100,86,2.09,9.00
+GELANTIPY,09/11/2016,2.5,0.2, ,18.1,6.5,100,67,2.00,14.37
+GELANTIPY,10/11/2016,1.9,0.6, ,14.9,9.2,100,73,2.02,10.24
+GELANTIPY,11/11/2016,4.2,0.4, ,19.7,7.6,100,61,2.69,28.82
+GELANTIPY,12/11/2016,5.0,0.0, ,23.3,9.8,95,39,6.14,20.02
+GELANTIPY,13/11/2016,3.1,0.4, ,14.4,9.5,99,53,5.52,18.24
+GELANTIPY,14/11/2016,1.5,8.8, ,11.3,7.1,100,82,4.79,10.88
+GELANTIPY,15/11/2016,3.3,9.2, ,15.8,5.8,99,65,3.73,23.83
+GELANTIPY,16/11/2016,3.6,0.0, ,16.7,6.8,100,62,2.69,25.04
+GELANTIPY,17/11/2016,6.5,0.2, ,25.6,7.7,97,29,5.18,29.90
+GELANTIPY,18/11/2016,3.9,0.0, ,25.6,14.6,100,39,3.02,14.61
+GELANTIPY,19/11/2016,4.3,0.2, ,20.7,7.8,100,52,1.98,26.73
+GELANTIPY,20/11/2016,4.7,0.2, ,26.6,9.2,98,41,2.98,20.68
+GELANTIPY,21/11/2016,7.4,0.6, ,29.6,15.8,75,30,5.24,27.57
+GELANTIPY,22/11/2016,2.8,0.0, ,22.8,15.0,100,39,2.70,7.60
+GELANTIPY,23/11/2016,0.8,15.8, ,7.7,6.6,100,85,3.54,3.47
+GELANTIPY,24/11/2016,2.5,12.4, ,13.6,4.5,100,61,4.77,15.49
+GELANTIPY,25/11/2016,3.7,0.2, ,15.5,4.7,95,58,3.72,27.26
+GELANTIPY,26/11/2016,3.8,0.0, ,15.7,3.7,89,58,3.26,27.90
+GELANTIPY,27/11/2016,4.4,0.0, ,18.9,7.0,99,63,2.00,30.50
+GELANTIPY,28/11/2016,3.9,0.0, ,19.5,7.9,100,71,2.18,26.22
+GELANTIPY,29/11/2016,3.8,0.0, ,20.6,7.3,100,55,2.02,23.04
+GELANTIPY,30/11/2016,6.1,1.8, ,25.8,9.9,99,30,4.34,28.43
+Totals:,,114.8,51.2, ,,,,,, 

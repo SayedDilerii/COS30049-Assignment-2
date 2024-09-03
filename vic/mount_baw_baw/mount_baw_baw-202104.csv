@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/04/2021,3.4,0.0, ,16.9,8.1,74,18,2.98,17.53
+MOUNT BAW BAW,02/04/2021,3.1,0.0, ,19.5,9.3,74,22,1.93,17.33
+MOUNT BAW BAW,03/04/2021,3.4,0.0, ,19.4,12.7,73,44,3.36,17.14
+MOUNT BAW BAW,04/04/2021, ,0.0, , ,12.5,83,47,3.42,16.94
+MOUNT BAW BAW,05/04/2021,2.7,0.0, ,17.9,10.3,84,13,1.87,13.00
+MOUNT BAW BAW,06/04/2021,2.5,0.0, ,17.8,10.9,98,39,2.05,14.98
+MOUNT BAW BAW,07/04/2021,2.0,0.2, ,17.1,9.3,97,63,2.17,11.88
+MOUNT BAW BAW,08/04/2021, ,1.8, , ,10.6,98,48,3.35,16.10
+MOUNT BAW BAW,09/04/2021, , , ,3.5, ,99,54,6.68,3.70
+MOUNT BAW BAW,10/04/2021, ,2.6, , ,0.4,99,98,7.14,2.47
+MOUNT BAW BAW,11/04/2021, , , , , , , , ,1.76
+MOUNT BAW BAW,12/04/2021, , , , , ,99,98,3.87,6.52
+MOUNT BAW BAW,13/04/2021, , , , , ,99,56,3.68,11.27
+MOUNT BAW BAW,14/04/2021, , , , , ,99,62,6.31,8.35
+MOUNT BAW BAW,15/04/2021,0.6,0.4, ,4.5,0.8,99,91,6.48,5.00
+MOUNT BAW BAW,16/04/2021,0.8,15.6, ,6.2,-0.6,99,91,3.54,8.53
+MOUNT BAW BAW,17/04/2021, , , , , ,99,92,3.37,6.70
+MOUNT BAW BAW,18/04/2021, , , ,5.3, ,99,97,4.95,6.38
+MOUNT BAW BAW,19/04/2021, , , , ,2.9,99,82,4.00,7.34
+MOUNT BAW BAW,20/04/2021, , , , , ,99,79,5.78,5.34
+MOUNT BAW BAW,21/04/2021, , , , , ,99,91,1.60,11.94
+MOUNT BAW BAW,22/04/2021, , , ,2.4, ,99,91,6.88,4.34
+MOUNT BAW BAW,23/04/2021, ,1.6, , , ,100,99,6.34,3.32
+MOUNT BAW BAW,24/04/2021, ,0.0, , ,0.5,100,99,5.01,6.50
+MOUNT BAW BAW,25/04/2021,0.4,4.0, ,3.6,0.7,100,99,5.75,5.94
+MOUNT BAW BAW,26/04/2021,1.7,0.4, ,10.1,1.7,100,50,4.70,9.76
+MOUNT BAW BAW,27/04/2021,2.1,0.2, ,11.8,1.6,99,16,2.69,12.80
+MOUNT BAW BAW,28/04/2021, ,0.0, , ,5.7,97,31,2.97,12.82
+MOUNT BAW BAW,29/04/2021, , , ,13.6, ,90,30,1.95,12.71
+MOUNT BAW BAW,30/04/2021,1.7,0.0, ,15.1,7.0,80,41,1.64,12.46
+Totals:,,24.4,26.8, ,,,,,, 

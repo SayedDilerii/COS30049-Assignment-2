@@ -1,0 +1,31 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/02/2023,4.7,0.0, ,15.3,8.8,91,35,4.70,29.06
+MOUNT HOTHAM,02/02/2023,1.4,0.0, ,6.7,4.0,99,71,11.49,8.99
+MOUNT HOTHAM,03/02/2023, ,10.4, , ,-1.6,100,98,9.07,5.42
+MOUNT HOTHAM,15/02/2023, ,0.0, , , ,100,100,4.73,24.34
+MOUNT HOTHAM,16/02/2023, ,0.0, , , ,100,54,2.94,24.25
+MOUNT HOTHAM,17/02/2023, , , ,21.3, ,94,49,8.19,25.07
+MOUNT HOTHAM,18/02/2023,5.6,7.4, ,20.0,12.0,98,30,9.10,26.12
+MOUNT HOTHAM,19/02/2023,4.8,0.0, ,20.2,7.0,92,32,3.83,26.08
+MOUNT HOTHAM,20/02/2023,5.2,0.0, ,20.9,12.5,92,33,5.46,24.79
+MOUNT HOTHAM,21/02/2023,2.9,0.0, ,16.3,12.5,99,51,5.16,13.49
+MOUNT HOTHAM,22/02/2023,2.5,0.8, ,14.6,4.3,99,75,3.34,18.10
+MOUNT HOTHAM,23/02/2023,3.3,0.0, ,17.4,8.7,98,57,3.60,19.38
+MOUNT HOTHAM,24/02/2023,3.4,0.0, ,16.7,7.8,92,70,4.36,24.39
+MOUNT HOTHAM,25/02/2023,3.6,0.0, ,16.2,9.2,95,60,7.42,23.42
+MOUNT HOTHAM,26/02/2023,3.3,2.6, ,14.5,9.3,99,52,8.13,19.66
+MOUNT HOTHAM,27/02/2023,3.0,0.2, ,15.8,4.9,99,54,2.45,19.65
+MOUNT HOTHAM,28/02/2023,3.1,0.2, ,14.8,7.6,99,58,5.03,20.42
+Totals:,,46.8,21.6, ,,,,,, 

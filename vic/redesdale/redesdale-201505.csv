@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for May 2015,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 June 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/05/2015,2.4,0.0, ,22.0,4.8,91,41,2.57,12.77
+REDESDALE,02/05/2015,1.6,0.0, ,20.7,7.7,88,53,1.86,5.44
+REDESDALE,03/05/2015,2.2,0.0, ,21.5,3.9,95,38,2.07,12.60
+REDESDALE,04/05/2015,2.4,0.0, ,20.5,3.4,97,39,2.94,12.16
+REDESDALE,05/05/2015,2.0,2.4, ,14.6,10.9,91,55,5.53,7.49
+REDESDALE,06/05/2015,1.5,3.0, ,15.8,5.6,94,59,3.22,7.04
+REDESDALE,07/05/2015,1.3,0.2, ,14.6,4.6,94,56,2.01,8.42
+REDESDALE,08/05/2015,1.3,0.2, ,13.9,7.2,91,60,2.29,6.30
+REDESDALE,09/05/2015,1.2,0.0, ,14.3,8.7,95,75,4.61,5.14
+REDESDALE,10/05/2015,1.9,7.6, ,15.8,10.2,97,56,4.92,8.68
+REDESDALE,11/05/2015,1.8,4.6, ,17.2,9.3,96,54,3.70,8.87
+REDESDALE,12/05/2015,2.0,0.4, ,16.1,9.5,93,47,4.40,5.72
+REDESDALE,13/05/2015,1.8,0.4, ,12.8,1.4,90,45,4.15,9.58
+REDESDALE,14/05/2015,1.9,0.0, ,16.8,4.1,92,54,4.17,7.84
+REDESDALE,15/05/2015,1.6,0.0, ,16.8,5.4,97,58,3.38,8.52
+REDESDALE,16/05/2015,1.5,0.2, ,18.0,3.7,96,49,2.06,11.05
+REDESDALE,17/05/2015,1.7,0.0, ,19.1,2.0,98,45,2.08,10.88
+REDESDALE,18/05/2015,1.7,0.2, ,19.0,2.7,97,46,2.23,10.65
+REDESDALE,19/05/2015,0.9,3.4, ,13.3,7.9,98,62,1.60,3.06
+REDESDALE,20/05/2015,0.9,9.8, ,14.3,9.2,99,78,3.02,5.25
+REDESDALE,21/05/2015,1.6,0.6, ,14.5,7.2,87,63,4.88,8.81
+REDESDALE,22/05/2015,2.0,0.0, ,15.3,6.7,87,56,5.49,10.16
+REDESDALE,23/05/2015,1.5,0.0, ,17.3,0.7,96,39,1.86,10.49
+REDESDALE,24/05/2015,1.1,0.0, ,13.5,-1.3,96,58,2.06,9.32
+REDESDALE,25/05/2015,1.1,0.2, ,14.9,2.5,96,54,1.56,7.34
+REDESDALE,26/05/2015, ,0.2, , ,0.5,97,61,2.00,6.64
+REDESDALE,27/05/2015, , , ,16.0, ,94,65,1.84,6.55
+REDESDALE,28/05/2015,1.4,0.0, ,18.2,5.3,99,55,2.39,6.64
+REDESDALE,29/05/2015,1.0,0.2, ,15.1,3.1,98,50,1.36,8.27
+REDESDALE,30/05/2015,1.4,0.0, ,15.0,7.2,91,56,2.94,6.89
+REDESDALE,31/05/2015,1.1,0.0, ,14.0,8.0,96,70,3.91,4.76
+Totals:,,45.8,33.6, ,,,,,, 

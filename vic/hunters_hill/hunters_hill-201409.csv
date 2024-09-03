@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HUNTERS HILL Victoria for September 2014,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 October 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HUNTERS HILL,01/09/2014,2.1,0.0, ,14.9,5.3,100,48,2.48,14.60
+HUNTERS HILL,02/09/2014,1.5,5.0, ,10.5,2.6,100,59,1.95,11.43
+HUNTERS HILL,03/09/2014,2.0,0.6, ,10.1,-0.3,88,47,2.27,17.13
+HUNTERS HILL,04/09/2014,1.8,0.0, ,11.8,0.8,94,50,1.43,15.39
+HUNTERS HILL,05/09/2014,1.8,0.0, ,13.8,2.8,98,47,1.36,13.37
+HUNTERS HILL,06/09/2014,2.0,1.0, ,14.3,4.2,84,29,0.75,15.79
+HUNTERS HILL,07/09/2014,2.2,0.0, ,15.1,4.6,84,37,0.92,17.97
+HUNTERS HILL,08/09/2014,2.3,0.0, ,15.0,5.2,89,48,2.00,16.38
+HUNTERS HILL,09/09/2014,1.1,0.0, ,12.2,9.2,100,68,3.71,2.55
+HUNTERS HILL,10/09/2014,1.5,28.0, ,11.2,6.1,100,76,2.63,11.57
+HUNTERS HILL,11/09/2014,1.1,0.0, ,9.6,6.0,100,85,3.03,8.01
+HUNTERS HILL,12/09/2014,2.1,0.4, ,13.1,2.0,94,50,1.10,17.51
+HUNTERS HILL,13/09/2014, ,0.0, , ,4.2,99,55,1.09,16.06
+HUNTERS HILL,14/09/2014, , , , , , , , ,18.59
+HUNTERS HILL,17/09/2014, , , , , , , , ,10.65
+HUNTERS HILL,18/09/2014, , , , , , , , ,16.48
+HUNTERS HILL,19/09/2014,2.4, , ,12.3,1.3,98,31,1.22,20.30
+HUNTERS HILL,20/09/2014,2.6,0.0, ,14.8,3.3,96,38,1.27,20.50
+HUNTERS HILL,21/09/2014,2.7,0.0, ,15.3,5.0,77,39,1.04,20.59
+HUNTERS HILL,22/09/2014,2.9,0.0, ,17.4,6.5,83,33,0.98,20.83
+HUNTERS HILL,23/09/2014,2.9,0.0, ,19.6,8.2,81,34,0.90,19.48
+HUNTERS HILL,24/09/2014,1.4,1.0, ,13.6,8.8,100,54,1.38,5.88
+HUNTERS HILL,25/09/2014,2.0,48.2, ,15.1,7.6,100,56,1.34,12.13
+HUNTERS HILL,26/09/2014,1.8,2.6, ,12.1,6.3,100,77,1.14,13.39
+HUNTERS HILL,27/09/2014,2.3,0.6, ,13.9,5.6,99,57,1.44,16.64
+HUNTERS HILL,28/09/2014,3.0,0.0, ,18.5,7.4,99,54,1.70,20.00
+HUNTERS HILL,29/09/2014,3.5,0.0, ,17.8,10.3,78,40,2.42,20.67
+HUNTERS HILL,30/09/2014,4.0,0.0, ,17.7,9.8,75,36,4.17,19.99
+Totals:,,53,87.4, ,,,,,, 

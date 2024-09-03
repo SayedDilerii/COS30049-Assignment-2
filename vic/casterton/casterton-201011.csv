@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/11/2010,3.0,0.2, ,14.6,5.4,90,57,3.34,20.16
+CASTERTON,02/11/2010,3.2,0.0, ,17.3,9.0,91,65,3.96,20.46
+CASTERTON,03/11/2010,3.1,0.8, ,14.1,7.3,94,58,3.65,22.14
+CASTERTON,04/11/2010,3.3,0.2, ,14.5,4.1,92,49,3.45,22.61
+CASTERTON,05/11/2010,4.7,0.2, ,20.7,5.6,88,44,4.46,27.26
+CASTERTON,06/11/2010,5.9,0.0, ,23.7,8.2,86,36,5.27,29.96
+CASTERTON,07/11/2010,4.6,0.2, ,21.7,13.5,87,47,5.04,22.34
+CASTERTON,08/11/2010,4.0,0.4, ,20.0,9.6,93,52,4.02,22.50
+CASTERTON,09/11/2010,5.8,0.0, ,26.6,4.1,96,30,3.00,30.54
+CASTERTON,10/11/2010,3.2,0.0, ,20.6,12.6,92,63,3.11,16.61
+CASTERTON,11/11/2010,5.8,0.4, ,28.4,11.4,98,39,3.10,28.31
+CASTERTON,12/11/2010,4.7,0.0, ,26.6,12.8,92,40,5.09,14.24
+CASTERTON,13/11/2010,1.8,1.8, ,13.7,11.5,94,84,4.55,10.99
+CASTERTON,14/11/2010,3.7,4.0, ,18.2,10.4,97,60,3.85,23.45
+CASTERTON,15/11/2010,3.6,0.2, ,16.7,3.9,97,54,2.51,25.81
+CASTERTON,16/11/2010,3.0,0.0, ,16.4,3.2,96,52,1.55,20.76
+CASTERTON,17/11/2010,4.6,0.0, ,20.7,3.0,96,47,3.91,29.36
+CASTERTON,18/11/2010,4.2,0.8, ,17.0,11.7,95,48,4.61,26.29
+CASTERTON,19/11/2010,5.0,0.2, ,19.0,5.2,83,44,3.99,32.76
+CASTERTON,20/11/2010,6.2,0.0, ,25.3,6.4,88,34,3.94,32.76
+CASTERTON,21/11/2010,6.1,0.0, ,25.1,9.2,89,45,5.10,32.66
+CASTERTON,22/11/2010,6.7,0.0, ,32.9,9.4,95,19,2.21,30.14
+CASTERTON,23/11/2010,8.9,0.2, ,33.0,18.1,62,25,5.21,29.68
+CASTERTON,24/11/2010,4.0,0.0, ,25.9,21.3,96,53,4.57,14.43
+CASTERTON,25/11/2010,3.0,13.8, ,19.7,13.6,98,74,3.09,17.87
+CASTERTON,26/11/2010,4.6,0.4, ,24.6,12.0,95,59,3.00,25.52
+CASTERTON,27/11/2010,2.6,13.8, ,17.3,13.2,97,70,4.22,14.17
+CASTERTON,28/11/2010,3.7,12.0, ,15.8,9.7,95,55,5.97,24.32
+CASTERTON,29/11/2010,3.6,0.0, ,16.7,9.2,91,63,5.64,24.37
+CASTERTON,30/11/2010,3.8,0.2, ,18.9,10.6,87,68,6.84,23.50
+Totals:,,130.4,49.8, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for March 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 April 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/03/2014,2.8, , ,23.4,14.6,90,55,2.08,12.27
+FRANKSTON,02/03/2014,3.6, , ,22.7,15.1,84,50,1.82,19.21
+FRANKSTON,03/03/2014,4.3, , ,26.5,14.1,80,53,2.25,22.61
+FRANKSTON,04/03/2014,4.8, , ,34.2,16.6,92,25,1.31,22.49
+FRANKSTON,05/03/2014,2.3, , ,20.0,19.6,79,58,3.26,4.11
+FRANKSTON,06/03/2014,3.8, , ,19.9,12.4,70,45,2.74,20.27
+FRANKSTON,07/03/2014,2.1, , ,22.2,14.7,90,68,2.00,8.47
+FRANKSTON,08/03/2014,4.7, , ,28.2,16.6,82,43,3.69,17.67
+FRANKSTON,09/03/2014,5.0, , ,31.7,16.7,89,19,1.91,22.45
+FRANKSTON,10/03/2014,4.1, , ,29.1,20.4,73,28,2.49,12.17
+FRANKSTON,11/03/2014,3.1, , ,29.1,17.8,91,42,2.96,5.61
+FRANKSTON,12/03/2014,3.5, , ,18.6,15.6,89,50,4.28,18.41
+FRANKSTON,13/03/2014,3.6, , ,22.1,12.1,79,53,2.50,20.54
+FRANKSTON,14/03/2014,3.8, , ,27.2,12.8,90,43,1.71,20.17
+FRANKSTON,15/03/2014,5.0, , ,27.3,15.5,92,33,6.57,8.92
+FRANKSTON,16/03/2014,4.2, , ,18.2,14.3,70,46,8.78,10.42
+FRANKSTON,17/03/2014,3.4, , ,21.8,14.4,77,57,5.94,10.00
+FRANKSTON,18/03/2014,4.3, , ,22.5,16.4,76,41,3.90,18.71
+FRANKSTON,19/03/2014,3.2, , ,21.3,15.7,84,50,3.25,13.99
+FRANKSTON,20/03/2014,4.1, , ,30.0,11.5,83,19,1.55,20.22
+FRANKSTON,21/03/2014,3.2, , ,24.1,14.6,82,43,3.19,9.86
+FRANKSTON,22/03/2014,2.1, , ,16.8,12.7,75,59,2.89,6.79
+FRANKSTON,23/03/2014,2.7, , ,16.6,13.2,73,52,3.05,11.97
+FRANKSTON,24/03/2014,1.9, , ,19.0,12.6,86,54,1.64,8.35
+FRANKSTON,25/03/2014,3.7, , ,24.7,13.4,82,49,3.41,16.45
+FRANKSTON,26/03/2014,3.4, , ,25.2,14.8,90,59,4.72,13.73
+FRANKSTON,27/03/2014,2.1, , ,23.2,16.9,94,71,1.95,10.26
+FRANKSTON,28/03/2014,2.3, , ,19.9,17.4,93,66,2.81,11.66
+FRANKSTON,29/03/2014,2.5, , ,22.6,11.7,94,55,1.51,14.82
+FRANKSTON,30/03/2014,3.0, , ,24.2,13.6,94,59,2.29,16.86
+FRANKSTON,31/03/2014,3.4, , ,29.8,16.0,89,28,1.57,15.61
+Totals:,,106, , ,,,,,, 

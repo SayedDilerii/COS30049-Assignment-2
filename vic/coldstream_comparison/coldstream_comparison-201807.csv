@@ -1,0 +1,28 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLDSTREAM COMPARISON Victoria for July 2018,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 15 July 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLDSTREAM COMPARISON,01/07/2018,0.5,3.6, ,13.7,-1.8,100,55,0.41,9.36
+COLDSTREAM COMPARISON,02/07/2018,0.6,0.0, ,13.3,-3.6,100,56,0.79,9.45
+COLDSTREAM COMPARISON,03/07/2018,1.4,0.2, ,15.5,-0.5,99,53,3.43,6.91
+COLDSTREAM COMPARISON,04/07/2018,2.6,0.0, ,16.9,10.8,63,46,4.95,6.25
+COLDSTREAM COMPARISON,05/07/2018,3.0,0.0, ,18.8,13.1,59,43,4.90,4.09
+COLDSTREAM COMPARISON,06/07/2018,1.8,0.0, ,14.2,12.4,87,45,4.25,8.31
+COLDSTREAM COMPARISON,07/07/2018,1.4,2.6, ,11.9,8.9,90,62,4.93,5.58
+COLDSTREAM COMPARISON,08/07/2018,0.9,7.8, ,13.6,7.8,99,70,2.41,5.13
+COLDSTREAM COMPARISON,09/07/2018,0.6,7.8, ,12.3,8.4,100,78,1.12,5.02
+COLDSTREAM COMPARISON,10/07/2018,0.7,0.2, ,11.3,7.1,99,64,1.00,8.11
+COLDSTREAM COMPARISON,11/07/2018,0.8,0.0, ,11.0,4.3,97,58,1.66,7.27
+COLDSTREAM COMPARISON,12/07/2018,0.5,0.0, ,11.0,-0.7,99,66,0.41,8.74
+COLDSTREAM COMPARISON,13/07/2018,0.5,0.6, ,11.2,1.1,100,81,0.20,6.48
+COLDSTREAM COMPARISON,14/07/2018, ,0.0, , ,0.1,100,52,0.64,9.73
+Totals:,,15.3,22.8, ,,,,,, 

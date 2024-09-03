@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MALLACOOTA Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MALLACOOTA,01/11/2009,5.5,0.0, ,28.3,17.0,90,57,4.08,26.84
+MALLACOOTA,02/11/2009,4.4,0.0, ,25.4,13.2,92,74,3.29,27.01
+MALLACOOTA,03/11/2009,5.4,0.0, ,28.6,17.2,86,52,5.76,20.21
+MALLACOOTA,04/11/2009,4.3,0.2, ,18.1,13.4,76,51,4.84,22.61
+MALLACOOTA,05/11/2009,3.9,0.0, ,18.2,11.4,85,53,3.80,22.51
+MALLACOOTA,06/11/2009,5.0,0.0, ,22.8,8.8,91,54,4.49,30.59
+MALLACOOTA,07/11/2009,6.0,0.0, ,25.6,14.4,82,46,4.96,29.93
+MALLACOOTA,08/11/2009,6.0,0.0, ,25.6,16.2,92,48,4.35,31.25
+MALLACOOTA,09/11/2009,5.0,0.0, ,21.9,11.7,95,47,1.93,31.36
+MALLACOOTA,10/11/2009,5.0,0.0, ,23.6,8.8,93,57,2.30,31.62
+MALLACOOTA,11/11/2009,5.5,0.0, ,23.2,11.3,88,40,3.18,31.13
+MALLACOOTA,12/11/2009, ,0.0, ,23.7,12.8,91,58,3.90, 
+MALLACOOTA,13/11/2009,4.6,0.0, ,20.0,15.8,83,61,3.93,27.46
+MALLACOOTA,14/11/2009,5.4,0.0, ,24.3,14.1,84,52,3.15,30.51
+MALLACOOTA,15/11/2009,3.4,0.0, ,21.7,14.5,91,74,4.13,19.38
+MALLACOOTA,16/11/2009, ,0.0, ,27.8,17.1,85,35,5.90, 
+MALLACOOTA,17/11/2009, ,0.8, ,20.2,14.0,91,63,4.35, 
+MALLACOOTA,18/11/2009, ,0.0, ,27.1,11.1,92,45,4.35, 
+MALLACOOTA,19/11/2009, ,0.0, ,36.3,18.2,85,24,3.68, 
+MALLACOOTA,20/11/2009, ,0.0, ,37.0,17.6,68,22,4.14, 
+MALLACOOTA,21/11/2009, ,4.8, ,23.4,17.2,95,63,3.29, 
+MALLACOOTA,22/11/2009, ,12.8, ,27.8,17.9,95,68,4.37, 
+MALLACOOTA,23/11/2009, ,0.6, ,18.8,13.7,84,50,4.02, 
+MALLACOOTA,24/11/2009, ,0.0, ,24.1,11.6,86,49,3.49, 
+MALLACOOTA,25/11/2009, ,0.0, ,24.2,13.3,93,67,2.23, 
+MALLACOOTA,26/11/2009, ,0.0, ,29.9,14.2,95,45,4.44, 
+MALLACOOTA,27/11/2009, ,11.4, ,26.0,17.9,96,52,3.41, 
+MALLACOOTA,28/11/2009,7.1,0.0, ,31.2,15.4,93,38,4.39,29.96
+MALLACOOTA,29/11/2009,3.1,0.2, ,18.5,13.3,93,69,3.27,17.49
+MALLACOOTA,30/11/2009,3.7,7.2, ,17.2,13.5,92,57,8.38,20.13
+Totals:,,83.3,38, ,,,,,, 

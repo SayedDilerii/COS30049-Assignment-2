@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for March 2016,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 April 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/03/2016,4.8, , ,31.6,17.1,91,20,1.61,22.03
+FRANKSTON,02/03/2016,4.5, , ,28.9,17.7,83,40,1.86,21.69
+FRANKSTON,03/03/2016,4.3, , ,26.1,16.6,79,47,2.25,21.72
+FRANKSTON,04/03/2016,4.7, , ,33.2,16.7,91,33,2.12,18.71
+FRANKSTON,05/03/2016,1.9, , ,21.8,19.5,93,68,1.85,7.42
+FRANKSTON,06/03/2016,3.9, , ,26.1,17.5,87,60,2.30,19.88
+FRANKSTON,07/03/2016,3.6, , ,25.8,18.7,90,48,3.17,13.95
+FRANKSTON,08/03/2016,5.5, , ,38.2,20.0,87,20,1.85,20.89
+FRANKSTON,09/03/2016,4.2, , ,26.1,21.4,90,32,4.43,9.82
+FRANKSTON,10/03/2016,1.1, , ,20.9,17.5,96,81,1.35,3.33
+FRANKSTON,11/03/2016,3.2, , ,25.9,18.0,96,65,2.40,16.32
+FRANKSTON,12/03/2016,1.7, , ,22.6,18.4,91,75,1.57,6.55
+FRANKSTON,13/03/2016,2.4, , ,22.5,17.4,90,71,2.29,11.17
+FRANKSTON,14/03/2016,2.8, , ,20.5,17.7,84,55,2.40,12.40
+FRANKSTON,15/03/2016,4.5, , ,23.9,15.0,78,53,6.16,18.91
+FRANKSTON,16/03/2016,5.3, , ,29.6,17.2,79,40,4.12,19.94
+FRANKSTON,17/03/2016,4.8, , ,29.8,18.1,79,36,3.06,18.59
+FRANKSTON,18/03/2016,3.8, , ,18.2,14.1,97,39,10.77,8.81
+FRANKSTON,19/03/2016,2.7, , ,17.8,12.3,91,51,3.25,14.01
+FRANKSTON,20/03/2016,3.6, , ,22.0,10.4,77,45,2.70,19.33
+FRANKSTON,21/03/2016,3.4, , ,21.5,12.9,84,54,3.13,18.94
+FRANKSTON,22/03/2016,3.7, , ,22.8,13.5,88,49,2.84,21.33
+FRANKSTON,23/03/2016,3.0, , ,25.3,14.5,87,32,1.76,12.40
+FRANKSTON,24/03/2016,2.2, , ,21.1,16.6,88,62,1.51,11.36
+FRANKSTON,25/03/2016,3.0, , ,19.6,15.3,80,48,2.52,16.05
+FRANKSTON,26/03/2016,2.4, , ,18.4,14.9,80,66,3.96,9.39
+FRANKSTON,27/03/2016,2.4, , ,18.4,14.6,87,44,2.09,10.75
+FRANKSTON,28/03/2016,2.5, , ,18.5,10.8,71,44,2.16,11.51
+FRANKSTON,29/03/2016,1.9, , ,17.3,14.1,67,52,2.00,4.69
+FRANKSTON,30/03/2016,2.4, , ,18.0,14.6,68,45,2.64,5.52
+FRANKSTON,31/03/2016,2.5, , ,19.9,10.9,83,62,1.37,18.11
+Totals:,,102.7, , ,,,,,, 

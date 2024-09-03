@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for September 2012,,,,,,,,,,
+Issued at 22:38 GMT on Monday 01 October 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/09/2012,1.1,11.2, ,7.7,-0.2,99,72,3.29,8.54
+GELANTIPY,02/09/2012,2.2,0.4, ,13.9,0.1,99,49,3.06,16.16
+GELANTIPY,03/09/2012,2.8,0.0, ,16.4,3.4,91,37,3.55,16.34
+GELANTIPY,04/09/2012,3.7,0.0, ,17.6,7.2,65,32,4.64,15.96
+GELANTIPY,05/09/2012,4.9,0.0, ,19.7,7.3,99,19,8.74,16.58
+GELANTIPY,06/09/2012,3.5,7.0, ,13.0,8.1,66,47,8.46,15.85
+GELANTIPY,07/09/2012,2.5,2.8, ,10.0,4.3,86,50,8.30,16.52
+GELANTIPY,08/09/2012,2.5,0.0, ,13.1,6.2,99,47,7.23,12.30
+GELANTIPY,09/09/2012,2.8,0.0, ,15.0,4.7,96,41,3.89,17.52
+GELANTIPY,10/09/2012,2.9,0.0, ,16.9,2.8,99,38,3.42,17.58
+GELANTIPY,11/09/2012,2.3,0.0, ,14.1,5.1,99,51,2.37,17.45
+GELANTIPY,12/09/2012,4.1,0.0, ,18.4,4.1,98,23,5.72,18.38
+GELANTIPY,13/09/2012, ,11.6, ,7.5, ,100,41,5.21,9.44
+GELANTIPY,14/09/2012,2.6,1.4, ,13.7,1.8,88,48,3.55,18.21
+GELANTIPY,15/09/2012,2.1,0.0, ,12.6,5.3,99,60,2.16,17.12
+GELANTIPY,16/09/2012,1.7,0.2, ,12.0,1.1,99,72,1.83,14.24
+GELANTIPY,17/09/2012,1.2,0.0, ,10.4,6.3,99,74,1.95,7.89
+GELANTIPY,18/09/2012,2.2,5.4, ,14.5,4.1,99,54,3.66,12.62
+GELANTIPY,19/09/2012,1.9,0.8, ,13.6,3.1,99,64,1.93,14.37
+GELANTIPY,20/09/2012,2.0,0.6, ,15.3,5.7,99,68,4.52,12.70
+GELANTIPY,21/09/2012,2.7,0.0, ,16.6,10.0,99,50,4.21,14.96
+GELANTIPY,22/09/2012,2.0,2.0, ,13.5,5.9,99,69,3.91,14.61
+GELANTIPY,23/09/2012,1.7,0.4, ,-1.0,5.1,100,33,3.99,17.20
+GELANTIPY,24/09/2012, , , , , , , , ,9.20
+GELANTIPY,25/09/2012, , , ,12.2, ,99,58,2.27,20.37
+GELANTIPY,26/09/2012,4.3,0.0, ,18.9,2.6,97,27,5.41,21.00
+GELANTIPY,27/09/2012,5.9,0.0, ,22.3,9.0,55,22,7.21,13.73
+GELANTIPY,28/09/2012,4.2,0.0, ,18.8,15.1,84,40,8.81,11.95
+GELANTIPY,29/09/2012,3.1,2.0, ,9.2,5.3,78,41,7.76,19.02
+GELANTIPY,30/09/2012,2.5,0.2, ,10.5,2.9,85,54,5.07,17.17
+Totals:,,75.4,46, ,,,,,, 

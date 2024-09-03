@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for November 2018,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/11/2018,6.4,0.0, ,27.2,9.4,47,18,4.36,18.61
+GELANTIPY,02/11/2018,7.7,0.0, ,26.1,15.3,46,18,7.62,15.69
+GELANTIPY,03/11/2018,5.5,0.0, ,21.7,6.4,61,24,3.57,26.84
+GELANTIPY,04/11/2018,4.9,0.0, ,22.9,5.3,66,23,2.62,24.22
+GELANTIPY,05/11/2018,5.4,0.0, ,23.2,8.8,45,22,4.58,14.15
+GELANTIPY,06/11/2018,4.9,0.2, ,22.0,14.3,39,24,4.28,8.89
+GELANTIPY,07/11/2018,1.8,1.4, ,8.9,7.8,74,40,3.06,3.38
+GELANTIPY,08/11/2018,3.1,6.0, ,12.4,2.3,84,44,3.32,20.96
+GELANTIPY,09/11/2018,4.0,0.0, ,17.6,2.1,85,31,3.44,21.31
+GELANTIPY,10/11/2018,4.1,0.8, ,19.2,3.3,74,30,2.89,20.97
+GELANTIPY,11/11/2018,4.7,0.0, ,20.0,3.9,69,27,2.11,28.64
+GELANTIPY,12/11/2018,7.0,0.0, ,26.8,8.6,49,18,4.22,26.80
+GELANTIPY,13/11/2018,5.6,0.0, ,25.3,13.5,39,20,4.75,8.63
+GELANTIPY,14/11/2018,3.6,5.6, ,20.5,13.2,49,26,2.53,9.19
+GELANTIPY,15/11/2018,2.0,20.4, ,11.5,7.5,73,49,2.76,6.28
+GELANTIPY,16/11/2018,5.0,0.2, ,20.4,3.1,77,26,3.51,26.50
+GELANTIPY,17/11/2018,3.7,2.0, ,16.5,8.1,56,34,2.31,18.53
+GELANTIPY,18/11/2018,5.9,0.0, ,21.9,4.9,69,24,4.04,29.74
+GELANTIPY,19/11/2018,5.9,0.0, ,23.6,8.7,54,21,4.27,21.47
+GELANTIPY,20/11/2018,5.8,0.0, ,25.3,10.8,47,20,3.66,18.54
+GELANTIPY,21/11/2018,4.2,19.0, ,16.7,12.8,53,34,3.29,17.69
+GELANTIPY,22/11/2018,3.9,5.6, ,13.3,5.8,71,42,5.47,22.66
+GELANTIPY,23/11/2018,2.7,8.6, ,10.1,4.7,65,49,8.41,5.76
+GELANTIPY,24/11/2018,3.1,14.6, ,12.5,7.0,61,43,5.27,9.14
+GELANTIPY,25/11/2018,2.6,3.6, ,10.7,7.0,59,49,4.53,7.84
+GELANTIPY,26/11/2018,3.3,6.8, ,15.8,7.8,57,37,2.83,13.25
+GELANTIPY,27/11/2018,4.0,0.0, ,18.4,8.6,54,31,2.49,18.11
+GELANTIPY,28/11/2018,2.4,8.8, ,12.4,10.8,51,43,2.85,4.21
+GELANTIPY,29/11/2018,3.4,7.6, ,14.3,8.9,54,39,2.56,15.79
+GELANTIPY,30/11/2018,4.9,1.4, ,20.3,7.1,60,27,2.36,25.91
+Totals:,,131.5,112.6, ,,,,,, 

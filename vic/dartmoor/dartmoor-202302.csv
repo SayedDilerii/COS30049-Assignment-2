@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DARTMOOR Victoria for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DARTMOOR,01/02/2023,4.2,2.2, ,20.8,9.2,98,36,2.82,22.70
+DARTMOOR,02/02/2023,3.3,0.0, ,17.7,8.4,96,50,5.11,15.66
+DARTMOOR,03/02/2023,3.1,31.2, ,16.9,8.3,96,62,4.07,19.38
+DARTMOOR,04/02/2023,3.4,5.4, ,20.4,9.0,95,53,3.16,17.85
+DARTMOOR,05/02/2023,2.2, , ,19.4,12.6,95,62,1.96,10.09
+DARTMOOR,06/02/2023,3.7,0.0, ,22.3,13.8,85,55,2.40,18.53
+DARTMOOR,07/02/2023,5.1,0.0, ,24.4,13.8,93,48,3.99,27.20
+DARTMOOR,08/02/2023,5.2,0.0, ,25.2,11.7,93,49,4.20,27.73
+DARTMOOR,09/02/2023,5.6,0.0, ,28.6,11.6,98,33,2.56,27.67
+DARTMOOR,10/02/2023,6.2,0.0, ,31.3,12.8,97,39,3.58,27.22
+DARTMOOR,11/02/2023,1.9,0.2, ,20.6,15.0,95,66,3.51,5.47
+DARTMOOR,12/02/2023,3.3,1.6, ,19.6,13.3,96,49,3.46,16.20
+DARTMOOR,13/02/2023,3.1,0.0, ,20.9,12.0,92,51,2.44,14.57
+DARTMOOR,14/02/2023,4.6,0.0, ,25.8,7.5,97,37,1.99,25.74
+DARTMOOR,15/02/2023,5.5,0.0, ,33.1,9.7,97,19,2.04,22.52
+DARTMOOR,16/02/2023,5.5,0.0, ,37.8,14.6,74,13,1.90,16.69
+DARTMOOR,17/02/2023,4.4,0.0, ,23.6,16.3,95,42,2.29,22.93
+DARTMOOR,18/02/2023,3.9,0.0, ,23.9,8.3,100,51,1.78,23.59
+DARTMOOR,19/02/2023,4.7,0.0, ,28.5,11.6,97,42,2.18,23.03
+DARTMOOR,20/02/2023,4.3,0.0, ,26.5,9.7,98,49,2.26,22.96
+DARTMOOR,21/02/2023,5.1,0.0, ,23.2,14.9,94,41,6.37,22.44
+DARTMOOR,22/02/2023,6.0,0.0, ,33.0,11.0,89,26,2.67,23.89
+DARTMOOR,23/02/2023,7.2,0.0, ,35.2,15.5,100,23,3.87,24.75
+DARTMOOR,24/02/2023,8.2,0.0, ,38.5,23.6,86,20,4.65,21.25
+DARTMOOR,25/02/2023, ,16.4, ,20.6, ,100,71,2.52,7.40
+DARTMOOR,26/02/2023,2.7,5.2, ,19.9,13.2,97,75,2.98,16.29
+DARTMOOR,27/02/2023,2.6,4.6, ,19.9,13.1,97,63,3.27,13.18
+DARTMOOR,28/02/2023,2.3,0.0, ,17.5,13.4,79,58,2.69,8.52
+Totals:,,117.3,66.8, ,,,,,, 

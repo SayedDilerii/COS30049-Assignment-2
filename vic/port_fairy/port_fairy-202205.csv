@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for May 2022,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 June 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/05/2022,1.8,0.2, ,19.6,10.6,93,67,3.90,9.18
+PORT FAIRY,02/05/2022,1.8,0.4, ,20.7,13.2,94,62,3.42,6.98
+PORT FAIRY,03/05/2022,3.1,0.2, ,22.8,10.0,92,42,4.90,11.18
+PORT FAIRY,04/05/2022,1.7,2.8, ,15.7,10.8,95,60,4.70,5.29
+PORT FAIRY,05/05/2022,1.4,9.6, ,14.4,7.0,92,59,2.74,7.32
+PORT FAIRY,06/05/2022,1.6,1.2, ,14.6,3.1,96,62,4.69,6.98
+PORT FAIRY,07/05/2022,1.7,6.4, ,16.8,6.7,96,69,6.54,7.30
+PORT FAIRY,08/05/2022,1.8,5.2, ,16.6,10.9,90,57,3.74,9.96
+PORT FAIRY,09/05/2022,1.3,0.0, ,17.7,4.3,95,52,1.41,8.72
+PORT FAIRY,10/05/2022,1.8,0.0, ,18.8,4.0,92,51,2.89,11.12
+PORT FAIRY,11/05/2022,1.6,0.0, ,21.4,8.8,92,55,1.94,10.18
+PORT FAIRY,12/05/2022,1.1,0.2, ,17.9,12.0,95,78,1.79,9.26
+PORT FAIRY,13/05/2022,1.0,0.0, ,18.5,10.1,96,79,1.47,8.41
+PORT FAIRY,14/05/2022,2.3,0.4, ,21.5,13.9,89,56,4.86,7.47
+PORT FAIRY,15/05/2022,2.2,0.0, ,19.8,12.8,91,60,5.74,8.05
+PORT FAIRY,16/05/2022,1.6,1.2, ,15.0,9.6,93,63,4.75,7.08
+PORT FAIRY,17/05/2022,1.5,6.2, ,14.9,6.8,95,66,4.77,9.44
+PORT FAIRY,18/05/2022,2.1,7.8, ,15.4,8.8,93,59,8.13,9.06
+PORT FAIRY,19/05/2022,1.8,0.8, ,16.0,11.2,90,56,4.55,8.50
+PORT FAIRY,20/05/2022,1.5,0.2, ,14.6,11.1,86,59,3.35,5.70
+PORT FAIRY,21/05/2022,1.4,0.0, ,15.4,10.3,87,64,3.06,10.05
+PORT FAIRY,22/05/2022,0.9,0.0, ,14.5,2.4,97,70,1.94,9.88
+PORT FAIRY,23/05/2022,0.9,0.0, ,15.3,3.8,98,77,2.06,9.90
+PORT FAIRY,24/05/2022,1.9,0.2, ,19.9,6.1,92,47,3.02,9.85
+PORT FAIRY,25/05/2022,2.0,0.0, ,19.9,9.7,89,55,4.31,9.22
+PORT FAIRY,26/05/2022,1.1,1.6, ,17.3,11.3,95,75,3.37,7.75
+PORT FAIRY,27/05/2022,1.2,0.8, ,17.9,7.2,95,55,2.04,9.22
+PORT FAIRY,28/05/2022,1.2,0.2, ,16.7,6.4,96,64,2.72,8.12
+PORT FAIRY,29/05/2022,1.0,6.6, ,14.8,7.9,95,51,1.70,8.16
+PORT FAIRY,30/05/2022,0.9,0.0, ,12.2,7.8,92,72,2.91,5.80
+PORT FAIRY,31/05/2022,1.7,9.8, ,11.9,6.2,95,60,9.90,3.09
+Totals:,,48.9,62, ,,,,,, 

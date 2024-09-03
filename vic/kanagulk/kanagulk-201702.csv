@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KANAGULK Victoria for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KANAGULK,01/02/2017,2.6,0.0, ,21.1,7.7,99,41,2.31,9.01
+KANAGULK,02/02/2017,5.2,0.0, ,25.6,9.8,99,31,2.66,26.07
+KANAGULK,03/02/2017,5.4,0.0, ,28.9,6.5,100,26,1.76,28.56
+KANAGULK,04/02/2017,7.4,0.0, ,36.8,9.1,100,13,3.10,23.44
+KANAGULK,05/02/2017,3.4,0.8, ,30.0,15.5,100,49,2.49,10.94
+KANAGULK,06/02/2017,3.6,11.2, ,20.7,13.8,100,49,7.11,13.38
+KANAGULK,07/02/2017,6.9,0.0, ,29.2,9.2,84,20,3.89,28.18
+KANAGULK,08/02/2017,9.8,0.0, ,38.9,13.2,99,25,5.96,27.91
+KANAGULK,09/02/2017,10.3,0.0, ,42.7,22.9,72,19,4.94,26.06
+KANAGULK,10/02/2017,7.1,0.0, ,36.5,16.6,97,33,3.03,27.49
+KANAGULK,11/02/2017,6.2,0.0, ,30.0,17.9,88,26,4.16,21.56
+KANAGULK,12/02/2017,4.8,0.6, ,21.5,12.8,90,34,5.81,19.20
+KANAGULK,13/02/2017,3.9,0.0, ,22.6,12.0,90,49,4.54,15.80
+KANAGULK,14/02/2017,5.6,0.0, ,26.4,12.4,94,26,3.23,25.88
+KANAGULK,15/02/2017,7.8,0.0, ,34.0,10.4,85,15,4.04,25.23
+KANAGULK,16/02/2017,5.0,0.0, ,25.8,12.6,95,34,3.51,22.68
+KANAGULK,17/02/2017,3.8,0.0, ,26.0,8.5,90,36,2.94,12.78
+KANAGULK,18/02/2017,3.6,0.0, ,19.0,8.3,97,40,3.65,18.25
+KANAGULK,19/02/2017,3.6,0.2, ,18.7,7.2,99,40,4.00,18.07
+KANAGULK,20/02/2017,3.6,3.2, ,20.9,6.8,97,38,3.26,16.46
+KANAGULK,21/02/2017,5.2,0.0, ,26.4,4.6,99,19,2.50,25.48
+KANAGULK,22/02/2017,10.5,0.0, ,35.7,11.8,67,9,6.76,23.29
+KANAGULK,23/02/2017,4.1,0.0, ,25.8,15.2,89,44,3.60,15.72
+KANAGULK,24/02/2017,5.0,0.0, ,23.4,9.2,99,38,4.92,24.75
+KANAGULK,25/02/2017,5.8,0.0, ,23.4,10.0,92,29,6.80,24.36
+KANAGULK,26/02/2017,6.2,0.0, ,31.2,9.3,99,22,3.38,24.49
+KANAGULK,27/02/2017,6.5,0.0, ,34.5,12.8,97,18,2.96,24.18
+KANAGULK,28/02/2017,6.6,0.0, ,35.2,13.8,74,16,2.78,23.37
+Totals:,,159.5,16, ,,,,,, 

@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for August 2024,,,,,,,,,,
+Issued at 06:35 GMT on Tuesday 27 August 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/08/2024,1.0,0.2, ,5.0,-0.8,82,24,0.84,11.07
+FALLS CREEK,02/08/2024, ,0.0, ,1.9,-2.7, , , ,10.86
+FALLS CREEK,03/08/2024, ,0.0, , ,-2.1, , , ,8.67
+FALLS CREEK,04/08/2024, , , , , , , , ,11.49
+FALLS CREEK,05/08/2024, , , ,-0.2, , , , ,5.88
+FALLS CREEK,06/08/2024,0.6,4.8, ,0.6,-4.4,99,87,5.54,8.86
+FALLS CREEK,07/08/2024,1.4,0.0, ,1.7,-1.8,99,28,4.64,7.47
+FALLS CREEK,08/08/2024,1.2,0.0, ,2.1,-1.9,99,54,8.33,11.70
+FALLS CREEK,09/08/2024,0.5,0.0, ,2.6,-0.9,99,99,4.31,6.56
+FALLS CREEK,10/08/2024, ,0.0, , ,-0.7, , , ,11.62
+FALLS CREEK,11/08/2024, , , , , , , , ,12.54
+FALLS CREEK,12/08/2024, , , ,7.0, , , , ,13.07
+FALLS CREEK,13/08/2024,0.6,0.0, ,5.1,2.3,99,96,7.47,8.35
+FALLS CREEK,14/08/2024,1.1,0.6, ,7.1,2.3,99,78,3.50,11.44
+FALLS CREEK,15/08/2024,1.4,0.0, ,9.9,2.4,99,54,1.46,12.81
+FALLS CREEK,16/08/2024,0.4,0.2, ,4.9,3.2,99,99,7.91,6.50
+FALLS CREEK,17/08/2024, ,14.4, , ,-0.6,99,99,6.21,6.29
+FALLS CREEK,18/08/2024, , , , ,-0.5,99,97,6.95,11.32
+FALLS CREEK,19/08/2024, , , ,4.0, ,99,87,2.39,10.36
+FALLS CREEK,20/08/2024,1.2,0.0, ,5.4,1.0,99,70,11.29,9.32
+FALLS CREEK,21/08/2024,0.4,10.6, ,2.6,2.0,99,99,9.63,6.02
+FALLS CREEK,22/08/2024,0.4,17.4, ,2.0,-0.3,99,99,7.14,6.71
+FALLS CREEK,23/08/2024,1.1,0.2, ,4.3,-0.1,99,73,8.22,12.70
+FALLS CREEK,24/08/2024,0.4,6.6, ,7.2,0.8,99,99,9.50,6.21
+FALLS CREEK,25/08/2024,1.6,0.6, ,8.2,3.6,99,60,10.99,6.10
+FALLS CREEK,26/08/2024,0.4,34.8, ,2.2,-0.4,99,99,9.40,7.96
+Totals:,,13.7,90.4, ,,,,,, 

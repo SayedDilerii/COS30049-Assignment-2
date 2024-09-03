@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for April 2023,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 May 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/04/2023,2.7,1.4, ,16.9,11.6,81,53,5.19,9.92
+PORT FAIRY,02/04/2023,2.1,0.0, ,17.9,10.4,87,57,1.93,12.42
+PORT FAIRY,03/04/2023,2.4,0.0, ,18.5,6.0,95,63,3.23,16.95
+PORT FAIRY,04/04/2023,1.8,0.0, ,19.1,7.3,96,74,3.09,11.68
+PORT FAIRY,05/04/2023,2.1,0.0, ,17.8,13.0,87,66,3.98,8.99
+PORT FAIRY,06/04/2023,1.5,0.0, ,18.9,13.1,90,81,2.69,8.09
+PORT FAIRY,07/04/2023,1.4,9.6, ,17.5,13.9,95,79,4.74,5.00
+PORT FAIRY,08/04/2023,2.6,1.0, ,17.7,12.9,93,61,9.12,9.64
+PORT FAIRY,09/04/2023,2.5,4.0, ,15.4,11.6,89,58,7.39,8.89
+PORT FAIRY,10/04/2023,2.1,0.8, ,16.1,11.6,90,68,5.38,10.85
+PORT FAIRY,11/04/2023,1.6,0.8, ,16.5,12.5,92,67,2.56,7.64
+PORT FAIRY,12/04/2023,2.0,11.6, ,19.8,11.7,96,73,4.77,10.62
+PORT FAIRY,13/04/2023,1.9,6.4, ,19.8,14.1,96,76,2.83,12.94
+PORT FAIRY,14/04/2023,2.8,0.0, ,24.0,13.2,93,53,3.41,13.18
+PORT FAIRY,15/04/2023,1.6,0.0, ,16.1,14.9,94,59,3.47,4.19
+PORT FAIRY,16/04/2023,2.5,9.0, ,17.5,11.9,94,56,5.75,13.30
+PORT FAIRY,17/04/2023,2.1,0.0, ,22.1,10.6,95,61,2.83,10.45
+PORT FAIRY,18/04/2023,2.7,1.6, ,23.1,12.9,95,55,4.34,11.32
+PORT FAIRY,19/04/2023,2.3,5.2, ,17.0,11.3,93,58,5.19,11.70
+PORT FAIRY,20/04/2023,2.0,0.2, ,19.2,9.3,95,67,3.66,12.07
+PORT FAIRY,21/04/2023,1.6,1.0, ,18.9,12.7,96,78,3.30,10.63
+PORT FAIRY,22/04/2023,1.4,0.4, ,18.4,13.5,94,76,2.28,7.89
+PORT FAIRY,23/04/2023,1.5,0.0, ,19.1,10.9,97,74,2.20,10.80
+PORT FAIRY,24/04/2023,2.4,0.0, ,24.2,8.9,95,53,2.37,13.32
+PORT FAIRY,25/04/2023,2.7,0.0, ,27.2,9.9,95,40,2.22,12.63
+PORT FAIRY,26/04/2023,3.3,0.0, ,27.1,12.0,85,42,3.55,11.97
+PORT FAIRY,27/04/2023,2.4,12.6, ,23.4,14.7,95,58,3.45,11.67
+PORT FAIRY,28/04/2023,2.1,4.0, ,16.8,13.0,93,54,4.79,8.30
+PORT FAIRY,29/04/2023,2.0,4.4, ,16.8,6.3,95,43,2.92,12.03
+PORT FAIRY,30/04/2023,1.5,0.0, ,18.8,6.4,90,64,2.19,9.59
+Totals:,,63.6,74, ,,,,,, 

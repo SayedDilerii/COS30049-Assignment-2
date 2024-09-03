@@ -1,0 +1,29 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for October 2011,,,,,,,,,,
+Issued at 22:34 GMT on Wednesday 19 October 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/10/2011, ,7.8, , ,-8.6,100,99,0.00,9.38
+MOUNT BULLER,05/10/2011, , , , , , , , ,13.47
+MOUNT BULLER,06/10/2011, , , , , , , , ,8.60
+MOUNT BULLER,07/10/2011, , , ,8.1, ,99,62,2.36,16.50
+MOUNT BULLER,08/10/2011,2.2,1.2, ,8.9,3.0,99,74,3.18,20.33
+MOUNT BULLER,09/10/2011,1.0,1.6, ,2.3,-0.4,99,85,6.59,11.37
+MOUNT BULLER,10/10/2011,1.5,6.0, ,1.7,-4.7,99,58,4.85,13.97
+MOUNT BULLER,11/10/2011,0.9,0.0, ,2.4,-3.0,100,99,6.75,15.66
+MOUNT BULLER,12/10/2011,3.0,7.0, ,8.3,-3.1,100,29,4.03,25.84
+MOUNT BULLER,13/10/2011,3.6,0.0, ,12.8,-0.2,100,20,3.14,24.38
+MOUNT BULLER,14/10/2011,2.5,0.0, ,12.8,5.0,99,70,7.28,20.34
+MOUNT BULLER,15/10/2011,1.6,0.2, ,10.8,6.5,100,88,8.04,16.05
+MOUNT BULLER,16/10/2011,1.1,2.0, ,1.9,-4.8,100,88,7.35,18.22
+MOUNT BULLER,17/10/2011,3.2,0.6, ,10.7,-5.4,100,38,4.25,27.41
+MOUNT BULLER,18/10/2011, ,0.0, , ,10.0,100,45,3.54,27.50
+Totals:,,20.6,26.4, ,,,,,, 

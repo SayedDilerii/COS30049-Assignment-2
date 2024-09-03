@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/02/2019,5.5,0.0, ,20.4,14.5,74,47,7.01,27.01
+PORT FAIRY,02/02/2019,4.4,0.0, ,24.3,9.4,94,67,2.27,27.73
+PORT FAIRY,03/02/2019,4.4,0.0, ,23.5,11.2,96,60,3.51,25.69
+PORT FAIRY,04/02/2019,3.5,0.0, ,20.5,17.3,88,66,6.91,15.10
+PORT FAIRY,05/02/2019,4.0,0.0, ,21.6,16.1,95,65,6.94,22.04
+PORT FAIRY,06/02/2019,2.7,0.0, ,25.0,16.9,95,76,2.53,12.96
+PORT FAIRY,07/02/2019,3.2,0.6, ,24.0,17.2,98,72,4.35,16.40
+PORT FAIRY,08/02/2019,3.9,0.0, ,21.3,16.6,92,54,6.69,16.27
+PORT FAIRY,09/02/2019,4.0,7.4, ,19.0,12.8,95,50,9.12,18.50
+PORT FAIRY,10/02/2019,2.5,0.0, ,21.0,12.1,88,60,4.29,6.89
+PORT FAIRY,11/02/2019,3.5,0.0, ,24.1,13.0,93,61,4.61,15.17
+PORT FAIRY,12/02/2019,4.2,4.4, ,18.0,11.6,93,46,10.12,18.67
+PORT FAIRY,13/02/2019,4.4,2.4, ,19.1,11.0,78,52,7.84,20.79
+PORT FAIRY,14/02/2019,3.3,0.6, ,20.7,12.1,93,68,5.01,18.83
+PORT FAIRY,15/02/2019,3.4,0.2, ,21.5,13.3,87,70,3.29,19.07
+PORT FAIRY,16/02/2019,3.5,0.0, ,22.0,15.9,90,69,2.59,19.80
+PORT FAIRY,17/02/2019,4.5,0.0, ,30.7,12.0,95,36,2.24,18.17
+PORT FAIRY,18/02/2019,3.8,0.0, ,20.9,14.2,94,57,6.50,17.86
+PORT FAIRY,19/02/2019,4.7,0.0, ,21.2,13.0,84,44,6.10,20.61
+PORT FAIRY,20/02/2019,3.6,0.0, ,20.7,13.7,91,63,5.37,19.64
+PORT FAIRY,21/02/2019,3.3,0.4, ,20.1,14.8,75,56,3.83,12.34
+PORT FAIRY,22/02/2019,4.0,0.0, ,20.6,15.2,80,62,4.23,21.79
+PORT FAIRY,23/02/2019,3.9,0.0, ,21.0,15.1,91,67,6.01,23.39
+PORT FAIRY,24/02/2019,7.5,0.0, ,35.7,15.6,92,21,4.05,23.85
+PORT FAIRY,25/02/2019,6.3,0.0, ,36.0,16.4,87,16,2.44,23.14
+PORT FAIRY,26/02/2019,3.1,0.0, ,20.8,16.3,94,69,6.36,15.45
+PORT FAIRY,27/02/2019,3.9,0.0, ,22.1,12.9,88,63,4.22,23.07
+PORT FAIRY,28/02/2019,4.3,0.0, ,31.5,15.5,93,30,2.31,14.43
+Totals:,,113.3,16, ,,,,,, 

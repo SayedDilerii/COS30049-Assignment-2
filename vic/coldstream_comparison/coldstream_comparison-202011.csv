@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLDSTREAM COMPARISON Victoria for November 2020,,,,,,,,,,
+Issued at 22:31 GMT on Friday 06 November 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLDSTREAM COMPARISON,30/10/2020,3.5,0.0, ,22.9,9.9,100,55,1.93,20.01
+COLDSTREAM COMPARISON,31/10/2020,2.1,0.0, ,19.5,9.1,100,73,2.29,11.38
+COLDSTREAM COMPARISON,01/11/2020,3.8,0.0, ,20.7,11.4,100,62,1.69,24.22
+COLDSTREAM COMPARISON,02/11/2020,4.5,0.0, ,28.5,7.3,100,34,0.65,27.31
+COLDSTREAM COMPARISON,03/11/2020,5.1,0.0, ,28.9,10.0,100,41,1.62,27.47
+COLDSTREAM COMPARISON,04/11/2020,1.7,0.0, ,22.4,15.7,100,50,1.94,3.14
+COLDSTREAM COMPARISON,05/11/2020, ,5.4, , ,8.4, , , ,17.68
+Totals:,,20.7,5.4, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for March 2022,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 April 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/03/2022,1.1,0.0, ,19.7,16.6,100,100,1.92,6.14
+PORT FAIRY,02/03/2022,2.6,7.8, ,24.2,16.5,100,98,2.99,17.77
+PORT FAIRY,03/03/2022,3.2,0.0, ,23.9,15.2,100,99,2.61,23.29
+PORT FAIRY,04/03/2022,0.7,0.0, ,21.1,17.4,100,100,2.33,2.44
+PORT FAIRY,05/03/2022,0.9,21.0, ,19.2,15.1,100,100,5.12,6.31
+PORT FAIRY,06/03/2022,1.6,1.0, ,18.8,15.4,100,89,8.64,12.30
+PORT FAIRY,07/03/2022,1.8,0.0, ,20.2,14.9,100,96,4.66,13.77
+PORT FAIRY,08/03/2022,2.5,0.0, ,19.0,15.3,100,79,8.51,18.51
+PORT FAIRY,09/03/2022,2.4,0.0, ,19.6,14.9,100,87,6.36,19.39
+PORT FAIRY,10/03/2022,2.5,0.2, ,20.5,14.6,98,82,4.88,17.26
+PORT FAIRY,11/03/2022, ,0.0, , ,11.0,100,51,3.07,19.24
+PORT FAIRY,12/03/2022, , , ,19.3, ,93,57,3.20,21.50
+PORT FAIRY,13/03/2022,3.1,0.0, ,20.8,11.9,95,73,2.52,21.27
+PORT FAIRY,14/03/2022,1.9,0.0, ,19.9,14.8,96,87,4.17,12.01
+PORT FAIRY,15/03/2022,2.5,13.4, ,22.4,16.1,95,77,3.29,13.79
+PORT FAIRY,16/03/2022,4.1,0.0, ,28.9,16.1,92,47,2.88,17.51
+PORT FAIRY,17/03/2022,3.5,0.2, ,24.9,16.9,95,68,2.61,20.17
+PORT FAIRY,18/03/2022,3.4,0.0, ,20.3,16.3,94,59,5.07,18.23
+PORT FAIRY,19/03/2022,3.3,0.0, ,24.5,14.5,96,61,2.53,18.52
+PORT FAIRY,20/03/2022,2.3,0.2, ,21.1,13.4,97,73,2.19,13.79
+PORT FAIRY,21/03/2022,2.0,0.2, ,20.8,11.9,98,78,1.82,12.50
+PORT FAIRY,22/03/2022,1.9,0.0, ,20.1,11.7,97,70,2.73,8.53
+PORT FAIRY,23/03/2022,3.4,0.2, ,19.5,14.0,77,55,4.96,14.85
+PORT FAIRY,24/03/2022,2.2,0.0, ,18.8,9.0,87,59,2.74,9.59
+PORT FAIRY,25/03/2022, ,0.2, ,20.7,11.7, , , ,14.23
+PORT FAIRY,27/03/2022, , , , , , , , ,17.26
+PORT FAIRY,28/03/2022, , , ,21.1, , , , ,16.35
+PORT FAIRY,29/03/2022,2.2, , ,18.8,14.7,93,59,3.53,8.88
+PORT FAIRY,30/03/2022,2.9,0.0, ,19.4,14.9,91,55,6.04,10.98
+PORT FAIRY,31/03/2022,3.9,1.0, ,17.5,14.7,68,51,9.46,8.02
+Totals:,,61.9,45.4, ,,,,,, 

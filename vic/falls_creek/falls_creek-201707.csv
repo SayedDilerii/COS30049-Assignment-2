@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for July 2017,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 August 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/07/2017,0.3,0.0, ,4.6,-6.5,85,4,0.00,9.57
+FALLS CREEK,02/07/2017,0.2,0.0, ,4.9,-0.2,22,4,0.00,9.73
+FALLS CREEK,03/07/2017,0.4,0.0, ,2.2,-1.0,99,12,0.00,2.50
+FALLS CREEK,04/07/2017,0.4,17.4, ,0.5,-0.9,99,98,0.00,3.74
+FALLS CREEK,05/07/2017,0.4,18.0, ,0.5,-1.5,99,98,0.00,3.35
+FALLS CREEK,06/07/2017,0.4,5.6, ,-1.6,-3.9,98,94,0.00,4.62
+FALLS CREEK,07/07/2017,0.4,0.2, ,-1.3,-4.0,98,92,0.00,1.99
+FALLS CREEK,08/07/2017,0.4,0.4, ,-0.8,-3.7,99,98,0.00,3.92
+FALLS CREEK,09/07/2017,0.4,2.8, ,-2.0,-3.0,98,98,0.00,4.13
+FALLS CREEK,10/07/2017,0.5,0.2, ,3.0,-3.4,98,97,0.00,5.73
+FALLS CREEK,11/07/2017,0.4,0.0, ,-0.4,-2.8,98,68,0.00,5.90
+FALLS CREEK,12/07/2017,0.8,0.0, ,1.5,-5.2,94,32,1.65,8.57
+FALLS CREEK,13/07/2017,0.9,0.0, ,-0.4,-3.0,96,60,9.51,5.94
+FALLS CREEK,14/07/2017,0.3,0.2, ,-0.1,-2.1,97,95,9.95,2.57
+FALLS CREEK,15/07/2017,0.4,1.6, ,-1.1,-4.6,96,90,4.29,7.33
+FALLS CREEK,16/07/2017,0.8,0.0, ,-0.9,-6.7,93,60,4.82,8.12
+FALLS CREEK,17/07/2017,0.3,0.0, ,0.7,-5.1,99,92,9.88,3.50
+FALLS CREEK,18/07/2017,0.3,8.6, ,-0.6,-2.5,99,96,9.94,1.81
+FALLS CREEK,19/07/2017,0.4,9.2, ,0.0,-2.9,98,92,7.42,4.60
+FALLS CREEK,20/07/2017,0.4,0.0, ,-2.5,-5.3,95,86,8.74,4.62
+FALLS CREEK,21/07/2017,1.2,0.8, ,0.8,-5.9,96,29,4.28,8.20
+FALLS CREEK,22/07/2017,1.5,0.0, ,0.1,-5.6,86,27,7.17,8.64
+FALLS CREEK,23/07/2017,0.6,0.0, ,-0.2,-3.7,98,76,8.46,4.67
+FALLS CREEK,24/07/2017,0.3,4.2, ,0.1,-2.8,98,96,7.65,3.34
+FALLS CREEK,25/07/2017,0.3,1.6, ,1.7,-2.0,99,97,9.73,3.35
+FALLS CREEK,26/07/2017,0.4,6.8, ,0.0,-1.8,98,88,7.97,3.72
+FALLS CREEK,27/07/2017,1.6,1.4, ,0.0,-4.2,98,18,7.81,7.31
+FALLS CREEK,28/07/2017,1.5,6.2, ,2.0,-3.1,97,31,6.55,7.10
+FALLS CREEK,29/07/2017,2.3,0.0, ,4.6,-4.5,80,20,8.89,8.72
+FALLS CREEK,30/07/2017,0.6,0.0, ,1.4,0.3,99,81,8.72,2.77
+FALLS CREEK,31/07/2017,0.6,0.0, ,1.2,-0.5,99,82,4.63,5.54
+Totals:,,19.7,85.2, ,,,,,, 

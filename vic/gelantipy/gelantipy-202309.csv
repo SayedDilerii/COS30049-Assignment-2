@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for September 2023,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 October 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/09/2023,1.2,2.8, ,8.5,4.8,99,75,4.08,10.24
+GELANTIPY,02/09/2023,1.9,1.6, ,12.6,-0.7,100,49,2.30,16.33
+GELANTIPY,03/09/2023,2.8,0.0, ,16.3,1.4,97,37,3.74,16.49
+GELANTIPY,04/09/2023,3.4,0.0, ,18.9,2.4,95,27,4.38,14.41
+GELANTIPY,05/09/2023,2.8,6.6, ,13.3,1.0,100,36,5.67,15.94
+GELANTIPY,06/09/2023,3.5,0.2, ,16.3,0.7,83,23,4.50,16.92
+GELANTIPY,07/09/2023,4.8,0.0, ,19.3,5.3,83,23,7.63,16.71
+GELANTIPY,08/09/2023,2.8,0.4, ,10.2,5.4,80,46,9.04,15.04
+GELANTIPY,09/09/2023,1.9,0.0, ,8.9,2.1,94,54,4.60,13.25
+GELANTIPY,10/09/2023,2.2,0.6, ,11.6,0.7,86,51,3.38,15.63
+GELANTIPY,11/09/2023,2.0,0.0, ,12.8,2.5,96,57,2.14,16.85
+GELANTIPY,12/09/2023,2.4,0.0, ,16.0,4.7,98,33,2.42,13.05
+GELANTIPY,13/09/2023,3.3,0.0, ,19.5,6.1,81,26,2.52,18.18
+GELANTIPY,14/09/2023,4.7,0.0, ,24.4,8.8,65,25,3.91,17.78
+GELANTIPY,15/09/2023,5.4,0.0, ,22.4,12.1,57,23,5.62,18.33
+GELANTIPY,16/09/2023,5.5,0.0, ,21.8,9.7,50,26,6.19,18.91
+GELANTIPY,17/09/2023,5.5,0.0, ,21.9,13.2,52,31,6.32,18.83
+GELANTIPY,18/09/2023,6.5,0.0, ,25.6,12.3,59,19,6.48,19.03
+GELANTIPY,19/09/2023,7.6,0.0, ,25.9,11.2,56,16,8.33,19.44
+GELANTIPY,20/09/2023,3.9,0.0, ,18.5,15.7,100,26,6.01,16.04
+GELANTIPY,21/09/2023,2.0,3.6, ,9.9,2.9,100,64,2.76,17.85
+GELANTIPY,22/09/2023,2.3,2.2, ,12.2,2.6,99,53,1.98,19.42
+GELANTIPY,23/09/2023,2.7,0.4, ,16.1,0.5,100,47,2.35,20.26
+GELANTIPY,24/09/2023,4.0,0.0, ,21.1,4.6,98,32,3.84,20.34
+GELANTIPY,25/09/2023,3.5,0.0, ,21.7,6.5,98,34,3.47,14.18
+GELANTIPY,26/09/2023,2.2,0.4, ,17.1,8.0,99,64,1.56,14.30
+GELANTIPY,27/09/2023,2.5,0.2, ,16.9,9.7,97,64,2.67,16.14
+GELANTIPY,28/09/2023,3.5,0.0, ,20.9,6.1,99,27,1.94,21.02
+GELANTIPY,29/09/2023,4.4,0.0, ,22.8,6.7,75,15,2.63,21.31
+GELANTIPY,30/09/2023,5.9,0.0, ,24.7,8.5,55,14,4.41,21.59
+Totals:,,107.1,19, ,,,,,, 

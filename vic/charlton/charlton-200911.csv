@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CHARLTON Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CHARLTON,01/11/2009,7.7,0.4, ,36.4,16.7,99,13,3.01,29.09
+CHARLTON,02/11/2009,8.2,0.0, ,38.6,16.3,82,15,3.41,25.55
+CHARLTON,03/11/2009,6.1,0.0, ,23.6,12.7,81,35,6.79,25.27
+CHARLTON,04/11/2009,5.1,0.0, ,21.6,6.1,96,34,3.73,30.14
+CHARLTON,05/11/2009,6.2,0.0, ,24.1,6.4,83,26,4.19,31.07
+CHARLTON,06/11/2009,6.3,0.0, ,29.9,5.3,94,22,2.35,31.45
+CHARLTON,07/11/2009,8.3,0.0, ,34.8,15.3,62,21,3.84,29.55
+CHARLTON,08/11/2009,7.8,0.0, ,34.5,16.3,58,18,2.83,31.08
+CHARLTON,09/11/2009,7.2,0.0, ,37.4,14.6,62,14,1.81,31.27
+CHARLTON,10/11/2009,8.2,0.0, ,39.8,16.9,60,10,2.39,30.76
+CHARLTON,11/11/2009,9.7,0.0, ,41.1,19.3,54,10,3.45,30.83
+CHARLTON,12/11/2009, ,0.0, ,39.7,18.0,61,12,3.39, 
+CHARLTON,13/11/2009,8.9,0.0, ,37.0,12.8,92,8,3.27,32.58
+CHARLTON,14/11/2009,8.2,0.0, ,40.0,13.8,61,9,2.25,31.68
+CHARLTON,15/11/2009,8.7,0.0, ,38.7,17.3,70,11,2.90,31.26
+CHARLTON,16/11/2009, ,0.0, ,30.6,19.1,62,20,4.08, 
+CHARLTON,17/11/2009, ,0.0, ,30.7,9.5,84,18,2.95, 
+CHARLTON,18/11/2009, ,0.0, ,37.9,12.0,72,9,3.15, 
+CHARLTON,19/11/2009, ,0.0, ,40.6,22.4,35,8,3.33, 
+CHARLTON,20/11/2009, ,0.0, ,40.5,21.8,66,13,4.25, 
+CHARLTON,21/11/2009, ,0.0, ,26.2,20.0,100,54,2.58, 
+CHARLTON,22/11/2009, ,20.8, ,22.8,14.2,100,38,5.31, 
+CHARLTON,23/11/2009, ,3.4, ,24.4,8.8,91,27,3.22, 
+CHARLTON,24/11/2009, ,0.0, ,29.3,9.5,92,11,2.16, 
+CHARLTON,25/11/2009, ,0.0, ,34.1,14.5,100,16,3.03, 
+CHARLTON,26/11/2009, ,26.0, ,23.4,19.4,100,63,3.69, 
+CHARLTON,27/11/2009, ,13.0, ,30.7,16.5,100,32,5.00, 
+CHARLTON,28/11/2009,4.8,16.2, ,22.5,11.9,100,43,5.08,23.61
+CHARLTON,29/11/2009,5.0,9.6, ,23.5,12.7,100,42,4.74,24.07
+CHARLTON,30/11/2009,5.9,0.0, ,24.5,10.9,99,34,5.48,27.60
+Totals:,,122.3,89.4, ,,,,,, 

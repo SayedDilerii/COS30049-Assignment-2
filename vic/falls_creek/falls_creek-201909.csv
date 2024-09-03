@@ -1,0 +1,35 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for September 2019,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 22 September 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/09/2019,1.5,0.0, ,4.1,-0.3,99,36,1.11,15.32
+FALLS CREEK,02/09/2019,1.5,6.8, ,7.6,-2.1,99,64,0.12,15.76
+FALLS CREEK,03/09/2019,1.8,0.0, ,9.0,0.4,93,54,1.23,16.72
+FALLS CREEK,04/09/2019,1.5,0.0, ,6.0,2.0,99,50,0.04,15.74
+FALLS CREEK,05/09/2019,1.4,0.0, ,7.0,0.7,99,62,0.11,13.12
+FALLS CREEK,06/09/2019,0.9,2.8, ,3.9,2.2,99,61,1.27,5.52
+FALLS CREEK,07/09/2019,0.8,12.8, ,-1.5,-4.5,98,95,0.26,7.45
+FALLS CREEK,08/09/2019,0.9,2.6, ,-0.6,-4.5,99,92,0.00,9.60
+FALLS CREEK,09/09/2019,1.0,7.6, ,-0.9,-5.9,95,73,8.69,13.08
+FALLS CREEK,10/09/2019,2.0,5.4, ,5.0,-5.5,95,30,3.37,17.84
+FALLS CREEK,11/09/2019,2.3,0.4, ,10.2,-0.9,94,23,1.82,18.24
+FALLS CREEK,12/09/2019,2.6,0.0, ,6.9,0.0,93,31,7.53,17.88
+FALLS CREEK,13/09/2019,2.8,0.0, ,7.2,0.1,90,16,5.24,17.70
+FALLS CREEK,14/09/2019,2.9,0.0, ,8.4,0.3,92,18,5.44,18.83
+FALLS CREEK,15/09/2019,2.6,0.2, ,6.7,2.6,98,20,7.54,13.18
+FALLS CREEK,16/09/2019,0.8,26.6, ,2.8,2.4,99,79,7.70,5.27
+FALLS CREEK,17/09/2019,1.2,6.0, ,2.3,-7.1,99,88,3.39,19.12
+FALLS CREEK,18/09/2019,2.0,0.0, ,7.2,-4.1,92,49,1.64,19.83
+FALLS CREEK,19/09/2019,1.5,0.0, ,8.9,2.1,99,81,7.61,15.22
+FALLS CREEK,20/09/2019,2.2,0.2, ,10.5,5.0,99,66,9.63,20.22
+FALLS CREEK,21/09/2019, ,1.4, , ,7.0, , , ,2.48
+Totals:,,34.2,72.8, ,,,,,, 

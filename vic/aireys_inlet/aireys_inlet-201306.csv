@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for AIREYS INLET Victoria for June 2013,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 July 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+AIREYS INLET,01/06/2013,1.3,7.6, ,16.7,13.1,98,67,4.50,5.90
+AIREYS INLET,02/06/2013,1.4,1.2, ,14.8,10.1,94,68,6.02,6.34
+AIREYS INLET,03/06/2013,1.0,1.4, ,15.1,9.8,95,71,2.90,6.88
+AIREYS INLET,04/06/2013,1.0,0.2, ,15.7,9.4,98,71,3.28,7.12
+AIREYS INLET,05/06/2013,1.3,0.0, ,15.2,10.3,88,69,4.08,3.63
+AIREYS INLET,06/06/2013,2.0,0.2, ,15.9,11.0,84,61,7.04,9.13
+AIREYS INLET,07/06/2013,1.6,8.4, ,14.4,9.7,94,58,6.02,9.39
+AIREYS INLET,08/06/2013,1.8,0.4, ,14.6,6.7,85,56,5.84,9.05
+AIREYS INLET,09/06/2013,1.8,0.0, ,14.5,7.5,77,58,5.03,9.21
+AIREYS INLET,10/06/2013,1.9,0.0, ,15.8,6.2,85,59,6.33,6.02
+AIREYS INLET,11/06/2013,1.2,0.0, ,16.3,9.4,92,66,3.22,6.63
+AIREYS INLET,12/06/2013,0.7,0.0, ,13.9,10.9,98,86,4.22,2.76
+AIREYS INLET,13/06/2013,1.1,52.6, ,13.2,11.2,99,74,6.49,2.97
+AIREYS INLET,14/06/2013,1.4,17.8, ,13.5,10.3,98,64,6.42,3.75
+AIREYS INLET,15/06/2013,1.4,0.6, ,14.1,8.6,81,58,3.40,9.00
+AIREYS INLET,16/06/2013,1.2,0.0, ,14.0,10.1,86,62,3.31,8.58
+AIREYS INLET,17/06/2013,0.7,6.8, ,10.5,8.2,99,74,1.95,3.02
+AIREYS INLET,18/06/2013,0.7,22.4, ,13.4,7.9,97,78,1.86,5.47
+AIREYS INLET,19/06/2013,0.8,3.2, ,13.8,8.3,92,62,1.54,8.32
+AIREYS INLET,20/06/2013,0.9,0.0, ,13.6,6.2,95,52,2.05,9.30
+AIREYS INLET,21/06/2013,1.2,0.0, ,14.8,4.1,93,56,2.92,8.87
+AIREYS INLET,22/06/2013,0.7,0.0, ,12.6,5.4,97,71,2.05,9.06
+AIREYS INLET,23/06/2013,1.1,0.0, ,12.9,7.7,87,69,3.64,9.26
+AIREYS INLET,24/06/2013,1.1,0.0, ,13.8,9.1,85,75,3.69,3.71
+AIREYS INLET,25/06/2013,1.5,0.0, ,14.1,11.4,86,63,4.69,8.47
+AIREYS INLET,26/06/2013,1.1,0.0, ,14.9,5.3,99,58,2.82,9.21
+AIREYS INLET,27/06/2013,1.9,0.0, ,17.6,7.3,84,49,3.97,8.23
+AIREYS INLET,28/06/2013, ,0.0, ,16.2,8.6,99,67,1.75, 
+AIREYS INLET,29/06/2013,0.9,0.0, ,15.0,8.0,98,64,2.10,8.88
+AIREYS INLET,30/06/2013,1.2,0.0, ,16.2,9.4,97,72,4.70,7.73
+Totals:,,35.9,122.8, ,,,,,, 
