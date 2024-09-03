@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/02/2018,4.0,0.0, ,13.7,1.1,89,8,2.41,24.91
+MOUNT BULLER,02/02/2018,2.9,0.0, ,14.3,6.4,97,69,2.92,20.28
+MOUNT BULLER,03/02/2018,3.0,0.0, ,15.4,6.8,96,57,3.19,18.26
+MOUNT BULLER,04/02/2018,4.4,0.0, ,17.2,8.0,83,49,3.16,27.93
+MOUNT BULLER,05/02/2018,4.7,0.0, ,19.2,9.8,81,34,3.91,23.60
+MOUNT BULLER,06/02/2018,5.0,0.0, ,20.6,11.3,63,12,2.73,22.30
+MOUNT BULLER,07/02/2018,5.7,0.0, ,21.7,13.8,63,45,5.05,27.20
+MOUNT BULLER,08/02/2018,5.2,0.0, ,24.2,14.8,64,43,4.66,19.70
+MOUNT BULLER,09/02/2018,3.5,0.0, ,20.2,15.5,77,50,4.57,11.36
+MOUNT BULLER,10/02/2018,2.9,0.0, ,20.2,13.4,99,52,6.34,8.13
+MOUNT BULLER,11/02/2018,4.0,8.8, ,16.2,7.1,99,47,2.93,26.62
+MOUNT BULLER,12/02/2018,3.6,0.0, ,14.3,4.2,99,45,2.38,25.11
+MOUNT BULLER,13/02/2018,4.3,0.0, ,15.6,5.1,93,37,4.67,26.89
+MOUNT BULLER,14/02/2018,3.5,0.0, ,12.9,9.1,92,42,9.21,18.07
+MOUNT BULLER,15/02/2018,3.9,0.0, ,13.5,4.0,80,35,6.57,20.08
+MOUNT BULLER,16/02/2018,3.9,0.0, ,14.2,5.3,99,39,4.49,26.03
+MOUNT BULLER,17/02/2018,4.4,0.0, ,16.3,6.2,64,37,4.50,22.94
+MOUNT BULLER,18/02/2018,4.4,0.0, ,20.6,11.0,96,40,4.14,22.59
+MOUNT BULLER,19/02/2018,2.8,1.8, ,15.8,9.3,99,71,7.06,18.94
+MOUNT BULLER,20/02/2018,4.8,0.6, ,19.9,7.9,79,31,3.36,25.71
+MOUNT BULLER,21/02/2018,2.9,0.0, ,15.8,8.5,75,51,2.89,14.27
+MOUNT BULLER,22/02/2018,3.0,0.0, ,17.1,11.7,76,55,3.08,13.66
+MOUNT BULLER,23/02/2018,2.9,0.0, ,18.2,11.9,80,57,6.91,6.91
+MOUNT BULLER,24/02/2018,2.7,0.0, ,16.4,12.7,99,54,9.65,7.33
+MOUNT BULLER,25/02/2018,2.5,6.8, ,13.3,6.4,99,64,7.16,16.52
+MOUNT BULLER,26/02/2018,3.1,0.0, ,15.7,4.9,99,59,4.60,21.04
+MOUNT BULLER,27/02/2018,4.1,0.0, ,18.7,8.3,89,50,3.97,24.29
+MOUNT BULLER,28/02/2018,5.4,0.0, ,19.5,10.3,99,28,10.92,23.97
+Totals:,,107.5,18, ,,,,,, 

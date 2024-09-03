@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/02/2023,4.0,2.0, ,21.2,8.4,97,39,3.47,18.88
+CASTERTON,02/02/2023,2.8,0.0, ,17.3,6.5,96,57,6.77,11.79
+CASTERTON,03/02/2023,3.1,28.0, ,16.6,6.9,96,56,5.13,17.47
+CASTERTON,04/02/2023,3.7,11.2, ,20.8,7.0,97,55,4.46,19.93
+CASTERTON,05/02/2023,2.6,0.4, ,19.8,12.3,93,58,2.89,11.31
+CASTERTON,06/02/2023,3.8,0.0, ,23.2,7.4,98,54,2.59,21.16
+CASTERTON,07/02/2023,5.3,0.2, ,24.8,11.5,96,43,4.08,27.17
+CASTERTON,08/02/2023,6.2,0.0, ,27.0,12.0,89,38,5.02,27.82
+CASTERTON,09/02/2023,6.2,0.0, ,29.4,11.4,96,25,3.22,27.64
+CASTERTON,10/02/2023,7.8,0.0, ,34.0,12.8,98,23,4.55,27.23
+CASTERTON,11/02/2023,2.2,0.0, ,20.2,14.4,92,65,5.37,5.07
+CASTERTON,12/02/2023,4.0,0.2, ,20.1,12.9,96,45,4.29,20.81
+CASTERTON,13/02/2023,3.6,0.2, ,21.4,8.7,93,49,3.61,17.26
+CASTERTON,14/02/2023,5.1,0.0, ,26.0,6.7,99,34,2.88,26.57
+CASTERTON,15/02/2023,6.3,0.0, ,32.6,9.5,95,17,2.75,24.47
+CASTERTON,16/02/2023,7.6,0.0, ,38.1,15.8,62,12,3.18,21.12
+CASTERTON,17/02/2023,5.6,0.0, ,27.5,16.8,94,38,3.43,26.02
+CASTERTON,18/02/2023,4.5,0.0, ,25.6,7.5,98,41,2.50,23.73
+CASTERTON,19/02/2023,4.8,0.0, ,28.0,9.4,98,34,2.51,22.50
+CASTERTON,20/02/2023,5.6,0.0, ,28.3,11.2,98,26,3.18,24.65
+CASTERTON,21/02/2023,5.4,0.0, ,23.9,15.2,90,36,6.24,22.33
+CASTERTON,22/02/2023,6.5,0.0, ,32.2,9.7,93,20,3.33,24.01
+CASTERTON,23/02/2023,8.1,0.0, ,33.4,14.7,70,25,5.47,24.55
+CASTERTON,24/02/2023,8.5,0.0, ,36.2,22.2,80,23,5.89,21.19
+CASTERTON,25/02/2023,2.1,16.2, ,20.9,15.5,97,67,3.38,7.88
+CASTERTON,26/02/2023,2.9,9.0, ,20.5,12.8,97,66,3.87,15.43
+CASTERTON,27/02/2023,2.8,0.6, ,20.1,13.3,96,61,3.79,13.17
+CASTERTON,28/02/2023,2.6,0.0, ,18.2,12.2,78,59,3.57,9.33
+Totals:,,133.7,68, ,,,,,, 

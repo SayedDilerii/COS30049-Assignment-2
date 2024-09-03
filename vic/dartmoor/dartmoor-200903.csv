@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DARTMOOR Victoria for March 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DARTMOOR,01/03/2009, , , , , , , , , 
+DARTMOOR,02/03/2009, , , , , , , , , 
+DARTMOOR,03/03/2009, , , , , , , , , 
+DARTMOOR,04/03/2009, , , , , , , , , 
+DARTMOOR,05/03/2009, , , ,21.7, , , , ,19.61
+DARTMOOR,06/03/2009,2.3,0.8, ,17.6,8.2,95,65,2.52,14.20
+DARTMOOR,07/03/2009,3.5,0.8, ,19.9,10.1,99,52,3.61,21.15
+DARTMOOR,08/03/2009,3.7,0.2, ,20.5,8.8,92,52,5.01,20.03
+DARTMOOR,09/03/2009,4.9,0.0, ,23.9,8.0,92,44,5.35,25.50
+DARTMOOR,10/03/2009,5.3,0.0, ,27.6,12.9,94,44,6.06,20.77
+DARTMOOR,11/03/2009,4.7,0.0, ,29.7,14.1,96,42,4.34,15.92
+DARTMOOR,12/03/2009,4.6,19.0, ,28.1,15.8,98,51,3.38,22.52
+DARTMOOR,13/03/2009,4.4,0.0, ,29.4,14.3,100,33,1.80,22.74
+DARTMOOR,14/03/2009,3.7,14.2, ,20.1,14.5,98,51,7.66,17.05
+DARTMOOR,15/03/2009,3.2,9.6, ,17.8,9.3,97,54,6.08,18.79
+DARTMOOR,16/03/2009,2.7,3.8, ,18.0,10.2,98,64,5.29,17.06
+DARTMOOR,17/03/2009,2.1,0.2, ,15.9,11.1,96,71,3.19,13.84
+DARTMOOR,18/03/2009,3.8,0.0, ,24.8,5.6,99,37,2.56,20.26
+DARTMOOR,19/03/2009,3.3,0.0, ,22.3,8.0,97,61,3.01,21.68
+DARTMOOR,20/03/2009, ,0.0, ,23.6,5.2,99,46,2.05, 
+DARTMOOR,21/03/2009, ,0.0, ,34.6,7.9,99,18,4.16, 
+DARTMOOR,22/03/2009, ,0.4, ,18.5,11.3,99,63,5.32, 
+DARTMOOR,23/03/2009,3.5,0.0, ,20.7,5.1,100,46,3.08,22.97
+DARTMOOR,24/03/2009,2.2,0.0, ,20.6,7.1,97,56,1.89,11.47
+DARTMOOR,25/03/2009,2.8,4.8, ,23.1,10.5,98,68,2.41,17.99
+DARTMOOR,26/03/2009,3.2,0.0, ,20.4,14.0,98,58,4.32,19.11
+DARTMOOR,27/03/2009, ,0.2, ,19.8,3.4,98,58,1.39, 
+DARTMOOR,28/03/2009, ,0.0, ,26.6,1.8,99,24,1.98, 
+DARTMOOR,29/03/2009, ,0.0, ,24.3,1.5,97,47,3.15, 
+DARTMOOR,30/03/2009,3.5,0.0, ,21.1,4.4,94,54,6.15,20.35
+DARTMOOR,31/03/2009,4.1,0.0, ,29.0,6.3,99,36,2.47,20.19
+Totals:,,71.5,54, ,,,,,, 

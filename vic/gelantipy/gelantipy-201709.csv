@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for September 2017,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 October 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/09/2017,2.3,0.2, ,13.5,-2.1,97,37,2.95,15.91
+GELANTIPY,02/09/2017,2.9,0.0, ,17.2,3.9,70,37,3.90,10.89
+GELANTIPY,03/09/2017,5.6,0.0, ,20.0,7.6,67,21,9.25,14.91
+GELANTIPY,04/09/2017,2.3,0.0, ,9.5,5.5,92,44,6.91,13.87
+GELANTIPY,05/09/2017,2.0,2.8, ,7.5,1.5,95,50,7.38,16.61
+GELANTIPY,06/09/2017,2.6,2.6, ,10.8,1.8,75,51,7.18,15.54
+GELANTIPY,07/09/2017,2.6,0.0, ,11.7,3.9,75,49,5.40,15.98
+GELANTIPY,08/09/2017,1.4,6.0, ,6.3,1.7,99,65,5.77,10.58
+GELANTIPY,09/09/2017,1.4,3.6, ,9.0,2.1,99,71,5.33,12.01
+GELANTIPY,10/09/2017,2.1,0.6, ,12.3,1.7,100,49,1.87,17.41
+GELANTIPY,11/09/2017,2.5,0.0, ,16.2,1.9,100,43,4.28,10.67
+GELANTIPY,12/09/2017,4.1,0.0, ,19.5,8.0,66,37,6.30,12.71
+GELANTIPY,13/09/2017,3.1,0.0, ,16.0,7.4,99,43,5.59,17.41
+GELANTIPY,14/09/2017,2.2,5.0, ,9.9,1.2,97,45,6.38,12.79
+GELANTIPY,15/09/2017,2.8,0.6, ,13.6,3.9,78,53,6.24,14.83
+GELANTIPY,16/09/2017,1.5,6.6, ,6.2,0.0,99,60,6.25,11.32
+GELANTIPY,17/09/2017,2.8,2.0, ,13.7,1.2,84,36,3.03,19.09
+GELANTIPY,18/09/2017,4.8,0.0, ,18.1,1.4,64,17,6.42,15.04
+GELANTIPY,19/09/2017,2.9,1.8, ,11.1,4.6,88,30,4.83,17.09
+GELANTIPY,20/09/2017,2.8,0.2, ,15.9,0.1,94,32,2.26,18.62
+GELANTIPY,21/09/2017,3.6,0.0, ,19.0,5.1,73,17,3.59,9.21
+GELANTIPY,22/09/2017,5.2,0.0, ,22.2,9.0,54,20,4.77,18.67
+GELANTIPY,23/09/2017,7.0,0.0, ,27.4,10.8,82,17,7.31,18.71
+GELANTIPY,24/09/2017,4.0,0.0, ,14.9,8.8,85,32,7.76,19.00
+GELANTIPY,25/09/2017,2.4,0.0, ,13.0,7.0,100,46,4.83,12.25
+GELANTIPY,26/09/2017,2.4,10.4, ,11.6,1.9,100,53,2.42,19.99
+GELANTIPY,27/09/2017,5.4,0.2, ,23.1,1.6,95,25,6.57,19.07
+GELANTIPY,28/09/2017,3.3,0.2, ,17.7,8.5,100,42,3.23,19.84
+GELANTIPY,29/09/2017,3.5,0.4, ,15.3,4.3,100,33,5.11,21.27
+GELANTIPY,30/09/2017,2.8,0.0, ,11.8,6.6,85,42,5.34,14.93
+Totals:,,94.3,43.2, ,,,,,, 

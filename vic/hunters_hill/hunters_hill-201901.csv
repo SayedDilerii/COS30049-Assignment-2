@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HUNTERS HILL Victoria for January 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 February 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HUNTERS HILL,06/01/2019,5.6,2.6, ,26.6,9.0,99,21,1.06,31.73
+HUNTERS HILL,07/01/2019,5.8,0.0, ,28.7,12.8,82,29,1.24,30.60
+HUNTERS HILL,08/01/2019,2.3,0.0, ,24.0,16.8,100,70,1.57,9.74
+HUNTERS HILL,09/01/2019,5.8,31.6, ,25.0,13.6,100,19,1.91,30.71
+HUNTERS HILL,10/01/2019,4.8,0.0, ,25.6,10.1,86,21,0.77,27.38
+HUNTERS HILL,11/01/2019,3.7,0.0, ,26.5,14.6,100,51,1.27,17.83
+HUNTERS HILL,12/01/2019,6.1,6.4, ,31.2,15.6,100,22,0.99,31.23
+HUNTERS HILL,13/01/2019,6.5,0.0, ,32.8,18.0,63,30,1.52,29.71
+HUNTERS HILL,14/01/2019,6.6,0.0, ,34.1,19.0,74,27,1.23,30.97
+HUNTERS HILL,15/01/2019,6.6,0.0, ,36.1,22.7,53,10,1.28,29.42
+HUNTERS HILL,16/01/2019,6.8,0.0, ,38.3,24.3,38,10,1.20,30.52
+HUNTERS HILL,17/01/2019,5.4,0.0, ,34.0,23.3,45,25,1.51,19.76
+HUNTERS HILL,18/01/2019,4.9,0.0, ,34.1,22.4,54,28,1.30,18.36
+HUNTERS HILL,19/01/2019,6.6,0.6, ,32.1,18.2,92,7,1.66,30.68
+HUNTERS HILL,20/01/2019,6.0,0.2, ,32.3,16.9,61,20,0.96,30.35
+HUNTERS HILL,21/01/2019,5.9,0.0, ,32.5,18.7,68,25,1.26,27.29
+HUNTERS HILL,22/01/2019,5.3,0.0, ,34.4,20.8,65,26,1.59,19.64
+HUNTERS HILL,23/01/2019,5.9,0.0, ,35.3,22.0,60,24,0.87,27.42
+HUNTERS HILL,24/01/2019,6.1,0.0, ,34.8,19.8,74,21,0.91,29.12
+HUNTERS HILL,25/01/2019,7.4,0.0, ,36.6,22.3,69,22,2.18,29.29
+HUNTERS HILL,26/01/2019,5.4,0.0, ,34.2,25.2,46,24,2.12,15.64
+HUNTERS HILL,27/01/2019,2.1,0.4, ,20.3,15.6,88,37,1.29,6.21
+HUNTERS HILL,28/01/2019,2.8,1.2, ,25.3,15.9,99,47,0.67,12.85
+HUNTERS HILL,29/01/2019,3.7,0.0, ,29.9,16.8,85,38,0.81,16.58
+HUNTERS HILL,30/01/2019,4.0,0.2, ,30.4,18.4,100,40,1.35,16.77
+HUNTERS HILL,31/01/2019,6.4,6.0, ,29.2,18.1,90,14,3.00,25.73
+Totals:,,138.5,49.2, ,,,,,, 

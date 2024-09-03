@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for June 2022,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 July 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/06/2022,1.3,0.0, ,6.7,1.8,96,58,7.59,5.11
+GELANTIPY,02/06/2022,0.8,3.6, ,9.4,2.3,93,68,2.08,8.23
+GELANTIPY,03/06/2022,0.7,0.0, ,6.8,-0.5,95,77,3.33,4.58
+GELANTIPY,04/06/2022,1.5,0.0, ,11.2,1.7,88,54,4.51,9.47
+GELANTIPY,05/06/2022,2.0,0.0, ,11.0,4.5,88,52,8.74,9.48
+GELANTIPY,06/06/2022,1.3,7.6, ,9.2,2.8,93,58,5.80,7.69
+GELANTIPY,07/06/2022,1.1,0.0, ,7.9,2.3,96,59,4.55,6.49
+GELANTIPY,08/06/2022,0.8,9.0, ,6.1,0.3,100,72,5.29,6.55
+GELANTIPY,09/06/2022,1.1,0.8, ,8.8,1.9,95,67,5.66,7.76
+GELANTIPY,10/06/2022,1.4,0.2, ,10.6,3.1,96,58,5.69,8.66
+GELANTIPY,11/06/2022,1.3,1.2, ,8.0,2.4,93,59,7.32,7.57
+GELANTIPY,12/06/2022,1.1,0.2, ,7.0,4.6,100,64,8.05,5.02
+GELANTIPY,13/06/2022,0.6,5.6, ,7.0,3.0,100,75,2.86,8.13
+GELANTIPY,14/06/2022,0.7,0.0, ,8.0,-1.6,100,73,3.09,9.20
+GELANTIPY,15/06/2022,1.2,0.0, ,10.2,0.0,87,65,4.52,6.54
+GELANTIPY,16/06/2022,1.2,0.0, ,12.1,4.6,97,64,4.88,6.60
+GELANTIPY,17/06/2022,0.5,6.4, ,8.7,6.2,99,89,3.14,4.95
+GELANTIPY,18/06/2022,0.7,0.2, ,10.6,2.3,99,65,1.20,6.54
+GELANTIPY,19/06/2022,0.9,0.4, ,10.3,0.7,100,71,4.08,9.35
+GELANTIPY,20/06/2022,1.0,0.0, ,11.2,2.6,94,70,4.80,9.27
+GELANTIPY,21/06/2022,0.9,0.0, ,11.4,5.5,98,67,2.92,4.67
+GELANTIPY,22/06/2022,1.0,5.8, ,11.7,1.5,90,65,2.79,8.80
+GELANTIPY,23/06/2022,1.4,0.0, ,12.8,3.0,92,56,4.12,8.68
+GELANTIPY,24/06/2022,1.7,0.0, ,13.1,6.6,82,58,5.61,5.14
+GELANTIPY,25/06/2022,1.3,0.0, ,11.5,1.7,87,47,3.26,9.43
+GELANTIPY,26/06/2022,1.1,0.0, ,11.9,1.4,100,55,3.11,8.24
+GELANTIPY,27/06/2022,0.6,4.8, ,6.5,2.4,99,78,4.44,6.56
+GELANTIPY,28/06/2022,1.0,2.0, ,8.8,-1.6,99,58,3.55,8.78
+GELANTIPY,29/06/2022,1.2,0.2, ,11.0,0.7,89,52,2.95,6.67
+GELANTIPY,30/06/2022,0.6,2.0, ,8.1,3.2,96,73,1.74,5.95
+Totals:,,32,50, ,,,,,, 

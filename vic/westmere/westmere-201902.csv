@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WESTMERE Victoria for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WESTMERE,01/02/2019,6.4,0.0, ,24.2,6.6,82,28,6.03,28.04
+WESTMERE,02/02/2019,7.4,0.0, ,35.1,4.2,94,8,2.62,27.86
+WESTMERE,03/02/2019,11.0,0.0, ,40.4,10.1,76,9,5.03,26.90
+WESTMERE,04/02/2019,5.3,0.0, ,26.3,15.2,89,44,6.13,18.82
+WESTMERE,05/02/2019,5.7,0.0, ,26.1,12.4,85,41,5.21,23.68
+WESTMERE,06/02/2019,4.5,0.0, ,32.9,15.1,95,35,3.07,11.22
+WESTMERE,07/02/2019,5.2,11.4, ,28.9,14.9,96,36,2.90,22.46
+WESTMERE,08/02/2019,5.2,0.0, ,23.8,15.4,88,38,5.03,22.02
+WESTMERE,09/02/2019,4.8,3.4, ,19.2,11.1,93,35,7.55,21.29
+WESTMERE,10/02/2019,4.8,0.0, ,24.5,8.1,88,39,3.57,22.60
+WESTMERE,11/02/2019,4.5,0.0, ,25.7,9.3,91,46,5.24,16.15
+WESTMERE,12/02/2019,4.5,4.0, ,17.6,11.5,92,32,7.55,19.60
+WESTMERE,13/02/2019,4.4,1.0, ,19.1,7.5,86,32,4.50,20.93
+WESTMERE,14/02/2019,4.6,0.0, ,23.5,6.3,91,37,3.52,22.82
+WESTMERE,15/02/2019,5.0,0.0, ,26.4,11.5,91,36,3.16,23.26
+WESTMERE,16/02/2019,5.2,0.0, ,28.3,11.2,94,26,2.82,21.92
+WESTMERE,17/02/2019, ,0.0, , ,9.2,93,20,2.31,16.49
+WESTMERE,18/02/2019,5.5,0.0, ,25.0,14.4,94,36,5.00,24.51
+WESTMERE,19/02/2019,4.4,0.0, ,21.5,8.3,89,33,3.74,20.27
+WESTMERE,20/02/2019,4.3,0.0, ,23.5,5.8,89,42,4.02,18.77
+WESTMERE,21/02/2019,4.6,0.0, ,22.8,6.2,93,39,3.86,24.32
+WESTMERE,22/02/2019,5.8,0.0, ,26.7,9.9,86,32,4.61,24.26
+WESTMERE,23/02/2019,6.7,0.0, ,28.7,9.4,92,24,5.24,24.39
+WESTMERE,24/02/2019,7.5,0.0, ,33.7,11.6,93,17,4.28,24.23
+WESTMERE,25/02/2019,8.3,0.0, ,35.0,15.2,52,14,4.45,23.49
+WESTMERE,26/02/2019,5.4,0.0, ,27.8,12.2,91,34,3.85,22.42
+WESTMERE,27/02/2019,7.0,0.0, ,35.7,8.4,94,14,3.15,22.81
+WESTMERE,28/02/2019,9.3,0.0, ,38.4,13.8,57,11,4.92,19.54
+Totals:,,157.3,19.8, ,,,,,, 

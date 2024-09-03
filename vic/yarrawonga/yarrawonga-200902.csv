@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for YARRAWONGA Victoria for February 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+YARRAWONGA,01/02/2009,10.8,0.0, ,43.4,23.8,46,11,4.13,28.99
+YARRAWONGA,02/02/2009,9.7,0.0, ,38.3,24.3,51,20,5.13,23.45
+YARRAWONGA,03/02/2009,9.3,0.0, ,39.0,20.9,68,12,3.74,29.82
+YARRAWONGA,04/02/2009,9.6,0.0, ,38.4,23.2,60,14,4.02,30.23
+YARRAWONGA,05/02/2009,10.7,0.0, ,42.0,21.3,54,11,4.15,31.31
+YARRAWONGA,06/02/2009,9.5,0.0, ,41.9,20.1,56,11,3.25,30.71
+YARRAWONGA,07/02/2009,15.1,0.0, ,46.0,23.1,47,9,7.38,28.26
+YARRAWONGA,08/02/2009,11.3,0.0, ,38.4,25.3,48,17,6.34,27.38
+YARRAWONGA,09/02/2009,9.6,0.0, ,28.7,16.1,56,15,8.10,29.12
+YARRAWONGA,10/02/2009,8.4,0.0, ,26.2,11.9,55,17,7.60,28.02
+YARRAWONGA,11/02/2009,8.4,0.0, ,26.7,12.0,57,17,7.08,28.53
+YARRAWONGA,12/02/2009,6.3,0.0, ,25.9,12.8,77,26,4.99,24.16
+YARRAWONGA,13/02/2009,7.7,4.8, ,29.3,12.1,67,18,4.78,28.50
+YARRAWONGA,14/02/2009,6.8,0.0, ,29.8,12.8,69,15,3.28,27.81
+YARRAWONGA,15/02/2009,7.0,0.0, ,31.2,12.1,73,18,3.51,27.12
+YARRAWONGA,16/02/2009,7.5,0.0, ,31.4,13.8,71,15,3.81,28.56
+YARRAWONGA,17/02/2009, ,0.0, ,30.2,15.0,52,20,3.77, 
+YARRAWONGA,18/02/2009, ,0.0, ,31.3,19.3,49,16,3.51, 
+YARRAWONGA,19/02/2009,8.9,0.0, ,35.3,17.8,42,12,4.20,28.00
+YARRAWONGA,20/02/2009,7.0,0.0, ,31.2,19.6,59,24,5.09,16.32
+YARRAWONGA,21/02/2009,8.4,0.2, ,32.0,13.5,63,14,4.83,28.57
+YARRAWONGA,22/02/2009,7.4,0.0, ,33.0,14.2,66,16,3.31,28.35
+YARRAWONGA,23/02/2009,8.0,0.0, ,33.4,12.6,66,11,4.19,24.70
+YARRAWONGA,24/02/2009,8.5,0.0, ,28.4,12.9,70,13,7.02,27.65
+YARRAWONGA,25/02/2009,8.6,0.0, ,31.9,9.1,70,15,5.59,27.86
+YARRAWONGA,26/02/2009,6.9,0.0, ,32.5,12.8,68,14,2.90,27.75
+YARRAWONGA,27/02/2009,8.0,0.0, ,34.3,15.8,57,12,4.00,25.12
+YARRAWONGA,28/02/2009,9.6,0.0, ,31.4,16.5,59,12,7.16,26.90
+Totals:,,229,5, ,,,,,, 

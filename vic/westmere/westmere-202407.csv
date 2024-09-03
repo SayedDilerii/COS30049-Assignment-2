@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WESTMERE Victoria for July 2024,,,,,,,,,,
+Issued at 22:35 GMT on Thursday 01 August 2024,,,,,,,,,,
+© Copyright Commonwealth of Australia 2024 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WESTMERE,01/07/2024,0.7,0.2, ,10.9,-0.9,98,69,2.18,8.60
+WESTMERE,02/07/2024, ,0.4, , ,1.5,98,61,1.42,8.40
+WESTMERE,03/07/2024, , , , , ,97,52,1.39,9.51
+WESTMERE,04/07/2024, , , ,12.4, ,98,71,3.31,9.00
+WESTMERE,05/07/2024, ,0.2, , ,-0.6,98,60,2.32,9.59
+WESTMERE,06/07/2024, , , , , ,97,57,2.45,9.64
+WESTMERE,07/07/2024,1.5, , ,15.5,-6.0,98,47,2.97,9.65
+WESTMERE,08/07/2024,1.1,0.2, ,13.5,0.1,95,68,4.02,5.09
+WESTMERE,09/07/2024,1.1,0.8, ,14.6,8.2,97,70,3.55,7.71
+WESTMERE,10/07/2024,1.1,1.4, ,13.2,2.5,96,62,3.02,9.20
+WESTMERE,11/07/2024,1.7,0.2, ,14.2,6.5,96,64,8.32,7.12
+WESTMERE,12/07/2024,1.0,2.4, ,13.5,0.3,98,64,2.83,9.42
+WESTMERE,13/07/2024,0.8,0.0, ,11.8,2.3,98,72,2.27,8.70
+WESTMERE,14/07/2024,0.6,3.0, ,10.3,2.4,98,82,2.15,7.67
+WESTMERE,15/07/2024,1.0,4.4, ,10.5,3.7,97,74,5.16,8.19
+WESTMERE,16/07/2024,0.7,8.8, ,12.6,6.1,98,89,6.67,7.25
+WESTMERE,17/07/2024,0.8,0.2, ,12.1,8.4,98,83,3.74,7.40
+WESTMERE,18/07/2024,0.8,0.6, ,10.4,3.2,96,73,2.54,8.42
+WESTMERE,19/07/2024,1.1,0.2, ,10.0,4.8,92,77,9.41,6.36
+WESTMERE,20/07/2024,1.4,5.6, ,10.2,6.5,94,66,7.89,6.42
+WESTMERE,21/07/2024,0.9,5.0, ,12.7,5.0,95,81,4.36,7.29
+WESTMERE,22/07/2024,1.1,5.2, ,14.4,7.8,95,77,4.64,8.61
+WESTMERE,23/07/2024,2.1,0.0, ,15.3,6.9,91,51,6.00,10.63
+WESTMERE,24/07/2024, ,0.0, , ,6.9,74,60,8.67,9.17
+WESTMERE,25/07/2024, , , , , ,94,58,5.41,9.25
+WESTMERE,26/07/2024, , , , , ,94,66,6.73,10.99
+WESTMERE,27/07/2024, , , , , , , , ,6.54
+WESTMERE,28/07/2024, , , , , , , , ,10.02
+WESTMERE,29/07/2024, , , , , , , , ,11.03
+WESTMERE,30/07/2024,1.0, , ,14.5,-0.9,98,57,0.83,11.50
+WESTMERE,31/07/2024,1.0,0.0, ,13.0,-2.8,98,49,1.06,11.61
+Totals:,,21.5,38.8, ,,,,,, 

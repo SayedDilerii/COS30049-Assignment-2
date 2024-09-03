@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for August 2010,,,,,,,,,,
+Issued at 04:30 GMT on Wednesday 01 September 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/08/2010,0.3,10.8, ,-1.0,-1.2,99,98,6.28,5.82
+MOUNT BAW BAW,02/08/2010,0.3,37.2, ,-0.5,-3.1,99,99,4.95,6.53
+MOUNT BAW BAW,03/08/2010,0.6,3.4, ,2.5,-1.0,99,97,0.77,7.56
+MOUNT BAW BAW,04/08/2010,0.6,0.2, ,-0.6,-3.2,99,89,0.86,10.10
+MOUNT BAW BAW,05/08/2010,0.5,2.8, ,-1.5,-4.6,99,97,0.00,5.72
+MOUNT BAW BAW,06/08/2010,0.6,30.0, ,-0.4,-2.7,99,97,0.00,7.60
+MOUNT BAW BAW,07/08/2010,0.6,6.6, ,0.6,-5.4,99,90,1.42,11.20
+MOUNT BAW BAW,08/08/2010,1.0,0.2, ,1.9,-3.7,95,58,2.77,13.83
+MOUNT BAW BAW,09/08/2010,1.4,0.0, ,4.4,-2.5,81,33,2.50,13.93
+MOUNT BAW BAW,10/08/2010,1.0,0.0, ,1.8,-0.6,99,52,3.93,6.03
+MOUNT BAW BAW,11/08/2010,0.6,5.2, ,0.5,-1.9,99,94,1.28,9.21
+MOUNT BAW BAW,12/08/2010,0.3,42.4, ,0.4,-1.8,99,99,7.20,5.86
+MOUNT BAW BAW,13/08/2010,1.2,20.6, ,5.8,-2.8,99,51,1.97,12.36
+MOUNT BAW BAW,14/08/2010,1.2,0.0, ,1.6,-2.6,99,48,6.21,10.62
+MOUNT BAW BAW,15/08/2010,0.4,0.8, ,1.7,-0.6,99,99,6.46,8.55
+MOUNT BAW BAW,16/08/2010,0.6,21.2, ,-2.4,-2.9,99,97,0.00,5.89
+MOUNT BAW BAW,17/08/2010,0.7,7.6, ,-0.4,-5.0,99,95,1.17,11.34
+MOUNT BAW BAW,18/08/2010,1.0,3.2, ,1.8,-3.5,99,64,6.32,7.53
+MOUNT BAW BAW,19/08/2010,0.6,1.8, ,0.0,-1.9,99,98,4.49,12.81
+MOUNT BAW BAW,20/08/2010,1.0,10.6, ,-2.3,-5.7,99,96,0.00,15.24
+MOUNT BAW BAW,21/08/2010,0.8,3.8, ,-1.2,-4.9,99,98,0.00,11.21
+MOUNT BAW BAW,22/08/2010,0.7,3.2, ,-0.4,-2.9,99,99,2.40,13.40
+MOUNT BAW BAW,23/08/2010,0.7,1.2, ,0.9,-3.0,99,99,3.51,14.54
+MOUNT BAW BAW,24/08/2010,0.7,0.4, ,-0.1,-1.7,99,94,5.93,14.18
+MOUNT BAW BAW,25/08/2010,0.5,3.4, ,-2.6,-5.9,99,96,4.97,12.65
+MOUNT BAW BAW,26/08/2010,0.6,10.0, ,-1.6,-5.3,99,97,4.51,12.80
+MOUNT BAW BAW,27/08/2010,0.5,9.2, ,-1.0,-3.8,99,98,4.83,8.58
+MOUNT BAW BAW,28/08/2010,0.6,18.8, ,-0.4,-3.2,99,99,3.15,9.40
+MOUNT BAW BAW,29/08/2010,0.7,0.2, ,-0.3,-1.0,99,99,0.92,8.10
+MOUNT BAW BAW,30/08/2010, ,0.0, ,2.6,-3.2,99,91,1.46, 
+MOUNT BAW BAW,31/08/2010, ,0.2, ,3.9,-1.5,99,48,4.80, 
+Totals:,,20.3,255, ,,,,,, 

@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/02/2021,4.1,0.2, ,25.6,10.1,100,48,5.03,13.76
+GELANTIPY,02/02/2021,2.2,28.4, ,14.7,8.5,100,71,4.34,13.06
+GELANTIPY,03/02/2021,1.8,0.0, ,15.5,7.0,98,79,2.23,10.26
+GELANTIPY,04/02/2021,6.3,0.0, ,27.4,9.0,93,32,5.51,24.21
+GELANTIPY,05/02/2021,4.6,0.0, ,27.6,15.3,98,46,6.85,12.19
+GELANTIPY,06/02/2021,5.1,35.0, ,23.3,16.1,97,42,5.65,23.53
+GELANTIPY,07/02/2021,3.8,0.0, ,19.2,10.8,97,55,3.17,22.67
+GELANTIPY,08/02/2021,3.7,0.2, ,18.1,8.0,98,53,2.79,23.18
+GELANTIPY,09/02/2021,4.3,0.0, ,20.4,8.1,99,45,2.47,26.25
+GELANTIPY,10/02/2021,4.4,0.8, ,23.0,11.8,99,59,3.17,25.74
+GELANTIPY,11/02/2021,5.5,0.2, ,27.8,13.1,97,38,3.78,24.44
+GELANTIPY,12/02/2021,2.8,0.0, ,23.8,18.1,100,43,3.74,6.40
+GELANTIPY,13/02/2021,1.7,2.2, ,15.8,9.7,100,75,2.47,8.48
+GELANTIPY,14/02/2021,2.9,0.0, ,18.5,8.9,99,63,2.26,17.34
+GELANTIPY,15/02/2021,3.1,0.0, ,19.1,11.5,96,59,2.37,17.51
+GELANTIPY,16/02/2021,4.6,0.0, ,23.1,9.6,94,45,4.26,23.54
+GELANTIPY,17/02/2021,5.5,0.0, ,24.4,13.1,93,39,5.45,25.22
+GELANTIPY,18/02/2021,6.0,0.0, ,24.8,10.8,88,38,7.08,26.14
+GELANTIPY,19/02/2021,5.9,0.0, ,28.1,12.7,90,31,4.14,24.53
+GELANTIPY,20/02/2021,5.9,0.0, ,28.9,14.8,81,30,3.43,24.38
+GELANTIPY,21/02/2021,4.4,0.0, ,29.4,14.3,99,33,3.06,14.79
+GELANTIPY,22/02/2021,1.4,15.0, ,15.2,10.7,100,77,3.19,6.36
+GELANTIPY,23/02/2021,1.8,1.8, ,12.2,6.7,95,65,3.18,9.84
+GELANTIPY,24/02/2021,3.0,0.0, ,17.7,4.8,97,53,2.72,18.71
+GELANTIPY,25/02/2021,3.4,0.0, ,22.3,9.4,92,60,3.46,17.63
+GELANTIPY,26/02/2021,3.3,0.0, ,16.8,8.2,99,49,3.32,20.50
+GELANTIPY,27/02/2021,2.6,0.0, ,18.6,7.3,98,54,2.78,13.05
+GELANTIPY,28/02/2021,4.4,0.0, ,23.0,7.8,99,31,2.38,24.19
+Totals:,,108.5,83.8, ,,,,,, 

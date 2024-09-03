@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for May 2014,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 June 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/05/2014,1.6,0.0, ,15.4,2.5,99,54,3.17,7.44
+CASTERTON,02/05/2014,1.0,8.2, ,11.0,7.7,99,78,6.24,3.95
+CASTERTON,03/05/2014,1.0,52.4, ,12.2,6.7,99,79,5.82,6.00
+CASTERTON,04/05/2014,1.4,1.6, ,14.7,3.6,98,59,2.85,7.84
+CASTERTON,05/05/2014,1.4,1.6, ,16.1,8.0,99,65,3.48,6.64
+CASTERTON,06/05/2014,1.1,0.2, ,14.1,4.2,99,67,2.28,6.98
+CASTERTON,07/05/2014,1.1,0.2, ,13.5,5.4,99,61,1.84,6.59
+CASTERTON,08/05/2014,1.6,0.2, ,16.5,0.3,99,52,2.60,11.78
+CASTERTON,09/05/2014,2.2,0.0, ,18.6,5.1,98,52,5.64,4.39
+CASTERTON,10/05/2014,1.3,1.0, ,18.4,11.5,99,74,3.49,7.86
+CASTERTON,11/05/2014,1.5,0.2, ,19.4,10.4,100,62,2.60,8.47
+CASTERTON,12/05/2014,1.7,0.2, ,19.8,3.7,99,53,2.46,10.52
+CASTERTON,13/05/2014,2.0,0.0, ,19.4,7.9,95,51,3.27,10.88
+CASTERTON,14/05/2014,2.9,0.0, ,21.6,9.6,81,40,4.32,9.85
+CASTERTON,15/05/2014,2.7,0.0, ,22.9,13.3,94,46,4.64,10.04
+CASTERTON,16/05/2014,2.8,0.0, ,24.8,8.6,98,35,3.48,9.79
+CASTERTON,17/05/2014,2.7,0.0, ,22.8,13.6,87,37,3.74,7.70
+CASTERTON,18/05/2014,1.2,0.2, ,20.2,12.2,93,63,1.80,4.79
+CASTERTON,19/05/2014,1.6,0.0, ,21.3,9.9,98,60,2.86,6.95
+CASTERTON,20/05/2014,1.3,0.0, ,19.2,14.0,99,72,3.33,6.67
+CASTERTON,21/05/2014,1.4,0.0, ,22.0,4.0,100,62,2.04,9.46
+CASTERTON,22/05/2014,1.3,0.0, ,19.6,8.6,99,71,3.98,3.69
+CASTERTON,23/05/2014,1.1,5.4, ,18.0,14.1,99,77,3.35,7.09
+CASTERTON,24/05/2014,1.0,0.2, ,18.6,6.1,99,75,1.90,6.54
+CASTERTON,25/05/2014,1.2,1.0, ,18.3,10.7,99,73,3.01,7.44
+CASTERTON,26/05/2014,1.4,2.2, ,18.7,10.7,99,64,3.67,3.81
+CASTERTON,27/05/2014,1.3,5.0, ,17.5,13.1,99,72,4.53,5.62
+CASTERTON,28/05/2014,1.1,1.2, ,15.9,9.6,99,71,3.08,7.25
+CASTERTON,29/05/2014,1.1,0.8, ,18.3,6.5,99,67,2.21,8.59
+CASTERTON,30/05/2014,1.1,0.0, ,16.6,7.7,99,62,2.24,6.81
+CASTERTON,31/05/2014,0.6,0.0, ,13.0,6.3,99,86,1.05,4.24
+Totals:,,46.7,81.8, ,,,,,, 

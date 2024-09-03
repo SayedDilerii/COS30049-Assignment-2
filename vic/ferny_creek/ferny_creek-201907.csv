@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FERNY CREEK Victoria for July 2019,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 August 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FERNY CREEK,01/07/2019,1.1,0.2, ,9.1,4.3,79,65,3.38,7.49
+FERNY CREEK,02/07/2019,0.7,0.0, ,10.4,5.8,93,72,1.75,5.16
+FERNY CREEK,03/07/2019,0.5,0.6, ,9.4,5.7,99,85,1.07,4.75
+FERNY CREEK,04/07/2019,0.8,0.2, ,13.0,4.5,100,69,1.89,8.95
+FERNY CREEK,05/07/2019,0.7,0.0, ,15.0,6.6,79,53,0.57,9.15
+FERNY CREEK,06/07/2019,1.1,0.2, ,14.5,9.3,75,59,1.98,9.28
+FERNY CREEK,07/07/2019,1.0,0.0, ,13.5,10.1,95,59,2.33,6.08
+FERNY CREEK,08/07/2019,0.6,13.0, ,11.5,7.7,100,68,0.73,7.11
+FERNY CREEK,09/07/2019,0.6,0.2, ,9.3,5.3,98,78,1.29,5.61
+FERNY CREEK,10/07/2019,1.0,5.6, ,10.3,6.0,97,66,3.65,7.50
+FERNY CREEK,11/07/2019,0.6,8.2, ,8.7,2.4,99,79,2.37,3.66
+FERNY CREEK,12/07/2019,0.7,4.2, ,9.6,5.1,98,74,2.09,5.00
+FERNY CREEK,13/07/2019,0.5,4.0, ,5.0,2.8,98,78,1.58,3.79
+FERNY CREEK,14/07/2019,0.4,16.4, ,7.1,2.5,100,98,1.77,3.62
+FERNY CREEK,15/07/2019,0.4,30.0, ,8.9,3.7,100,100,1.74,4.62
+FERNY CREEK,16/07/2019,0.4,2.2, ,8.4,6.2,100,100,1.38,3.41
+FERNY CREEK,17/07/2019,0.4,3.8, ,7.4,5.3,100,100,1.48,3.21
+FERNY CREEK,18/07/2019,0.7,5.6, ,9.5,4.8,100,68,1.63,8.05
+FERNY CREEK,19/07/2019,0.8,3.8, ,10.8,5.7,100,63,1.35,9.07
+FERNY CREEK,20/07/2019,1.2,0.0, ,11.6,5.7,81,68,3.52,9.99
+FERNY CREEK,21/07/2019,1.2,0.0, ,10.9,8.8,79,56,2.40,7.26
+FERNY CREEK,22/07/2019,1.2,0.0, ,11.1,5.4,81,62,2.98,10.23
+FERNY CREEK,23/07/2019,1.1,1.0, ,9.7,6.5,99,54,2.83,6.26
+FERNY CREEK,24/07/2019,0.7,16.0, ,8.6,2.1,98,74,1.44,6.30
+FERNY CREEK,25/07/2019,0.8,0.2, ,9.5,4.7,98,69,2.14,5.06
+FERNY CREEK,26/07/2019,0.7,0.0, ,10.0,7.3,100,74,1.26,5.00
+FERNY CREEK,27/07/2019,0.7,9.0, ,10.1,6.8,100,75,0.71,7.48
+FERNY CREEK,28/07/2019,0.8,0.0, ,10.3,4.3,90,65,0.72,8.65
+FERNY CREEK,29/07/2019,0.8,0.0, ,10.1,5.3,100,72,1.28,8.47
+FERNY CREEK,30/07/2019,0.7,2.2, ,7.8,4.0,100,74,1.36,7.09
+FERNY CREEK,31/07/2019,0.8,0.0, ,9.4,2.4,99,72,0.97,10.06
+Totals:,,23.7,126.6, ,,,,,, 

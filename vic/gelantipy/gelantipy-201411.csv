@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for November 2014,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 December 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/11/2014,2.9,0.0, ,16.6,12.8,99,21,4.68,5.00
+GELANTIPY,02/11/2014,3.0,27.4, ,11.6,3.3,83,54,5.63,19.87
+GELANTIPY,03/11/2014,3.7,0.0, ,15.6,3.1,91,48,2.66,26.29
+GELANTIPY,04/11/2014,5.3,0.0, ,21.6,6.5,88,21,4.09,24.61
+GELANTIPY,05/11/2014,1.8,0.0, ,11.1,9.2,94,53,3.46,5.90
+GELANTIPY,06/11/2014,3.9,0.0, ,17.1,0.4,96,36,2.24,27.37
+GELANTIPY,07/11/2014,5.1,0.0, ,22.6,5.9,95,33,2.65,29.61
+GELANTIPY,08/11/2014,6.9,0.0, ,27.3,9.7,79,21,4.31,29.64
+GELANTIPY,09/11/2014,1.8,0.0, ,15.5,9.6,99,76,2.42,9.54
+GELANTIPY,10/11/2014,3.7,0.2, ,16.1,6.7,100,56,3.00,26.66
+GELANTIPY,11/11/2014,3.4,0.0, ,13.6,5.6,96,61,3.10,26.06
+GELANTIPY,12/11/2014,4.6,0.0, ,20.9,4.4,96,40,2.97,27.80
+GELANTIPY,13/11/2014,5.7,0.0, ,25.8,8.6,78,25,3.25,25.45
+GELANTIPY,14/11/2014,5.3,0.0, ,29.3,15.7,99,23,4.61,12.69
+GELANTIPY,15/11/2014,1.0,0.4, ,11.7,6.7,100,84,2.09,3.84
+GELANTIPY,16/11/2014,0.7,22.2, ,12.4,6.6,100,91,3.08,2.31
+GELANTIPY,17/11/2014,3.1,5.4, ,15.8,4.9,99,55,2.65,19.68
+GELANTIPY,18/11/2014,3.5,0.0, ,16.7,6.3,98,58,2.25,23.29
+GELANTIPY,19/11/2014,5.3,0.0, ,23.4,7.2,98,26,2.61,28.38
+GELANTIPY,20/11/2014,4.3,0.0, ,26.2,10.5,91,27,3.53,11.49
+GELANTIPY,21/11/2014,2.8,0.0, ,19.8,13.6,99,57,3.11,12.33
+GELANTIPY,22/11/2014,5.1,0.0, ,24.9,9.5,97,29,4.42,19.13
+GELANTIPY,23/11/2014,5.3,0.0, ,25.3,15.1,85,52,3.71,26.28
+GELANTIPY,24/11/2014,2.8,0.0, ,22.4,11.3,98,41,4.65,2.41
+GELANTIPY,25/11/2014,4.4,12.2, ,17.0,6.7,98,45,3.74,29.18
+GELANTIPY,26/11/2014,3.3,0.2, ,17.0,6.6,98,64,2.95,21.91
+GELANTIPY,27/11/2014,4.1,0.0, ,16.6,6.4,98,46,2.59,28.18
+GELANTIPY,28/11/2014,4.7,0.2, ,20.6,4.8,97,50,2.60,30.63
+GELANTIPY,29/11/2014,5.2,0.0, ,24.5,8.1,85,45,3.16,27.31
+GELANTIPY,30/11/2014,4.9,0.0, ,25.8,12.4,92,49,4.50,20.89
+Totals:,,117.6,68.2, ,,,,,, 

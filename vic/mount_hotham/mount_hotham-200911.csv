@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/11/2009,5.1,0.0, ,18.9,11.7,85,47,8.33,27.65
+MOUNT HOTHAM,02/11/2009,4.9,0.0, ,19.6,12.5,86,45,5.77,25.70
+MOUNT HOTHAM,03/11/2009,3.0,3.0, ,11.0,10.9,99,52,12.87,20.20
+MOUNT HOTHAM,04/11/2009,4.0,0.8, ,9.7,2.0,99,22,5.07,30.76
+MOUNT HOTHAM,05/11/2009,3.3,0.0, ,10.2,-0.5,99,61,3.84,30.64
+MOUNT HOTHAM,06/11/2009,3.8,0.0, ,14.0,2.2,95,57,4.22,30.32
+MOUNT HOTHAM,07/11/2009,4.4,0.0, ,16.0,7.2,78,50,3.36,28.05
+MOUNT HOTHAM,08/11/2009,5.1,0.0, ,17.4,7.8,81,39,5.51,29.63
+MOUNT HOTHAM,09/11/2009,5.7,0.0, ,18.4,9.2,72,33,5.24,31.24
+MOUNT HOTHAM,10/11/2009,6.2,0.0, ,20.2,11.0,58,38,6.82,29.82
+MOUNT HOTHAM,11/11/2009,6.4,0.0, ,20.6,12.3,55,18,4.50,29.71
+MOUNT HOTHAM,12/11/2009, ,0.0, ,19.5,14.5,98,28,5.54, 
+MOUNT HOTHAM,13/11/2009,5.7,0.0, ,18.8,4.3,99,25,6.08,32.54
+MOUNT HOTHAM,14/11/2009,5.3,0.0, ,19.5,9.3,68,42,4.20,29.23
+MOUNT HOTHAM,15/11/2009,5.8,0.0, ,19.2,12.0,64,24,3.80,28.91
+MOUNT HOTHAM,16/11/2009, ,0.0, ,17.2,12.9,97,19,8.62, 
+MOUNT HOTHAM,17/11/2009, ,0.6, ,16.0,1.3,90,39,5.53, 
+MOUNT HOTHAM,18/11/2009, ,0.0, ,19.1,6.8,65,38,7.40, 
+MOUNT HOTHAM,19/11/2009, ,0.0, ,22.9,11.0,56,21,10.40, 
+MOUNT HOTHAM,20/11/2009, ,0.0, ,22.9,16.0,99,15,9.33, 
+MOUNT HOTHAM,21/11/2009, ,13.0, ,11.5,10.0,99,86,9.22, 
+MOUNT HOTHAM,22/11/2009, ,65.2, ,11.3,9.4,99,99,11.81, 
+MOUNT HOTHAM,23/11/2009, ,51.6, ,10.4,1.5,99,12,5.09, 
+MOUNT HOTHAM,24/11/2009, ,0.0, ,14.3,3.6,96,25,4.35, 
+MOUNT HOTHAM,25/11/2009, ,0.0, ,17.4,9.1,99,62,5.20, 
+MOUNT HOTHAM,26/11/2009, ,0.0, ,18.1,11.7,99,50,11.05, 
+MOUNT HOTHAM,27/11/2009, ,30.0, ,11.1,6.3,99,99,10.08, 
+MOUNT HOTHAM,28/11/2009,2.6,1.8, ,9.0,5.1,99,66,13.95,28.13
+MOUNT HOTHAM,29/11/2009,1.2,10.6, ,6.1,0.4,99,98,8.57,17.48
+MOUNT HOTHAM,30/11/2009,1.2,7.8, ,4.6,1.3,99,98,13.37,24.74
+Totals:,,73.7,184.4, ,,,,,, 

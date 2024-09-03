@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for September 2016,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 October 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/09/2016,0.9,8.8, ,5.3,1.9,100,84,3.29,7.97
+MOUNT BAW BAW,02/09/2016,0.9,0.0, ,3.3,0.4,99,90,2.75,10.95
+MOUNT BAW BAW,03/09/2016,0.4,21.8, ,0.8,0.0,99,99,6.17,3.52
+MOUNT BAW BAW,04/09/2016,0.7,10.6, ,9.3,-0.9,99,99,6.07,10.63
+MOUNT BAW BAW,05/09/2016,2.8,0.0, ,12.4,-0.8,99,22,3.93,16.50
+MOUNT BAW BAW,06/09/2016,2.5,0.0, ,11.6,4.2,99,19,2.76,15.80
+MOUNT BAW BAW,07/09/2016,2.3,0.0, ,11.5,4.8,98,43,2.81,17.21
+MOUNT BAW BAW,08/09/2016,1.7,0.0, ,9.8,4.4,99,70,5.43,14.98
+MOUNT BAW BAW,09/09/2016,0.5,1.0, ,7.0,5.2,100,99,5.23,3.61
+MOUNT BAW BAW,10/09/2016,0.4,22.4, ,2.6,2.5,100,99,7.20,3.58
+MOUNT BAW BAW,11/09/2016,1.0,4.0, ,5.0,-1.0,99,99,2.73,11.80
+MOUNT BAW BAW,12/09/2016,0.6,0.4, ,3.0,0.2,99,99,3.06,6.34
+MOUNT BAW BAW,13/09/2016,1.0,4.0, ,6.5,0.8,100,85,3.69,8.15
+MOUNT BAW BAW,14/09/2016, ,5.0, , ,2.7,99,69,5.07,11.73
+MOUNT BAW BAW,15/09/2016, , , ,2.4, ,99,99,5.97,6.59
+MOUNT BAW BAW,16/09/2016,1.2,15.4, ,4.3,-2.3,99,93,2.35,14.32
+MOUNT BAW BAW,17/09/2016,1.4,0.0, ,6.9,-1.5,99,69,4.05,12.44
+MOUNT BAW BAW,18/09/2016,0.6,0.4, ,3.6,1.9,99,99,2.60,4.91
+MOUNT BAW BAW,19/09/2016,1.1,13.8, ,2.7,-2.4,99,95,1.29,11.66
+MOUNT BAW BAW,20/09/2016,2.0,0.2, ,8.6,-1.6,99,62,2.67,19.50
+MOUNT BAW BAW,21/09/2016,0.8,1.4, ,3.4,0.0,99,91,4.03,7.42
+MOUNT BAW BAW,22/09/2016,0.4,36.8, ,4.0,0.0,99,99,6.49,3.92
+MOUNT BAW BAW,23/09/2016,1.9,16.6, ,9.0,0.1,100,72,2.72,18.41
+MOUNT BAW BAW,24/09/2016,2.2,0.2, ,9.3,3.2,99,63,3.49,19.55
+MOUNT BAW BAW,25/09/2016,0.6,12.4, ,0.0,-0.6,99,99,3.55,6.87
+MOUNT BAW BAW,26/09/2016,1.0,1.6, ,2.0,-2.5,99,91,1.93,11.35
+MOUNT BAW BAW,27/09/2016,0.8,9.8, ,2.9,-2.6,99,99,4.45,11.16
+MOUNT BAW BAW,28/09/2016,2.0,4.0, ,7.9,-2.0,99,62,2.59,18.33
+MOUNT BAW BAW,29/09/2016,1.4,5.0, ,2.6,1.9,99,68,5.14,12.84
+MOUNT BAW BAW,30/09/2016,0.9,5.2, ,2.7,-1.1,99,99,3.23,11.08
+Totals:,,34,200.8, ,,,,,, 

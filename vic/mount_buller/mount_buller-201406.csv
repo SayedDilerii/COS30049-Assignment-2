@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for June 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 July 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/06/2014,0.3,3.6, ,5.1,3.5,100,100,7.89,2.62
+MOUNT BULLER,02/06/2014,0.7,7.0, ,8.3,0.8,100,78,3.06,7.42
+MOUNT BULLER,03/06/2014,0.3,17.0, ,5.7,3.1,100,100,4.45,3.06
+MOUNT BULLER,04/06/2014,0.3,9.6, ,4.3,1.2,100,99,3.96,5.53
+MOUNT BULLER,05/06/2014,0.4,2.6, ,4.8,0.9,100,99,3.18,4.93
+MOUNT BULLER,06/06/2014,0.8,7.4, ,4.2,-1.7,100,66,5.05,9.30
+MOUNT BULLER,07/06/2014,0.4,0.0, ,3.1,0.0,100,93,7.12,4.94
+MOUNT BULLER,08/06/2014,0.5,5.8, ,3.6,-3.5,100,87,8.33,8.49
+MOUNT BULLER,09/06/2014,2.1,0.6, ,6.8,-3.0,98,19,7.64,9.27
+MOUNT BULLER,10/06/2014,1.5,0.0, ,6.9,2.0,86,7,2.84,8.75
+MOUNT BULLER,11/06/2014,1.3,0.0, ,3.5,0.2,100,34,5.57,6.46
+MOUNT BULLER,12/06/2014,0.6,0.0, ,3.9,0.1,100,82,7.99,5.98
+MOUNT BULLER,13/06/2014,0.2,4.0, ,4.1,1.1,100,99,8.24,1.98
+MOUNT BULLER,14/06/2014, ,9.6, , ,0.1,100,99,6.46,4.20
+MOUNT BULLER,15/06/2014, , , ,1.9, ,100,87,11.11,8.35
+MOUNT BULLER,16/06/2014,0.4,0.0, ,1.8,-2.5,100,87,6.59,2.85
+MOUNT BULLER,17/06/2014,1.6,40.4, ,7.7,-0.6,100,33,5.63,8.12
+MOUNT BULLER,18/06/2014,1.6,0.0, ,10.0,-0.6,84,11,2.71,9.10
+MOUNT BULLER,19/06/2014,2.0,0.0, ,6.0,1.8,100,22,8.32,7.92
+MOUNT BULLER,20/06/2014,0.3,0.0, ,3.2,-0.2,100,93,9.45,7.87
+MOUNT BULLER,21/06/2014,0.3,5.4, ,3.0,0.3,100,100,4.17,4.04
+MOUNT BULLER,22/06/2014,0.6,1.8, ,5.1,-0.6,100,79,6.29,8.87
+MOUNT BULLER,23/06/2014,0.2,3.0, ,1.2,-0.3,100,96,13.00,2.44
+MOUNT BULLER,24/06/2014,0.4,19.4, ,-0.4,-5.1,99,95,0.00,2.90
+MOUNT BULLER,25/06/2014,0.4,17.6, ,1.6,-4.0,100,98,0.74,3.53
+MOUNT BULLER,26/06/2014,0.2,70.2, ,1.7,-1.6,100,99,7.97,4.73
+MOUNT BULLER,27/06/2014,0.2,3.4, ,0.7,-1.2,100,98,14.52,6.85
+MOUNT BULLER,28/06/2014,0.3,2.0, ,-1.2,-2.2,99,97,5.46,3.28
+MOUNT BULLER,29/06/2014,0.4,18.0, ,-0.9,-3.2,99,97,0.20,3.73
+MOUNT BULLER,30/06/2014,0.4,9.2, ,-0.4,-4.2,99,96,0.01,5.10
+Totals:,,18.7,257.6, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLDSTREAM Victoria for June 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 July 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLDSTREAM,01/06/2014,0.5,0.8, ,13.8,8.6,99,88,0.52,2.54
+COLDSTREAM,02/06/2014,0.6,2.4, ,15.1,10.1,99,85,0.98,4.88
+COLDSTREAM,03/06/2014,0.6,4.2, ,14.8,11.0,99,91,2.57,3.95
+COLDSTREAM,04/06/2014,1.0,1.0, ,17.4,4.4,99,65,1.98,6.70
+COLDSTREAM,05/06/2014,0.6,5.6, ,14.0,10.7,99,78,0.57,3.77
+COLDSTREAM,06/06/2014,0.5,0.6, ,12.6,3.4,99,86,0.49,4.97
+COLDSTREAM,07/06/2014,0.6,1.0, ,15.0,6.0,99,77,0.86,3.23
+COLDSTREAM,08/06/2014,0.9,1.2, ,14.4,3.9,98,62,1.72,7.64
+COLDSTREAM,09/06/2014,0.6,0.0, ,15.4,0.1,99,70,0.65,8.45
+COLDSTREAM,10/06/2014,0.7,0.0, ,16.8,2.9,99,61,0.76,7.40
+COLDSTREAM,11/06/2014,0.8,0.2, ,16.6,0.7,99,64,1.48,7.83
+COLDSTREAM,12/06/2014,0.8,0.0, ,16.9,3.7,99,64,1.32,5.62
+COLDSTREAM,13/06/2014,0.7,13.4, ,15.6,7.5,99,77,1.92,4.45
+COLDSTREAM,14/06/2014,0.5,0.2, ,14.2,6.6,99,89,0.85,3.39
+COLDSTREAM,15/06/2014,0.9,5.6, ,14.9,9.3,97,69,2.52,5.22
+COLDSTREAM,16/06/2014,0.8,1.2, ,15.7,6.3,98,75,2.23,3.58
+COLDSTREAM,17/06/2014,0.7,7.6, ,14.2,9.6,97,78,1.55,4.87
+COLDSTREAM,18/06/2014,0.5,0.0, ,13.4,9.7,98,65,0.23,4.72
+COLDSTREAM,19/06/2014,1.0,0.0, ,13.0,3.2,99,65,3.12,6.69
+COLDSTREAM,20/06/2014,1.7,0.0, ,16.0,7.0,82,60,4.63,7.31
+COLDSTREAM,21/06/2014,0.9,0.0, ,16.0,9.4,99,68,1.84,6.38
+COLDSTREAM,22/06/2014,0.8,0.0, ,15.0,0.7,99,71,2.00,8.08
+COLDSTREAM,23/06/2014,1.6,0.0, ,14.4,5.4,90,64,6.65,3.47
+COLDSTREAM,24/06/2014,1.2,5.4, ,11.7,6.1,94,68,6.15,2.72
+COLDSTREAM,25/06/2014,1.2,18.2, ,14.0,6.9,92,67,4.01,4.96
+COLDSTREAM,26/06/2014,1.6,2.0, ,14.5,9.1,92,53,4.23,4.79
+COLDSTREAM,27/06/2014,2.3,0.0, ,15.2,7.9,85,51,7.07,4.57
+COLDSTREAM,28/06/2014,1.7,0.0, ,12.0,9.0,87,55,6.03,5.59
+COLDSTREAM,29/06/2014,0.8,3.0, ,10.2,7.6,96,72,3.18,3.78
+COLDSTREAM,30/06/2014,0.6,7.2, ,11.7,3.8,99,72,1.23,5.47
+Totals:,,27.7,80.8, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for August 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 September 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/08/2016,1.0, , ,12.9,10.8,96,75,3.84,4.43
+FRANKSTON,02/08/2016,1.4, , ,13.4,7.4,88,55,2.48,10.27
+FRANKSTON,03/08/2016,1.1, , ,12.7,9.0,89,63,1.80,8.07
+FRANKSTON,04/08/2016,1.4, , ,13.7,6.7,91,50,2.06,10.82
+FRANKSTON,05/08/2016,0.9, , ,11.1,5.2,100,66,0.91,10.76
+FRANKSTON,06/08/2016,1.0, , ,12.7,7.8,86,57,0.82,8.03
+FRANKSTON,07/08/2016,1.3, , ,13.8,8.4,74,48,1.10,10.23
+FRANKSTON,08/08/2016,1.8, , ,14.3,5.6,78,54,3.22,8.13
+FRANKSTON,09/08/2016,3.0, , ,17.3,8.7,84,44,7.35,8.46
+FRANKSTON,10/08/2016,2.2, , ,13.5,10.7,95,57,9.09,11.12
+FRANKSTON,11/08/2016,1.8, , ,12.0,5.5,80,69,6.29,12.59
+FRANKSTON,12/08/2016,2.0, , ,12.8,9.2,90,62,8.09,10.89
+FRANKSTON,13/08/2016,1.7, , ,13.3,9.5,87,69,5.95,9.05
+FRANKSTON,14/08/2016,1.5, , ,14.3,9.9,100,65,2.96,12.82
+FRANKSTON,15/08/2016,1.7, , ,15.7,10.3,91,65,2.74,13.31
+FRANKSTON,16/08/2016,2.3, , ,16.0,10.3,81,56,4.13,13.07
+FRANKSTON,17/08/2016,1.7, , ,15.0,11.6,94,66,3.59,11.08
+FRANKSTON,18/08/2016,2.9, , ,20.6,7.8,84,45,4.40,12.54
+FRANKSTON,19/08/2016,2.5, , ,16.2,14.7,93,48,7.39,3.28
+FRANKSTON,20/08/2016,2.0, , ,12.3,8.1,83,64,7.41,8.66
+FRANKSTON,21/08/2016,1.5, , ,12.6,8.9,89,74,5.06,9.02
+FRANKSTON,22/08/2016,1.6, , ,12.9,7.0,89,62,1.95,12.86
+FRANKSTON,23/08/2016,1.4, , ,11.8,7.5,90,62,1.98,9.72
+FRANKSTON,24/08/2016,1.1, , ,10.4,5.6,90,70,1.39,7.61
+FRANKSTON,25/08/2016,1.6, , ,11.8,7.0,87,65,3.71,9.87
+FRANKSTON,26/08/2016,1.6, , ,12.0,6.8,100,68,4.44,13.77
+FRANKSTON,27/08/2016,2.5, , ,13.3,9.0,71,60,6.00,11.98
+FRANKSTON,28/08/2016,2.6, , ,15.8,10.4,75,44,3.54,11.63
+FRANKSTON,29/08/2016,2.3, , ,19.1,9.5,68,40,1.82,12.06
+FRANKSTON,30/08/2016,1.9, , ,16.3,11.9,90,52,3.33,6.27
+FRANKSTON,31/08/2016,1.7, , ,14.7,12.4,92,71,3.02,10.23
+Totals:,,55, , ,,,,,, 

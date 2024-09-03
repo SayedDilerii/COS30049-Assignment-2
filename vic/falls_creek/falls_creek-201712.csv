@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/12/2017,0.7,0.4, ,12.9,11.9,99,52,0.00,0.77
+FALLS CREEK,02/12/2017,1.1,114.2, ,10.8,7.6,99,98,0.00,4.93
+FALLS CREEK,03/12/2017,2.1,36.2, ,8.2,4.3,99,83,0.00,13.80
+FALLS CREEK,04/12/2017,2.5,3.8, ,7.0,-0.5,99,81,0.00,18.91
+FALLS CREEK,05/12/2017,2.2,1.2, ,7.8,1.1,99,98,0.00,15.48
+FALLS CREEK,06/12/2017,2.0,0.0, ,10.5,4.0,99,81,0.00,12.40
+FALLS CREEK,07/12/2017, ,3.8, , ,5.4,99,59,0.01,21.60
+FALLS CREEK,08/12/2017,2.2,159.6, ,7.9,1.8,99,76,0.00,15.62
+FALLS CREEK,09/12/2017,4.2,4.8, ,13.1,2.3,98,61,0.00,30.70
+FALLS CREEK,10/12/2017,4.8,0.0, ,16.9,6.5,92,63,0.00,32.06
+FALLS CREEK,11/12/2017,4.9,0.0, ,19.3,9.8,82,35,0.00,31.79
+FALLS CREEK,12/12/2017,4.9,0.0, ,18.9,11.1,52,38,0.00,32.10
+FALLS CREEK,13/12/2017,5.0,0.0, ,20.5,12.4,53,29,0.00,32.14
+FALLS CREEK,14/12/2017,3.4,0.0, ,19.1,14.2,84,30,0.00,19.44
+FALLS CREEK,15/12/2017,4.9,0.0, ,17.9,11.1,99,51,0.00,30.34
+FALLS CREEK,16/12/2017,4.8,0.0, ,18.4,11.8,71,51,0.00,29.66
+FALLS CREEK,17/12/2017,4.6,0.0, ,20.1,12.6,88,34,0.00,27.72
+FALLS CREEK,18/12/2017,3.6,0.0, ,21.0,13.0,93,35,0.00,20.33
+FALLS CREEK,19/12/2017,4.5,0.0, ,21.8,13.4,92,39,0.00,26.08
+FALLS CREEK,20/12/2017,2.5,13.4, ,11.2,7.2,99,78,0.00,15.33
+FALLS CREEK,21/12/2017,4.8,0.2, ,16.6,6.0,97,55,0.00,32.30
+FALLS CREEK,22/12/2017,4.8,0.0, ,16.8,8.7,80,48,0.00,31.88
+FALLS CREEK,23/12/2017,3.0,0.0, ,16.2,10.1,58,38,0.00,17.86
+FALLS CREEK,24/12/2017,4.0,0.0, ,20.4,11.5,99,37,0.00,23.48
+FALLS CREEK,25/12/2017,4.3,0.0, ,14.2,0.0,99,45,0.00,32.29
+FALLS CREEK,26/12/2017,4.2,0.0, ,17.6,3.7,99,47,0.00,28.16
+Totals:,,90,337.6, ,,,,,, 

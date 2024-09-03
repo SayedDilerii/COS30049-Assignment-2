@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for February 2018,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 March 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/02/2018,3.0,0.4, ,11.7,0.3,99,64,2.97,25.35
+MOUNT BAW BAW,02/02/2018,2.9,0.0, ,12.4,3.9,100,50,2.53,19.17
+MOUNT BAW BAW,03/02/2018,3.3,0.0, ,15.2,5.7,100,68,3.35,24.42
+MOUNT BAW BAW,04/02/2018,4.5,0.0, ,18.1,7.0,99,40,2.56,28.46
+MOUNT BAW BAW,05/02/2018,4.3,0.0, ,18.2,10.5,76,10,2.53,19.58
+MOUNT BAW BAW,06/02/2018,4.9,0.0, ,21.1,11.7,83,9,1.88,25.74
+MOUNT BAW BAW,07/02/2018,5.6,0.0, ,25.0,13.5,80,27,2.56,27.22
+MOUNT BAW BAW,08/02/2018,5.5,0.0, ,24.5,17.4,72,34,3.64,22.94
+MOUNT BAW BAW,09/02/2018,2.8,0.0, ,18.8,14.1,95,44,3.58,9.40
+MOUNT BAW BAW,10/02/2018,3.4,0.0, ,21.3,13.8,100,42,4.30,12.12
+MOUNT BAW BAW,11/02/2018,1.2,2.8, ,10.3,4.5,100,96,5.25,11.64
+MOUNT BAW BAW,12/02/2018,1.7,0.0, ,9.3,2.4,100,72,4.05,12.00
+MOUNT BAW BAW,13/02/2018,3.9,0.2, ,17.1,4.1,96,47,2.53,26.56
+MOUNT BAW BAW,14/02/2018,2.9,0.0, ,12.1,8.9,99,48,6.52,16.80
+MOUNT BAW BAW,15/02/2018,2.5,0.8, ,11.4,2.0,100,54,4.75,16.83
+MOUNT BAW BAW,16/02/2018,2.9,6.0, ,12.0,4.8,100,57,5.12,21.14
+MOUNT BAW BAW,17/02/2018,3.9,0.0, ,17.1,4.7,89,42,3.72,23.61
+MOUNT BAW BAW,18/02/2018,4.0,0.0, ,19.0,10.0,99,46,3.55,22.56
+MOUNT BAW BAW,19/02/2018,1.7,3.0, ,11.2,8.1,100,99,4.96,17.03
+MOUNT BAW BAW,20/02/2018,4.2,0.6, ,17.2,4.9,100,27,3.01,25.64
+MOUNT BAW BAW,21/02/2018,3.1,0.0, ,17.9,9.9,88,51,2.73,15.74
+MOUNT BAW BAW,22/02/2018,2.7,0.0, ,18.4,12.4,76,48,1.62,12.63
+MOUNT BAW BAW,23/02/2018,2.4,0.0, ,18.1,12.2,88,53,3.40,7.51
+MOUNT BAW BAW,24/02/2018,3.0,0.2, ,18.4,12.9,100,49,6.21,10.82
+MOUNT BAW BAW,25/02/2018,0.9,8.0, ,7.0,3.0,100,99,5.17,9.82
+MOUNT BAW BAW,26/02/2018,2.7,0.2, ,13.2,3.6,100,77,3.97,23.43
+MOUNT BAW BAW,27/02/2018,4.0,0.2, ,19.8,5.2,83,47,2.70,24.22
+MOUNT BAW BAW,28/02/2018,4.8,0.0, ,19.6,11.7,100,29,6.36,22.86
+Totals:,,92.7,22.4, ,,,,,, 

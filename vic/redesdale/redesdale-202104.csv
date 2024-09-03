@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for April 2021,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 May 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/04/2021,3.4,0.0, ,28.6,8.4,91,29,1.47,17.89
+REDESDALE,02/04/2021,3.7,0.0, ,30.3,10.4,81,28,1.61,17.68
+REDESDALE,03/04/2021,4.0,0.0, ,29.9,10.7,88,29,2.15,17.46
+REDESDALE,04/04/2021,4.5,0.0, ,31.6,10.6,89,20,2.47,17.24
+REDESDALE,05/04/2021,3.4,0.0, ,23.2,10.3,93,39,3.09,17.04
+REDESDALE,06/04/2021,3.8,0.0, ,24.2,9.7,86,38,3.72,16.87
+REDESDALE,07/04/2021,3.5,0.0, ,27.7,10.8,93,42,2.43,16.58
+REDESDALE,08/04/2021,3.5,0.0, ,27.8,10.5,98,23,1.97,16.11
+REDESDALE,09/04/2021,3.0,1.2, ,20.9,11.5,92,42,3.45,14.41
+REDESDALE,10/04/2021,2.2,0.0, ,18.4,5.5,93,45,2.71,10.20
+REDESDALE,11/04/2021,2.8,0.8, ,16.5,4.0,90,39,4.32,14.27
+REDESDALE,12/04/2021,1.8,0.0, ,17.3,2.5,96,48,2.03,8.95
+REDESDALE,13/04/2021,2.7,0.2, ,20.1,1.9,99,36,3.40,9.34
+REDESDALE,14/04/2021,3.0,0.0, ,21.6,9.7,83,36,3.05,13.04
+REDESDALE,15/04/2021,2.3,0.0, ,21.0,4.3,94,37,1.90,11.16
+REDESDALE,16/04/2021,2.4,0.0, ,18.1,1.0,98,40,2.44,14.85
+REDESDALE,17/04/2021,2.4,0.0, ,18.7,0.7,93,38,2.30,14.76
+REDESDALE,18/04/2021,1.4,0.0, ,17.6,5.0,92,51,1.18,6.80
+REDESDALE,19/04/2021,1.5,0.0, ,18.1,6.7,93,53,1.38,7.19
+REDESDALE,20/04/2021,1.6,0.0, ,17.4,9.9,92,56,2.36,6.43
+REDESDALE,21/04/2021,1.8,3.4, ,15.8,0.6,94,37,1.45,14.10
+REDESDALE,22/04/2021,1.4,0.0, ,17.4,5.3,87,47,1.06,6.68
+REDESDALE,23/04/2021,1.3,0.0, ,16.9,6.5,99,53,1.20,7.13
+REDESDALE,24/04/2021,1.4,0.0, ,17.4,5.3,96,50,1.03,8.32
+REDESDALE,25/04/2021,1.1,0.0, ,16.0,2.6,99,61,1.14,6.41
+REDESDALE,26/04/2021,2.1,0.2, ,20.0,2.5,99,43,2.07,13.36
+REDESDALE,27/04/2021,2.1,0.2, ,21.1,4.5,99,48,2.04,13.43
+REDESDALE,28/04/2021,1.9,0.0, ,21.4,3.0,99,43,1.54,13.14
+REDESDALE,29/04/2021,2.0,0.2, ,22.5,3.0,99,39,1.39,13.14
+REDESDALE,30/04/2021,2.5,0.0, ,23.0,5.3,93,33,2.18,13.00
+Totals:,,74.5,6.2, ,,,,,, 

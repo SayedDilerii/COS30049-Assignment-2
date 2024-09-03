@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for September 2010,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 October 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/09/2010,2.2,0.4, ,15.1,6.9,99,44,4.76,6.89
+GELANTIPY,02/09/2010,0.8,10.8, ,6.9,4.7,99,93,1.97,7.06
+GELANTIPY,03/09/2010,2.0,1.4, ,12.3,-0.6,99,61,6.07,16.00
+GELANTIPY,04/09/2010,3.2,0.0, ,18.2,4.2,91,52,9.98,10.77
+GELANTIPY,05/09/2010,2.9,4.4, ,12.6,8.7,73,56,7.61,15.14
+GELANTIPY,06/09/2010,1.3,0.4, ,7.2,3.5,99,68,1.78,10.70
+GELANTIPY,07/09/2010,1.5,9.2, ,7.9,2.9,98,70,2.72,13.81
+GELANTIPY,08/09/2010,2.3,0.6, ,12.0,-0.6,99,49,3.93,19.76
+GELANTIPY,09/09/2010,2.1,2.4, ,13.2,3.6,89,56,4.68,10.25
+GELANTIPY,10/09/2010,2.3,0.0, ,12.9,6.6,96,50,4.99,12.61
+GELANTIPY,11/09/2010,2.5,3.4, ,13.8,1.5,98,40,2.27,20.17
+GELANTIPY,12/09/2010,2.6,0.0, ,13.5,1.3,89,44,3.56,18.94
+GELANTIPY,13/09/2010,2.4,0.0, ,13.9,5.6,99,45,4.30,13.06
+GELANTIPY,14/09/2010,2.1,1.8, ,13.4,3.3,99,57,2.06,17.43
+GELANTIPY,15/09/2010,1.6,0.0, ,12.8,3.5,99,46,3.49,1.62
+GELANTIPY,16/09/2010,3.3,0.0, ,11.3,4.7,80,36,6.78,20.24
+GELANTIPY,17/09/2010, ,0.0, ,11.8,3.0,95,54,5.29, 
+GELANTIPY,18/09/2010,2.7,0.0, ,14.1,1.0,96,49,3.08,21.30
+GELANTIPY,19/09/2010,2.3,0.0, ,12.2,2.2,99,58,2.49,20.27
+GELANTIPY,20/09/2010,2.5,0.0, ,15.0,4.1,99,57,2.88,19.51
+GELANTIPY,21/09/2010,2.0,0.2, ,11.6,5.2,99,70,2.88,17.78
+GELANTIPY,22/09/2010,1.1,0.0, ,7.8,2.6,97,85,2.41,9.19
+GELANTIPY,23/09/2010,2.6,0.0, ,12.6,4.5,96,58,2.68,22.17
+GELANTIPY,24/09/2010,3.5,0.0, ,19.1,3.0,99,22,2.89,18.48
+GELANTIPY,25/09/2010,4.1,0.0, ,16.0,5.0,89,12,5.08,18.56
+GELANTIPY,26/09/2010,3.6,0.0, ,19.3,3.3,92,38,2.85,23.20
+GELANTIPY,27/09/2010,3.5,0.0, ,17.0,9.5,99,35,5.59,16.20
+GELANTIPY,28/09/2010,3.2,0.2, ,13.1,2.6,94,35,4.15,22.37
+GELANTIPY,29/09/2010,2.2,1.4, ,8.2,0.7,99,47,4.57,17.99
+GELANTIPY,30/09/2010,2.6,1.0, ,10.5,1.1,96,52,3.10,23.46
+Totals:,,71,37.6, ,,,,,, 

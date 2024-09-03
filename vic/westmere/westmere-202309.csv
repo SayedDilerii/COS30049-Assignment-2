@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WESTMERE Victoria for September 2023,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 October 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WESTMERE,01/09/2023, ,0.8, , ,6.8,97,69,1.84,10.86
+WESTMERE,02/09/2023, , , , , ,98,64,0.97,14.62
+WESTMERE,03/09/2023, , , ,17.1, ,97,59,3.95,16.15
+WESTMERE,04/09/2023,2.0,0.0, ,15.9,5.4,94,59,4.34,9.95
+WESTMERE,05/09/2023,2.2,1.4, ,13.5,0.1,96,52,4.02,15.21
+WESTMERE,06/09/2023,2.9,0.0, ,17.2,0.9,94,52,6.57,16.62
+WESTMERE,07/09/2023,2.4,0.0, ,16.8,5.5,94,54,5.95,7.13
+WESTMERE,08/09/2023,1.4,8.0, ,9.2,5.0,95,74,8.38,10.18
+WESTMERE,09/09/2023,1.5,3.0, ,12.1,0.1,98,68,3.71,11.29
+WESTMERE,10/09/2023,1.7,1.4, ,14.4,7.4,97,71,1.89,13.11
+WESTMERE,11/09/2023,2.0,0.0, ,16.0,3.2,99,62,0.99,16.70
+WESTMERE,12/09/2023,3.1,0.2, ,20.4,5.2,95,44,3.30,17.59
+WESTMERE,13/09/2023,2.7,0.0, ,22.3,3.0,96,43,1.65,17.27
+WESTMERE,14/09/2023,2.8,0.0, ,20.6,4.4,94,59,4.45,15.81
+WESTMERE,15/09/2023,3.0,0.0, ,18.9,7.0,91,54,3.80,18.12
+WESTMERE,16/09/2023,3.6,0.0, ,21.1,4.5,93,47,5.23,18.46
+WESTMERE,17/09/2023,2.9,0.0, ,21.3,8.1,96,55,2.69,17.44
+WESTMERE,18/09/2023,1.7,0.0, ,17.8,9.8,97,74,2.16,9.89
+WESTMERE,19/09/2023,4.4,0.0, ,22.1,9.6,98,32,5.65,18.64
+WESTMERE,20/09/2023,2.4,0.6, ,14.5,10.0,94,52,5.45,10.46
+WESTMERE,21/09/2023, ,1.6, , ,5.1,94,55,3.07,13.32
+WESTMERE,22/09/2023, , , ,14.8, ,97,53,1.73,19.50
+WESTMERE,23/09/2023,2.7,0.0, ,18.0,-0.5,98,45,1.84,19.58
+WESTMERE,24/09/2023,3.8,0.0, ,22.4,0.9,98,38,3.31,20.18
+WESTMERE,25/09/2023,2.1,0.0, ,17.4,6.5,96,68,3.48,12.09
+WESTMERE,26/09/2023, ,0.0, , ,5.9,96,59,2.74,19.63
+WESTMERE,27/09/2023, , , ,14.7, ,98,59,2.93,15.93
+WESTMERE,28/09/2023,3.0,0.0, ,19.1,6.7,98,58,2.63,20.22
+WESTMERE,29/09/2023,4.7,0.0, ,26.4,-0.6,97,27,3.11,21.14
+WESTMERE,30/09/2023,6.2,0.0, ,27.9,6.9,88,21,5.17,20.78
+Totals:,,65.2,17, ,,,,,, 

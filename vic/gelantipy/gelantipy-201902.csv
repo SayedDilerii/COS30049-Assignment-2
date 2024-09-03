@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for February 2019,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 March 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/02/2019,4.9,0.4, ,23.5,8.7,97,38,3.44,25.04
+GELANTIPY,02/02/2019,7.7,0.0, ,31.8,10.7,86,25,5.88,23.45
+GELANTIPY,03/02/2019,8.1,0.0, ,34.7,18.8,96,27,5.87,24.66
+GELANTIPY,04/02/2019,3.4,8.0, ,27.1,16.9,100,55,3.30,12.67
+GELANTIPY,05/02/2019,1.2,19.4, ,20.3,15.9,100,84,2.07,3.64
+GELANTIPY,06/02/2019,3.9,0.8, ,26.4,16.3,98,58,3.73,16.68
+GELANTIPY,07/02/2019,2.3,0.8, ,23.8,17.7,98,75,4.96,8.51
+GELANTIPY,08/02/2019,2.7,23.4, ,22.6,16.1,100,66,2.42,12.53
+GELANTIPY,09/02/2019,4.0,1.2, ,20.7,11.6,100,43,4.66,18.21
+GELANTIPY,10/02/2019,4.1,11.2, ,20.3,5.7,96,52,2.74,26.52
+GELANTIPY,11/02/2019,5.4,0.0, ,24.6,9.3,96,37,3.89,27.38
+GELANTIPY,12/02/2019,5.1,0.0, ,23.9,15.9,100,30,6.50,16.90
+GELANTIPY,13/02/2019,3.5,3.6, ,15.3,3.5,100,41,3.19,22.88
+GELANTIPY,14/02/2019,4.4,0.0, ,21.5,3.3,93,35,2.35,26.88
+GELANTIPY,15/02/2019,4.7,0.0, ,24.7,7.5,97,38,2.30,25.81
+GELANTIPY,16/02/2019,5.6,0.0, ,29.4,12.4,96,26,3.53,21.06
+GELANTIPY,17/02/2019,5.8,0.0, ,28.8,11.7,91,24,3.60,22.21
+GELANTIPY,18/02/2019,2.9,0.0, ,24.5,14.4,100,44,3.34,7.16
+GELANTIPY,19/02/2019,2.4,4.0, ,17.1,8.7,100,60,2.80,12.44
+GELANTIPY,20/02/2019,4.0,0.2, ,20.8,9.6,98,47,2.00,24.19
+GELANTIPY,21/02/2019,3.2,0.0, ,19.1,7.6,94,53,2.31,18.61
+GELANTIPY,22/02/2019,3.5,0.0, ,19.7,10.2,99,49,1.38,21.55
+GELANTIPY,23/02/2019,3.9,0.0, ,21.1,7.7,100,48,2.26,24.41
+GELANTIPY,24/02/2019,5.4,0.0, ,25.2,7.4,100,22,3.69,24.96
+GELANTIPY,25/02/2019,5.8,0.0, ,26.8,11.2,79,26,4.10,23.11
+GELANTIPY,26/02/2019,5.6,0.0, ,29.2,12.8,95,23,3.30,22.62
+GELANTIPY,27/02/2019,5.1,0.0, ,27.2,8.6,100,34,3.16,24.08
+GELANTIPY,28/02/2019,5.8,0.0, ,31.1,13.7,90,21,3.84,17.36
+Totals:,,124.4,73, ,,,,,, 

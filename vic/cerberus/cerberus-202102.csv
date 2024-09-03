@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CERBERUS Victoria for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CERBERUS,01/02/2021, ,0.0, , ,10.0,90,64,2.82,9.69
+CERBERUS,02/02/2021,3.6, , ,20.0,12.9,82,49,4.34,14.24
+CERBERUS,03/02/2021,4.6,0.0, ,22.8,12.1,87,50,3.26,25.14
+CERBERUS,04/02/2021,3.8,0.0, ,28.8,9.3,89,35,1.46,16.56
+CERBERUS,05/02/2021,4.3,3.2, ,30.1,16.6,86,45,3.05,14.36
+CERBERUS,06/02/2021,4.3,2.8, ,23.8,13.5,91,44,3.32,20.03
+CERBERUS,07/02/2021,3.1,0.4, ,19.2,14.7,87,57,4.65,12.02
+CERBERUS,08/02/2021,3.1,0.2, ,18.9,13.9,77,57,3.78,12.21
+CERBERUS,09/02/2021,5.5,0.0, ,26.4,11.1,88,35,2.90,27.57
+CERBERUS,10/02/2021,5.8,0.0, ,28.3,14.9,73,44,3.20,27.23
+CERBERUS,11/02/2021,5.0,0.0, ,32.5,16.1,85,28,2.93,13.73
+CERBERUS,12/02/2021,4.4,7.0, ,22.4,17.1,87,50,3.50,21.71
+CERBERUS,13/02/2021,3.5,0.2, ,20.5,12.3,88,55,2.96,18.04
+CERBERUS,14/02/2021,3.5,0.4, ,20.2,15.1,72,57,2.64,16.46
+CERBERUS,15/02/2021,5.6,0.0, ,27.4,13.2,85,38,3.32,26.22
+CERBERUS,16/02/2021,5.8,0.0, ,29.7,16.6,77,36,3.25,23.75
+CERBERUS,17/02/2021,5.4,0.0, ,29.6,14.9,86,42,2.56,25.42
+CERBERUS,18/02/2021,5.4,0.0, ,30.0,13.0,87,31,2.05,25.80
+CERBERUS,19/02/2021,6.3,0.0, ,32.8,14.3,84,27,2.79,25.60
+CERBERUS,20/02/2021,3.5,0.0, ,23.4,18.8,83,63,2.89,15.79
+CERBERUS,21/02/2021,2.2,0.0, ,19.8,16.5,83,65,2.73,7.63
+CERBERUS,22/02/2021,3.9,0.0, ,21.8,14.4,82,44,4.35,14.38
+CERBERUS,23/02/2021,4.4,0.6, ,19.0,13.0,70,43,4.13,21.65
+CERBERUS,24/02/2021,3.6,0.4, ,20.1,11.8,86,47,1.96,21.59
+CERBERUS,25/02/2021,4.2,0.0, ,23.6,7.4,89,40,3.25,20.05
+CERBERUS,26/02/2021,3.8,0.2, ,19.6,13.5,74,49,3.51,18.79
+CERBERUS,27/02/2021,1.9,0.0, ,18.3,7.1,89,61,1.43,9.73
+CERBERUS,28/02/2021,3.8,0.0, ,24.6,6.0,91,48,1.53,23.65
+Totals:,,114.3,15.4, ,,,,,, 

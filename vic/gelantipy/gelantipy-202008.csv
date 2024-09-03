@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for August 2020,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 September 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/08/2020,1.9,0.0, ,13.0,2.7,87,36,3.34,10.76
+GELANTIPY,02/08/2020,1.9,0.0, ,13.4,2.8,81,45,3.57,12.01
+GELANTIPY,03/08/2020,2.2,0.0, ,13.6,4.8,81,45,4.98,8.11
+GELANTIPY,04/08/2020,1.7,0.2, ,7.0,1.8,100,34,5.70,8.70
+GELANTIPY,05/08/2020,1.3,1.2, ,6.6,0.6,100,58,7.45,8.41
+GELANTIPY,06/08/2020,1.3,1.0, ,7.0,0.9,93,57,3.39,11.85
+GELANTIPY,07/08/2020,0.7,0.0, ,6.3,0.3,98,79,3.40,4.91
+GELANTIPY,08/08/2020,0.6,3.6, ,8.6,3.2,100,92,2.70,5.29
+GELANTIPY,09/08/2020,0.8,4.4, ,8.7,4.2,100,81,3.12,6.05
+GELANTIPY,10/08/2020,1.1,1.2, ,9.3,4.3,100,65,2.32,10.67
+GELANTIPY,11/08/2020,1.7,0.2, ,12.0,0.1,97,49,3.58,12.38
+GELANTIPY,12/08/2020,1.9,0.0, ,12.3,4.2,91,49,4.72,7.40
+GELANTIPY,13/08/2020,2.0,0.0, ,15.3,5.0,93,49,3.50,10.68
+GELANTIPY,14/08/2020,1.2,0.0, ,11.6,6.1,93,73,3.56,7.73
+GELANTIPY,15/08/2020,0.7,5.6, ,8.0,6.7,100,91,3.30,5.41
+GELANTIPY,16/08/2020,0.5,23.0, ,8.6,6.8,99,94,8.91,4.71
+GELANTIPY,17/08/2020,1.7,14.8, ,12.7,6.5,98,60,4.42,12.31
+GELANTIPY,18/08/2020,2.2,0.0, ,12.2,4.7,83,50,5.43,12.85
+GELANTIPY,19/08/2020,1.6,0.0, ,9.7,4.5,96,53,4.52,7.45
+GELANTIPY,20/08/2020,2.4,0.8, ,11.5,3.3,75,49,6.33,11.83
+GELANTIPY,21/08/2020,2.3,0.0, ,9.6,5.4,73,51,6.34,12.01
+GELANTIPY,22/08/2020,1.8,0.0, ,7.7,1.9,96,48,6.14,11.76
+GELANTIPY,23/08/2020,1.0,3.2, ,6.2,0.9,97,75,7.95,7.81
+GELANTIPY,24/08/2020,1.5,1.0, ,8.1,2.7,97,61,4.89,12.76
+GELANTIPY,25/08/2020,1.5,2.6, ,8.1,-0.1,96,59,3.27,13.09
+GELANTIPY,26/08/2020,1.6,0.0, ,9.8,0.7,98,55,1.88,15.30
+GELANTIPY,27/08/2020,2.1,0.0, ,12.4,0.5,100,51,5.42,14.06
+GELANTIPY,28/08/2020,2.3,8.0, ,11.0,0.2,88,45,5.90,14.56
+GELANTIPY,29/08/2020,3.7,0.0, ,18.9,3.6,84,24,4.46,15.78
+GELANTIPY,30/08/2020,4.3,0.0, ,17.3,5.5,56,25,6.55,11.80
+GELANTIPY,31/08/2020,1.7,0.0, ,8.0,3.6,96,55,4.33,13.31
+Totals:,,53.2,70.8, ,,,,,, 

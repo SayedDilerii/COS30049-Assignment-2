@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for AIREYS INLET Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+AIREYS INLET,01/11/2009,2.3,0.0, ,16.1,12.4,100,77,3.53,14.98
+AIREYS INLET,02/11/2009,3.5,0.2, ,19.7,12.0,98,69,3.57,23.33
+AIREYS INLET,03/11/2009,3.7,1.6, ,18.2,12.4,98,61,8.44,23.75
+AIREYS INLET,04/11/2009,3.1,0.2, ,16.1,8.3,97,57,4.25,20.08
+AIREYS INLET,05/11/2009,4.0,0.4, ,16.3,9.2,85,53,4.39,27.21
+AIREYS INLET,06/11/2009,4.1,0.0, ,17.5,10.7,95,64,3.63,30.30
+AIREYS INLET,07/11/2009,5.0,0.0, ,25.8,11.7,99,62,2.28,29.91
+AIREYS INLET,08/11/2009,8.0,0.0, ,33.8,17.0,74,23,3.62,30.93
+AIREYS INLET,09/11/2009,6.8,0.0, ,30.8,18.6,62,34,2.56,30.88
+AIREYS INLET,10/11/2009,6.9,0.0, ,29.8,19.1,56,28,2.67,30.40
+AIREYS INLET,11/11/2009,5.3,0.0, ,23.9,16.5,99,48,3.18,29.59
+AIREYS INLET,12/11/2009, ,0.0, ,22.7,15.7,100,67,4.69, 
+AIREYS INLET,13/11/2009,5.0,0.0, ,24.5,12.0,94,69,2.81,31.60
+AIREYS INLET,14/11/2009,5.7,0.0, ,23.9,14.1,93,39,6.22,26.59
+AIREYS INLET,15/11/2009,4.6,0.0, ,20.8,11.8,94,64,3.84,30.97
+AIREYS INLET,16/11/2009, ,0.0, ,19.1,14.6,91,49,6.70, 
+AIREYS INLET,17/11/2009, ,0.0, ,19.0,13.0,86,59,4.00, 
+AIREYS INLET,18/11/2009, ,0.0, ,25.2,12.8,91,67,2.41, 
+AIREYS INLET,19/11/2009, ,0.0, ,28.5,16.8,76,37,3.18, 
+AIREYS INLET,20/11/2009, ,0.0, ,32.2,17.5,97,27,5.24, 
+AIREYS INLET,21/11/2009, ,1.4, ,18.8,14.9,100,88,2.51, 
+AIREYS INLET,22/11/2009, ,17.0, ,18.2,12.6,100,64,5.38, 
+AIREYS INLET,23/11/2009, ,14.0, ,19.1,8.5,85,53,4.75, 
+AIREYS INLET,24/11/2009, ,0.0, ,21.1,9.8,96,47,3.52, 
+AIREYS INLET,25/11/2009, ,0.0, ,19.4,11.8,96,75,2.93, 
+AIREYS INLET,26/11/2009, ,4.2, ,23.0,13.8,100,82,3.45, 
+AIREYS INLET,27/11/2009, ,1.8, ,22.0,17.2,100,79,3.20, 
+AIREYS INLET,28/11/2009,4.1,9.6, ,21.4,12.2,100,49,5.86,18.78
+AIREYS INLET,29/11/2009,3.6,16.6, ,18.0,11.4,99,74,7.67,29.29
+AIREYS INLET,30/11/2009,4.0,17.8, ,17.7,12.4,100,62,5.43,27.88
+Totals:,,79.7,84.8, ,,,,,, 

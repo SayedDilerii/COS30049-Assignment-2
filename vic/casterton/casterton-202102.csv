@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/02/2021,3.1,0.0, ,20.5,11.7,94,55,3.88,13.63
+CASTERTON,02/02/2021,4.0,0.0, ,20.7,6.7,99,50,4.45,21.90
+CASTERTON,03/02/2021,6.1,0.0, ,26.3,13.4,88,40,4.95,28.24
+CASTERTON,04/02/2021,4.0,0.0, ,27.1,13.7,96,33,4.22,7.24
+CASTERTON,05/02/2021,4.4,11.4, ,22.6,10.2,99,37,5.26,17.14
+CASTERTON,06/02/2021,4.0,7.6, ,23.0,10.2,99,51,5.06,18.30
+CASTERTON,07/02/2021,3.1,1.8, ,19.9,12.3,99,56,4.16,14.76
+CASTERTON,08/02/2021,3.4,0.0, ,19.8,11.6,88,61,5.18,16.53
+CASTERTON,09/02/2021,6.2,0.0, ,27.1,11.0,91,33,4.61,27.37
+CASTERTON,10/02/2021,7.0,0.0, ,34.2,12.7,99,21,3.00,27.49
+CASTERTON,11/02/2021,7.0,0.0, ,36.7,16.8,79,22,5.15,8.55
+CASTERTON,12/02/2021,3.8,0.2, ,21.8,11.2,99,48,4.55,16.92
+CASTERTON,13/02/2021,3.6,1.6, ,22.1,11.6,99,50,3.67,17.15
+CASTERTON,14/02/2021,4.7,0.0, ,23.9,7.8,98,47,3.90,25.50
+CASTERTON,15/02/2021,6.1,0.0, ,28.5,11.4,91,35,5.00,23.52
+CASTERTON,16/02/2021,6.6,0.0, ,34.8,12.7,99,22,3.05,23.96
+CASTERTON,17/02/2021,7.5,0.0, ,35.9,15.4,83,23,3.97,23.51
+CASTERTON,18/02/2021,8.3,0.0, ,34.3,17.7,63,22,4.85,25.70
+CASTERTON,19/02/2021,8.0,0.0, ,36.4,20.6,86,19,5.25,19.00
+CASTERTON,20/02/2021,5.0,0.0, ,27.2,16.0,93,50,4.02,22.83
+CASTERTON,21/02/2021,4.5,0.0, ,22.8,12.8,89,47,3.84,23.33
+CASTERTON,22/02/2021,3.5,0.0, ,20.1,10.7,99,46,4.59,15.60
+CASTERTON,23/02/2021,3.1,0.0, ,19.2,4.1,99,40,3.28,14.37
+CASTERTON,24/02/2021,3.2,0.0, ,20.8,3.2,99,39,2.09,17.57
+CASTERTON,25/02/2021,2.9,0.0, ,21.6,3.8,99,51,3.61,10.86
+CASTERTON,26/02/2021,3.9,1.6, ,21.5,8.2,99,44,3.15,22.32
+CASTERTON,27/02/2021,4.6,0.0, ,24.3,8.1,93,39,3.51,23.02
+CASTERTON,28/02/2021,4.9,0.0, ,26.8,7.7,99,30,3.15,21.80
+Totals:,,136.5,24.2, ,,,,,, 

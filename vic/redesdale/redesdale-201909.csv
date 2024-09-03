@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for September 2019,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 October 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/09/2019,1.8,0.0, ,17.7,4.9,99,49,1.93,9.67
+REDESDALE,02/09/2019,1.8,2.8, ,16.2,2.3,99,59,1.53,14.24
+REDESDALE,03/09/2019,2.4,3.0, ,20.3,6.1,99,44,1.53,16.62
+REDESDALE,04/09/2019,2.0,0.0, ,17.2,2.4,99,43,1.71,12.17
+REDESDALE,05/09/2019,1.8,0.0, ,16.9,2.6,99,58,1.64,12.46
+REDESDALE,06/09/2019,1.7,0.0, ,13.8,6.4,99,61,2.83,10.87
+REDESDALE,07/09/2019,1.9,0.0, ,12.6,5.6,95,57,4.08,11.83
+REDESDALE,08/09/2019,1.6,0.0, ,13.1,5.3,93,65,3.20,9.55
+REDESDALE,09/09/2019,2.8,0.0, ,13.7,4.2,85,49,6.19,16.55
+REDESDALE,10/09/2019,2.0,0.0, ,15.7,0.3,97,52,1.53,14.94
+REDESDALE,11/09/2019,2.3,0.0, ,17.7,-0.5,99,47,1.65,18.03
+REDESDALE,12/09/2019,2.8,0.0, ,20.0,2.4,96,42,2.34,17.57
+REDESDALE,13/09/2019,2.4,0.0, ,18.3,-1.0,99,35,1.74,14.73
+REDESDALE,14/09/2019,2.4,0.0, ,19.2,0.6,99,43,1.17,18.61
+REDESDALE,15/09/2019,1.9,0.0, ,18.5,6.8,95,56,1.80,10.04
+REDESDALE,16/09/2019,2.3,0.0, ,12.8,7.2,95,52,5.27,12.37
+REDESDALE,17/09/2019, ,0.0, , ,2.2,85,41,4.11,19.22
+REDESDALE,18/09/2019, , , , , , , , ,19.19
+REDESDALE,19/09/2019, , , ,21.8, , , , ,19.38
+REDESDALE,20/09/2019,4.4, , ,24.3,13.6,76,39,4.35,16.75
+REDESDALE,21/09/2019,2.5,0.0, ,16.3,14.7,93,51,4.09,10.75
+REDESDALE,22/09/2019,1.9,4.2, ,14.0,-0.3,99,53,1.58,13.39
+REDESDALE,23/09/2019,1.9,2.4, ,14.7,3.1,99,60,1.97,12.91
+REDESDALE,24/09/2019,1.7,0.6, ,13.7,-1.1,99,58,1.89,11.84
+REDESDALE,25/09/2019,2.2,0.0, ,16.8,1.8,99,48,1.27,15.76
+REDESDALE,26/09/2019,2.8,0.2, ,18.9,0.8,99,44,1.84,19.10
+REDESDALE,27/09/2019,3.5,0.0, ,20.8,2.5,95,40,3.81,16.48
+REDESDALE,28/09/2019,2.9,0.0, ,16.6,0.8,96,46,2.40,21.01
+REDESDALE,29/09/2019,2.1,0.0, ,14.6,1.4,99,51,2.89,12.22
+REDESDALE,30/09/2019, ,0.0, , ,2.9,87,50,3.68,16.70
+Totals:,,59.8,13.2, ,,,,,, 

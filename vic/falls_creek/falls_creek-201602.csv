@@ -1,0 +1,43 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/02/2016,2.9,10.0, ,13.3,2.7,100,66,3.71,21.26
+FALLS CREEK,02/02/2016,3.9,0.0, ,16.7,4.9,100,64,2.73,27.95
+FALLS CREEK,03/02/2016,1.6,0.6, ,12.1,10.2,100,67,6.49,5.75
+FALLS CREEK,04/02/2016,3.4,7.2, ,13.6,2.4,100,64,7.32,29.97
+FALLS CREEK,05/02/2016,3.9,0.0, ,16.4,3.9,100,62,5.36,30.39
+FALLS CREEK,06/02/2016,5.0,0.0, ,19.8,6.6,100,28,2.88,29.63
+FALLS CREEK,07/02/2016,5.3,0.0, ,19.8,11.4,92,34,4.42,29.57
+FALLS CREEK,08/02/2016,4.6,0.0, ,20.5,11.9,100,36,3.73,23.48
+FALLS CREEK,09/02/2016,6.2,0.0, ,20.1,10.9,71,6,4.16,29.47
+FALLS CREEK,10/02/2016,4.7,0.0, ,19.9,12.4,100,50,5.02,27.98
+FALLS CREEK,11/02/2016,4.9,0.0, ,21.5,11.4,100,31,3.20,25.72
+FALLS CREEK,12/02/2016,5.0,0.0, ,19.4,10.7,81,40,3.92,27.72
+FALLS CREEK,13/02/2016,6.0,0.0, ,21.1,12.8,73,35,8.12,24.98
+FALLS CREEK,14/02/2016,5.0,0.0, ,17.6,11.9,100,33,6.74,28.89
+FALLS CREEK,15/02/2016,3.8,0.0, ,14.3,6.4,100,53,5.48,28.40
+FALLS CREEK,16/02/2016,2.5,0.0, ,10.2,4.0,94,67,4.50,20.25
+FALLS CREEK,17/02/2016,2.9,0.0, ,14.1,0.1,99,61,8.95,21.06
+FALLS CREEK,18/02/2016,4.1,0.0, ,17.8,4.2,93,51,4.48,27.00
+FALLS CREEK,19/02/2016,4.4,0.0, ,17.4,9.2,81,47,5.82,24.17
+FALLS CREEK,20/02/2016,4.0,0.0, ,17.4,9.1,100,54,4.08,26.14
+FALLS CREEK,21/02/2016,5.1,0.0, ,18.6,7.0,75,35,5.54,27.67
+FALLS CREEK,22/02/2016,5.1,0.0, ,21.1,11.7,79,39,5.56,23.92
+FALLS CREEK,23/02/2016,5.8,0.0, ,22.0,12.2,64,42,7.26,25.04
+FALLS CREEK,24/02/2016,6.3,0.0, ,23.0,16.3,59,35,9.62,14.14
+FALLS CREEK,25/02/2016,5.3,0.0, ,19.6,14.3,75,34,9.28,16.21
+FALLS CREEK,26/02/2016,4.8,0.0, ,19.0,9.1,100,18,3.77,25.88
+FALLS CREEK,27/02/2016,3.9,0.0, ,18.6,6.7,100,51,3.48,24.98
+FALLS CREEK,28/02/2016,4.3,0.0, ,19.5,10.4,100,45,5.00,24.61
+FALLS CREEK,29/02/2016,4.2,0.0, ,18.6,7.8,100,39,5.21,22.66
+Totals:,,128.9,17.8, ,,,,,, 

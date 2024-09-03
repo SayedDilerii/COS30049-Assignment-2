@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for POUND CREEK Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+POUND CREEK,01/12/2017,2.0,0.0, ,22.9,18.1,98,48,3.45,0.89
+POUND CREEK,02/12/2017,1.6,50.6, ,18.9,15.4,97,74,3.58,4.68
+POUND CREEK,03/12/2017,2.6,26.8, ,17.2,12.3,98,62,6.80,10.51
+POUND CREEK,04/12/2017,3.6,0.8, ,18.1,12.3,94,57,3.83,20.75
+POUND CREEK,05/12/2017,3.2,0.2, ,20.6,9.6,99,63,4.91,16.50
+POUND CREEK,06/12/2017,3.7,1.0, ,19.9,11.8,97,66,3.27,22.62
+POUND CREEK,07/12/2017,3.4,0.0, ,21.4,10.2,97,64,3.69,18.34
+POUND CREEK,08/12/2017,4.4,17.4, ,18.3,12.4,87,55,4.94,26.20
+POUND CREEK,09/12/2017,3.5,0.0, ,20.4,9.8,94,65,5.31,19.76
+POUND CREEK,10/12/2017,2.5,0.2, ,19.7,12.2,94,74,3.77,13.20
+POUND CREEK,11/12/2017,3.7,0.0, ,19.6,14.7,82,65,3.25,19.65
+POUND CREEK,12/12/2017,4.9,0.0, ,23.8,14.1,97,64,2.27,29.37
+POUND CREEK,13/12/2017,7.9,0.0, ,34.8,10.4,99,21,3.12,31.45
+POUND CREEK,14/12/2017,3.3,0.0, ,20.4,18.0,87,57,5.05,11.78
+POUND CREEK,15/12/2017,4.9,0.0, ,21.3,9.0,96,50,2.65,31.62
+POUND CREEK,16/12/2017,4.5,0.0, ,21.3,8.4,98,60,2.42,29.71
+POUND CREEK,17/12/2017,4.6,0.0, ,23.8,9.0,99,63,3.87,27.86
+POUND CREEK,18/12/2017,4.2,0.0, ,27.9,13.6,97,57,2.03,20.43
+POUND CREEK,19/12/2017,6.0,0.0, ,35.7,19.8,94,36,4.13,15.75
+POUND CREEK,20/12/2017,4.2,17.0, ,22.3,11.9,95,59,5.84,21.61
+POUND CREEK,21/12/2017,3.5,0.0, ,20.2,11.9,94,60,3.28,19.20
+POUND CREEK,22/12/2017,4.2,0.0, ,21.4,11.5,97,63,2.12,26.20
+POUND CREEK,23/12/2017,3.2,0.0, ,22.4,11.5,98,66,2.61,16.80
+POUND CREEK,24/12/2017,4.6,0.0, ,19.4,12.6,87,51,5.77,25.11
+POUND CREEK,25/12/2017,4.7,0.0, ,20.5,13.6,93,54,4.34,27.91
+POUND CREEK,26/12/2017,5.8,0.0, ,25.7,7.1,99,47,4.61,31.48
+Totals:,,104.7,114, ,,,,,, 

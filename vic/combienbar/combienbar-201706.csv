@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COMBIENBAR Victoria for June 2017,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 July 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COMBIENBAR,01/06/2017,0.9,0.2, ,8.3,4.2,87,70,3.03,4.45
+COMBIENBAR,02/06/2017,0.8,0.2, ,9.8,6.5,86,69,1.64,5.95
+COMBIENBAR,03/06/2017,0.5,0.0, ,10.9,5.7,89,67,0.16,7.39
+COMBIENBAR,04/06/2017,0.5,0.2, ,12.8,5.4,95,66,0.04,9.40
+COMBIENBAR,05/06/2017,0.5,0.2, ,12.7,5.4,89,57,0.21,8.24
+COMBIENBAR,06/06/2017,0.8,0.0, ,6.6,4.0,97,69,3.10,0.72
+COMBIENBAR,07/06/2017,0.5,0.2, ,9.8,4.5,98,93,0.51,5.44
+COMBIENBAR,08/06/2017,0.5,0.2, ,12.8,6.3,97,75,0.07,7.89
+COMBIENBAR,09/06/2017,0.5,0.2, ,12.2,5.0,96,73,0.05,5.64
+COMBIENBAR,10/06/2017,0.6,0.2, ,14.9,5.2,94,63,0.27,9.42
+COMBIENBAR,11/06/2017,0.5,0.0, ,15.8,7.4,80,49,0.05,9.40
+COMBIENBAR,12/06/2017,0.6,0.0, ,12.8,7.4,89,60,0.57,8.69
+COMBIENBAR,13/06/2017,0.5,0.0, ,11.4,7.5,94,78,0.24,6.92
+COMBIENBAR,14/06/2017,0.5, , ,18.8,5.6,97,50,0.08,9.35
+COMBIENBAR,15/06/2017,0.5, , ,12.1,6.7,81,55,0.03,6.12
+COMBIENBAR,16/06/2017,0.5, , ,13.2,7.0,94,54,0.04,7.99
+COMBIENBAR,17/06/2017,0.5, , ,12.4,6.2,96,69,0.05,8.07
+COMBIENBAR,18/06/2017,0.5, , ,11.7,4.4,93,67,0.44,6.42
+COMBIENBAR,19/06/2017,0.4, , ,12.8,5.7,87,59,0.04,9.32
+COMBIENBAR,20/06/2017,0.4, , ,15.4,4.1,94,45,0.07,9.32
+COMBIENBAR,21/06/2017,0.8, , ,10.2,6.2,89,27,0.67,3.34
+COMBIENBAR,22/06/2017,0.5, , ,13.1,4.7,91,63,0.17,8.30
+COMBIENBAR,23/06/2017,0.7, , ,13.2,6.0,76,37,0.63,9.34
+COMBIENBAR,24/06/2017,0.6, , ,6.3,4.2,96,57,1.09,4.45
+COMBIENBAR,25/06/2017,0.6, , ,11.0,2.2,91,48,0.82,9.37
+COMBIENBAR,26/06/2017,0.7, , ,10.3,4.0,84,60,1.18,8.36
+COMBIENBAR,27/06/2017,0.5, , ,13.1,4.2,92,54,0.21,8.88
+COMBIENBAR,28/06/2017,0.5, , ,8.8,5.4,87,69,0.14,4.45
+COMBIENBAR,29/06/2017,0.7, , ,12.3,4.6,90,52,0.98,8.91
+COMBIENBAR,30/06/2017,0.8, , ,5.7,2.9,91,69,2.96,5.19
+Totals:,,17.4,1.6, ,,,,,, 

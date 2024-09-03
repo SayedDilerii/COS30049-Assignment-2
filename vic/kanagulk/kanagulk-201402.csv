@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KANAGULK Victoria for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KANAGULK,01/02/2014,8.8,0.0, ,41.5,11.6,96,8,2.79,29.59
+KANAGULK,02/02/2014,9.8,0.0, ,44.5,16.9,36,6,3.30,25.53
+KANAGULK,03/02/2014,6.9,0.0, ,27.0,23.3,68,25,8.04,10.18
+KANAGULK,04/02/2014,8.8,0.0, ,26.8,11.7,71,18,8.75,30.38
+KANAGULK,05/02/2014,8.1,0.0, ,33.5,10.0,84,23,4.69,28.14
+KANAGULK,06/02/2014,9.7,0.0, ,37.2,18.9,46,15,4.71,27.98
+KANAGULK,07/02/2014,7.7,0.0, ,34.6,14.2,99,16,3.92,26.35
+KANAGULK,08/02/2014,9.3,0.0, ,42.6,13.4,72,8,3.45,23.71
+KANAGULK,09/02/2014,7.8,0.0, ,27.4,20.4,70,11,5.28,27.18
+KANAGULK,10/02/2014,7.4,0.0, ,29.7,10.2,87,16,4.54,28.50
+KANAGULK,11/02/2014,8.1,0.0, ,37.1,7.8,87,7,3.00,28.33
+KANAGULK,12/02/2014,8.3,0.0, ,37.9,12.9,58,5,3.42,21.89
+KANAGULK,13/02/2014,4.4,0.0, ,32.9,22.0,67,21,2.77,6.21
+KANAGULK,14/02/2014,2.9,0.0, ,28.7,18.4,82,34,1.87,6.36
+KANAGULK,15/02/2014,3.7,0.0, ,30.0,15.2,96,42,3.25,8.85
+KANAGULK,16/02/2014,5.7,0.0, ,26.1,13.0,94,32,5.32,22.27
+KANAGULK,17/02/2014,5.9,0.0, ,28.6,7.4,98,23,3.36,25.55
+KANAGULK,18/02/2014,6.0,0.0, ,28.6,9.1,89,22,3.14,26.27
+KANAGULK,19/02/2014,3.0,1.2, ,20.4,11.4,99,54,3.86,13.31
+KANAGULK,20/02/2014,4.0,3.2, ,20.7,6.7,99,37,4.34,19.12
+KANAGULK,21/02/2014,4.2,0.0, ,21.4,9.7,94,34,4.56,16.73
+KANAGULK,22/02/2014,5.4,0.2, ,24.1,11.5,99,38,6.36,24.37
+KANAGULK,23/02/2014,7.3,0.0, ,30.2,10.5,87,19,4.88,25.97
+KANAGULK,24/02/2014,7.4,0.0, ,33.2,11.3,97,14,4.04,25.67
+KANAGULK,25/02/2014,5.0,0.0, ,27.8,9.1,97,28,3.10,20.41
+KANAGULK,26/02/2014,4.6,0.0, ,23.3,12.0,97,35,4.39,20.31
+KANAGULK,27/02/2014,5.6,0.0, ,23.9,6.0,92,28,5.49,24.11
+KANAGULK,28/02/2014,6.7,0.0, ,25.8,9.3,84,24,6.78,25.15
+Totals:,,182.5,4.6, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/11/2010, , , ,13.7,8.9,90,54,3.15, 
+FRANKSTON,02/11/2010, , , ,15.1,10.9,92,71,4.86, 
+FRANKSTON,03/11/2010, , , ,13.8,9.8,85,58,3.50, 
+FRANKSTON,04/11/2010, , , ,16.4,8.5,78,48,2.56, 
+FRANKSTON,05/11/2010, , , ,19.6,10.2,75,39,4.77, 
+FRANKSTON,06/11/2010, , , ,22.1,10.0,82,33,2.89, 
+FRANKSTON,07/11/2010, , , ,22.9,14.0,74,48,4.56, 
+FRANKSTON,08/11/2010, , , ,19.3,14.2,78,51,2.79, 
+FRANKSTON,09/11/2010, , , ,27.6,12.6,78,32,1.37, 
+FRANKSTON,10/11/2010, , , ,21.4,15.8,85,39,3.74, 
+FRANKSTON,11/11/2010, , , ,29.8,11.5,92,31,1.42, 
+FRANKSTON,12/11/2010, , , ,28.5,15.2,92,43,4.66, 
+FRANKSTON,13/11/2010, , , ,15.8,14.1,94,90,2.23, 
+FRANKSTON,14/11/2010, , , ,17.1,12.5,95,79,3.43, 
+FRANKSTON,15/11/2010, , , ,14.6,12.3,89,64,4.32, 
+FRANKSTON,16/11/2010, , , ,15.6,10.5,88,51,2.77, 
+FRANKSTON,17/11/2010,4.7, , ,19.1,9.4,82,53,2.13,32.05
+FRANKSTON,18/11/2010,3.7, , ,15.7,12.9,90,50,5.07,21.28
+FRANKSTON,19/11/2010,4.9, , ,17.4,9.8,77,49,2.45,33.12
+FRANKSTON,20/11/2010,4.9, , ,21.3,9.2,87,58,2.18,32.65
+FRANKSTON,21/11/2010,5.0, , ,21.3,11.8,89,59,2.45,32.03
+FRANKSTON,22/11/2010,6.4, , ,33.2,13.9,94,21,1.37,32.36
+FRANKSTON,23/11/2010,7.2, , ,28.4,17.7,61,36,3.87,30.86
+FRANKSTON,24/11/2010,4.9, , ,26.2,22.3,94,53,4.31,20.76
+FRANKSTON,25/11/2010,2.8, , ,20.1,19.2,96,85,2.85,16.15
+FRANKSTON,26/11/2010,4.2, , ,24.1,15.7,90,70,2.16,23.22
+FRANKSTON,27/11/2010,3.1, , ,21.8,17.2,93,70,4.08,14.83
+FRANKSTON,28/11/2010,3.3, , ,16.1,12.8,92,56,3.69,18.93
+FRANKSTON,29/11/2010,4.7, , ,20.3,13.4,82,54,4.57,26.36
+FRANKSTON,30/11/2010,5.0, , ,21.1,13.1,86,61,5.95,30.79
+Totals:,,64.8, , ,,,,,, 

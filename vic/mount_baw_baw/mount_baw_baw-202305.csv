@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BAW BAW Victoria for May 2023,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 June 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BAW BAW,01/05/2023, ,3.0, , , ,100,100,2.66,7.42
+MOUNT BAW BAW,02/05/2023, ,0.6, , , ,100,98,4.86,8.46
+MOUNT BAW BAW,03/05/2023, ,9.8, ,1.2, ,100,96,7.45,2.94
+MOUNT BAW BAW,04/05/2023,0.8,7.8, ,6.5,-0.5,100,89,2.88,11.65
+MOUNT BAW BAW,05/05/2023, ,0.0, ,4.7, ,100,84,2.94,8.75
+MOUNT BAW BAW,06/05/2023,0.4,11.0, ,0.2,0.0,100,99,2.09,5.13
+MOUNT BAW BAW,07/05/2023,0.5,20.2, ,-0.3,-3.0,100,99,0.00,3.63
+MOUNT BAW BAW,08/05/2023,0.3,10.8, ,2.5,-2.8,100,99,3.32,3.42
+MOUNT BAW BAW,09/05/2023,0.3,22.6, ,2.8,-0.5,100,100,7.50,3.75
+MOUNT BAW BAW,10/05/2023,1.5,22.2, ,7.0,1.0,100,39,4.76,7.75
+MOUNT BAW BAW,11/05/2023, ,0.2, ,11.2, ,44,19,2.35,11.29
+MOUNT BAW BAW,12/05/2023, ,0.0, ,7.3, ,100,44,2.24,9.57
+MOUNT BAW BAW,13/05/2023,1.0,0.0, ,9.9,1.9,100,61,1.83,10.74
+MOUNT BAW BAW,14/05/2023,1.2,0.0, ,9.5,3.5,92,62,2.81,10.97
+MOUNT BAW BAW,15/05/2023,1.1,0.0, ,7.7,3.7,96,66,4.90,10.71
+MOUNT BAW BAW,16/05/2023,0.5,0.0, ,3.5,2.8,100,85,4.06,3.33
+MOUNT BAW BAW,17/05/2023,0.5,29.0, ,0.6,-3.2,100,94,0.77,10.54
+MOUNT BAW BAW,18/05/2023,0.6,0.0, ,0.6,-3.0,100,76,2.79,7.13
+MOUNT BAW BAW,19/05/2023,0.3,0.4, ,2.1,-2.0,100,100,4.93,3.70
+MOUNT BAW BAW,20/05/2023,0.3,10.6, ,2.2,-0.9,100,100,5.59,3.58
+MOUNT BAW BAW,21/05/2023,0.2,20.2, ,0.5,-0.8,100,100,7.98,4.05
+MOUNT BAW BAW,22/05/2023,1.4,2.8, ,5.0,-2.7,100,35,5.41,10.07
+MOUNT BAW BAW,23/05/2023,1.4,0.0, ,8.0,-2.0,100,37,3.92,10.11
+MOUNT BAW BAW,24/05/2023,1.7,0.0, ,9.6,2.7,94,31,4.11,10.09
+MOUNT BAW BAW,25/05/2023,0.8,0.0, ,4.7,2.0,100,74,5.61,7.05
+MOUNT BAW BAW,26/05/2023,0.2,21.0, ,0.8,-2.0,100,99,6.27,4.39
+MOUNT BAW BAW,27/05/2023,0.4,3.4, ,1.1,-1.8,100,94,2.34,8.69
+MOUNT BAW BAW,28/05/2023,0.3,0.0, ,2.7,-1.7,100,99,4.69,4.73
+MOUNT BAW BAW,29/05/2023,0.2,4.8, ,4.6,0.1,100,100,7.47,4.79
+MOUNT BAW BAW,30/05/2023,0.7,0.2, ,6.9,0.9,100,77,5.36,9.05
+MOUNT BAW BAW,31/05/2023,0.7,0.0, ,6.7,3.9,100,81,5.12,6.57
+Totals:,,17.3,200.6, ,,,,,, 

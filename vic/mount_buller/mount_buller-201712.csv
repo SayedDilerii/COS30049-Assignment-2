@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/12/2017,0.6,5.4, ,12.9,11.9,99,46,0.00,0.28
+MOUNT BULLER,02/12/2017,1.1,138.6, ,11.2,7.5,99,99,0.00,4.55
+MOUNT BULLER,03/12/2017,1.9,33.2, ,5.3,3.1,99,99,0.00,13.04
+MOUNT BULLER,04/12/2017,2.4,5.2, ,8.4,-1.1,99,85,0.00,18.37
+MOUNT BULLER,05/12/2017,2.8,0.4, ,10.8,2.7,99,81,0.00,19.90
+MOUNT BULLER,06/12/2017,2.9,0.0, ,11.5,4.5,99,72,0.00,19.52
+MOUNT BULLER,07/12/2017,3.0,0.0, ,13.8,5.5,99,58,0.00,19.55
+MOUNT BULLER,08/12/2017,3.1,18.6, ,8.6,1.7,99,70,0.00,23.39
+MOUNT BULLER,09/12/2017,3.5,0.0, ,13.4,1.1,99,77,0.00,24.92
+MOUNT BULLER,10/12/2017,4.5,0.0, ,17.0,4.0,73,41,0.00,31.86
+MOUNT BULLER,11/12/2017,4.6,0.0, ,18.5,8.0,71,16,0.00,31.46
+MOUNT BULLER,12/12/2017,4.8,0.0, ,19.0,10.6,56,19,0.00,31.95
+MOUNT BULLER,13/12/2017,4.9,0.0, ,21.8,11.7,46,27,0.00,31.76
+MOUNT BULLER,14/12/2017,2.8,0.0, ,18.0,15.9,90,28,0.00,14.69
+MOUNT BULLER,15/12/2017,5.0,0.0, ,17.8,9.3,88,50,0.00,31.94
+MOUNT BULLER,16/12/2017,4.0,0.0, ,18.4,10.8,65,29,0.00,25.21
+MOUNT BULLER,17/12/2017,4.4,0.0, ,19.6,11.7,69,29,0.00,27.44
+MOUNT BULLER,18/12/2017, ,0.0, , ,13.4,63,18,0.93,19.56
+MOUNT BULLER,19/12/2017,5.2,0.0, ,21.8,15.6,99,39,11.76,17.51
+MOUNT BULLER,20/12/2017,2.7,29.4, ,12.1,6.5,99,67,5.76,19.62
+MOUNT BULLER,21/12/2017,5.2,0.0, ,16.0,4.9,92,19,3.79,31.74
+MOUNT BULLER,22/12/2017,4.5,0.0, ,16.3,6.9,76,54,4.21,28.60
+MOUNT BULLER,23/12/2017,5.6,0.0, ,17.4,10.3,56,35,8.03,22.61
+MOUNT BULLER,24/12/2017,4.7,0.0, ,17.0,11.4,99,36,7.26,24.78
+MOUNT BULLER,25/12/2017,4.9,0.0, ,15.0,2.7,75,37,5.31,32.14
+MOUNT BULLER,26/12/2017,4.4,0.0, ,18.1,6.9,86,53,3.07,27.11
+Totals:,,93.5,230.8, ,,,,,, 

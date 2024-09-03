@@ -1,0 +1,39 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for December 2017,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 26 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/12/2017,2.2,3.2, ,25.7,19.9,95,67,3.07,6.03
+REDESDALE,02/12/2017,1.9,19.0, ,16.6,13.0,96,68,7.01,4.83
+REDESDALE,03/12/2017,4.5,3.4, ,20.3,9.7,82,47,5.89,20.81
+REDESDALE,04/12/2017,3.3,0.2, ,19.3,8.3,87,51,5.22,12.33
+REDESDALE,05/12/2017,5.8,0.0, ,24.8,9.2,86,40,5.10,27.32
+REDESDALE,06/12/2017,5.2,0.0, ,26.6,11.2,92,35,3.09,22.77
+REDESDALE,07/12/2017,4.6,0.0, ,26.5,7.4,94,32,2.62,18.71
+REDESDALE,08/12/2017,5.1,2.2, ,22.2,6.6,92,28,2.96,26.65
+REDESDALE,09/12/2017,5.0,0.0, ,25.9,5.5,95,36,2.51,25.02
+REDESDALE,10/12/2017,6.7,0.0, ,30.3,8.0,99,20,2.56,31.31
+REDESDALE,11/12/2017,6.6,0.0, ,29.7,7.6,96,22,2.73,30.98
+REDESDALE,12/12/2017,7.1,0.0, ,32.9,9.2,94,9,2.20,31.14
+REDESDALE,13/12/2017, ,0.0, , ,11.3,84,9,3.50,31.00
+REDESDALE,14/12/2017, , , ,30.9, ,70,28,3.18,21.89
+REDESDALE,15/12/2017,6.8,0.0, ,30.7,9.0,89,16,2.36,31.23
+REDESDALE,16/12/2017,7.6,0.0, ,32.2,9.1,91,17,3.31,30.28
+REDESDALE,17/12/2017,6.3,0.0, ,30.9,13.3,79,30,3.42,23.35
+REDESDALE,18/12/2017,5.7,0.0, ,35.1,14.6,89,20,1.83,21.12
+REDESDALE,19/12/2017,6.9,0.0, ,37.6,22.1,100,25,4.61,15.72
+REDESDALE,20/12/2017,5.6,13.0, ,27.6,15.4,99,29,2.69,24.91
+REDESDALE,21/12/2017,6.5,0.2, ,29.1,8.3,92,19,2.38,31.19
+REDESDALE,22/12/2017, ,0.0, , ,10.1,95,16,2.25,29.51
+REDESDALE,23/12/2017, , , , , , , , ,19.35
+REDESDALE,24/12/2017,6.9, , ,25.1,14.7,83,31,5.77,30.14
+REDESDALE,25/12/2017, , , , , ,100,70,8.00,31.05
+Totals:,,110.3,41.2, ,,,,,, 

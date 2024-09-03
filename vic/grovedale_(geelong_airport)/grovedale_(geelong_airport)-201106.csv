@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GROVEDALE (GEELONG AIRPORT) Victoria for June 2011,,,,,,,,,,
+Issued at 04:35 GMT on Thursday 02 June 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GROVEDALE (GEELONG AIRPORT),26/05/2011,1.1,0.0, ,14.0,7.9,95,77,4.66,8.64
+GROVEDALE (GEELONG AIRPORT),27/05/2011,1.2,0.8, ,15.7,7.8,98,72,4.46,8.42
+GROVEDALE (GEELONG AIRPORT),28/05/2011,0.8,3.2, ,14.1,7.1,98,75,1.73,7.52
+GROVEDALE (GEELONG AIRPORT),29/05/2011,0.7,0.0, ,12.9,6.1,98,73,1.53,5.55
+GROVEDALE (GEELONG AIRPORT),30/05/2011,0.9,1.6, ,14.8,6.0,99,66,2.00,8.90
+GROVEDALE (GEELONG AIRPORT),31/05/2011,0.6,0.2, ,13.4,2.8,99,75,1.08,9.89
+GROVEDALE (GEELONG AIRPORT),01/06/2011,0.9,0.2, ,16.4,-0.7,99,55,1.32,10.95
+Totals:,,6.2,6, ,,,,,, 

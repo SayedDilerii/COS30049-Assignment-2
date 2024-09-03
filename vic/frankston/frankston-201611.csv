@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FRANKSTON Victoria for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FRANKSTON,01/11/2016,3.4, , ,14.6,9.1,79,62,6.88,21.07
+FRANKSTON,02/11/2016,3.0, , ,14.9,11.2,76,64,6.66,13.95
+FRANKSTON,03/11/2016,4.3, , ,17.8,11.7,84,55,4.11,27.93
+FRANKSTON,04/11/2016,4.8, , ,22.1,9.7,100,46,6.37,25.73
+FRANKSTON,05/11/2016,2.8, , ,14.5,10.0,100,55,10.53,12.46
+FRANKSTON,06/11/2016, , , , ,11.0,100,62,5.08,26.11
+FRANKSTON,07/11/2016,3.6, , ,20.6,12.6,100,51,5.33,16.81
+FRANKSTON,08/11/2016,4.0, , ,16.1,11.3,82,61,3.12,27.70
+FRANKSTON,09/11/2016,3.2, , ,18.0,9.5,87,54,2.39,18.22
+FRANKSTON,10/11/2016,2.9, , ,16.7,10.8,83,55,2.31,15.96
+FRANKSTON,11/11/2016,4.6, , ,20.6,8.2,89,49,2.75,29.17
+FRANKSTON,12/11/2016,2.7, , ,20.1,12.9,93,58,4.82,8.77
+FRANKSTON,13/11/2016,2.6, , ,15.7,11.7,86,63,7.11,9.01
+FRANKSTON,14/11/2016,2.8, , ,14.4,11.3,97,56,6.52,14.81
+FRANKSTON,15/11/2016,3.1, , ,15.4,11.7,84,68,4.49,18.80
+FRANKSTON,16/11/2016,3.9, , ,19.8,12.2,94,62,3.29,23.75
+FRANKSTON,17/11/2016, , , , ,12.0,94,37,2.93,28.95
+FRANKSTON,18/11/2016, , , , , ,100,64,3.49,16.38
+FRANKSTON,19/11/2016, , , , , ,100,56,2.48,30.17
+FRANKSTON,20/11/2016,5.6, , ,31.7,12.1,100,33,1.99,25.84
+FRANKSTON,21/11/2016,7.5, , ,33.5,14.9,86,29,5.69,20.04
+FRANKSTON,22/11/2016, , , , ,13.8,100,70,1.59,2.63
+FRANKSTON,23/11/2016,3.3, , ,14.4,10.7,92,52,3.57,19.98
+FRANKSTON,24/11/2016,3.8, , ,15.2,10.8,88,54,5.58,24.26
+FRANKSTON,25/11/2016, , , , , ,100,58,7.40,23.18
+FRANKSTON,26/11/2016, , , , , ,100,64,5.79,18.05
+FRANKSTON,27/11/2016, , , ,15.4, ,100,66,2.82,8.35
+FRANKSTON,28/11/2016,4.3, , ,18.8,12.2,92,58,2.19,27.59
+FRANKSTON,29/11/2016,4.7, , ,20.6,10.1,86,53,2.48,30.07
+FRANKSTON,30/11/2016,1.8, , ,17.4,12.2,90,73,1.62,8.02
+Totals:,,82.7, , ,,,,,, 

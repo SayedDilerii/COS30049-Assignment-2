@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COMBIENBAR Victoria for July 2022,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 August 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COMBIENBAR,01/07/2022,0.5,3.4, ,7.9,4.8,95,67,0.40,4.45
+COMBIENBAR,02/07/2022,0.5,0.8, ,7.4,4.7,95,88,0.12,4.74
+COMBIENBAR,03/07/2022,0.5,0.2, ,8.0,5.0,91,84,0.27,4.90
+COMBIENBAR,04/07/2022,0.5,3.0, ,7.4,5.6,97,89,1.00,4.15
+COMBIENBAR,05/07/2022,0.6,7.6, ,9.2,2.7,96,72,0.90,4.73
+COMBIENBAR,06/07/2022,0.8,0.0, ,13.6,5.8,90,64,1.19,7.95
+COMBIENBAR,07/07/2022,0.9,0.0, ,8.9,5.3,90,66,2.25,6.49
+COMBIENBAR,08/07/2022,0.9,0.8, ,7.2,4.9,91,74,5.41,4.67
+COMBIENBAR,09/07/2022,0.5,9.2, ,6.7,4.7,96,87,2.21,4.50
+COMBIENBAR,10/07/2022,0.6,13.8, ,9.6,5.1,96,83,0.47,7.52
+COMBIENBAR,11/07/2022, ,2.4, , ,2.2,87,56,0.62,9.71
+COMBIENBAR,12/07/2022, ,0.0, , , ,100,53,0.09,8.07
+COMBIENBAR,13/07/2022,0.6,2.6, ,6.8,4.0,96,81,2.16,5.16
+COMBIENBAR,14/07/2022,0.8,10.8, ,6.6,3.3,92,68,2.72,7.18
+COMBIENBAR,15/07/2022, ,0.0, , ,2.9,86,60,0.56,10.13
+COMBIENBAR,16/07/2022,1.2,0.0, ,10.2,4.0,85,31,1.74,4.80
+COMBIENBAR,17/07/2022,1.8,0.0, ,12.2,4.3,79,49,4.64,10.13
+COMBIENBAR,18/07/2022,0.9,1.2, ,6.3,3.1,93,59,2.37,6.53
+COMBIENBAR,19/07/2022,0.5,2.4, ,7.0,1.0,93,77,0.31,7.74
+COMBIENBAR,20/07/2022,0.7,0.6, ,11.0,2.3,90,58,0.39,9.52
+COMBIENBAR,21/07/2022, ,1.2, , ,3.1,100,80,1.57,5.30
+COMBIENBAR,22/07/2022, ,3.2, ,13.7, ,100,62,2.11,9.93
+COMBIENBAR,23/07/2022,1.2,0.0, ,14.4,5.8,84,58,1.74,6.85
+COMBIENBAR,24/07/2022,0.8,0.0, ,14.4,7.8,83,51,0.22,10.57
+COMBIENBAR,25/07/2022,1.0,0.0, ,17.0,8.5,84,49,0.68,10.78
+COMBIENBAR,26/07/2022,0.9,1.4, ,7.9,6.9,95,69,2.58,5.22
+COMBIENBAR,27/07/2022,1.2,1.0, ,11.1,4.2,93,64,3.49,9.26
+COMBIENBAR,28/07/2022,0.9,1.6, ,8.4,4.9,93,67,1.59,7.25
+COMBIENBAR,29/07/2022,1.1,2.2, ,8.2,2.9,86,66,2.84,8.87
+COMBIENBAR,30/07/2022,1.1,0.2, ,12.9,2.0,80,35,0.82,11.54
+COMBIENBAR,31/07/2022,1.5,0.0, ,10.4,4.6,77,16,1.67,4.51
+Totals:,,22.5,69.6, ,,,,,, 

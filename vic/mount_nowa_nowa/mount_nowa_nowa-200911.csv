@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT NOWA NOWA Victoria for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT NOWA NOWA,01/11/2009,5.6,0.0, ,24.4,21.2,79,46,3.56,26.80
+MOUNT NOWA NOWA,02/11/2009,5.2,0.0, ,26.1,11.9,88,47,2.95,27.13
+MOUNT NOWA NOWA,03/11/2009,6.2,0.0, ,26.9,15.5,79,42,5.69,25.12
+MOUNT NOWA NOWA,04/11/2009,4.3,0.0, ,19.8,9.4,92,46,3.01,25.73
+MOUNT NOWA NOWA,05/11/2009,4.1,0.2, ,17.0,8.7,85,47,2.82,26.78
+MOUNT NOWA NOWA,06/11/2009,4.8,0.0, ,22.0,7.7,88,49,2.27,30.91
+MOUNT NOWA NOWA,07/11/2009,6.0,0.0, ,26.7,11.5,80,29,2.47,31.02
+MOUNT NOWA NOWA,08/11/2009,6.9,0.0, ,29.0,17.5,61,25,2.85,31.22
+MOUNT NOWA NOWA,09/11/2009,7.4,0.0, ,30.3,18.3,47,25,2.98,31.37
+MOUNT NOWA NOWA,10/11/2009,7.7,0.0, ,30.9,19.1,50,21,3.07,31.73
+MOUNT NOWA NOWA,11/11/2009,6.8,0.0, ,30.4,17.8,78,27,2.66,31.13
+MOUNT NOWA NOWA,12/11/2009, ,0.0, ,26.3,16.3,93,41,2.69, 
+MOUNT NOWA NOWA,13/11/2009,5.2,0.0, ,23.1,12.5,94,50,2.95,30.29
+MOUNT NOWA NOWA,14/11/2009,6.5,0.0, ,29.6,14.0,89,26,3.12,28.56
+MOUNT NOWA NOWA,15/11/2009,5.2,0.0, ,24.3,14.0,96,57,2.12,30.32
+MOUNT NOWA NOWA,16/11/2009, ,0.0, ,25.0,14.2,74,43,4.61, 
+MOUNT NOWA NOWA,17/11/2009, ,0.0, ,20.8,11.3,89,57,3.20, 
+MOUNT NOWA NOWA,18/11/2009, ,0.0, ,28.6,11.6,88,31,2.71, 
+MOUNT NOWA NOWA,19/11/2009, ,0.0, ,37.4,17.3,42,16,4.91, 
+MOUNT NOWA NOWA,20/11/2009, ,0.0, ,36.9,21.8,94,16,5.48, 
+MOUNT NOWA NOWA,21/11/2009, ,5.2, ,20.9,15.8,95,70,2.83, 
+MOUNT NOWA NOWA,22/11/2009, ,17.0, ,27.0,16.8,99,59,4.38, 
+MOUNT NOWA NOWA,23/11/2009, ,6.2, ,17.9,9.6,90,47,2.73, 
+MOUNT NOWA NOWA,24/11/2009, ,0.0, ,21.7,10.7,87,53,2.27, 
+MOUNT NOWA NOWA,25/11/2009, ,0.0, ,27.4,13.9,92,39,2.09, 
+MOUNT NOWA NOWA,26/11/2009, ,0.0, ,30.9,14.6,97,46,3.27, 
+MOUNT NOWA NOWA,27/11/2009, ,3.6, ,25.5,16.3,92,49,3.37, 
+MOUNT NOWA NOWA,28/11/2009,5.7,0.0, ,24.6,16.4,91,48,3.39,30.47
+MOUNT NOWA NOWA,29/11/2009,2.9,2.4, ,17.8,12.5,99,70,2.48,17.82
+MOUNT NOWA NOWA,30/11/2009,2.2,30.2, ,13.1,10.6,99,70,3.48,14.05
+Totals:,,92.7,64.8, ,,,,,, 

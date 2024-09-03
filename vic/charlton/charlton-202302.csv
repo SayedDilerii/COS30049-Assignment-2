@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CHARLTON Victoria for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CHARLTON,01/02/2023,5.3,0.0, ,27.1,10.9,84,33,2.68,24.92
+CHARLTON,02/02/2023,4.4,0.0, ,23.2,9.3,96,34,4.76,14.60
+CHARLTON,03/02/2023,3.8,3.4, ,19.3,8.3,97,42,4.43,18.11
+CHARLTON,04/02/2023,4.8,0.0, ,25.4,7.7,99,35,3.47,20.98
+CHARLTON,05/02/2023,5.3,0.0, ,27.3,7.7,99,28,2.05,27.86
+CHARLTON,06/02/2023,6.4,0.0, ,30.3,10.9,97,18,2.85,27.71
+CHARLTON,07/02/2023,7.2,0.0, ,30.9,12.4,90,15,3.76,27.57
+CHARLTON,08/02/2023,7.4,0.0, ,33.9,11.3,84,14,3.17,27.33
+CHARLTON,09/02/2023,7.1,0.0, ,35.1,12.2,85,12,2.58,27.09
+CHARLTON,10/02/2023,8.5,0.0, ,40.4,16.8,65,8,3.19,24.52
+CHARLTON,11/02/2023,6.0,0.0, ,27.3,14.7,89,37,5.04,24.55
+CHARLTON,12/02/2023,5.9,0.0, ,26.7,14.4,78,26,3.82,24.07
+CHARLTON,13/02/2023,6.3,0.0, ,26.7,9.7,76,25,4.18,26.16
+CHARLTON,14/02/2023,6.2,0.0, ,30.0,11.5,82,17,2.75,25.99
+CHARLTON,15/02/2023,6.1,0.0, ,34.7,12.1,75,17,1.96,24.88
+CHARLTON,16/02/2023,7.7,0.0, ,39.1,18.3,51,10,2.75,23.96
+CHARLTON,17/02/2023,9.4,0.4, ,42.2,24.0,57,9,3.79,24.54
+CHARLTON,18/02/2023,6.5,0.0, ,32.1,11.5,88,17,2.96,25.25
+CHARLTON,19/02/2023,5.8,0.0, ,33.3,11.7,89,16,1.94,25.11
+CHARLTON,20/02/2023,7.1,0.0, ,36.4,13.9,85,9,2.72,24.81
+CHARLTON,21/02/2023,7.2,0.0, ,30.7,19.0,68,26,5.04,22.61
+CHARLTON,22/02/2023,6.5,0.0, ,32.4,12.0,75,26,3.37,23.95
+CHARLTON,23/02/2023,7.1,0.0, ,31.8,19.2,57,24,3.90,23.82
+CHARLTON,24/02/2023,7.9,0.0, ,34.3,19.3,56,22,4.43,22.97
+CHARLTON,25/02/2023,3.0,0.0, ,26.3,21.9,96,34,2.90,6.36
+CHARLTON,26/02/2023,4.6,1.4, ,26.7,10.8,99,36,2.74,21.46
+CHARLTON,27/02/2023,4.9,0.0, ,27.8,11.0,99,36,2.84,23.20
+CHARLTON,28/02/2023,4.6,0.0, ,26.4,11.0,91,33,2.96,19.84
+Totals:,,173,5.2, ,,,,,, 

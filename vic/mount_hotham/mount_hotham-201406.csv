@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for June 2014,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 July 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/06/2014,0.4,0.6, ,4.5,2.5,99,92,8.83,2.44
+MOUNT HOTHAM,02/06/2014,0.5,4.6, ,5.1,0.8,99,86,3.65,6.10
+MOUNT HOTHAM,03/06/2014,0.3,33.8, ,3.5,1.5,99,99,6.01,3.43
+MOUNT HOTHAM,04/06/2014,0.3,10.0, ,2.9,0.6,99,99,6.09,8.09
+MOUNT HOTHAM,05/06/2014,0.4,0.2, ,3.6,-0.2,99,97,3.81,4.66
+MOUNT HOTHAM,06/06/2014,0.8,1.2, ,1.8,-2.6,99,62,5.90,9.45
+MOUNT HOTHAM,07/06/2014,0.5,0.0, ,3.3,-1.4,99,89,8.12,7.29
+MOUNT HOTHAM,08/06/2014,0.2,1.0, ,1.0,-4.0,99,99,10.54,7.72
+MOUNT HOTHAM,09/06/2014,1.5,1.0, ,4.9,-3.6,99,38,7.82,8.32
+MOUNT HOTHAM,10/06/2014,1.7,0.0, ,6.4,-0.7,89,5,3.42,9.35
+MOUNT HOTHAM,11/06/2014,2.2,0.2, ,5.4,-0.6,99,6,7.29,8.07
+MOUNT HOTHAM,12/06/2014,1.8,0.2, ,2.7,-0.6,99,25,11.52,4.63
+MOUNT HOTHAM,13/06/2014,0.2,6.0, ,3.2,0.0,99,99,11.98,2.82
+MOUNT HOTHAM,14/06/2014,0.2,26.0, ,1.9,-0.1,99,99,9.67,2.52
+MOUNT HOTHAM,15/06/2014,0.2,8.6, ,-0.3,-2.4,99,99,14.12,5.44
+MOUNT HOTHAM,16/06/2014,0.5,1.0, ,-0.2,-3.3,99,78,4.95,3.79
+MOUNT HOTHAM,17/06/2014,0.9,0.0, ,4.4,-2.6,99,35,2.36,8.66
+MOUNT HOTHAM,18/06/2014,2.1,0.0, ,6.4,-1.2,57,13,4.82,9.32
+MOUNT HOTHAM,19/06/2014,2.0,0.2, ,3.3,1.5,99,20,12.81,6.91
+MOUNT HOTHAM,20/06/2014,0.2,2.8, ,0.5,-1.3,99,96,14.10,4.58
+MOUNT HOTHAM,21/06/2014,0.2,5.4, ,2.1,-1.4,99,99,8.37,3.08
+MOUNT HOTHAM,22/06/2014, ,3.6, , ,-0.5,99,79,7.86,8.51
+MOUNT HOTHAM,23/06/2014, , , ,0.5, ,99,99,14.10,2.26
+MOUNT HOTHAM,24/06/2014,0.2,0.8, ,-2.0,-5.8,99,99,5.12,2.81
+MOUNT HOTHAM,25/06/2014,0.4,0.0, ,-0.2,-5.5,99,99,0.00,3.94
+MOUNT HOTHAM,26/06/2014,0.4,18.2, ,-0.2,-2.7,99,99,0.07,4.24
+MOUNT HOTHAM,27/06/2014,0.2,1.8, ,-0.2,-1.1,99,99,12.58,3.37
+MOUNT HOTHAM,28/06/2014,0.2,0.0, ,-2.2,-2.6,99,99,11.04,2.66
+MOUNT HOTHAM,29/06/2014,0.3,0.0, ,-2.0,-4.2,99,99,2.16,4.55
+MOUNT HOTHAM,30/06/2014,0.4,0.0, ,-2.4,-5.3,99,99,0.00,4.58
+Totals:,,19.2,127.2, ,,,,,, 

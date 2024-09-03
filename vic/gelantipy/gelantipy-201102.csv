@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for February 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 March 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/02/2011,9.6,0.0, ,34.0,20.5,92,19,6.65,31.80
+GELANTIPY,02/02/2011,4.6,0.0, ,29.8,14.8,99,48,4.79,14.75
+GELANTIPY,03/02/2011,4.4,14.6, ,27.0,19.2,99,64,3.52,21.40
+GELANTIPY,04/02/2011,3.2,6.6, ,26.9,16.3,99,56,4.08,9.31
+GELANTIPY,05/02/2011,3.1,30.6, ,24.5,19.2,99,63,5.75,10.43
+GELANTIPY,06/02/2011,2.3,20.0, ,12.8,7.2,99,59,3.74,14.06
+GELANTIPY,07/02/2011,4.5,4.6, ,18.2,3.7,98,47,2.41,32.02
+GELANTIPY,08/02/2011,3.8,0.0, ,17.2,9.2,97,59,3.02,25.71
+GELANTIPY,09/02/2011,4.9,0.0, ,24.1,6.7,98,49,3.90,27.28
+GELANTIPY,10/02/2011,4.2,0.0, ,25.3,13.5,93,53,4.50,17.85
+GELANTIPY,11/02/2011,3.0,3.2, ,23.4,16.3,99,65,4.29,12.39
+GELANTIPY,12/02/2011,1.7,11.6, ,13.6,10.3,99,94,2.85,12.05
+GELANTIPY,13/02/2011,3.4,2.4, ,16.4,7.7,99,61,2.52,24.46
+GELANTIPY,14/02/2011,4.8,0.2, ,22.9,6.4,99,50,3.01,30.26
+GELANTIPY,15/02/2011,5.3,0.0, ,23.5,10.4,94,47,5.70,28.49
+GELANTIPY,16/02/2011,3.0,0.8, ,21.2,14.1,96,70,4.84,15.16
+GELANTIPY,17/02/2011,1.9,1.6, ,20.0,14.1,99,80,2.20,9.20
+GELANTIPY,18/02/2011,2.8,3.8, ,21.7,14.1,99,76,2.98,15.27
+GELANTIPY,19/02/2011,4.8,3.4, ,25.7,16.4,99,50,6.73,19.63
+GELANTIPY,20/02/2011,4.7,4.0, ,23.4,11.2,89,45,3.80,23.91
+GELANTIPY,21/02/2011,3.2,0.0, ,14.3,7.5,88,59,4.37,21.37
+GELANTIPY,22/02/2011,3.8,0.0, ,17.1,4.8,97,53,2.02,28.55
+GELANTIPY,23/02/2011,4.8,0.0, ,22.6,6.2,99,35,2.11,29.45
+GELANTIPY,24/02/2011,4.9,0.0, ,25.3,7.6,94,36,2.52,27.35
+GELANTIPY,25/02/2011,4.0,0.0, ,20.7,12.4,94,61,2.72,25.63
+GELANTIPY,26/02/2011,5.5,0.0, ,26.5,12.6,91,37,4.00,26.33
+GELANTIPY,27/02/2011,1.2,3.2, ,16.2,14.6,99,86,1.56,4.78
+GELANTIPY,28/02/2011,3.2,13.8, ,23.2,14.1,99,69,2.10,17.68
+Totals:,,110.6,124.4, ,,,,,, 

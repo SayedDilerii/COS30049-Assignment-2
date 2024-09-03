@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for May 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/05/2009,2.0,0.0, ,14.5,2.9,93,42,2.95,15.21
+GELANTIPY,02/05/2009,1.4,0.0, ,12.1,5.6,96,55,1.47,14.40
+GELANTIPY,03/05/2009,1.8,0.0, ,14.5,2.5,95,50,2.34,15.47
+GELANTIPY,04/05/2009,1.5,0.2, ,13.4,3.5,98,59,2.08,15.28
+GELANTIPY,05/05/2009,1.7,0.2, ,14.5,2.6,99,51,2.37,15.12
+GELANTIPY,06/05/2009,1.5,0.0, ,13.2,2.5,95,55,1.71,15.09
+GELANTIPY,07/05/2009,1.4,0.0, ,12.2,3.4,94,65,3.63,9.85
+GELANTIPY,08/05/2009,1.6,0.0, ,13.0,6.3,93,51,2.19,14.43
+GELANTIPY,09/05/2009,1.5,0.2, ,14.2,2.7,99,55,2.55,14.06
+GELANTIPY,10/05/2009,1.0,0.0, ,11.8,6.1,98,72,1.61,10.26
+GELANTIPY,11/05/2009,1.5,0.2, ,14.6,4.1,95,55,2.82,11.73
+GELANTIPY,12/05/2009,1.0,0.0, ,12.0,3.4,96,67,1.41,9.54
+GELANTIPY,13/05/2009,1.7,0.2, ,13.6,2.5,97,48,3.29,13.00
+GELANTIPY,14/05/2009,2.6,0.0, ,13.5,7.0,68,49,6.56,12.10
+GELANTIPY,15/05/2009,2.8,0.0, ,15.4,8.4,69,52,7.33,9.85
+GELANTIPY,16/05/2009,2.3,0.0, ,14.1,10.8,93,41,5.89,12.35
+GELANTIPY,17/05/2009,1.6,0.0, ,13.7,2.6,96,49,3.25,13.36
+GELANTIPY,18/05/2009,1.8,0.2, ,15.1,2.0,99,28,2.38,13.57
+GELANTIPY,19/05/2009,2.0,0.0, ,14.3,2.1,80,48,4.32,12.98
+GELANTIPY,20/05/2009,2.0,0.0, ,14.6,4.9,93,52,5.57,12.57
+GELANTIPY,21/05/2009,1.7,0.0, ,14.9,4.5,94,55,4.36,11.72
+GELANTIPY,22/05/2009,1.8,0.0, ,14.1,5.5,92,55,5.12,10.34
+GELANTIPY,23/05/2009,2.6,0.0, ,16.3,9.4,92,53,9.85,12.22
+GELANTIPY,24/05/2009,2.7,0.0, ,16.5,8.8,81,48,7.40,10.77
+GELANTIPY,25/05/2009,2.6,0.0, ,18.0,6.0,84,47,5.87,11.40
+GELANTIPY,26/05/2009,1.2,0.0, ,15.1,9.5,93,66,2.91,9.30
+GELANTIPY,27/05/2009,0.9,0.0, ,11.4,6.2,97,64,1.71,11.70
+GELANTIPY,28/05/2009,0.9,0.0, ,7.9,4.2,96,63,2.51,7.87
+GELANTIPY,29/05/2009,0.5,4.4, ,7.8,3.0,99,91,2.45,8.31
+GELANTIPY,30/05/2009,0.6,5.2, ,9.1,4.4,99,81,1.58,8.60
+GELANTIPY,31/05/2009,1.1,1.0, ,11.0,4.3,99,63,4.23,10.41
+Totals:,,51.3,11.8, ,,,,,, 

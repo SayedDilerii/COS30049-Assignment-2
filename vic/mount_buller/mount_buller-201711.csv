@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for November 2017,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/11/2017,2.1,2.4, ,7.3,-1.7,99,95,0.00,16.32
+MOUNT BULLER,02/11/2017,2.5,0.2, ,9.4,-0.2,99,78,0.00,19.63
+MOUNT BULLER,03/11/2017,1.9,5.2, ,3.7,0.3,99,75,0.00,15.17
+MOUNT BULLER,04/11/2017,2.8,0.0, ,7.2,-5.4,99,22,0.00,27.24
+MOUNT BULLER,05/11/2017,3.1,0.0, ,10.5,-1.0,82,11,0.00,26.98
+MOUNT BULLER,06/11/2017,2.1,0.0, ,7.5,2.1,99,56,0.00,15.40
+MOUNT BULLER,07/11/2017,3.0,0.4, ,9.7,-2.8,99,30,0.00,25.93
+MOUNT BULLER,08/11/2017,3.3,0.0, ,12.6,-1.3,70,9,0.00,28.85
+MOUNT BULLER,09/11/2017,4.0,0.0, ,14.9,5.2,75,50,0.00,28.63
+MOUNT BULLER,10/11/2017,3.5,0.0, ,15.1,7.1,71,42,0.00,24.11
+MOUNT BULLER,11/11/2017,3.9,0.0, ,17.8,8.5,81,45,0.00,26.04
+MOUNT BULLER,12/11/2017,4.0,0.0, ,16.8,7.2,78,9,0.00,29.31
+MOUNT BULLER,13/11/2017,4.1,0.0, ,18.5,8.3,79,44,0.00,27.08
+MOUNT BULLER,14/11/2017,4.0,0.0, ,19.7,8.5,79,51,0.00,25.15
+MOUNT BULLER,15/11/2017,4.4,0.0, ,18.2,9.7,91,41,0.00,28.32
+MOUNT BULLER,16/11/2017,1.1,0.2, ,9.5,8.0,99,64,0.00,4.44
+MOUNT BULLER,17/11/2017,1.7,20.0, ,11.0,6.2,99,71,0.00,9.77
+MOUNT BULLER,18/11/2017,2.6,6.8, ,14.4,6.9,99,76,0.00,16.17
+MOUNT BULLER,19/11/2017,3.3,5.4, ,15.7,7.2,99,76,0.00,20.95
+MOUNT BULLER,20/11/2017,4.2,2.4, ,18.6,8.7,98,58,0.00,26.44
+MOUNT BULLER,21/11/2017,3.4,0.0, ,17.2,9.3,84,29,0.00,21.75
+MOUNT BULLER,22/11/2017,4.3,3.4, ,17.7,9.3,62,24,0.00,29.34
+MOUNT BULLER,23/11/2017,3.8,0.0, ,17.5,10.2,76,47,0.00,24.24
+MOUNT BULLER,24/11/2017,4.3,1.2, ,19.4,10.0,82,46,0.00,26.75
+MOUNT BULLER,25/11/2017,4.1,0.0, ,20.4,11.1,95,44,0.00,24.88
+MOUNT BULLER,26/11/2017, ,4.4, ,15.5,10.4,99,64,0.00, 
+MOUNT BULLER,27/11/2017,2.8,3.8, ,17.3,8.8,98,67,0.00,16.07
+MOUNT BULLER,28/11/2017,4.6,0.8, ,19.4,10.6,95,62,0.00,27.70
+MOUNT BULLER,29/11/2017,3.9,0.2, ,20.2,11.8,88,55,0.00,22.56
+MOUNT BULLER,30/11/2017,4.1,11.2, ,19.5,11.7,93,45,0.00,24.63
+Totals:,,96.9,68, ,,,,,, 

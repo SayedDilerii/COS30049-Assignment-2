@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KANAGULK Victoria for March 2019,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 April 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2019 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KANAGULK,01/03/2019,9.2,0.0, ,39.2,19.0,44,10,4.22,23.61
+KANAGULK,02/03/2019,9.0,0.0, ,38.9,17.3,48,9,4.14,23.47
+KANAGULK,03/03/2019,6.2,0.0, ,35.8,20.4,81,14,4.14,8.63
+KANAGULK,04/03/2019,6.9,0.0, ,33.0,14.1,92,16,3.95,22.92
+KANAGULK,05/03/2019,4.5,0.0, ,26.7,12.2,99,36,3.57,17.77
+KANAGULK,06/03/2019,4.2,1.0, ,19.8,6.8,99,28,4.23,20.54
+KANAGULK,07/03/2019,4.0,0.0, ,24.1,1.8,97,17,1.79,21.55
+KANAGULK,08/03/2019,3.6,0.0, ,25.4,9.1,65,18,2.34,8.16
+KANAGULK,09/03/2019,4.7,0.0, ,28.8,11.3,75,31,2.42,20.47
+KANAGULK,10/03/2019,1.7,0.0, ,19.7,11.9,100,72,1.90,7.62
+KANAGULK,11/03/2019,2.9,3.0, ,22.9,14.0,100,45,2.64,12.03
+KANAGULK,12/03/2019,3.5,1.0, ,19.7,12.5,99,35,3.96,15.49
+KANAGULK,13/03/2019,3.0,0.0, ,20.2,3.6,99,33,1.93,16.39
+KANAGULK,14/03/2019,4.3,0.0, ,25.0,4.4,99,24,2.69,21.14
+KANAGULK,15/03/2019,5.2,0.0, ,26.2,10.5,99,33,5.21,20.84
+KANAGULK,16/03/2019,4.6,0.0, ,29.9,7.2,100,20,2.12,20.48
+KANAGULK,17/03/2019,5.2,0.0, ,32.5,10.9,99,17,2.50,20.33
+KANAGULK,18/03/2019,5.4,0.0, ,31.2,10.8,100,19,3.06,20.13
+KANAGULK,19/03/2019,4.6,0.0, ,27.7,10.5,100,42,4.00,20.01
+KANAGULK,20/03/2019,4.6,0.2, ,27.5,12.9,100,43,4.52,19.29
+KANAGULK,21/03/2019, ,0.0, , ,16.2, , , ,18.76
+KANAGULK,25/03/2019, , , , , , , , ,14.84
+KANAGULK,26/03/2019, , , ,21.8, , , , ,16.89
+KANAGULK,27/03/2019,3.0, , ,23.6,4.3,100,31,1.42,18.45
+KANAGULK,28/03/2019,3.9,0.0, ,27.9,5.8,99,21,2.03,17.72
+KANAGULK,29/03/2019,3.1,0.0, ,22.6,12.1,98,33,3.64,8.13
+KANAGULK,30/03/2019,2.5,0.2, ,15.8,2.5,99,40,3.46,12.26
+KANAGULK,31/03/2019,1.7,1.6, ,17.6,4.8,100,73,2.95,10.74
+Totals:,,111.5,7, ,,,,,, 

@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SHEOAKS Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SHEOAKS,01/12/2017,1.9,6.0, ,21.7,19.1,95,63,3.22,4.13
+SHEOAKS,02/12/2017,1.2,6.8, ,14.9,12.3,97,78,4.05,3.24
+SHEOAKS,03/12/2017,2.8,5.0, ,16.4,10.0,91,53,4.69,11.87
+SHEOAKS,04/12/2017,3.2,0.6, ,16.6,10.2,93,44,3.21,15.98
+SHEOAKS,05/12/2017,2.0,0.8, ,18.9,5.2,97,64,3.04,7.94
+SHEOAKS,06/12/2017,3.5,0.4, ,21.8,11.8,96,52,2.64,17.39
+SHEOAKS,07/12/2017,3.5,0.2, ,21.6,6.8,96,44,2.82,15.99
+SHEOAKS,08/12/2017,4.5,8.2, ,19.5,8.1,93,35,3.50,24.16
+SHEOAKS,09/12/2017,4.3,0.0, ,23.1,10.9,87,50,4.33,18.68
+SHEOAKS,10/12/2017,5.2,0.0, ,24.5,9.8,93,42,2.42,28.78
+SHEOAKS,11/12/2017,5.4,0.0, ,24.2,12.5,82,39,2.28,29.26
+SHEOAKS,12/12/2017,6.6,0.0, ,29.1,11.1,88,30,2.79,31.40
+SHEOAKS,13/12/2017,10.5,0.0, ,37.8,11.2,89,10,5.09,30.16
+SHEOAKS,14/12/2017,5.4,0.0, ,25.4,16.4,84,41,3.99,22.58
+SHEOAKS,15/12/2017,6.2,0.0, ,28.3,7.5,94,21,2.29,30.60
+SHEOAKS,16/12/2017,6.1,0.0, ,26.2,8.7,93,30,2.77,31.59
+SHEOAKS,17/12/2017,4.9,0.0, ,25.0,11.1,97,49,3.14,25.29
+SHEOAKS,18/12/2017,5.7,0.0, ,34.7,12.6,94,20,2.11,19.46
+SHEOAKS,19/12/2017,8.7,0.0, ,36.9,19.0,58,24,5.60,17.23
+SHEOAKS,20/12/2017, , , ,22.7, ,77,40,5.47,21.31
+SHEOAKS,21/12/2017,5.5, , ,26.2,8.0,90,34,2.49,28.35
+SHEOAKS,22/12/2017,6.3,0.0, ,30.0,12.9,85,16,2.27,28.00
+SHEOAKS,23/12/2017,5.7,0.0, ,31.6,9.6,94,10,2.86,15.38
+SHEOAKS,24/12/2017,5.5,0.0, ,21.3,13.4,89,35,3.71,29.37
+SHEOAKS,25/12/2017,5.3,0.0, ,21.5,11.5,79,43,4.33,27.11
+SHEOAKS,26/12/2017,6.1,0.0, ,27.0,10.7,88,40,3.52,30.06
+Totals:,,126,28, ,,,,,, 

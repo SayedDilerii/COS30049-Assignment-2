@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GELANTIPY Victoria for July 2010,,,,,,,,,,
+Issued at 04:30 GMT on Sunday 01 August 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GELANTIPY,01/07/2010,0.8,0.0, ,9.1,0.1,83,54,1.73,10.35
+GELANTIPY,02/07/2010,0.8,0.0, ,7.6,-1.5,90,61,2.24,10.69
+GELANTIPY,03/07/2010,0.8,0.8, ,7.5,0.0,93,73,3.50,6.26
+GELANTIPY,04/07/2010,0.6,0.8, ,7.9,3.5,99,71,1.39,8.18
+GELANTIPY,05/07/2010,1.0,0.0, ,8.5,0.3,94,60,3.23,10.95
+GELANTIPY,06/07/2010,0.7,0.0, ,6.6,0.8,93,75,2.31,6.26
+GELANTIPY,07/07/2010,0.7,0.0, ,8.5,-0.4,99,70,1.86,7.78
+GELANTIPY,08/07/2010,0.8,0.4, ,8.5,0.1,99,58,1.82,11.14
+GELANTIPY,09/07/2010,1.0,0.2, ,9.2,1.3,97,67,5.03,11.13
+GELANTIPY,10/07/2010,1.4,0.0, ,11.3,2.8,89,64,6.29,4.29
+GELANTIPY,11/07/2010,1.3,0.6, ,11.9,5.4,99,53,3.95,9.93
+GELANTIPY,12/07/2010,1.4,0.0, ,10.8,1.9,90,54,4.05,11.50
+GELANTIPY,13/07/2010,1.6,0.0, ,13.5,3.5,85,65,6.72,5.38
+GELANTIPY,14/07/2010,1.5,2.4, ,8.8,5.7,93,54,6.62,10.89
+GELANTIPY,15/07/2010,0.9,2.6, ,5.9,3.1,96,73,6.08,6.81
+GELANTIPY,16/07/2010,0.8,2.8, ,7.6,3.2,99,66,2.47,7.63
+GELANTIPY,17/07/2010,1.0,0.0, ,9.4,-0.2,94,59,2.76,11.86
+GELANTIPY,18/07/2010,1.9,0.0, ,10.4,0.5,75,44,4.96,11.78
+GELANTIPY,19/07/2010,0.8,3.2, ,7.1,3.2,98,65,2.09,6.65
+GELANTIPY,20/07/2010,1.0,1.4, ,7.7,-2.3,99,38,1.89,12.32
+GELANTIPY,21/07/2010,0.8,0.2, ,7.2,-1.2,97,71,2.42,7.59
+GELANTIPY,22/07/2010,0.6,0.2, ,7.6,1.8,99,88,2.78,6.97
+GELANTIPY,23/07/2010,0.9,2.8, ,11.2,3.9,99,71,1.70,12.00
+GELANTIPY,24/07/2010,0.6,0.2, ,6.4,4.4,99,86,1.46,5.39
+GELANTIPY,25/07/2010,0.9,0.0, ,8.9,0.6,99,66,1.60,11.01
+GELANTIPY,26/07/2010,1.0,0.2, ,8.9,-0.3,93,60,1.91,12.64
+GELANTIPY,27/07/2010,1.0,0.0, ,9.3,-0.2,94,61,1.96,12.95
+GELANTIPY,28/07/2010,1.2,0.0, ,9.2,0.6,91,66,4.49,11.11
+GELANTIPY,29/07/2010,1.3,0.4, ,14.0,3.3,99,59,2.78,11.32
+GELANTIPY,30/07/2010, ,0.2, ,13.8,4.8,83,55,3.71, 
+GELANTIPY,31/07/2010, ,0.0, ,12.4,6.4,74,54,5.15, 
+Totals:,,29.1,19.4, ,,,,,, 

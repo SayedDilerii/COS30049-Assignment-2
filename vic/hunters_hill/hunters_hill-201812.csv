@@ -1,0 +1,31 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HUNTERS HILL Victoria for December 2018,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 18 December 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HUNTERS HILL,01/12/2018,5.8,0.0, ,24.7,11.6,72,21,1.79,31.27
+HUNTERS HILL,02/12/2018,4.5,7.0, ,16.4,10.3,100,22,3.36,25.66
+HUNTERS HILL,03/12/2018,3.4,0.2, ,16.7,6.0,80,52,2.68,19.34
+HUNTERS HILL,04/12/2018,5.2,0.0, ,24.0,8.8,88,35,1.32,30.64
+HUNTERS HILL,05/12/2018,5.2,0.0, ,25.4,12.2,81,35,1.09,28.74
+HUNTERS HILL,06/12/2018,5.7,0.0, ,26.9,14.2,83,30,1.27,30.20
+HUNTERS HILL,07/12/2018,6.3,0.0, ,29.4,17.0,64,29,1.51,31.22
+HUNTERS HILL,08/12/2018,5.6,0.0, ,29.9,19.5,53,25,1.28,25.85
+HUNTERS HILL,09/12/2018,3.6,0.0, ,26.0,19.3,100,44,1.51,15.58
+HUNTERS HILL,10/12/2018,5.4,12.8, ,26.0,11.9,100,32,1.08,30.36
+HUNTERS HILL,11/12/2018,5.6,0.2, ,27.4,13.7,88,31,1.34,29.20
+HUNTERS HILL,12/12/2018,5.5,0.0, ,26.2,14.6,76,36,1.25,29.28
+HUNTERS HILL,13/12/2018,0.8,26.2, ,17.3,13.9,100,75,1.84,0.12
+HUNTERS HILL,14/12/2018,1.9,18.4, ,17.8,10.6,100,92,0.81,10.65
+HUNTERS HILL,15/12/2018,4.2,1.4, ,21.2,12.4,100,33,1.04,23.20
+HUNTERS HILL,16/12/2018,3.9,0.0, ,20.2,11.3,93,48,1.93,20.81
+HUNTERS HILL,17/12/2018, ,2.4, , ,12.1, , , ,31.18
+Totals:,,72.6,68.6, ,,,,,, 

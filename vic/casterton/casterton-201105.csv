@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for May 2011,,,,,,,,,,
+Issued at 22:35 GMT on Wednesday 01 June 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/05/2011,1.4,10.6, ,17.3,12.6,100,71,1.74,10.51
+CASTERTON,02/05/2011,1.5,0.2, ,17.4,3.7,100,57,1.35,13.60
+CASTERTON,03/05/2011,1.4,0.0, ,16.0,4.8,98,62,1.65,13.34
+CASTERTON,04/05/2011,1.3,0.2, ,15.5,6.9,97,71,2.59,10.74
+CASTERTON,05/05/2011,1.2,0.8, ,13.1,9.1,95,63,2.01,9.09
+CASTERTON,06/05/2011,1.1,0.0, ,12.2,2.1,96,65,1.34,11.30
+CASTERTON,07/05/2011,1.0,0.0, ,13.2,4.4,96,67,0.97,10.40
+CASTERTON,08/05/2011,1.0,0.4, ,14.0,6.7,98,75,2.30,8.12
+CASTERTON,09/05/2011,1.2,1.0, ,13.5,4.4,93,67,1.98,11.82
+CASTERTON,10/05/2011,1.3,0.4, ,12.8,7.1,96,64,2.94,9.09
+CASTERTON,11/05/2011,0.7,13.0, ,12.1,4.5,98,90,3.12,6.82
+CASTERTON,12/05/2011,1.1,6.8, ,14.6,6.9,100,78,4.36,9.57
+CASTERTON,13/05/2011,1.3,3.6, ,13.7,9.5,98,69,5.00,8.90
+CASTERTON,14/05/2011,1.1,2.0, ,12.9,4.1,93,71,2.37,11.28
+CASTERTON,15/05/2011,1.1,0.4, ,13.4,6.8,95,61,1.92,7.88
+CASTERTON,16/05/2011,1.0,0.0, ,13.1,8.6,90,69,1.82,6.16
+CASTERTON,17/05/2011,1.1,0.0, ,14.4,8.7,92,56,1.28,11.13
+CASTERTON,18/05/2011,1.5,0.0, ,14.0,3.9,91,56,3.21,9.98
+CASTERTON,19/05/2011,2.3,0.0, ,17.7,8.4,66,53,4.00,10.30
+CASTERTON,20/05/2011,2.6,0.0, ,19.8,9.8,68,39,3.56,11.65
+CASTERTON,21/05/2011,2.9,0.0, ,21.4,10.8,72,43,4.43,8.20
+CASTERTON,22/05/2011,1.9,3.6, ,17.5,12.5,93,49,4.11,7.82
+CASTERTON,23/05/2011,0.8,5.2, ,13.3,10.2,98,90,3.98,8.93
+CASTERTON,24/05/2011,1.0,8.0, ,12.2,6.6,95,75,4.15,10.03
+CASTERTON,25/05/2011,0.9,1.6, ,11.6,5.5,96,70,2.38,7.03
+CASTERTON,26/05/2011,0.9,0.2, ,14.1,7.8,95,78,2.95,8.36
+CASTERTON,27/05/2011,0.8,4.6, ,14.5,7.1,98,80,2.36,8.95
+CASTERTON,28/05/2011,0.8,1.6, ,14.6,4.8,99,71,1.28,8.57
+CASTERTON,29/05/2011,0.7,3.2, ,13.8,8.3,98,84,1.22,6.86
+CASTERTON,30/05/2011,0.8,1.8, ,13.3,2.8,99,68,1.40,9.85
+CASTERTON,31/05/2011,0.8,0.4, ,13.8,-0.3,98,66,1.45,11.71
+Totals:,,38.5,69.6, ,,,,,, 

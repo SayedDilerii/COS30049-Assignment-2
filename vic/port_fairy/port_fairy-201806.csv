@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT FAIRY Victoria for June 2018,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 July 2018,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT FAIRY,01/06/2018,0.5,0.0, ,14.9,3.9,92,71,0.00,9.38
+PORT FAIRY,02/06/2018,0.4,0.0, ,15.7,5.5,87,64,0.00,9.28
+PORT FAIRY,03/06/2018,0.4,0.0, ,17.0,4.0,96,59,0.00,9.29
+PORT FAIRY,04/06/2018,0.5,0.0, ,15.1,6.5,91,66,0.00,6.45
+PORT FAIRY,05/06/2018,0.5,0.6, ,15.5,8.4,95,64,0.00,9.21
+PORT FAIRY,06/06/2018,0.4,0.0, ,17.8,5.2,96,52,0.00,9.17
+PORT FAIRY,07/06/2018,0.5,0.0, ,17.0,6.5,81,49,0.00,3.90
+PORT FAIRY,08/06/2018,0.5,0.0, ,16.6,11.3,93,56,0.00,7.20
+PORT FAIRY,09/06/2018,0.5,0.4, ,15.3,7.8,97,78,0.00,6.72
+PORT FAIRY,10/06/2018,0.4,0.2, ,16.3,6.3,95,58,0.00,9.05
+PORT FAIRY,11/06/2018,0.5,0.0, ,15.7,6.3,92,71,0.00,4.14
+PORT FAIRY,12/06/2018,0.5,6.8, ,15.3,10.3,95,77,0.00,6.00
+PORT FAIRY,13/06/2018,0.4,4.4, ,12.9,6.1,92,76,0.00,6.34
+PORT FAIRY,14/06/2018,0.4,4.0, ,15.0,6.5,92,70,0.00,7.33
+PORT FAIRY,15/06/2018,0.4,19.6, ,12.3,7.4,93,58,0.00,5.93
+PORT FAIRY,16/06/2018,0.5,17.8, ,12.1,6.2,94,62,0.00,1.70
+PORT FAIRY,17/06/2018,0.4,34.6, ,12.6,6.1,94,63,0.00,6.39
+PORT FAIRY,18/06/2018,0.4,0.6, ,12.6,9.8,92,61,0.00,5.64
+PORT FAIRY,19/06/2018,0.3,1.0, ,13.4,2.8,95,66,0.00,7.80
+PORT FAIRY,20/06/2018,0.3,0.0, ,13.1,4.2,91,62,0.00,7.86
+PORT FAIRY,21/06/2018,0.4,0.2, ,14.3,5.7,92,71,0.00,7.92
+PORT FAIRY,22/06/2018,0.4,0.0, ,15.2,3.8,93,69,0.00,8.66
+PORT FAIRY,23/06/2018,0.4,1.4, ,12.9,6.1,96,63,0.00,5.00
+PORT FAIRY,24/06/2018,0.4,2.6, ,12.3,8.6,80,60,0.00,3.82
+PORT FAIRY,25/06/2018,0.4,0.0, ,13.7,8.2,90,62,0.00,7.71
+PORT FAIRY,26/06/2018,0.4,0.4, ,14.3,8.7,91,64,0.00,7.61
+PORT FAIRY,27/06/2018,0.4,0.0, ,13.5,6.0,93,75,0.00,8.89
+PORT FAIRY,28/06/2018,0.3,0.0, ,14.7,4.1,94,61,0.00,9.05
+PORT FAIRY,29/06/2018,0.4,0.0, ,14.5,5.5,95,59,0.00,7.21
+PORT FAIRY,30/06/2018,0.4,5.6, ,13.3,7.7,95,58,0.00,8.30
+Totals:,,12.6,100.2, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for April 2022,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 May 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/04/2022,4.6,0.0, ,21.0,10.9,75,42,7.99,17.07
+REDESDALE,02/04/2022,3.0,0.0, ,19.5,11.8,82,61,6.99,11.02
+REDESDALE,03/04/2022,2.8,0.0, ,21.1,12.2,93,54,3.87,12.95
+REDESDALE,04/04/2022, ,0.0, , ,7.2,99,42,1.66,14.27
+REDESDALE,05/04/2022,3.4, , ,24.5,5.5,99,31,2.49,16.97
+REDESDALE,06/04/2022,3.2,0.0, ,22.4,13.9,86,48,4.15,12.36
+REDESDALE,07/04/2022,3.7,0.0, ,25.3,10.8,91,37,3.46,14.69
+REDESDALE,08/04/2022,2.0,0.0, ,21.4,11.3,97,48,1.61,8.89
+REDESDALE,09/04/2022,1.8,2.2, ,21.4,14.8,99,70,2.96,8.01
+REDESDALE,10/04/2022,2.3,0.2, ,25.2,14.5,97,46,1.56,10.53
+REDESDALE,11/04/2022,2.6,0.2, ,20.8,14.5,93,52,3.50,11.98
+REDESDALE,12/04/2022,3.0,0.0, ,19.5,7.4,83,41,3.41,15.74
+REDESDALE,13/04/2022,3.0,0.0, ,22.9,8.0,93,42,2.86,15.65
+REDESDALE,14/04/2022,2.6,0.0, ,23.6,5.7,98,41,2.02,14.11
+REDESDALE,15/04/2022,2.2,0.2, ,23.7,9.5,90,45,1.62,10.99
+REDESDALE,16/04/2022,2.8,0.0, ,26.2,8.2,95,34,1.71,14.96
+REDESDALE,17/04/2022,3.6,0.0, ,27.1,6.8,93,31,2.94,14.51
+REDESDALE,18/04/2022,0.7,17.0, ,15.9,14.9,100,92,1.42,2.49
+REDESDALE,19/04/2022,1.0,37.0, ,15.2,12.6,100,82,2.28,4.21
+REDESDALE,20/04/2022,1.2,13.6, ,19.0,3.0,99,63,1.05,6.58
+REDESDALE,21/04/2022,1.7,0.4, ,16.6,5.1,99,57,3.00,8.74
+REDESDALE,22/04/2022,2.9,0.0, ,18.8,7.3,81,49,5.17,11.42
+REDESDALE,23/04/2022,2.6,0.0, ,22.0,8.9,89,49,2.86,13.58
+REDESDALE,24/04/2022,2.5,0.0, ,21.6,7.8,92,46,2.84,13.82
+REDESDALE,25/04/2022,2.5,0.0, ,21.7,7.7,93,43,2.56,13.58
+REDESDALE,26/04/2022,1.9,0.0, ,20.5,7.7,92,55,2.14,10.15
+REDESDALE,27/04/2022,1.6,0.0, ,18.5,14.6,100,63,3.22,5.80
+REDESDALE,28/04/2022,0.8,3.6, ,17.1,14.6,100,97,2.26,4.49
+REDESDALE,29/04/2022,1.0,4.0, ,18.5,11.8,100,81,1.81,4.80
+REDESDALE,30/04/2022,1.6,16.4, ,17.1,8.0,100,52,1.81,11.37
+Totals:,,68.6,94.8, ,,,,,, 

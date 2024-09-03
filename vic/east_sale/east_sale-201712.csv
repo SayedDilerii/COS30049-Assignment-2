@@ -1,0 +1,40 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for EAST SALE Victoria for December 2017,,,,,,,,,,
+Issued at 06:31 GMT on Wednesday 27 December 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+EAST SALE,01/12/2017,0.8,0.0, ,26.7,16.2,97,59,0.00,1.52
+EAST SALE,02/12/2017,1.0,43.6, ,17.6,14.5,99,93,0.00,3.55
+EAST SALE,03/12/2017,2.6,25.0, ,18.0,12.8,99,59,0.00,15.29
+EAST SALE,04/12/2017,3.2,0.0, ,19.9,9.7,92,53,0.00,20.44
+EAST SALE,05/12/2017,2.3,0.0, ,19.8,12.8,97,67,0.00,13.01
+EAST SALE,06/12/2017,3.5,3.0, ,20.7,12.7,98,57,0.00,21.33
+EAST SALE,07/12/2017,4.4,0.0, ,25.1,11.2,96,37,0.00,27.80
+EAST SALE,08/12/2017,4.1,10.4, ,19.9,12.4,96,45,0.00,26.77
+EAST SALE,09/12/2017,3.3,0.0, ,23.1,8.9,93,49,0.00,20.49
+EAST SALE,10/12/2017,4.9,0.0, ,25.4,10.8,93,49,0.00,30.97
+EAST SALE,11/12/2017,4.8,0.0, ,23.5,14.7,83,49,0.00,29.93
+EAST SALE,12/12/2017,4.4,0.0, ,24.4,14.7,95,56,0.00,25.77
+EAST SALE,13/12/2017,5.2,0.0, ,35.4,11.0,99,18,0.00,32.00
+EAST SALE,14/12/2017,2.9,0.0, ,25.5,19.0,69,38,0.00,15.53
+EAST SALE,15/12/2017,5.0,0.0, ,23.6,13.3,91,56,0.00,31.15
+EAST SALE,16/12/2017,4.2,0.0, ,25.1,12.3,96,55,0.00,25.18
+EAST SALE,17/12/2017,3.6,0.0, ,23.4,17.6,83,59,0.00,19.83
+EAST SALE,18/12/2017,4.1,0.0, ,27.7,15.9,97,56,0.00,22.41
+EAST SALE,19/12/2017,1.8,0.0, ,33.2,18.8,96,41,0.00,7.13
+EAST SALE,20/12/2017,4.2,8.6, ,25.8,14.3,94,39,0.00,25.28
+EAST SALE,21/12/2017,5.0,0.0, ,23.7,11.1,89,45,0.00,32.17
+EAST SALE,22/12/2017,4.0,0.2, ,24.0,12.4,97,58,0.00,23.87
+EAST SALE,23/12/2017,3.9,0.0, ,28.8,13.3,100,51,0.00,21.87
+EAST SALE,24/12/2017,2.0,0.0, ,22.6,15.1,88,44,0.00,10.07
+EAST SALE,25/12/2017,4.1,0.0, ,22.1,9.1,86,47,0.00,27.18
+EAST SALE,26/12/2017,5.0,0.0, ,25.0,11.2,96,42,0.00,32.10
+Totals:,,94.3,90.8, ,,,,,, 

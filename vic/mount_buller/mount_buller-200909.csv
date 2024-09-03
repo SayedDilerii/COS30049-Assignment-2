@@ -1,0 +1,44 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for September 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/09/2009,0.8,24.6, ,0.0,-3.8,99,94,5.22,15.70
+MOUNT BULLER,02/09/2009,1.2,0.0, ,3.9,-4.1,99,79,5.38,18.92
+MOUNT BULLER,03/09/2009,1.4,0.0, ,6.3,0.0,99,67,11.46,10.68
+MOUNT BULLER,04/09/2009,0.5,6.8, ,1.8,-0.4,99,99,9.19,11.91
+MOUNT BULLER,05/09/2009,0.6,4.4, ,-0.7,-3.9,99,98,7.28,12.16
+MOUNT BULLER,06/09/2009,0.9,2.8, ,2.6,-2.5,99,84,10.50,14.56
+MOUNT BULLER,07/09/2009,1.1,0.0, ,4.8,-1.5,99,80,6.53,12.32
+MOUNT BULLER,08/09/2009,0.6,4.8, ,0.0,-1.3,99,99,7.02,10.74
+MOUNT BULLER,09/09/2009,0.5,13.8, ,0.9,-0.8,99,99,6.74,8.81
+MOUNT BULLER,10/09/2009,1.9,5.8, ,4.1,-3.2,99,40,4.40,17.69
+MOUNT BULLER,11/09/2009,2.7,0.2, ,8.3,-1.8,93,40,11.01,20.52
+MOUNT BULLER,12/09/2009,4.8,0.0, ,12.7,2.9,48,28,14.99,13.48
+MOUNT BULLER,13/09/2009,2.3,0.0, ,7.1,4.8,99,32,10.97,8.02
+MOUNT BULLER,14/09/2009,2.3,0.0, ,5.8,-4.3,99,29,3.30,21.75
+MOUNT BULLER,15/09/2009,3.1,0.0, ,11.6,-2.8,96,14,3.61,21.59
+MOUNT BULLER,16/09/2009,4.2,0.0, ,13.0,1.0,51,23,6.63,21.93
+MOUNT BULLER,17/09/2009,3.3,0.0, ,11.2,6.5,99,21,11.58,7.44
+MOUNT BULLER,18/09/2009,3.1,28.0, ,10.2,-0.3,99,24,5.56,22.25
+MOUNT BULLER,19/09/2009,2.2,0.2, ,9.3,1.0,99,58,8.53,18.46
+MOUNT BULLER,20/09/2009,1.8,2.8, ,4.2,2.1,99,64,6.03,20.10
+MOUNT BULLER,21/09/2009,2.6,0.0, ,8.7,-1.4,99,41,6.57,21.67
+MOUNT BULLER,22/09/2009,3.0,29.0, ,7.5,1.0,99,25,11.27,18.20
+MOUNT BULLER,23/09/2009,1.7,2.2, ,2.0,1.0,99,37,6.98,11.94
+MOUNT BULLER,24/09/2009,0.6,4.2, ,3.3,-1.6,99,99,7.70,10.69
+MOUNT BULLER,25/09/2009,0.6,38.8, ,2.8,-0.1,99,89,13.69,7.00
+MOUNT BULLER,26/09/2009,0.7,34.8, ,-2.0,-4.4,99,98,3.04,8.40
+MOUNT BULLER,27/09/2009,1.0,20.4, ,-0.1,-5.0,99,98,0.00,8.94
+MOUNT BULLER,28/09/2009,1.0,11.6, ,4.0,-3.7,99,98,3.90,14.48
+MOUNT BULLER,29/09/2009,2.5,2.4, ,4.1,-3.7,99,23,3.76,24.23
+MOUNT BULLER,30/09/2009,3.1,0.0, ,9.5,0.0,86,45,10.99,24.15
+Totals:,,56.1,237.6, ,,,,,, 

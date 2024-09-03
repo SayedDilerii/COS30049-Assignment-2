@@ -1,0 +1,42 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for February 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 March 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/02/2021,2.6,0.0, ,12.7,10.0,100,34,7.69,4.91
+MOUNT BULLER,02/02/2021,3.6,2.2, ,13.1,1.5,99,51,6.24,28.63
+MOUNT BULLER,03/02/2021,4.3,0.0, ,15.1,4.1,81,24,3.02,25.88
+MOUNT BULLER,04/02/2021,3.1,0.0, ,15.7,8.5,88,68,9.62,17.97
+MOUNT BULLER,05/02/2021,1.2,9.2, ,13.5,10.7,100,80,16.09,3.04
+MOUNT BULLER,06/02/2021,2.2,45.6, ,10.2,6.7,100,60,11.05,12.29
+MOUNT BULLER,07/02/2021,3.6,0.0, ,13.7,5.4,99,50,3.41,25.93
+MOUNT BULLER,08/02/2021,4.3,0.0, ,15.5,6.6,84,13,2.18,25.91
+MOUNT BULLER,09/02/2021,4.7,0.0, ,17.6,9.8,77,18,2.44,25.91
+MOUNT BULLER,10/02/2021,3.5,0.0, ,17.4,9.8,98,53,4.12,19.61
+MOUNT BULLER,11/02/2021,3.4,0.0, ,17.7,10.6,89,69,7.37,19.64
+MOUNT BULLER,12/02/2021,1.5,13.6, ,12.0,10.2,100,61,8.75,0.78
+MOUNT BULLER,13/02/2021,3.3,1.8, ,14.0,6.4,99,63,4.31,24.63
+MOUNT BULLER,14/02/2021,3.7,0.0, ,16.3,5.9,97,35,2.11,23.22
+MOUNT BULLER,15/02/2021,3.7,0.0, ,17.9,9.1,89,9,0.69,23.67
+MOUNT BULLER,16/02/2021,3.4,0.0, ,17.7,9.7,91,60,1.62,20.69
+MOUNT BULLER,17/02/2021,3.1,0.0, ,17.4,10.3,98,64,1.62,19.04
+MOUNT BULLER,18/02/2021,3.6,0.0, ,18.1,10.0,99,75,1.38,23.80
+MOUNT BULLER,19/02/2021,3.6,0.0, ,17.9,9.4,95,65,6.78,23.12
+MOUNT BULLER,20/02/2021,3.7,0.0, ,20.3,10.9,87,57,3.55,19.62
+MOUNT BULLER,21/02/2021,3.7,0.0, ,20.4,14.1,85,61,4.74,18.02
+MOUNT BULLER,22/02/2021,4.2,4.2, ,15.7,10.2,99,22,4.43,22.77
+MOUNT BULLER,23/02/2021,2.4,0.0, ,9.1,-0.8,99,64,8.82,24.03
+MOUNT BULLER,24/02/2021,2.1,0.0, ,11.1,0.7,99,68,4.50,15.94
+MOUNT BULLER,25/02/2021,3.2,0.0, ,12.6,4.4,99,43,5.49,21.52
+MOUNT BULLER,26/02/2021,3.7,0.0, ,15.1,2.7,99,14,1.84,24.51
+MOUNT BULLER,27/02/2021,3.3,0.0, ,13.5,7.4,86,33,4.57,15.32
+MOUNT BULLER,28/02/2021,4.7,0.0, ,16.6,6.1,72,26,5.39,23.92
+Totals:,,93.4,76.6, ,,,,,, 

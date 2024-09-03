@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BULLER Victoria for July 2011,,,,,,,,,,
+Issued at 22:34 GMT on Monday 01 August 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BULLER,01/07/2011,0.6,0.0, ,5.5,-0.7,89,12,0.65,10.70
+MOUNT BULLER,02/07/2011,1.6,0.0, ,0.9,-2.0,99,15,7.94,8.25
+MOUNT BULLER,03/07/2011,0.2,0.0, ,1.3,-1.3,99,99,9.89,4.99
+MOUNT BULLER,04/07/2011,0.2,10.2, ,-0.9,-2.1,100,96,7.23,3.75
+MOUNT BULLER,05/07/2011,0.4,17.2, ,-1.6,-4.1,100,98,0.00,4.32
+MOUNT BULLER,06/07/2011,0.4,14.0, ,-0.6,-4.8,99,95,0.00,4.85
+MOUNT BULLER,07/07/2011,0.4,43.4, ,-2.6,-5.0,100,97,0.00,7.60
+MOUNT BULLER,08/07/2011,0.4,0.6, ,-2.3,-5.7,99,86,0.00,7.57
+MOUNT BULLER,09/07/2011,0.4,2.6, ,-1.5,-5.7,99,98,0.00,6.22
+MOUNT BULLER,10/07/2011,0.4,0.4, ,-0.6,-4.9,99,97,0.00,4.41
+MOUNT BULLER,11/07/2011,0.4,14.2, ,-1.1,-5.1,100,92,0.00,6.52
+MOUNT BULLER,12/07/2011,0.4,0.2, ,-0.8,-4.2,100,98,0.00,4.93
+MOUNT BULLER,13/07/2011,0.4,13.2, ,0.0,-3.9,99,95,0.00,6.35
+MOUNT BULLER,14/07/2011,0.5,3.8, ,-1.2,-4.5,99,96,0.00,11.22
+MOUNT BULLER,15/07/2011, ,0.0, , ,-5.6,96,20,0.00,11.76
+MOUNT BULLER,16/07/2011, , , ,0.1, ,100,75,0.00,10.28
+MOUNT BULLER,17/07/2011,0.5,0.2, ,0.4,-2.7,99,96,0.00,6.81
+MOUNT BULLER,18/07/2011,0.5,17.4, ,-0.6,-2.3,99,98,0.00,5.05
+MOUNT BULLER,19/07/2011,0.4,11.6, ,0.5,-5.2,99,99,0.37,5.16
+MOUNT BULLER,20/07/2011,0.5,1.0, ,0.8,-1.0,99,92,0.00,5.88
+MOUNT BULLER,21/07/2011,0.5,0.0, ,1.8,-2.0,99,88,4.01,10.98
+MOUNT BULLER,22/07/2011,1.1,0.0, ,0.7,-2.0,98,50,6.13,11.94
+MOUNT BULLER,23/07/2011,0.9,0.0, ,2.6,-2.8,98,22,1.60,11.59
+MOUNT BULLER,24/07/2011,0.5,1.2, ,-0.5,-3.4,99,83,4.10,4.27
+MOUNT BULLER,25/07/2011,0.3,10.4, ,0.5,-2.8,99,99,3.88,3.38
+MOUNT BULLER,26/07/2011,0.4,9.0, ,-1.0,-3.8,99,95,5.37,6.91
+MOUNT BULLER,27/07/2011,1.3,0.2, ,0.0,-4.9,98,20,4.77,11.57
+MOUNT BULLER,28/07/2011,1.8,0.0, ,2.6,-4.5,99,19,7.33,11.52
+MOUNT BULLER,29/07/2011,1.9,0.0, ,2.8,-3.6,84,24,7.06,11.93
+MOUNT BULLER,30/07/2011,1.3,0.0, ,2.9,-0.8,99,52,10.70,9.02
+MOUNT BULLER,31/07/2011,0.3,0.8, ,2.7,-0.2,99,99,7.63,6.41
+Totals:,,18.9,171.6, ,,,,,, 

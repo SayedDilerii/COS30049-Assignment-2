@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for October 2021,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 November 2021,,,,,,,,,,
+© Copyright Commonwealth of Australia 2021 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,01/10/2021,1.1,33.6, ,6.1,2.7,99,90,4.29,10.09
+FALLS CREEK,02/10/2021,1.3,1.4, ,7.8,1.8,99,82,2.40,10.15
+FALLS CREEK,03/10/2021,1.3,11.2, ,7.4,3.4,99,85,5.44,12.39
+FALLS CREEK,04/10/2021,0.7,14.2, ,2.6,2.1,99,99,9.10,11.33
+FALLS CREEK,05/10/2021,0.6,5.0, ,0.4,-2.4,99,98,8.12,9.91
+FALLS CREEK,06/10/2021,1.6,9.2, ,5.0,-2.3,99,78,7.76,21.11
+FALLS CREEK,07/10/2021,2.2,0.0, ,9.0,0.4,99,69,6.59,22.58
+FALLS CREEK,08/10/2021,2.4,0.2, ,8.9,0.7,99,66,5.59,23.79
+FALLS CREEK,09/10/2021,2.9,0.2, ,9.9,1.8,99,50,8.19,23.82
+FALLS CREEK,10/10/2021,1.2,5.0, ,5.7,4.1,99,69,5.71,6.25
+FALLS CREEK,11/10/2021,1.8,6.6, ,2.9,-5.2,99,71,5.08,24.29
+FALLS CREEK,12/10/2021,2.2,6.2, ,7.3,-3.7,99,56,3.45,20.52
+FALLS CREEK,13/10/2021,1.0,0.0, ,5.6,-0.4,99,89,7.61,10.52
+FALLS CREEK,14/10/2021,1.6,12.0, ,7.1,0.5,99,75,7.44,14.52
+FALLS CREEK,15/10/2021,1.4,1.8, ,2.9,-0.4,99,75,5.20,15.45
+FALLS CREEK,16/10/2021,1.8,11.2, ,4.5,-0.8,99,68,7.09,20.53
+FALLS CREEK,17/10/2021,3.1,11.0, ,7.8,-1.9,99,28,5.78,25.05
+FALLS CREEK,18/10/2021,1.1,0.0, ,5.0,1.4,99,93,7.54,14.11
+FALLS CREEK,19/10/2021,1.7,4.6, ,4.2,-2.1,99,78,7.99,24.33
+FALLS CREEK,20/10/2021,2.5,8.4, ,9.2,-1.9,99,66,5.71,24.41
+FALLS CREEK,21/10/2021,3.0,0.0, ,12.4,2.4,81,53,2.18,21.86
+FALLS CREEK,22/10/2021,3.5,0.2, ,14.5,6.2,98,61,4.12,26.29
+FALLS CREEK,23/10/2021,1.5,1.6, ,9.3,7.2,99,73,6.31,8.85
+FALLS CREEK,24/10/2021,3.0,5.8, ,9.1,-2.2,99,39,5.09,24.64
+FALLS CREEK,25/10/2021,2.1,0.4, ,6.0,-6.0,99,63,4.28,22.05
+FALLS CREEK,26/10/2021,3.1,0.2, ,11.9,-1.4,99,59,3.26,26.97
+FALLS CREEK,27/10/2021,4.2,0.2, ,14.2,3.6,91,32,4.96,27.14
+FALLS CREEK,28/10/2021,4.1,0.0, ,15.1,8.0,99,33,8.13,20.75
+FALLS CREEK,29/10/2021,1.0,4.8, ,2.3,1.6,99,74,9.94,6.96
+FALLS CREEK,30/10/2021,2.4,5.8, ,4.8,-5.8,88,53,5.64,24.63
+FALLS CREEK,31/10/2021,3.4,0.0, ,11.0,-2.6,87,44,2.83,27.83
+Totals:,,64.8,160.8, ,,,,,, 

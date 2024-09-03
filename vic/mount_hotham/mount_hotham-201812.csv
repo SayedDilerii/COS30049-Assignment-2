@@ -1,0 +1,28 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for December 2018,,,,,,,,,,
+Issued at 22:31 GMT on Tuesday 01 January 2019,,,,,,,,,,
+© Copyright Commonwealth of Australia 2018 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/12/2018,5.7,0.0, ,16.5,5.2,86,23,8.28,31.22
+MOUNT HOTHAM,02/12/2018, ,12.0, , , ,100,25,9.77,15.90
+MOUNT HOTHAM,20/12/2018, ,1.6, , , ,100,100,5.61,21.17
+MOUNT HOTHAM,21/12/2018, ,1.0, ,10.3, ,100,52,6.03,9.04
+MOUNT HOTHAM,22/12/2018,2.9,21.0, ,9.3,1.1,92,58,9.22,23.35
+MOUNT HOTHAM,23/12/2018,4.4,0.0, ,14.0,0.9,91,39,3.18,31.86
+MOUNT HOTHAM,24/12/2018,5.8,0.2, ,16.7,7.9,55,33,5.40,32.22
+MOUNT HOTHAM,25/12/2018,6.9,0.0, ,19.9,10.7,43,28,5.70,32.19
+MOUNT HOTHAM,26/12/2018,7.7,0.0, ,21.6,13.6,38,25,6.23,32.19
+MOUNT HOTHAM,27/12/2018,8.7,0.0, ,23.8,15.9,33,22,7.55,30.13
+MOUNT HOTHAM,28/12/2018,7.9,0.0, ,22.2,16.0,36,23,8.97,20.33
+MOUNT HOTHAM,29/12/2018,6.7,0.0, ,19.9,14.7,34,25,8.34,14.78
+MOUNT HOTHAM,30/12/2018,5.8,2.2, ,19.1,11.3,45,29,7.64,15.49
+MOUNT HOTHAM,31/12/2018,6.3,2.8, ,17.7,12.2,42,32,10.00,18.01
+Totals:,,68.8,40.8, ,,,,,, 

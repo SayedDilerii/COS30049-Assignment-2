@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT HOTHAM Victoria for July 2015,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 August 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT HOTHAM,01/07/2015, ,0.0, , , ,100,100,0.00,6.45
+MOUNT HOTHAM,02/07/2015, ,0.2, , , ,100,100,0.00,5.08
+MOUNT HOTHAM,03/07/2015, ,0.0, , , ,100,100,0.00,9.04
+MOUNT HOTHAM,04/07/2015, ,3.4, , , ,100,100,0.32,5.71
+MOUNT HOTHAM,05/07/2015, ,0.2, , , ,100,100,0.00,4.22
+MOUNT HOTHAM,06/07/2015, ,1.6, , , ,100,100,0.00,3.14
+MOUNT HOTHAM,07/07/2015, ,0.0, , , ,100,41,1.05,5.25
+MOUNT HOTHAM,08/07/2015, , , , , ,100,89,5.92,7.96
+MOUNT HOTHAM,09/07/2015, , , ,-0.2, ,98,80,10.22,6.75
+MOUNT HOTHAM,10/07/2015,0.5,0.0, ,-0.3,-2.9,99,81,10.79,3.37
+MOUNT HOTHAM,11/07/2015,0.3,0.0, ,-0.3,-1.9,99,97,5.72,2.19
+MOUNT HOTHAM,12/07/2015,0.4,0.0, ,-0.8,-5.8,98,93,0.20,3.78
+MOUNT HOTHAM,13/07/2015,0.4,0.0, ,-1.3,-6.1,98,97,0.07,6.45
+MOUNT HOTHAM,14/07/2015,0.4,0.0, ,-4.3,-5.7,97,94,0.00,5.47
+MOUNT HOTHAM,15/07/2015,0.4,0.0, ,-2.6,-5.9,97,95,0.00,3.68
+MOUNT HOTHAM,16/07/2015, ,0.0, , ,-4.3,97,96,0.02,5.12
+MOUNT HOTHAM,17/07/2015, , , ,-3.1, ,96,93,0.00,6.06
+MOUNT HOTHAM,18/07/2015,0.5,0.0, ,-2.5,-6.0,97,93,0.00,8.08
+MOUNT HOTHAM,19/07/2015,0.5,0.0, ,-2.5,-6.3,97,94,0.00,8.74
+MOUNT HOTHAM,20/07/2015,0.5,0.0, ,-1.8,-6.0,98,94,0.00,8.19
+MOUNT HOTHAM,21/07/2015,0.5,0.0, ,0.9,-3.8,99,96,1.03,6.20
+MOUNT HOTHAM,22/07/2015,0.2,33.6, ,0.0,-2.4,99,99,14.01,4.14
+MOUNT HOTHAM,23/07/2015,0.3,10.8, ,0.4,-1.5,99,98,6.41,6.90
+MOUNT HOTHAM,24/07/2015,0.2,1.6, ,0.0,-1.6,99,98,11.94,2.79
+MOUNT HOTHAM,25/07/2015,0.3,0.0, ,-1.5,-3.6,98,96,8.21,3.90
+MOUNT HOTHAM,26/07/2015,0.4,0.0, ,-2.6,-3.5,98,94,4.15,4.41
+MOUNT HOTHAM,27/07/2015,0.5,0.0, ,-2.3,-6.4,97,94,0.00,5.58
+MOUNT HOTHAM,28/07/2015,0.5,0.0, ,-0.9,-5.7,99,96,0.00,6.98
+MOUNT HOTHAM,29/07/2015,0.6,0.0, ,-0.6,-3.8,99,96,0.00,7.70
+MOUNT HOTHAM,30/07/2015,0.5,0.0, ,-2.1,-4.3,97,96,0.09,4.94
+MOUNT HOTHAM,31/07/2015,0.6,0.0, ,-0.1,-4.6,99,95,0.00,9.75
+Totals:,,8.5,51.4, ,,,,,, 

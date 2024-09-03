@@ -1,0 +1,29 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT MOORNAPA Victoria for July 2020,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 August 2020,,,,,,,,,,
+© Copyright Commonwealth of Australia 2020 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT MOORNAPA,01/07/2020, , , , ,7.5,80,48,3.87,9.34
+MOUNT MOORNAPA,02/07/2020, , , , , , , , ,8.51
+MOUNT MOORNAPA,19/07/2020, , , , , , , , ,10.36
+MOUNT MOORNAPA,20/07/2020, , , , , , , , ,8.24
+MOUNT MOORNAPA,21/07/2020, , , ,11.8, ,95,75,2.29,8.40
+MOUNT MOORNAPA,22/07/2020,0.8,0.0, ,10.7,4.6,99,74,1.66,8.69
+MOUNT MOORNAPA,23/07/2020,0.8,0.0, ,8.7,4.7,91,66,1.40,6.38
+MOUNT MOORNAPA,24/07/2020,0.7,0.0, ,8.7,1.6,95,74,1.17,10.35
+MOUNT MOORNAPA,25/07/2020,0.9,0.0, ,10.7,2.8,98,50,1.27,9.57
+MOUNT MOORNAPA,26/07/2020,0.7,0.6, ,11.4,6.2,100,91,0.89,6.90
+MOUNT MOORNAPA,27/07/2020,0.4,8.8, ,9.6,7.5,100,100,2.51,3.00
+MOUNT MOORNAPA,28/07/2020,0.5,32.6, ,10.3,8.1,100,100,2.64,4.63
+MOUNT MOORNAPA,29/07/2020,0.9,12.2, ,13.1,6.8,100,76,1.02,11.11
+MOUNT MOORNAPA,30/07/2020,1.0,0.2, ,11.2,6.6,94,68,1.60,9.97
+MOUNT MOORNAPA,31/07/2020,1.2,0.0, ,13.0,3.5,95,60,2.09,11.45
+Totals:,,7.9,54.4, ,,,,,, 

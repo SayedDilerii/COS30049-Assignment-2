@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CASTERTON Victoria for October 2012,,,,,,,,,,
+Issued at 22:38 GMT on Thursday 01 November 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CASTERTON,01/10/2012,2.5,1.4, ,16.8,5.2,98,60,3.18,16.82
+CASTERTON,02/10/2012,3.1,0.0, ,20.0,4.6,99,54,1.50,22.25
+CASTERTON,03/10/2012,4.1,0.0, ,23.8,3.5,100,38,2.99,22.60
+CASTERTON,04/10/2012,5.4,0.0, ,24.5,9.2,90,34,5.96,22.78
+CASTERTON,05/10/2012,2.8,0.0, ,16.9,5.1,99,55,2.84,19.50
+CASTERTON,06/10/2012,2.1,7.8, ,13.9,7.4,95,61,3.22,12.87
+CASTERTON,07/10/2012,2.0,1.0, ,14.8,3.1,97,65,2.78,12.85
+CASTERTON,08/10/2012,1.9,0.0, ,14.7,4.8,98,67,1.35,13.08
+CASTERTON,09/10/2012,1.8,1.2, ,15.8,1.0,99,68,2.54,11.43
+CASTERTON,10/10/2012,1.8,8.6, ,13.3,1.0,98,64,2.79,11.72
+CASTERTON,11/10/2012,2.4,13.0, ,13.3,0.4,98,66,5.26,20.43
+CASTERTON,12/10/2012,2.0,0.6, ,12.2,5.0,97,63,4.09,12.22
+CASTERTON,13/10/2012,2.7,1.4, ,16.6,8.1,98,60,3.30,17.45
+CASTERTON,14/10/2012,4.4,0.0, ,23.9,1.2,99,36,2.91,24.35
+CASTERTON,15/10/2012,5.0,0.0, ,22.1,8.4,93,32,5.59,22.21
+CASTERTON,16/10/2012,2.9,0.0, ,19.1,7.9,99,60,5.49,13.95
+CASTERTON,17/10/2012,3.5,0.8, ,17.8,4.4,92,49,3.31,23.38
+CASTERTON,18/10/2012,3.4,0.0, ,21.6,4.6,94,44,2.75,16.67
+CASTERTON,19/10/2012,5.1,0.0, ,23.7,10.8,86,43,3.89,27.21
+CASTERTON,20/10/2012,3.4,0.0, ,19.1,6.1,95,64,3.76,23.62
+CASTERTON,21/10/2012, ,0.0, ,16.2,4.9, , , ,23.37
+CASTERTON,22/10/2012,3.9,0.0, ,18.7,1.9,96,42,2.31,27.21
+CASTERTON,23/10/2012,5.8,0.0, ,22.6,8.5,70,25,5.76,22.48
+CASTERTON,24/10/2012,4.9,0.0, ,22.6,14.2,85,27,4.08,19.70
+CASTERTON,25/10/2012,2.8,0.0, ,14.4,11.3,95,63,5.32,18.08
+CASTERTON,26/10/2012,3.2,0.2, ,15.3,4.5,97,58,5.10,24.04
+CASTERTON,27/10/2012,3.2,2.2, ,16.9,5.0,94,54,2.55,22.13
+CASTERTON,28/10/2012,3.8,0.0, ,19.3,1.1,98,49,1.99,28.18
+CASTERTON,29/10/2012,5.6,0.0, ,27.2,4.9,93,25,2.74,28.16
+CASTERTON,30/10/2012,6.9,0.0, ,31.0,8.2,93,16,3.30,28.07
+CASTERTON,31/10/2012,4.1,0.0, ,22.7,12.0,98,29,3.58,15.88
+Totals:,,106.5,38.2, ,,,,,, 

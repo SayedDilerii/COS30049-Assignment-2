@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COMBIENBAR Victoria for July 2012,,,,,,,,,,
+Issued at 22:38 GMT on Wednesday 01 August 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COMBIENBAR,01/07/2012,0.6,0.0, ,11.3,3.9,92,50,0.58,7.97
+COMBIENBAR,02/07/2012,0.6,0.4, ,7.4,2.2,96,73,1.48,3.11
+COMBIENBAR,03/07/2012,0.6,3.4, ,7.7,4.2,97,79,2.16,3.50
+COMBIENBAR,04/07/2012,0.6,3.2, ,7.9,3.2,97,74,1.14,6.03
+COMBIENBAR,05/07/2012,0.5,1.0, ,6.6,2.9,97,84,0.28,4.20
+COMBIENBAR,06/07/2012,0.5,0.6, ,8.8,3.0,92,75,0.20,5.41
+COMBIENBAR,07/07/2012,0.6,0.0, ,14.1,3.5,94,53,0.23,8.39
+COMBIENBAR,08/07/2012,0.7,0.0, ,12.9,4.4,92,53,0.53,8.38
+COMBIENBAR,09/07/2012,0.7,0.0, ,15.2,4.5,86,39,0.40,7.88
+COMBIENBAR,10/07/2012,1.2,0.0, ,15.8,6.9,88,53,2.04,4.42
+COMBIENBAR,11/07/2012,1.1,0.4, ,14.4,7.1,81,48,1.60,8.53
+COMBIENBAR,12/07/2012,0.9,0.0, ,13.2,6.2,84,59,1.20,4.93
+COMBIENBAR,13/07/2012,0.7,1.2, ,15.9,8.2,98,61,0.59,4.03
+COMBIENBAR,14/07/2012,1.0,0.8, ,14.0,7.0,85,50,1.08,7.90
+COMBIENBAR,15/07/2012,0.9,0.4, ,12.0,4.3,91,52,1.24,8.07
+COMBIENBAR,16/07/2012,1.0,0.0, ,13.9,4.8,77,57,1.14,9.00
+COMBIENBAR,17/07/2012,1.0,0.0, ,15.1,5.3,78,47,1.09,9.01
+COMBIENBAR,18/07/2012,0.8,0.0, ,12.4,6.6,95,45,0.81,3.94
+COMBIENBAR,19/07/2012,0.6,1.2, ,9.6,2.3,85,61,0.35,9.33
+COMBIENBAR,20/07/2012,0.7,0.0, ,11.6,4.3,98,65,0.63,5.96
+COMBIENBAR,21/07/2012,0.7,0.6, ,10.1,5.4,98,68,0.45,6.64
+COMBIENBAR,22/07/2012,0.6,0.0, ,9.8,5.6,94,79,0.10,5.82
+COMBIENBAR,23/07/2012,0.7,0.0, ,12.5,5.1,87,62,0.06,9.65
+COMBIENBAR,24/07/2012,0.8,0.0, ,14.4,5.0,92,57,0.20,9.50
+COMBIENBAR,25/07/2012,0.9,0.0, ,14.7,5.2,87,49,0.54,8.75
+COMBIENBAR,26/07/2012,1.1,0.0, ,15.1,5.7,83,47,0.97,9.29
+COMBIENBAR,27/07/2012,0.8,0.0, ,10.9,5.8,92,56,0.31,9.91
+COMBIENBAR,28/07/2012,0.8,1.0, ,8.9,5.3,97,73,1.90,4.20
+COMBIENBAR,29/07/2012,0.7,6.6, ,7.2,3.0,97,75,1.66,6.55
+COMBIENBAR,30/07/2012,0.6,2.4, ,6.7,2.9,97,81,2.05,4.08
+COMBIENBAR,31/07/2012,0.5,12.8, ,5.3,2.9,98,93,1.01,3.89
+Totals:,,23.5,36, ,,,,,, 

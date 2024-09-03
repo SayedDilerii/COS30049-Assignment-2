@@ -1,0 +1,45 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for REDESDALE Victoria for July 2016,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 August 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+REDESDALE,01/07/2016,0.9,10.4, ,11.6,3.7,98,61,2.17,7.00
+REDESDALE,02/07/2016,0.7,0.4, ,13.1,7.5,99,65,1.19,6.06
+REDESDALE,03/07/2016,0.7,0.2, ,12.2,8.2,99,82,2.49,5.92
+REDESDALE,04/07/2016,0.7,1.0, ,9.5,7.4,95,82,2.84,4.39
+REDESDALE,05/07/2016,0.9,1.2, ,11.7,6.7,97,75,4.07,6.76
+REDESDALE,06/07/2016,1.0,1.4, ,12.3,7.7,92,81,6.46,5.92
+REDESDALE,07/07/2016,0.7,4.6, ,11.2,9.1,99,84,4.10,3.57
+REDESDALE,08/07/2016,0.8,8.6, ,14.4,6.0,99,66,1.25,7.82
+REDESDALE,09/07/2016,0.9,0.2, ,14.2,1.4,99,53,1.45,10.11
+REDESDALE,10/07/2016,0.4,0.0, ,10.6,5.8,99,96,3.92,2.51
+REDESDALE,11/07/2016,1.3,14.6, ,12.3,8.2,99,66,6.72,6.35
+REDESDALE,12/07/2016,1.6,0.4, ,10.1,7.8,87,62,7.47,6.94
+REDESDALE,13/07/2016,1.1,1.8, ,9.6,2.9,89,64,3.49,6.91
+REDESDALE,14/07/2016,0.7,0.2, ,9.8,0.0,99,73,1.81,7.13
+REDESDALE,15/07/2016,0.7,0.0, ,11.3,4.0,99,70,0.81,8.78
+REDESDALE,16/07/2016,0.9,0.2, ,13.1,0.7,99,63,1.56,10.51
+REDESDALE,17/07/2016,0.9,0.2, ,13.0,-0.3,99,67,1.98,10.40
+REDESDALE,18/07/2016,0.5,0.0, ,12.1,4.3,100,98,1.50,4.11
+REDESDALE,19/07/2016,0.6,0.8, ,13.2,8.1,100,93,0.68,4.52
+REDESDALE,20/07/2016,1.1,0.0, ,15.2,8.0,99,67,2.20,9.63
+REDESDALE,21/07/2016,0.9,0.2, ,15.5,5.6,100,79,2.30,8.33
+REDESDALE,22/07/2016,1.2,7.0, ,14.1,9.8,100,72,5.69,4.83
+REDESDALE,23/07/2016,1.4,8.4, ,9.8,5.4,93,54,4.06,9.36
+REDESDALE,24/07/2016,0.8,0.0, ,9.8,-1.1,99,73,2.36,6.51
+REDESDALE,25/07/2016,1.2,3.8, ,11.7,2.0,99,66,4.38,7.33
+REDESDALE,26/07/2016,1.0,4.4, ,8.7,2.3,95,70,3.65,7.59
+REDESDALE,27/07/2016,1.1,2.2, ,11.4,4.3,99,63,2.57,8.41
+REDESDALE,28/07/2016,0.9,0.0, ,11.6,1.9,99,71,1.84,8.14
+REDESDALE,29/07/2016,0.7,0.0, ,11.3,6.3,99,90,2.76,6.00
+REDESDALE,30/07/2016,0.7,0.8, ,10.6,6.7,100,87,3.01,4.71
+REDESDALE,31/07/2016,1.2,3.8, ,14.4,8.5,100,68,2.15,11.36
+Totals:,,28.2,76.8, ,,,,,, 
