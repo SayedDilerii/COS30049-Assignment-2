@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Define the path to your data
 basePath = 'vic'
-location = "aireys_inlet" # Edit to for specific locations
+location = "aireys_inlet" # Edit to for specific locations or remove for all data
 
 # Process the data using the function from data-transformation.py
 combinedDataFile = ProcessData(basePath, location)
