@@ -39,6 +39,10 @@ def CleanWeatherData(filePath):
     # Convert 'Rain (mm)' to numeric
     dataFile['Rain (mm)'] = pd.to_numeric(dataFile['Rain (mm)'], errors='coerce')
 
+    # Convert temperature columns to numeric and handle non-numeric values
+    dataFile['Max.Temp (°C)'] = pd.to_numeric(dataFile['Max.Temp (°C)'], errors='coerce')
+    dataFile['Min.Temp (°C)'] = pd.to_numeric(dataFile['Min.Temp (°C)'], errors='coerce')
+
     # DEBUGGING
 
     # print(dataFile) 
@@ -102,12 +106,7 @@ def CleanBushfireData(filePath):
     ]
 
     # DATA PROCESSING
-
-    # TODO: Remove irrelevant fires (unknown, prescribed, controlled etc..)
-    #       Remove other states 
-    #       Remove unnecessary data (Fire ID, Capture Method, Shape Area, Shapre Length etc...)
-    #       Re-format after cleaning 
-
+    
     # Convert date columns to datetime
     date_columns = ["Ignition Date", "Capture Date", "Extinguish Date"]
     for column in date_columns:
@@ -119,6 +118,10 @@ def CleanBushfireData(filePath):
     # Remove rows with unrealistic or empty values
     dataFile = dataFile[dataFile["Area (ha)"] > 0]
     dataFile = dataFile[dataFile["State"].notna()]
+
+    # Drop unnecessary columns
+    columns_to_drop = ["Fire ID", "Capture Method", "Shape Area", "Shape Length"]
+    dataFile = dataFile.drop(columns=columns_to_drop, errors='ignore')
 
     # Reset index after cleaning
     dataFile.reset_index(drop=True, inplace=True)

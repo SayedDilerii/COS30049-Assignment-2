@@ -1,10 +1,11 @@
 from data_transformation import ProcessWeatherData
 from data_transformation import ProcessBushfireData
 import matplotlib.pyplot as plt
+import pandas as pd
 
 # Define the path to your data
 basePathWeather = 'vic'
-locationWeather = "aireys_inlet" # Edit to for specific locations or remove for all data
+locationWeather = "aireys_inlet"  # Edit for specific locations or remove for all data
 
 basePathBushfire = 'bushfires_australia'
 
@@ -12,33 +13,47 @@ basePathBushfire = 'bushfires_australia'
 weatherDataFrame = ProcessWeatherData(basePathWeather, locationWeather)
 bushfireDataFrame = ProcessBushfireData(basePathBushfire)
 
+# Filter data for Victoria
+bushfireDataFile = bushfireDataFrame[bushfireDataFrame["State"].str.contains('VIC (Victoria)', na=False, regex=False)]
 
-# Ensure data is sorted by Date for consistent plotting
+# Ensure only bushfires are included
+bushfireDataFile = bushfireDataFile[bushfireDataFile['Fire Type'] == 'Bushfire']
+
+# Ensure data is sorted by Date for merging
 weatherDataFrame = weatherDataFrame.sort_values(by='Date')
-bushfireDataFrame = bushfireDataFrame.sort_values(by='Ignition Date')
+bushfireDataFile = bushfireDataFile.sort_values(by='Ignition Date')
 
-# Check dataframe
-print(bushfireDataFrame.head())
-print(weatherDataFrame.head())
+# Normalize date formats
+weatherDataFrame['Date'] = pd.to_datetime(weatherDataFrame['Date']).dt.date
+bushfireDataFile['Ignition Date'] = pd.to_datetime(bushfireDataFile['Ignition Date']).dt.date
 
-# # Set up the plot
-# plt.figure(figsize=(12, 8))
+# Merge datasets on date
+mergedData = pd.merge(weatherDataFrame, bushfireDataFile, left_on='Date', right_on='Ignition Date', how='inner')
 
-# # Create a bar graph
-# plt.bar(weatherDataFrame['Date'], weatherDataFrame['Rain (mm)'], color='blue', width=10)
+# Check if mergedData is not empty
+if mergedData.empty:
+    print("No overlapping dates found between weather and bushfire data.")
+else:
+    # Create temperature bins of 5 degrees
+    temperature_bins = pd.interval_range(start=0, end=50, freq=5)
+    mergedData['Temperature Bin'] = pd.cut(mergedData['Max.Temp (°C)'], bins=temperature_bins)
 
-# # Label the axes
-# plt.xlabel('Date')
-# plt.ylabel('Rain (mm)')
-# plt.title('Rainfall Over Time')
+    # Aggregate bushfire occurrences by temperature bin
+    aggregated_data = mergedData.groupby('Temperature Bin').size().reset_index(name='Number of Bushfires')
 
-# # Rotate x-axis labels for better readability
-# plt.xticks(rotation=45)
+    # Plot data
+    plt.figure(figsize=(14, 7))
 
-# # Add grid for better readability
-# plt.grid(True, linestyle='--', alpha=0.7)
+    plt.bar(
+        aggregated_data['Temperature Bin'].astype(str),
+        aggregated_data['Number of Bushfires'],
+        color='red',
+        alpha=0.7
+    )
+    plt.xlabel('Temperature Bin (°C)')
+    plt.ylabel('Number of Bushfires')
+    plt.title('Number of Bushfires by Temperature Range in Victoria')
+    plt.xticks(rotation=45)
+    plt.grid(True)
 
-# # Automatically adjust subplot parameters to fit the plot
-# plt.tight_layout()
-
-# plt.show()
+    plt.show()
