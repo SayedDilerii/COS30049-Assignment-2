@@ -1,35 +1,44 @@
-from data_transformation import ProcessData
-import pandas as pd
+from data_transformation import ProcessWeatherData
+from data_transformation import ProcessBushfireData
 import matplotlib.pyplot as plt
 
 # Define the path to your data
-basePath = 'vic'
-location = "aireys_inlet" # Edit to for specific locations or remove for all data
+basePathWeather = 'vic'
+locationWeather = "aireys_inlet" # Edit to for specific locations or remove for all data
+
+basePathBushfire = 'bushfires_australia'
 
 # Process the data using the function from data-transformation.py
-combinedDataFile = ProcessData(basePath, location)
+weatherDataFrame = ProcessWeatherData(basePathWeather, locationWeather)
+bushfireDataFrame = ProcessBushfireData(basePathBushfire)
+
 
 # Ensure data is sorted by Date for consistent plotting
-combinedDataFile = combinedDataFile.sort_values(by='Date')
+weatherDataFrame = weatherDataFrame.sort_values(by='Date')
+bushfireDataFrame = bushfireDataFrame.sort_values(by='Ignition Date')
 
-# Set up the plot
-plt.figure(figsize=(12, 8))
+# Check dataframe
+print(bushfireDataFrame.head())
+print(weatherDataFrame.head())
 
-# Create a bar graph
-plt.bar(combinedDataFile['Date'], combinedDataFile['Rain (mm)'], color='blue', width=10)
+# # Set up the plot
+# plt.figure(figsize=(12, 8))
 
-# Label the axes
-plt.xlabel('Date')
-plt.ylabel('Rain (mm)')
-plt.title('Rainfall Over Time')
+# # Create a bar graph
+# plt.bar(weatherDataFrame['Date'], weatherDataFrame['Rain (mm)'], color='blue', width=10)
 
-# Rotate x-axis labels for better readability
-plt.xticks(rotation=45)
+# # Label the axes
+# plt.xlabel('Date')
+# plt.ylabel('Rain (mm)')
+# plt.title('Rainfall Over Time')
 
-# Add grid for better readability
-plt.grid(True, linestyle='--', alpha=0.7)
+# # Rotate x-axis labels for better readability
+# plt.xticks(rotation=45)
 
-# Automatically adjust subplot parameters to fit the plot
-plt.tight_layout()
+# # Add grid for better readability
+# plt.grid(True, linestyle='--', alpha=0.7)
 
-plt.show()
+# # Automatically adjust subplot parameters to fit the plot
+# plt.tight_layout()
+
+# plt.show()
