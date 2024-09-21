@@ -1,4 +1,4 @@
-#!/Users/sayeddileri/Desktop/COS30049-Assignment-2/.venv/bin/python3.12
+#!/Users/sayeddileri/Desktop/COS30049-Assignment-2/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
