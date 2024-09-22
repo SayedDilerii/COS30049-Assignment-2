@@ -26,7 +26,7 @@ def read_weather_folder(weather_folder, station_data_file, output_folder):
 
             with open(output_file, 'w', newline='', encoding='utf-8') as outfile:
                 writer = csv.writer(outfile)
-                writer.writerow(['STATION', 'STATION_NAME', 'ELEVATION', 'LATITUDE', 'LONGITUDE', 'DATE', 'TMAX', 'TMIN', 'PRCP'])
+                writer.writerow(['STATION', 'STATION_NAME', 'ELEVATION', 'LATITUDE', 'LONGITUDE', 'DATE', 'TMAX', 'TMIN'])
 
                 # Match station names using the station data file
                 match_station_name(input_file, station_data_file, writer)
