@@ -1,0 +1,5 @@
+Nearest Weather Station Approach:
+
+For each bushfire location, find the nearest weather station.
+Use the Haversine formula or a library like GeoPy to calculate distances between points.
+Set a maximum distance threshold to avoid using weather data that's too far from the fire location.
