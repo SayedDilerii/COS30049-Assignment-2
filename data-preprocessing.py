@@ -2,9 +2,9 @@ import csv
 import os
 import time
 
-# Processes weather data by reading yearly CSV files from the weather_data_cleaning folder and matching each record with corresponding station information from stations.csv. 
-# It creates an output folder, final_weather_data, if it doesn't exist. 
-# For each weather record, it retrieves relevant station details, such as the station ID, name, and location, then writes the combined data to new CSV files in the output folder. 
+# Processes weather data by reading yearly CSV files from the weather_data_cleaning folder and matching each record with corresponding station information from stations.csv.
+# It creates an output folder, final_weather_data, if it doesn't exist.
+# For each weather record, it retrieves relevant station details, such as the station ID, name, and location, then writes the combined data to new CSV files in the output folder.
 # This results in a dataset linking weather information to specific stations.
 # Only stations with ID starting with "US" are processed.
 
@@ -27,11 +27,11 @@ def read_weather_folder(weather_folder, station_data_file, output_folder):
 
             with open(output_file, 'w', newline='', encoding='utf-8') as outfile:
                 writer = csv.writer(outfile)
-                writer.writerow(['ELEVATION', 'LATITUDE', 'LONGITUDE', 'DATE', 'TMAX', 'TMIN', 'STATE'])
+                writer.writerow(['STATION', 'STATION_NAME', 'ELEVATION', 'LATITUDE', 'LONGITUDE', 'DATE', 'TMAX', 'TMIN'])
 
                 # Match station names using the station data file
                 match_station_name(input_file, station_data_file, writer)
-        
+
 
 def match_station_name(weather_data_file, station_data_file, writer):
     with open(station_data_file) as station_data:
@@ -39,12 +39,12 @@ def match_station_name(weather_data_file, station_data_file, writer):
 
     with open(weather_data_file) as weather_data:
         weather_lines = list(csv.reader(weather_data))
-        
+
         for weather_row in weather_lines[1:]:
             weather_station_id = weather_row[0]
             date = weather_row[2]  # Original format: yyyymmdd
-            tmax = weather_row[3] 
-            tmin = weather_row[4] 
+            tmax = weather_row[3]
+            tmin = weather_row[4]
 
             # Convert date from yyyymmdd to yyyy-mm-dd
             formatted_date = f"{date[:4]}-{date[4:6]}-{date[6:]}"
