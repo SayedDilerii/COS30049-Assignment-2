@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # dumb large files
-.csv
-.zip
+*.csv
+*.zip
