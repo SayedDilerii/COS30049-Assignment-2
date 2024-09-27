@@ -35,7 +35,7 @@ def process_file(input_file, output_file):
     
     with open(output_file, 'w', newline='', encoding='utf-8') as outfile:
         writer = csv.writer(outfile)
-        writer.writerow(['Station ID', 'Year', 'Date', 'TMAX (°C)', 'TMIN (°C)'])
+        writer.writerow(['station_id', 'year', 'date', 't_min', 't_min'])
         
         chunksize = 10**6
         chunks = pd.read_csv(input_file, chunksize=chunksize, usecols=[0, 1, 2, 3])
