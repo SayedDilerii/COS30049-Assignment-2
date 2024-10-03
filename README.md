@@ -20,16 +20,18 @@
 -->
 
 <div align="center">
-<h3 align="center">COS30049 - Assignment 2</h3>
+<h1 align="center">COS30049 - Assignment 2</h1>
 
   <p align="center">
     This assignment aims to guide students through the development of a complete machine learning project, focusing on real-world applications that involve both regression and classification tasks. The assignment challenges students to apply their technical skills to practical scenarios.
   </p>
 </div>
 
+<hr/>
+
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+### About The Project
 
 Climate change has a lot of risks, the unpredictable change of the climate in a region often causes delayed mitigation and significant losses as the residents of the impacted areas are unprepared towards the sudden changes that’s happening. One of the most unpredictable damage due to climate change is the increasing occurrence of bushfires. Using the past weather data set and bushfire data set that’s based in the United States, we develop a web application that could predict the weather and potential bushfire. This project uses machine learning techniques to ensure the accuracy of the prediction. This report talks about the process of collecting and transforming the relevant data, choosing the machine learning model, and implementing the predictive model.
 
