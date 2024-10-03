@@ -1,52 +1,105 @@
-**The final form of our dataset will contain the following attributes:**
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-- Date and Time:
+<a id="readme-top"></a>
 
-discovery_date: Date of fire discovery (YYYY-MM-DD)
-discovery_time: Time of fire discovery (HH:MM)
-month: Extracted from discovery date (1-12)
-day_of_year: Extracted from discovery date (1-365/366)
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-- Location:
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-latitude: Latitude of the fire
-longitude: Longitude of the fire
-state: State abbreviation (e.g., CA, TX)
-elevation: From weather data
 
-- Fire Characteristics:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-fire_size: Size of the fire
-fire_class: Classification of fire size (A, B, C, etc.)
-general_cause: Cause of the fire
-origin: Origin of the fire (e.g., Natural, Accidental)
+<h3 align="center">COS30049 - Assignment 2</h3>
 
-- Weather Conditions:
+  <p align="center">
+    This assignment aims to guide students through the development of a complete machine learning project, focusing on real-world applications that involve both regression and classification tasks. The assignment challenges students to apply their technical skills to practical scenarios.
+  </p>
+</div>
 
-t_max: Maximum temperature on the day of discovery
-t_min: Minimum temperature on the day of discovery
-temp_range: Calculated as t_max - t_min
+<!-- ABOUT THE PROJECT -->
 
-- Derived Weather Features:
+## About The Project
 
-t_max_prev_7day_avg: Average maximum temperature for the 7 days prior to the fire
-t_min_prev_7day_avg: Average minimum temperature for the 7 days prior to the fire
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-- Categorical Features:
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-temp_category: Categorized temperature (e.g., Cool, Mild, Hot, Extreme)
-fire_size_category: Categorized fire size (e.g., Small, Medium, Large, Extreme)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Time-based Features:
+### Built with using
 
-is_weekend: Boolean indicating if the discovery date was a weekend
-season: Season of the year (Spring, Summer, Fall, Winter)
+- Python
+- Pandas
+- Numpy
+- Scikit-Learn
+- Seaborn
+- Matplotlib
 
-- State-level Aggregations:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-state_avg_temp: Average temperature for the state
-state_fire_frequency: Number of fires in the state up to that point in the year
+<!-- GETTING STARTED -->
 
-- Unique Identifier:
+## Getting Started
 
-fire_id: A unique identifier for each fire event (can be object_id from your original data)
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Usage example
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = "ENTER YOUR API";
+   ```
+5. Change git remote url to avoid accidental pushes to base project
+   ```sh
+   git remote set-url origin github_username/repo_name
+   git remote -v # confirm the changes
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Anthony Tang - [@x](https://x.com/x) - john@doe.com
+Sayed Dileri - [@x](https://x.com/x) - john@doe.com
+Gloria Halim - [@x](https://x.com/x) - john@doe.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
