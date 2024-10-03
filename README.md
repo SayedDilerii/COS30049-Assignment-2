@@ -31,9 +31,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Climate change has a lot of risks, the unpredictable change of the climate in a region often causes delayed mitigation and significant losses as the residents of the impacted areas are unprepared towards the sudden changes that’s happening. One of the most unpredictable damage due to climate change is the increasing occurrence of bushfires. Using the past weather data set and bushfire data set that’s based in the United States, we develop a web application that could predict the weather and potential bushfire. This project uses machine learning techniques to ensure the accuracy of the prediction. This report talks about the process of collecting and transforming the relevant data, choosing the machine learning model, and implementing the predictive model.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,8 +89,8 @@ This is an example of how to list things you need to use the software and how to
 
 ## Contact
 
-Anthony Tang - [@x](https://x.com/x) - john@doe.com
-Sayed Dileri - [@x](https://x.com/x) - john@doe.com
-Gloria Halim - [@x](https://x.com/x) - john@doe.com
+- Anthony Tang - [@x](https://x.com/x) - john@doe.com
+- Sayed Dileri - [@x](https://x.com/x) - john@doe.com
+- Gloria Halim - [@x](https://x.com/x) - john@doe.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
