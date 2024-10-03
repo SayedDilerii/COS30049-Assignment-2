@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Define the paths for your bushfire data file and the folder containing weather data
-bushfire_data_file = r''
-weather_data_folder = r''
+bushfire_data_file = r'./datasets/cleaned-bushfire.csv'
+weather_data_folder = r'' # This requires the weather dataset which we aren't able to provide due to it's large size and time it takes to clean.
 
 # Load the bushfire data
 bushfire_data = pd.read_csv(bushfire_data_file)

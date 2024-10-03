@@ -10,7 +10,7 @@ import pandas as pd
 # output file is named after the input file with a "_processed" suffix.
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-input_folder = ''  # Absolute path
+input_folder = ''  # This requires the weather dataset which we aren't able to provide due to it's large size and time it takes to clean.
 
 def process_chunk(chunk, writer):
     station_data = {}
