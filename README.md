@@ -69,12 +69,12 @@ This is an example of how to list things you need to use the software and how to
    select .venv
    ```
 
-- download our dataset:
+- unzip datasets:
    ```
-   https://syd1.digitaloceanspaces.com/duckgoesmeow/final_merged_data/merged_data.csv
+   upzip datasets.zip
    ```
 
-- include the downloaded file path:
+- for the machine learning model, include the unzipped file path (most likely it's already done for you):
    ```
    data = pd.read_csv('INSERT DOWNLOAD DATASET PATH HERE', usecols=['state', 'discovery_month', 'discovery_doy', 't_min', 't_max', 'elevation', 'fire_size'])
    ```
