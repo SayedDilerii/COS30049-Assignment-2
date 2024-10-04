@@ -69,12 +69,7 @@ This is an example of how to list things you need to use the software and how to
    select .venv
    ```
 
-- unzip datasets:
-   ```
-   upzip datasets.zip
-   ```
-
-- for the machine learning model, include the unzipped file path (most likely it's already done for you):
+- for the machine learning model, include the file path of merged_data.csv:
    ```
    data = pd.read_csv('INSERT DOWNLOAD DATASET PATH HERE', usecols=['state', 'discovery_month', 'discovery_doy', 't_min', 't_max', 'elevation', 'fire_size'])
    ```
@@ -96,8 +91,8 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- WARNING -->
 ### WARNING
-We have only provided datasets for visualisation and running the machine learning model only. Due the large size of the weather datasets and the time it takes to the clean and process them, we cannot include them in our project as it required large amount of storage space as well as sufficient computing power. It took our most powerful machine (M3 Pro Cip)
-about 21 minutes to process the weather data. We have provided sources in our report. 
+We have only provided datasets for running machine learning model only. Due the large size of the orignal datasets and the time it takes to the clean and process them, we cannot include them in our project as it required large amount of storage space as well as sufficient computing power. It took our most powerful machine (M3 Pro Cip)
+about 21 minutes to process the weather data. We have provided sources in our report. We are using Github for source control and storage of code. We only have a max limit of 100mb.
 
 
 <!-- CONTACT -->
