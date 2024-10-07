@@ -1,0 +1,1 @@
+- Write a DIY migration script to safely update the database when the app is starting up.
