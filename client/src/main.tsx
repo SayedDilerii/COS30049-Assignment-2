@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
-import OnBoarding from "./pages/onboarding/Onboarding.tsx"
+import OnBoarding from "./pages/onboarding/Onboarding.tsx";
 
 const router = createBrowserRouter([
   {
