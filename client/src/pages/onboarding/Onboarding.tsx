@@ -3,6 +3,7 @@ import Container from "../../components/ui/container";
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
 
+// TODO: Add icons for each slide + make it response as per Figma design.
 const OnBoarding: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState<number>(0);
   const navigate = useNavigate();
