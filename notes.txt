@@ -1,0 +1,27 @@
+I've created a dedicated branch for each of us to work on the next assignment. 
+
+Branch name: `web-app-[YOUR NAME]`
+
+You should pull and fetch to receive the latest changes.
+
+To start the react app and have it running:
+- open terminal
+- change directory into 'client' folder: `cd client` 
+- run this command: `npm run dev` 
+- you'll immediately see a localhost link: `ctrl + click` the link
+
+To debug react apps: 
+- Using the same terminal you used to start the react app, all of the debug outputs will be present there.
+- Optionally, you can just open the browser devtools and head over to console tab to view all debug outputs.
+- If you use chrome, you can optionally download the the extension `react devtools` which is a super helpful tool for debugging. 
+
+
+Just some things to remember:
+- When pushing code from the client folder, the `.gitignore` file will not push `node_modules` since it's a special folder which houses all of our dependencies.
+- We're using a few different frontend libraries to make life easier (Shadcn ui, React-Hook-Form, Zod, TanStack Query, Tailwind CSS, etc...)
+- Sometimes, you might face some unexpected bugs where you can't start the react app (may happen if you switch branches), check to see if you have `node_modules` installed and if you have, you can remove it and then re-run `npm install`.
+- 
+
+Once our client side has achieved significant progress, we'll kick off the backend development since it's least of priorities in the early stages. 
+
+
