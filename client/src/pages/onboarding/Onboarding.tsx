@@ -22,21 +22,18 @@ const OnBoarding: React.FC = () => {
 
   const steps = [
     {
-      index: 0,
       icon: <FaviconPlaceholder isIcon={false} children={"./../../../public/image 2.png"} />,
       heading: <p>Welcome to FireGuard</p>,
       caption: <p>Protect your home, community, and loved ones. Stay informed and prepared with real-time bushfire risk alerts.</p>,
       isLastSlide: false,
     },
     {
-      index: 1,
       icon: <FaviconPlaceholder isIcon icon={MapPin} />,
       heading: <p>USA wide</p>,
       caption: <p>FireGuard monitors bushfire risks in your area using precise location data, ensuring you receive the most relevant updates.</p>,
       isLastSlide: false,
     },
     {
-      index: 2,
       icon: <FaviconPlaceholder isIcon icon={Bell} />,
       heading: <p>Be aware of risks</p>,
       caption: (
@@ -48,7 +45,6 @@ const OnBoarding: React.FC = () => {
       isLastSlide: false,
     },
     {
-      index: 3,
       icon: <FaviconPlaceholder isIcon icon={Star} />,
       heading: <p>Personalized Experience</p>,
       caption: (
@@ -57,7 +53,6 @@ const OnBoarding: React.FC = () => {
       isLastSlide: false,
     },
     {
-      index: 4,
       icon: <FaviconPlaceholder isIcon icon={Check} />,
       heading: <p>You’re all set</p>,
       caption: <p>Stay safe, stay informed, and check back regularly for updates.</p>,
@@ -72,9 +67,7 @@ const OnBoarding: React.FC = () => {
           .filter((_, index) => index === currentSlide)
           .map((value) => (
             <>
-              <section className="w-[30%] flex justify-center">
-                {value.icon}
-              </section>
+              <section className="w-[30%] flex justify-center">{value.icon}</section>
               <section className="w-[30%]">
                 <h1 className="font-bold text-[#218556] text-[3em] tracking-[-0.025em]">{value.heading}</h1>
                 <p className="font-medium text-[#2d9966] text-xl">{value.caption}</p>
