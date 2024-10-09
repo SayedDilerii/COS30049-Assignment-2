@@ -22,7 +22,7 @@ const OnBoarding: React.FC = () => {
 
   const steps = [
     {
-      icon: <FaviconPlaceholder isIcon={false} children={"./../../../public/image 2.png"} />,
+      icon: <FaviconPlaceholder isIcon={false} children={"./../../../image 2.png"} />,
       heading: <p>Welcome to FireGuard</p>,
       caption: <p>Protect your home, community, and loved ones. Stay informed and prepared with real-time bushfire risk alerts.</p>,
       isLastSlide: false,
