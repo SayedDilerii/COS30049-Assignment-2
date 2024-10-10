@@ -20,61 +20,61 @@ const Navbar: React.FC = () => {
       urgency: "HIGH",
       location: "California",
       datetime: "2024-04-03",
-      color: "rose-500",
+      color: "text-rose-500",
     },
     {
       urgency: "MODERATE",
       location: "California",
       datetime: "2024-04-03",
-      color: "orange-500",
+      color: "text-orange-500",
     },
     {
       urgency: "VERY HIGH",
       location: "Arizona",
       datetime: "2024-04-03",
-      color: "rose-500",
+      color: "text-rose-500",
     },
     {
       urgency: "LOW",
       location: "Texax",
       datetime: "2024-04-03",
-      color: "green-500",
+      color: "text-green-500",
     },
     {
       urgency: "LOW",
       location: "Washington",
       datetime: "2024-04-03",
-      color: "green-500",
+      color: "text-green-500",
     },
     {
       urgency: "HIGH",
       location: "California",
       datetime: "2024-04-03",
-      color: "rose-500",
+      color: "text-rose-500",
     },
     {
       urgency: "MODERATE",
       location: "California",
       datetime: "2024-04-03",
-      color: "orange-500",
+      color: "text-orange-500",
     },
     {
       urgency: "VERY HIGH",
       location: "Arizona",
       datetime: "2024-04-03",
-      color: "rose-500",
+      color: "text-rose-500",
     },
     {
       urgency: "LOW",
       location: "Texax",
       datetime: "2024-04-03",
-      color: "green-500",
+      color: "text-green-500",
     },
     {
       urgency: "LOW",
       location: "Washington",
       datetime: "2024-04-03",
-      color: "green-500",
+      color: "text-green-500",
     },
   ];
 
@@ -121,7 +121,7 @@ const Navbar: React.FC = () => {
                 </tr>
                 {notifications.map((item) => (
                   <tr className="w-full">
-                    <td className={`font-medium w-[150px] py-2 text-${item.color} tracking-tight`}>{item.urgency}</td>
+                    <td className={`font-medium w-[150px] py-2 ${item.color} tracking-tight`}>{item.urgency}</td>
                     <td className="font-normal w-[150px] py-2">{item.location}</td>
                     <td className="font-normal py-2">{item.datetime}</td>
                   </tr>
