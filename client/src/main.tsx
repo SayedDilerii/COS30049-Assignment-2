@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
 import OnBoarding from "./pages/onboarding/Onboarding.tsx";
+import HelpPage from "./pages/onboarding/help-center/HelpPage.tsx";
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: "data-policy",
         element: <div>data policy</div>,
+      },
+      {
+        path: "help-page",
+        element: <HelpPage />,
       },
     ],
   },
