@@ -6,7 +6,7 @@ import FaviconPlaceholder from "@/components/onboarding/FaviconPlaceholder";
 import { Bell, Check, MapPin, Star } from "lucide-react";
 
 // TODO: make it response as per Figma design.
-const OnBoarding: React.FC = () => {
+const OnBoardingPage: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState<number>(0);
   const navigate = useNavigate();
 
@@ -99,4 +99,4 @@ const OnBoarding: React.FC = () => {
   );
 };
 
-export default OnBoarding;
+export default OnBoardingPage;
