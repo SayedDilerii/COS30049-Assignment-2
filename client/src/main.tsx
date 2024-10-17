@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
 import OnBoarding from "./pages/onboarding/Onboarding.tsx";
+import SettingsPage from "./pages/settings/SettingsPage.tsx";
 
 const router = createBrowserRouter([
   {
@@ -20,7 +21,7 @@ const router = createBrowserRouter([
       },
       {
         path: "settings",
-        element: <div>settings</div>,
+        element: <SettingsPage />,
       },
       {
         path: "feedback",
