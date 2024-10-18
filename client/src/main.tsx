@@ -4,8 +4,8 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
-import HelpPage from "./pages/onboarding/help-center/HelpPage.tsx";
 import Dashboard from "./pages/dashboard/Dashboard.tsx";
+import HelpPage from "./pages/help-center/HelpPage.tsx";
 
 const router = createBrowserRouter([
   {
