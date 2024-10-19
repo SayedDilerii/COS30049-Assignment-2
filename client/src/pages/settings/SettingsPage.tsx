@@ -1,25 +1,63 @@
-import { Button } from "@/components/ui/button";
+import PropertySelector from "@/components/settings/SettingsPropertySelector";
+import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
+import { useState } from "react";
 
 const SettingsPage: React.FC = () => {
-  const buttonStyles: string =
-    "flex-auto hover:bg-emerald-100 font-normal hover:text-emerald-700 hover:font-semibold rounded-md";
+  const [option, setOptions] = useState("general");
+  const setOptionsCallback = (optionValue: string) => {
+    setOptions(optionValue);
+  };
+
+  const [selectedTemperature, setSelectedTemperature] =
+    useState<string>("Celsius");
+  const [selectedDateFormat, setSelectedDateFormat] =
+    useState<string>("YYYY-MM-DD");
+
+  const handleTemperatureSelect = (format: string) => {
+    setSelectedTemperature(format);
+  };
+
+  const handleDateFormatSelect = (format: string) => {
+    setSelectedDateFormat(format);
+  };
+
   return (
     <>
-      <div className="flex flex-col w-fit gap-24">
-        <h1 className="text-3xl font-medium text-zinc-500">Settings</h1>
-        <div className="flex flex-col gap-1">
-          <Button variant={"ghost"} className={buttonStyles}>
-            General
-          </Button>
-          <Button variant={"ghost"} className={buttonStyles}>
-            Options
-          </Button>
-          <Button variant={"ghost"} className={buttonStyles}>
-            Notifications
-          </Button>
-          <Button variant={"ghost"} className={buttonStyles}>
-            Privacy
-          </Button>
+      {/** Parent div **/}
+      <div className="flex h-full mx-20">
+        {/** Side panel div **/}
+        <div className="ml-24">
+          <SettingsSidePanel
+            callback={(optionValue: string) => setOptionsCallback(optionValue)}
+            currentOption={option}
+          />
+        </div>
+        <div className="border-l w-full px-8 mt-24 flex-col">
+          {option === "general" && (
+            <div>
+              <div>
+                <PropertySelector
+                  heading="Temperature"
+                  caption="Select temperature unit"
+                  triggerText={selectedTemperature}
+                  items={["Celsius", "Fahrenheit"]}
+                  onSelect={handleTemperatureSelect}
+                />
+              </div>
+              <div className="pt-4">
+                <PropertySelector
+                  heading="Date format"
+                  caption="Select date format"
+                  triggerText={selectedDateFormat}
+                  items={["YYYY-MM-DD", "DD-MM-YYYY"]}
+                  onSelect={handleDateFormatSelect}
+                />
+              </div>
+            </div>
+          )}
+          {option === "options" && <div>options</div>}
+          {option === "notification" && <div>notification</div>}
+          {option === "privacy" && <div>privacy</div>}
         </div>
       </div>
     </>
