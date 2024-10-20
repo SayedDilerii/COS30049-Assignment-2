@@ -17,7 +17,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             variant={"ghost"}
             className={`${
               currentOption === "general" && buttonStylesActive
-            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
             onClick={() => callback("general")}
           >
             General
@@ -26,7 +26,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             variant={"ghost"}
             className={`${
               currentOption === "options" && buttonStylesActive
-            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
             onClick={() => callback("options")}
           >
             Options
@@ -35,7 +35,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             variant={"ghost"}
             className={`${
               currentOption === "notification" && buttonStylesActive
-            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
             onClick={() => callback("notification")}
           >
             Notifications
@@ -44,7 +44,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             variant={"ghost"}
             className={`${
               currentOption === "privacy" && buttonStylesActive
-            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
             onClick={() => callback("privacy")}
           >
             Privacy
