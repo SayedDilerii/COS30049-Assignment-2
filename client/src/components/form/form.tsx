@@ -1,69 +1,32 @@
-type TValueMessage = {
-  value: string | number | boolean;
-  message: string;
+import React from "react";
+import { useForm } from "react-hook-form";
+
+type TForm = {
+  defaultValues: object;
+  children: React.ReactNode;
+  onSubmit: () => void;
 };
 
-type TRange = {
-  min: number | string;
-  max: number | string;
+export const Form: React.FC<TForm> = ({ defaultValues, children, onSubmit }) => {
+  const methods = useForm({ defaultValues });
+  const { handleSubmit } = methods;
+  return (
+    <form onSubmit={handleSubmit(onSubmit)}>
+      {React.Children.map(children, (child) => {
+        return child?.props.name
+          ? React.createElement(child.type, {
+              ...{
+                ...child.props,
+                register: methods.register,
+                key: child.props.name,
+              },
+            })
+          : child;
+      })}
+    </form>
+  );
 };
 
-type TFieldValidation = {
-  requiredMsg: string;
-  minWords: TValueMessage;
-  maxWords: TValueMessage;
-  max?: TValueMessage;
-  min?: TValueMessage;
-  step?: TValueMessage;
-  range?: TRange;
-  pattern?: TValueMessage;
-  minLength?: TValueMessage;
-  maxLength?: TValueMessage;
-  isRequired: TValueMessage;
+export const Input: React.FC = ({ register, name, ...rest }) => {
+  return <input {...register(name)} {...rest} />;
 };
-
-type TControlTypes = "textbox" | "radio" | "checkbox" | "date" | "email" | "password" | "number";
-
-type TField = {
-  id: string;
-  name: string;
-  controlType: TControlTypes;
-  label: string;
-  labelFooter?: string;
-  defaultValue?: unknown;
-  disabled?: boolean;
-  inputFieldComponent?: React.FC<unknown>;
-  placeholder?: string;
-  validation: TFieldValidation;
-  dependency?: TField["id"];
-};
-
-const fields: TField[] = [
-  {
-    id: "first_name",
-    name: "firstName",
-    controlType: "textbox",
-    label: "First name",
-    placeholder: "Your first name...",
-    validation: {
-      requiredMsg: "This field is required",
-      isRequired: { value: false, message: "This field is required" },
-      minWords: { value: 4, message: "Min character limit reached" },
-      maxWords: { value: 12, message: "Max character limit reached" },
-    },
-  },
-  {
-    id: "last_name",
-    name: "lastName",
-    controlType: "textbox",
-    label: "Last Name",
-    placeholder: "Your last name...",
-    dependency: "first_name",
-    validation: {
-      requiredMsg: "This field is required",
-      isRequired: { value: false, message: "This field is required" },
-      minWords: { value: 4, message: "Min character limit reached" },
-      maxWords: { value: 12, message: "Max character limit reached" },
-    },
-  },
-];

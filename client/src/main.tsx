@@ -5,6 +5,7 @@ import App from "./App.tsx";
 import "./index.css";
 import AboutUsPage from "./pages/about-us/AboutUsPage.tsx";
 import Dashboard from "./pages/dashboard/Dashboard.tsx";
+import FeedbackPage from "./pages/feedback/FeedbackPage.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
 
@@ -27,7 +28,7 @@ const router = createBrowserRouter([
       },
       {
         path: "feedback",
-        element: <div>feedback</div>,
+        element: <FeedbackPage />,
       },
       {
         path: "about-us",
