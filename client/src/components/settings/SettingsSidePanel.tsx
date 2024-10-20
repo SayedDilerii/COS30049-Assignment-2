@@ -6,11 +6,7 @@ interface IProps {
 }
 
 const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
-  const buttonStylesPassive: string =
-    "hover:bg-emerald-100 font-normal text-start hover:text-emerald-700 rounded-md justify-start";
-
-  const buttonStylesActive: string =
-    "bg-emerald-100 font-normal text-start text-emerald-700 rounded-md justify-start";
+  const buttonStylesActive: string = "bg-emerald-100 text-emerald-600";
 
   return (
     <div className="flex flex-col h-full px-12 pt-24">
@@ -19,44 +15,36 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
         <div className="flex flex-col gap-1">
           <Button
             variant={"ghost"}
-            className={
-              currentOption === "general"
-                ? buttonStylesActive
-                : buttonStylesPassive
-            }
+            className={`${
+              currentOption === "general" && buttonStylesActive
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
             onClick={() => callback("general")}
           >
             General
           </Button>
           <Button
             variant={"ghost"}
-            className={
-              currentOption === "options"
-                ? buttonStylesActive
-                : buttonStylesPassive
-            }
+            className={`${
+              currentOption === "options" && buttonStylesActive
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
             onClick={() => callback("options")}
           >
             Options
           </Button>
           <Button
             variant={"ghost"}
-            className={
-              currentOption === "notification"
-                ? buttonStylesActive
-                : buttonStylesPassive
-            }
+            className={`${
+              currentOption === "notification" && buttonStylesActive
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
             onClick={() => callback("notification")}
           >
             Notifications
           </Button>
           <Button
             variant={"ghost"}
-            className={
-              currentOption === "privacy"
-                ? buttonStylesActive
-                : buttonStylesPassive
-            }
+            className={`${
+              currentOption === "privacy" && buttonStylesActive
+            } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start py-6 pr-24 hover:bg-emerald-100`}
             onClick={() => callback("privacy")}
           >
             Privacy
