@@ -3,9 +3,9 @@ import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
-import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
 import Dashboard from "./pages/dashboard/Dashboard.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
+import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
 
 const router = createBrowserRouter([
   {
@@ -29,8 +29,8 @@ const router = createBrowserRouter([
         element: <div>feedback</div>,
       },
       {
-        path: "data-policy",
-        element: <div>data policy</div>,
+        path: "about-us",
+        element: <div>about us</div>,
       },
       {
         path: "help-page",
