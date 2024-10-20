@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
   ];
 
   return (
-    <nav className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-12"} bg-[#106B40]`}>
+    <div className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-12"} bg-[#106B40]`}>
       <div className="flex items-center gap-2">
         <Sun className="text-emerald-100" size={22} />
         <Link to={isOnboardingPage ? "/onboarding" : "/dashboard"} className="text-[1em] text-emerald-100 cursor-pointer" title="FireGuard Logo - Stay safe, stay aware.">
@@ -103,8 +103,9 @@ const Navbar: React.FC = () => {
             </PopoverTrigger>
             <PopoverContent
               className="border-[0.5px] border-zinc-400 w-[310px] sm:w-[500px] mt-1 shadow-lg rounded-xl h-[370px] sm:h-[500px] bg-white p-6 overflow-y-scroll"
-              align="start"
+              align="end"
             >
+              {/* Web View */}
               <div className="flex gap-2 sm:gap-4">
                 <TriangleAlert className="text-orange-800 sm:h-[32px] sm:w-[32px]" />
                 <p className="text-lg sm:text-[1.5em] font-medium">Updates and Alerts</p>
@@ -124,7 +125,7 @@ const Navbar: React.FC = () => {
                 ))}
               </table>
               {/* Mobile view */}
-              <div className="flex flex-col gap-3 h-[270px] overflow-y-scroll mt-4">
+              <div className="flex flex-col gap-3 h-[270px] overflow-y-scroll mt-4 sm:hidden ">
                 {notifications.map((item, key) => (
                   <div className="flex flex-col gap-2 bg-zinc-100 rounded-md text-[14px] p-4 relative" key={key}>
                     <div>
@@ -206,7 +207,7 @@ const Navbar: React.FC = () => {
           </Popover>
         </div>
       )}
-    </nav>
+    </div>
   );
 };
 

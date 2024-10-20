@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
+import AboutUsPage from "./pages/about-us/AboutUsPage.tsx";
 import Dashboard from "./pages/dashboard/Dashboard.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
@@ -30,7 +31,7 @@ const router = createBrowserRouter([
       },
       {
         path: "about-us",
-        element: <div>about us</div>,
+        element: <AboutUsPage />,
       },
       {
         path: "help-page",
