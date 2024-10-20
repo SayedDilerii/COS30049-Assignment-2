@@ -5,9 +5,9 @@ import MemoizedNavbar from "./components/ui/navbar";
 const App: React.FC = () => {
   return (
     <>
-      <Container className="h-screen flex flex-col flex-1">
+      <Container className="flex flex-col flex-1" style={{ height: "100dvh" }}>
         <MemoizedNavbar />
-        <Container className="h-full overflow-y-scroll overflow-x-hidden bg-emerald-200/10">
+        <Container className="h-full overflow-y-scroll overflow-x-hidden">
           <Outlet />
         </Container>
       </Container>
