@@ -1,5 +1,6 @@
 import GeneralSettings from "@/components/settings/SettingsGeneral";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
+import Container from "@/components/ui/container";
 import { useState } from "react";
 
 const SettingsPage: React.FC = () => {
@@ -78,7 +79,7 @@ const SettingsPage: React.FC = () => {
           {settings.option === "notification" && <div>notification</div>}
           {settings.option === "privacy" && <div>privacy</div>}
         </div>
-      </div>
+      </Container>
     </>
   );
 };
