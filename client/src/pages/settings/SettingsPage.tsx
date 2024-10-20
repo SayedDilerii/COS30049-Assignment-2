@@ -1,63 +1,82 @@
-import PropertySelector from "@/components/settings/SettingsPropertySelector";
+import GeneralSettings from "@/components/settings/SettingsGeneral";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
 import { useState } from "react";
 
 const SettingsPage: React.FC = () => {
-  const [option, setOptions] = useState("general");
+  const [settings, setSettings] = useState({
+    option: "general",
+    selectedTemperature: "Celsius",
+    selectedDateFormat: "YYYY-MM-DD",
+    selectedTimeFormat: "hh:mm:ss",
+    selectedTimezone: "Melbourne/Australia",
+    selecedAutoRefresh: "Every 5-Minutes",
+  });
+
   const setOptionsCallback = (optionValue: string) => {
-    setOptions(optionValue);
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      option: optionValue,
+    }));
   };
 
-  const [selectedTemperature, setSelectedTemperature] =
-    useState<string>("Celsius");
-  const [selectedDateFormat, setSelectedDateFormat] =
-    useState<string>("YYYY-MM-DD");
-
   const handleTemperatureSelect = (format: string) => {
-    setSelectedTemperature(format);
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      selectedTemperature: format,
+    }));
   };
 
   const handleDateFormatSelect = (format: string) => {
-    setSelectedDateFormat(format);
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      selectedDateFormat: format,
+    }));
+  };
+
+  const handleTimeFormatSelect = (format: string) => {
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      selectedTimeFormat: format,
+    }));
+  };
+
+  const handleTimezoneSelect = (format: string) => {
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      selectedTimezone: format,
+    }));
+  };
+
+  const handleAutoRefreshSelect = (format: string) => {
+    setSettings((prevSettings) => ({
+      ...prevSettings,
+      selecedAutoRefresh: format,
+    }));
   };
 
   return (
     <>
-      {/** Parent div **/}
-      <div className="flex h-full mx-20">
-        {/** Side panel div **/}
+      <div className="flex h-full">
         <div className="ml-24">
           <SettingsSidePanel
             callback={(optionValue: string) => setOptionsCallback(optionValue)}
-            currentOption={option}
+            currentOption={settings.option}
           />
         </div>
         <div className="border-l w-full px-8 mt-24 flex-col">
-          {option === "general" && (
-            <div>
-              <div>
-                <PropertySelector
-                  heading="Temperature"
-                  caption="Select temperature unit"
-                  triggerText={selectedTemperature}
-                  items={["Celsius", "Fahrenheit"]}
-                  onSelect={handleTemperatureSelect}
-                />
-              </div>
-              <div className="pt-4">
-                <PropertySelector
-                  heading="Date format"
-                  caption="Select date format"
-                  triggerText={selectedDateFormat}
-                  items={["YYYY-MM-DD", "DD-MM-YYYY"]}
-                  onSelect={handleDateFormatSelect}
-                />
-              </div>
-            </div>
+          {settings.option === "general" && (
+            <GeneralSettings
+              settings={settings}
+              handleTemperatureSelect={handleTemperatureSelect}
+              handleDateFormatSelect={handleDateFormatSelect}
+              handleTimeFormatSelect={handleTimeFormatSelect}
+              handleTimezoneSelect={handleTimezoneSelect}
+              handleAutoRefreshSelect={handleAutoRefreshSelect}
+            />
           )}
-          {option === "options" && <div>options</div>}
-          {option === "notification" && <div>notification</div>}
-          {option === "privacy" && <div>privacy</div>}
+          {settings.option === "options" && <div>options</div>}
+          {settings.option === "notification" && <div>notification</div>}
+          {settings.option === "privacy" && <div>privacy</div>}
         </div>
       </div>
     </>
