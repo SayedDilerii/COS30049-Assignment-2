@@ -24,7 +24,7 @@ const AboutUsPage: React.FC = () => {
       <section className="flex justify-between items-center xl:pt-16">
         <div className="grid gap-4 h-fit flex-[50%] xl:gap-12">
           <p className="text-emerald-200 font-light tracking-tight md:text-xl">About us</p>
-          <h1 className="font-bold text-4xl sm:text-[58px] text-balance text-white xl:w-[70%] xl:text-[6rem]" style={{ lineHeight: "1.2" }}>
+          <h1 className="font-bold text-4xl sm:text-[58px] text-balance text-white xl:w-[70%] xl:text-[5rem] xl:tracking-tight" style={{ lineHeight: "1.2" }}>
             Save lives and protect Americans.
           </h1>
           <p className="text-2xl font-semibold text-emerald-300 tracking-tight sm:text-[44px] xl:text-[3rem] xl:font-bold">That’s our mission...</p>
