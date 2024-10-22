@@ -1,5 +1,5 @@
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import React from "react";
-import { DropdownMenu, DropdownMenuItem, DropdownMenuTrigger, DropdownMenuContent } from "@/components/ui/dropdown-menu";
 
 interface PropertySelectorProps {
   selectedItem?: string;
@@ -10,14 +10,7 @@ interface PropertySelectorProps {
   items: string[];
 }
 
-const PropertySelector: React.FC<PropertySelectorProps> = ({
-  selectedItem,
-  onSelect,
-  heading = "heading",
-  caption = "caption",
-  triggerText = "Open",
-  items = [],
-}) => {
+const PropertySelector: React.FC<PropertySelectorProps> = ({ selectedItem, onSelect, heading = "heading", caption = "caption", triggerText = "Open", items = [] }) => {
   return (
     <div className="flex border-b pb-8">
       <div className="flex-col">
@@ -26,9 +19,7 @@ const PropertySelector: React.FC<PropertySelectorProps> = ({
       </div>
       <div className="flex ml-auto mr-16 mt-1">
         <DropdownMenu>
-          <DropdownMenuTrigger className="border border-gray-300 rounded-xl shadow-md text-left pr-4 pl-4 justify-start w-56">
-            {selectedItem || triggerText}
-          </DropdownMenuTrigger>
+          <DropdownMenuTrigger className="border border-gray-300 rounded-xl shadow-md text-left pr-4 pl-4 justify-start w-56">{selectedItem || triggerText}</DropdownMenuTrigger>
 
           <DropdownMenuContent>
             {items.map((item, index) => (

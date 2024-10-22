@@ -20,67 +20,36 @@ const SettingsPage: React.FC = () => {
     }));
   };
 
-  const handleTemperatureSelect = (format: string) => {
+  const handleSelect = (key: keyof typeof settings, value: string) => {
     setSettings((prevSettings) => ({
       ...prevSettings,
-      selectedTemperature: format,
-    }));
-  };
-
-  const handleDateFormatSelect = (format: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      selectedDateFormat: format,
-    }));
-  };
-
-  const handleTimeFormatSelect = (format: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      selectedTimeFormat: format,
-    }));
-  };
-
-  const handleTimezoneSelect = (format: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      selectedTimezone: format,
-    }));
-  };
-
-  const handleAutoRefreshSelect = (format: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      selecedAutoRefresh: format,
+      [key]: value,
     }));
   };
 
   return (
-    <>
+    <Container>
       <div className="flex h-full">
         <div className="ml-24">
-          <SettingsSidePanel
-            callback={(optionValue: string) => setOptionsCallback(optionValue)}
-            currentOption={settings.option}
-          />
+          <SettingsSidePanel callback={setOptionsCallback} currentOption={settings.option} />
         </div>
         <div className="border-l w-full px-8 mt-24 flex-col">
           {settings.option === "general" && (
             <GeneralSettings
               settings={settings}
-              handleTemperatureSelect={handleTemperatureSelect}
-              handleDateFormatSelect={handleDateFormatSelect}
-              handleTimeFormatSelect={handleTimeFormatSelect}
-              handleTimezoneSelect={handleTimezoneSelect}
-              handleAutoRefreshSelect={handleAutoRefreshSelect}
+              handleTemperatureSelect={(format) => handleSelect("selectedTemperature", format)}
+              handleDateFormatSelect={(format) => handleSelect("selectedDateFormat", format)}
+              handleTimeFormatSelect={(format) => handleSelect("selectedTimeFormat", format)}
+              handleTimezoneSelect={(format) => handleSelect("selectedTimezone", format)}
+              handleAutoRefreshSelect={(format) => handleSelect("selecedAutoRefresh", format)}
             />
           )}
           {settings.option === "options" && <div>options</div>}
           {settings.option === "notification" && <div>notification</div>}
           {settings.option === "privacy" && <div>privacy</div>}
         </div>
-      </Container>
-    </>
+      </div>
+    </Container>
   );
 };
 
