@@ -13,12 +13,20 @@ const SettingsPage: React.FC = () => {
     selecedAutoRefresh: "Every 5-Minutes",
   });
 
-  const setOptionsCallback = (optionValue: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      option: optionValue,
-    }));
+  const stuctrure = {
+    option: {
+      title: "Timezone",
+      description: "",
+    },
+    value: Array<object>,
   };
+
+  // const setOptionsCallback = (optionValue: object) => {
+  //   setSettings((prevSettings) => ({
+  //     ...prevSettings,
+  //     optionValue,
+  //   }));
+  // };
 
   const handleSelect = (key: keyof typeof settings, value: string) => {
     setSettings((prevSettings) => ({
@@ -31,7 +39,7 @@ const SettingsPage: React.FC = () => {
     <Container>
       <div className="flex h-full">
         <div className="ml-24">
-          <SettingsSidePanel callback={setOptionsCallback} currentOption={settings.option} />
+          <SettingsSidePanel callback={() => handleSelect} currentOption={settings.option} />
         </div>
         <div className="border-l w-full px-8 mt-24 flex-col">
           {settings.option === "general" && (

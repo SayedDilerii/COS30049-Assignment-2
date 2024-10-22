@@ -1,4 +1,6 @@
 import PropertySelector from "@/components/settings/SettingsPropertySelector";
+import { useState } from "react";
+import { Button } from "../ui/button";
 
 interface GeneralSettingsProps {
   settings: {
@@ -23,8 +25,22 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
   handleTimezoneSelect,
   handleAutoRefreshSelect,
 }) => {
+  const [formData, setFormData] = useState<object>({ key: "", value: "" });
+
+  const formHandler = ({ key, value }: { key: string; value: string }) => {
+    setFormData({ key: key, value: value });
+  };
+
+  console.log(formData);
+
   return (
-    <div>
+    <form
+      onSubmit={(e) => {
+        console.log(e.target?.value);
+        e.preventDefault();
+        å;
+      }}
+    >
       <div>
         <PropertySelector
           heading="Temperature"
@@ -32,6 +48,7 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
           triggerText={settings.selectedTemperature}
           items={["Celsius", "Fahrenheit"]}
           onSelect={handleTemperatureSelect}
+          formValue={formHandler}
         />
       </div>
       <div className="pt-4">
@@ -41,6 +58,7 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
           triggerText={settings.selectedDateFormat}
           items={["YYYY-MM-DD", "DD-MM-YYYY"]}
           onSelect={handleDateFormatSelect}
+          formValue={() => formHandler({ key: "sdhfljkds", value: "sldkfjslkd" })}
         />
       </div>
       <div className="pt-4">
@@ -50,6 +68,7 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
           triggerText={settings.selectedTimeFormat}
           items={["hh:mm:ss", "mm:hh:ss"]}
           onSelect={handleTimeFormatSelect}
+          formValue={(key, value) => formHandler(key, value)}
         />
       </div>
       <div className="pt-4">
@@ -59,6 +78,7 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
           triggerText={settings.selectedTimezone}
           items={["Melbourne/Australia"]}
           onSelect={handleTimezoneSelect}
+          formValue={(key, value) => formHandler(key, value)}
         />
       </div>
       <div className="pt-4">
@@ -68,9 +88,13 @@ const GeneralSettings: React.FC<GeneralSettingsProps> = ({
           triggerText={settings.selecedAutoRefresh}
           items={["Every 2-Minutes", "Every 5-Minutes", "Every 10-Minutes"]}
           onSelect={handleAutoRefreshSelect}
+          formValue={(key, value) => formHandler(key, value)}
         />
       </div>
-    </div>
+      <div>
+        <Button type="submit">Submit</Button>
+      </div>
+    </form>
   );
 };
 
