@@ -1,4 +1,5 @@
 import GeneralSettings from "@/components/settings/SettingsGeneral";
+import SettingsOptions from "@/components/settings/SettingsOptions";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
 import Container from "@/components/ui/container";
 import { useState } from "react";
@@ -11,6 +12,9 @@ const SettingsPage: React.FC = () => {
     selectedTimeFormat: "hh:mm:ss",
     selectedTimezone: "Melbourne/Australia",
     selecedAutoRefresh: "Every 5-Minutes",
+    selectedTheme: "System",
+    selectedFontSize: "12",
+    selectedNavigationDateVisibility: "Show",
   });
 
   const setOptionsCallback = (optionValue: string) => {
@@ -20,6 +24,7 @@ const SettingsPage: React.FC = () => {
     }));
   };
 
+  //Dynamically changes the value of Settings based on string (e.g. selectedTemperature)
   const handleSelect = (key: keyof typeof settings, value: string) => {
     setSettings((prevSettings) => ({
       ...prevSettings,
@@ -44,7 +49,16 @@ const SettingsPage: React.FC = () => {
               handleAutoRefreshSelect={(format) => handleSelect("selecedAutoRefresh", format)}
             />
           )}
-          {settings.option === "options" && <div>options</div>}
+          {settings.option === "options" && (
+            <div>
+              <SettingsOptions
+                settings={settings}
+                handleThemeSelect={(value) => handleSelect("selectedTheme", value)}
+                handleFontSizeSelect={(value) => handleSelect("selectedFontSize", value)}
+                handleNavigationDateVisibilitySelect={(value) => handleSelect("selectedNavigationDateVisibility", value)}
+              />
+            </div>
+          )}
           {settings.option === "notification" && <div>notification</div>}
           {settings.option === "privacy" && <div>privacy</div>}
         </div>
