@@ -4,7 +4,7 @@ import { useForm } from "react-hook-form";
 type TForm = {
   defaultValues: object;
   children: React.ReactNode;
-  onSubmit: () => void;
+  onSubmit: any;
 };
 
 export const Form: React.FC<TForm> = ({ defaultValues, children, onSubmit }) => {
@@ -27,6 +27,10 @@ export const Form: React.FC<TForm> = ({ defaultValues, children, onSubmit }) => 
   );
 };
 
+const Example = () => {
+  return <Form onSubmit={(e) => console.log(e)} defaultValues={{ name: "", lastName: "" }}></Form>;
+};
+
 export const Input: React.FC = ({ register, name, ...rest }) => {
-  return <input {...register(name)} {...rest} />;
+  return <input {...register(name)} {...rest} type="text" />;
 };

@@ -1,4 +1,3 @@
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import React from "react";
 
 interface PropertySelectorProps {
@@ -8,9 +7,10 @@ interface PropertySelectorProps {
   caption?: string;
   triggerText?: string;
   items: string[];
+  formValue: ({ key, value }: { key: string; value: string }) => void;
 }
 
-const PropertySelector: React.FC<PropertySelectorProps> = ({ selectedItem, onSelect, heading = "heading", caption = "caption", triggerText = "Open", items = [] }) => {
+const PropertySelector: React.FC<PropertySelectorProps> = ({ selectedItem, onSelect, heading = "heading", caption = "caption", triggerText = "Open", items = [], formValue }) => {
   return (
     <div className="flex border-b pb-8">
       <div className="flex-col">
@@ -18,17 +18,21 @@ const PropertySelector: React.FC<PropertySelectorProps> = ({ selectedItem, onSel
         <p className="text-zinc-600">{caption}</p>
       </div>
       <div className="flex ml-auto mr-16 mt-1">
-        <DropdownMenu>
-          <DropdownMenuTrigger className="border border-gray-300 rounded-xl shadow-md text-left pr-4 pl-4 justify-start w-56">{selectedItem || triggerText}</DropdownMenuTrigger>
+        {/* <DropdownMenu> */}
+        {/* <DropdownMenuTrigger className="border border-gray-300 rounded-xl shadow-md text-left pr-4 pl-4 justify-start w-56">{selectedItem || triggerText}</DropdownMenuTrigger> */}
 
-          <DropdownMenuContent>
+        {/* <DropdownMenuContent> */}
+        <form>
+          <select id="config-selector" name={heading} onChange={(e) => formValue({ key: heading, value: e?.target?.value })}>
             {items.map((item, index) => (
-              <DropdownMenuItem key={index} onClick={() => onSelect(item)}>
-                {item}
-              </DropdownMenuItem>
+              // <DropdownMenuItem key={index} onClick={() => onSelect(item)}>
+              <option value={item}>{item}</option>
+              // </DropdownMenuItem>
             ))}
-          </DropdownMenuContent>
-        </DropdownMenu>
+          </select>
+        </form>
+        {/* </DropdownMenuContent> */}
+        {/* </DropdownMenu> */}
       </div>
     </div>
   );

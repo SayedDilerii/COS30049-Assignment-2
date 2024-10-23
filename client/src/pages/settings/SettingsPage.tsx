@@ -17,11 +17,12 @@ const SettingsPage: React.FC = () => {
     selectedNavigationDateVisibility: "Show",
   });
 
-  const setOptionsCallback = (optionValue: string) => {
-    setSettings((prevSettings) => ({
-      ...prevSettings,
-      option: optionValue,
-    }));
+  const stuctrure = {
+    option: {
+      title: "Timezone",
+      description: "",
+    },
+    value: Array<object>,
   };
 
   //Dynamically changes the value of Settings based on string (e.g. selectedTemperature)
@@ -36,7 +37,7 @@ const SettingsPage: React.FC = () => {
     <Container>
       <div className="flex h-full">
         <div className="ml-24">
-          <SettingsSidePanel callback={setOptionsCallback} currentOption={settings.option} />
+          <SettingsSidePanel callback={() => handleSelect} currentOption={settings.option} />
         </div>
         <div className="border-l w-full px-8 mt-24 flex-col">
           {settings.option === "general" && (
