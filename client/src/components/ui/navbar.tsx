@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
   ];
 
   return (
-    <div className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-12"} bg-[#106B40]`}>
+    <div className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-6 sm:px-12"} bg-[#106B40]`}>
       <div className="flex items-center gap-2">
         <Sun className="text-emerald-100" size={22} />
         <Link to={isOnboardingPage ? "/onboarding" : "/dashboard"} className="text-[1em] text-emerald-100 cursor-pointer" title="FireGuard Logo - Stay safe, stay aware.">
