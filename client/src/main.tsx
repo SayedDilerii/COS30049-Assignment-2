@@ -8,6 +8,7 @@ import Dashboard from "./pages/dashboard/Dashboard.tsx";
 import FeedbackPage from "./pages/feedback/FeedbackPage.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
+import SandBoxPage from "./pages/sandbox/SandboxPage.tsx";
 import SettingsPage from "./pages/settings/SettingsPage.tsx";
 const router = createBrowserRouter([
   {
@@ -39,6 +40,10 @@ const router = createBrowserRouter([
         element: <HelpPage />,
       },
     ],
+  },
+  {
+    path: "sandbox",
+    element: <SandBoxPage />,
   },
 ]);
 
