@@ -18,7 +18,7 @@ const DrawerHeader: React.FC = () => {
           </SelectTrigger>
           <SelectContent className="rounded-xl w-[550px]">
             <SelectGroup>
-              <SelectLabel>Select States:</SelectLabel>
+              <SelectLabel>Select a state:</SelectLabel>
               {states.map((value) => (
                 <SelectItem value={value.abbreviation}>
                   {value.name} <span className="text-zinc-400">({value.abbreviation})</span>
@@ -29,17 +29,20 @@ const DrawerHeader: React.FC = () => {
         </Select>
         <Popover>
           <PopoverTrigger asChild>
-            <Button className="bg-white border border-zinc-300 hover:bg-zinc-100 font-normal flex gap-2 text-zinc-600 text-sm shadow-sm">
-              <Calendar size={16} /> Filter date
+            <Button className="bg-white border border-zinc-300 hover:bg-zinc-100 font-light flex gap-2 text-zinc-600 shadow-sm">
+              <Calendar size={14} />
+              <p className="text-[14px] font-normal">Filter date</p>
             </Button>
           </PopoverTrigger>
-          <PopoverContent className="border-[0.5px] border-zinc-300 w-[400px] mt-1 shadow-lg rounded-xl h-[400px] bg-white p-6 overflow-y-scroll" align="end">
+          <PopoverContent className="border-[0.5px] border-zinc-400 w-[500px] mt-1 shadow-xl rounded-xl h-[400px] bg-white p-6 overflow-y-scroll" align="end">
             <div>
-              <p className="text-zinc-400">Datetime filters:</p>
+              <p className="text-zinc-400">Select by date:</p>
             </div>
           </PopoverContent>
         </Popover>
-        <Button className="text-[14px]">Search</Button>
+        <Button className="text-[14px]">
+          <p className="text-[14px] font-normal">Search</p>
+        </Button>
       </div>
     </Container>
   );
