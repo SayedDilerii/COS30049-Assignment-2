@@ -5,8 +5,11 @@ export function fetchFromServer() {
         () =>
           resolve({
             timezone: "Australia/Melbourne",
-            notification: ["email", "text"],
-            message: "Welcome back sir!",
+            notification: [
+              { value: "email", name: "Email" },
+              { value: "text", name: "Text" },
+            ],
+            message: "Welcome back Sayed Dileri!",
           }),
         3000
       );
