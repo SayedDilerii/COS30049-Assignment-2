@@ -1,50 +1,39 @@
 import PropertySelector from "@/components/settings/SettingsPropertySelector";
+import { useState } from "react";
+import { Button } from "../ui/button";
 
-interface OptionsSettingsProps {
-  settings: {
-    selectedTheme: string;
-    selectedFontSize: string;
-    selectedNavigationDateVisibility: string;
-  };
-  // Callbacks
-  handleThemeSelect: (format: string) => void;
-  handleFontSizeSelect: (format: string) => void;
-  handleNavigationDateVisibilitySelect: (format: string) => void;
-}
-
-const SettingsOptions: React.FC<OptionsSettingsProps> = ({ settings, handleThemeSelect, handleFontSizeSelect, handleNavigationDateVisibilitySelect }) => {
-  const selectors = [
-    {
-      heading: "Theme",
-      caption: "Select theme",
-      triggerText: settings.selectedTheme,
-      items: ["Light", "Dark", "System"],
-      onSelect: handleThemeSelect,
-    },
-    {
-      heading: "Font Size",
-      caption: "Select font size",
-      triggerText: settings.selectedFontSize,
-      items: ["Small", "Medium", "Large"],
-      onSelect: handleFontSizeSelect,
-    },
-    {
-      heading: "Navigation Date Visibility",
-      caption: "Set date visibility in navigation",
-      triggerText: settings.selectedNavigationDateVisibility,
-      items: ["Show", "Hide"],
-      onSelect: handleNavigationDateVisibilitySelect,
-    },
+const SettingsOptions: React.FC = () => {
+  const defaultValue = [
+    { heading: "Theme", caption: "Set application theme", value: "System", items: ["System", "Light mode", "Dark mode"] },
+    { heading: "Font size", caption: "Set font size", value: "Default", items: ["Default", "10", "14"] },
+    { heading: "Navigation date visibility", caption: "Set visibility of dates in the navigation bar", value: "Visible", items: ["Visible", "Hidden"] },
   ];
 
+  const [formData, setFormData] = useState(defaultValue);
+
+  const formHandler = (heading: string, selectedValue: string) => {
+    setFormData((prevData) => prevData.map((item) => (item.heading === heading ? { ...item, value: selectedValue } : item)));
+  };
+
+  const formSubmitHandler = (event: React.FormEvent) => {
+    event.preventDefault();
+    console.log(formData);
+  };
+
   return (
-    <div>
-      {selectors.map((selector, index) => (
-        <div key={index} className="pt-4">
-          <PropertySelector heading={selector.heading} caption={selector.caption} triggerText={selector.triggerText} items={selector.items} onSelect={selector.onSelect} />
+    <form onSubmit={formSubmitHandler} className="pr-10 mt-2">
+      {formData.map((value, index) => (
+        <div key={index} className={index > 0 ? "pt-4" : ""}>
+          <PropertySelector heading={value.heading} caption={value.caption} items={value.items} formValue={formHandler} />
         </div>
       ))}
-    </div>
+      <div className="flex justify-end pt-3 gap-8">
+        <Button className="w-28 bg-zinc-400">Reset</Button>
+        <Button className="w-28" type="submit">
+          Save
+        </Button>
+      </div>
+    </form>
   );
 };
 
