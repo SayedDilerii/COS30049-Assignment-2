@@ -116,8 +116,8 @@ const Navbar: React.FC = () => {
                   <th className="font-light text-zinc-400 text-start w-[150px] tracking-tight">Location</th>
                   <th className="font-light text-zinc-400 text-start tracking-tight">Datetime</th>
                 </tr>
-                {notifications.map((item) => (
-                  <tr className="w-full">
+                {notifications.map((item, idx) => (
+                  <tr className="w-full" key={idx}>
                     <td className={`font-medium w-[150px] py-2 ${item.color} tracking-tight`}>{item.urgency}</td>
                     <td className="font-normal w-[150px] py-2">{item.location}</td>
                     <td className="font-normal py-2">{item.datetime}</td>

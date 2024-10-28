@@ -2,7 +2,7 @@ import { useState } from "react";
 
 type TFireForm = {
   initialValues: object;
-  defaultValues: object;
+  defaultValues?: object;
 };
 
 type TFireFormReturn = {
@@ -23,7 +23,9 @@ export function useFireForm({ initialValues, defaultValues }: TFireForm): TFireF
   };
 
   const resetToDefault = () => {
-    setFormValues({ initialValues: defaultValues });
+    if (defaultValues) {
+      setFormValues({ initialValues: defaultValues });
+    }
   };
 
   return {
