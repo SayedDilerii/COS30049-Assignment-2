@@ -1,7 +1,7 @@
 import { Button } from "../ui/button";
 
 interface IProps {
-  callback: (optionsValue: string) => void;
+  callback: (key: string, value: string) => void;
   currentOption: string;
 }
 
@@ -18,7 +18,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             className={`${
               currentOption === "general" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
-            onClick={() => callback("general")}
+            onClick={() => callback("option", "general")}
           >
             General
           </Button>
@@ -27,7 +27,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             className={`${
               currentOption === "options" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
-            onClick={() => callback("options")}
+            onClick={() => callback("option", "options")}
           >
             Options
           </Button>
@@ -36,7 +36,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             className={`${
               currentOption === "notification" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
-            onClick={() => callback("notification")}
+            onClick={() => callback("option", "notification")}
           >
             Notifications
           </Button>
@@ -45,7 +45,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             className={`${
               currentOption === "privacy" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
-            onClick={() => callback("privacy")}
+            onClick={() => callback("option", "privacy")}
           >
             Privacy
           </Button>
