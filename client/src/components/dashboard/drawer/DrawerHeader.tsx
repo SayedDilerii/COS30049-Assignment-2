@@ -40,27 +40,27 @@ const DrawerHeader: React.FC = () => {
     {
       option: "Today",
       date: today,
-      day: format(today, "EEEE"),
+      day: format(today, "EEE"),
     },
     {
       option: "Tomorrow",
       date: tomorrow,
-      day: format(tomorrow, "EEEE"),
+      day: format(tomorrow, "EEE"),
     },
     {
       option: "This weekend",
       date: approachingWeekend,
-      day: format(approachingWeekend, "EEEE"),
+      day: format(approachingWeekend, "EEE"),
     },
     {
       option: "Start of next week",
       date: startOfNextWeek,
-      day: format(startOfNextWeek, "EEEE"),
+      day: format(startOfNextWeek, "EEE"),
     },
     {
       option: "Next 7 days",
       date: nextSevenDays,
-      day: format(nextSevenDays, "EEEE"),
+      day: format(nextSevenDays, "EEE"),
     },
   ];
 
@@ -129,21 +129,34 @@ const DrawerHeader: React.FC = () => {
           </PopoverTrigger>
           <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[300px] bg-white p-6 overflow-y-scroll" align="end">
             <div>
+              <p className="text-zinc-500 mb-6 font-medium">Select preset dates:</p>
               <form>
-                {datePresets.map((field) => (
-                  <div key={field.option}>
-                    <input
-                      type="radio"
-                      name="date"
-                      value={field.date}
-                      onChange={(event) => batchUpdateForm({ ...formValues.initialValues, date: event.target.value })}
-                      checked={(formValues.initialValues.date as string).includes(field.date)}
-                    />
-                    <label htmlFor={"date"}>
-                      {field.option} - {field.day}
-                    </label>
-                  </div>
-                ))}
+                <div className="grid gap-2">
+                  {datePresets.map((field) => {
+                    const isChecked = (formValues.initialValues.date as string).includes(field.date);
+                    return (
+                      <div
+                        key={field.option}
+                        className={`cursor-pointer flex gap-2  p-1  rounded-md ${isChecked && "bg-blue-100 text-blue-800 px-2 duration-500"}`}
+                        onClick={() => {
+                          batchUpdateForm({ ...formValues.initialValues, date: field.date });
+                        }}
+                      >
+                        <input
+                          type="radio"
+                          name="date"
+                          value={field.date}
+                          onChange={(event) => batchUpdateForm({ ...formValues.initialValues, date: event.target.value })}
+                          checked={isChecked}
+                        />
+                        <label htmlFor={"date"} className="cursor-pointer w-full flex justify-between">
+                          <span>{field.option}</span>
+                          <span className="text-blue-400">{field.day}</span>
+                        </label>
+                      </div>
+                    );
+                  })}
+                </div>
               </form>
             </div>
           </PopoverContent>
