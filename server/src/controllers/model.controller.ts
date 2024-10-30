@@ -28,12 +28,12 @@ export class ModelController {
       });
     }
   };
-
   private invokeModel = ({ state, date, tmin, tmax }: any): Promise<any> => {
     return new Promise((resolve, reject) => {
-      const scriptPath = path.join(__dirname, "hello.py");
-      const childProcess = spawn("python3", [scriptPath, state, date, tmin, tmax]);
+      const scriptPath = path.join(__dirname, "./../../../machine-learning-model/machine-learning.py");
+      console.log(scriptPath);
 
+      const childProcess = spawn("python3", [scriptPath, state, date, tmin, tmax]);
       let output = "";
 
       childProcess.stdout.on("data", (data) => {
@@ -52,7 +52,14 @@ export class ModelController {
         if (code !== 0) {
           console.log("child process existed with code: ", code);
         } else {
-          resolve(JSON.parse(output));
+          try {
+            const parsed = JSON.parse(output);
+            resolve(parsed);
+          } catch (error) {
+            console.error("Failed to parse JSON:", error);
+            console.error("Raw output:", output);
+            reject(error);
+          }
         }
       });
     });
