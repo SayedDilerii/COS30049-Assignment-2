@@ -1,4 +1,4 @@
-import Form from "@/components/form/Form";
+import Form from "@/components/form/form";
 import Container from "@/components/ui/container";
 import { useRef } from "react";
 

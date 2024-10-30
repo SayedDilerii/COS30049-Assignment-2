@@ -30,7 +30,7 @@ export class Database {
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         full_name VARCHAR(50) NOT NULL,
         email VARCHAR(50) UNIQUE NOT NULL,
-        feedback TEXT UNIQUE NOT NULL,
+        feedback TEXT NOT NULL,
         created_at DATETIME DEFAULT CURRENT_TIMESTAMP
       )
     `,
@@ -72,6 +72,16 @@ export class Database {
   public async findById<T>(table: string, id: number): Promise<T | null> {
     return new Promise((resolve, reject) => {
       this.db.get(`SELECT * FROM ${table} WHERE id = ?`, [id], (err, row) => {
+        if (err) reject(err);
+        else resolve((row as T) || null);
+      });
+    });
+  }
+
+  // Read One
+  public async findByEmail<T>(table: string, email_address: string): Promise<T | null> {
+    return new Promise((resolve, reject) => {
+      this.db.get(`SELECT * FROM ${table} WHERE email = ?`, [email_address], (err, row) => {
         if (err) reject(err);
         else resolve((row as T) || null);
       });

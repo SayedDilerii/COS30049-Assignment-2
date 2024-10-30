@@ -1,19 +1,30 @@
 import { Request, Response } from "express-serve-static-core";
 import { CreateFeedbackDTO, Feedback } from "../types/feedback.type";
 import { Database } from "../utilities/database";
-import { BaseController } from "./base-controller";
 
-export class FeedbackController extends BaseController {
+export class FeedbackController {
   private db: Database;
 
   constructor() {
-    super();
     this.db = Database.getInstance();
   }
 
   public create = async (request: Request, response: Response): Promise<void> => {
     try {
+      // Check for unqiue email address:
       const userFeedback: CreateFeedbackDTO = request.body;
+
+      const existingFeedback = await this.db.findByEmail<Feedback>("feedback", userFeedback.email);
+
+      if (existingFeedback) {
+        response.status(500).json({
+          success: false,
+          message: "This email address already exits",
+        });
+        return;
+      }
+
+      // create feedback entry
       await this.db.create("feedback", userFeedback);
 
       response.status(201).json({
@@ -36,7 +47,7 @@ export class FeedbackController extends BaseController {
 
       response.status(200).json({
         success: true,
-        data: feedbacks,
+        results: feedbacks,
       });
     } catch (error) {
       console.error("Error fetching feedback:", error);

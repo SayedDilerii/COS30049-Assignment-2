@@ -1,17 +1,21 @@
 import { Router } from "express";
 import { Request, Response } from "express-serve-static-core";
 import { FeedbackController } from "./controllers/feedback.controller";
+import { ModelController } from "./controllers/model.controller";
 import { validationMiddleware } from "./middleware/validation.middleware";
 import { feedbackSchema } from "./schema/feedback.schema";
+import { modelSchema } from "./schema/model.schema";
 
 export class MainRouter {
   private router: Router;
   private feedbackController: FeedbackController;
+  private modelController: ModelController;
 
   constructor() {
     this.router = Router();
     this.initializeRoutes();
     this.feedbackController = new FeedbackController();
+    this.modelController = new ModelController();
   }
 
   private initializeRoutes(): void {
@@ -19,15 +23,12 @@ export class MainRouter {
       response.json({ message: "Welcome to the API" });
     });
 
+    // Model route - it should allow for querying of the machine learning model and return risk and data for charts
+    this.router.get("/model", validationMiddleware(modelSchema.get), (request: Request, response: Response) => this.modelController.query(request, response));
+
     // Notifications route - it should allow for client to query and return random instances of bushfire predictions to mimmic "News Alerts".
     this.router.get("/notifications", (request: Request, response: Response) => {
       response.json({ results: ["Hello there, there's a bushfire at Shillicon Valley yeah!!"] });
-    });
-
-    // Model route - it should allow for querying of the machine learning model and return risk and data for charts
-    this.router.get("/model/:state/:date/:tmin/:tmax", (request: Request, response: Response) => {
-      const { state, date, tmin, tmax } = request.params;
-      response.json({ results: "Machine learning model response: ", state: state, date: date, tmin: tmin, tmax: tmax });
     });
 
     // Feedback route - submit a feedback form

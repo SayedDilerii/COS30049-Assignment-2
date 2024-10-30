@@ -9,8 +9,8 @@ export const validationMiddleware = (schema: ZodSchema) => {
         next();
       }
 
-      if (request.method === "GET" && request.params) {
-        schema.parse(request.params);
+      if (request.method === "GET" && request.query) {
+        schema.parse(request.query);
         next();
       }
     } catch (error: any) {

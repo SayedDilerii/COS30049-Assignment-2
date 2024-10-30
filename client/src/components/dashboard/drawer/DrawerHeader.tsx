@@ -29,6 +29,7 @@ const DrawerHeader: React.FC = () => {
   const { getFormState, batchUpdateForm } = useFireForm({ initialValues: initialValues });
 
   const formValues = getFormState();
+  console.log(formValues.initialValues);
 
   const today = format(new Date(), "yyyy-LL-dd");
   const tomorrow = format(add(today, { days: 1 }), "yyyy-LL-dd");
