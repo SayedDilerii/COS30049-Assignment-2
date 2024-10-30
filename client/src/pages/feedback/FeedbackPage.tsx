@@ -5,12 +5,35 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
-import { FormEvent } from "react";
+import { FormEvent, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const FeedbackPage: React.FC = () => {
   const navigate = useNavigate();
   const isDesktop = useMediaQuery("(min-width: 700px)");
+
+  // State for form inputs
+  const [formData, setFormData] = useState({
+    fullName: "",
+    email: "",
+    feedback: "",
+  });
+
+  // State for "Thank You" modal
+  const [showThankYou, setShowThankYou] = useState(false);
+
+  // Update state on input change
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    const { name, value } = e.target;
+    setFormData((prevData) => ({ ...prevData, [name]: value }));
+  };
+
+  // Handle form submission
+  const handleFormSubmit = (e: FormEvent) => {
+    e.preventDefault();
+    console.log("Form Data Submitted:", formData); // Log the form data
+    setShowThankYou(true); // Show "Thank You" modal
+  };
 
   const DisplayTooltip = () => {
     if (isDesktop) {
@@ -69,12 +92,19 @@ const FeedbackPage: React.FC = () => {
 
       <div className="flex flex-col items-center gap-8 px-4 py-12">
         <div className="w-full sm:w-1/2">
-          <form className="grid gap-6" onSubmit={(ev: FormEvent) => ev.preventDefault()}>
+          <form className="grid gap-6" onSubmit={handleFormSubmit}>
             <div className="grid gap-2">
               <Label>
                 Full Name <span className="text-orange-700">*</span>
               </Label>
-              <Input placeholder="Enter full name..." type="text" className="shadow-sm rounded-lg border-zinc-300" />
+              <Input
+                name="fullName"
+                value={formData.fullName}
+                onChange={handleInputChange}
+                placeholder="Enter full name..."
+                type="text"
+                className="shadow-sm rounded-lg border-zinc-300"
+              />
             </div>
             <div className="grid gap-2">
               <Label className="flex items-center justify-between">
@@ -83,23 +113,48 @@ const FeedbackPage: React.FC = () => {
                 </span>
                 <DisplayTooltip />
               </Label>
-              <Input placeholder="Your email address..." type="email" className="shadow-sm rounded-lg border-zinc-300" />
+              <Input
+                name="email"
+                value={formData.email}
+                onChange={handleInputChange}
+                placeholder="Your email address..."
+                type="email"
+                className="shadow-sm rounded-lg border-zinc-300"
+              />
             </div>
             <div className="grid gap-2">
               <Label>
                 Your thoughts on FireGuard <span className="text-orange-700">*</span>
               </Label>
               <textarea
+                name="feedback"
+                value={formData.feedback}
+                onChange={handleInputChange}
                 placeholder="Please enter your feedback..."
                 className="flex min-h-[80px] w-full border-zinc-300 shadow-sm rounded-lg border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
               />
             </div>
             <div>
-              <Button className="w-full">Submit</Button>
+              <Button className="w-full" type="submit">
+                Submit
+              </Button>
             </div>
           </form>
         </div>
       </div>
+
+      {/* Thank You Modal */}
+      {showThankYou && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
+          <div className="bg-white p-6 rounded-lg shadow-lg text-center">
+            <h2 className="text-2xl font-bold mb-4">Thank You!</h2>
+            <p>Your feedback has been submitted successfully.</p>
+            <Button onClick={() => setShowThankYou(false)} className="mt-4">
+              Close
+            </Button>
+          </div>
+        </div>
+      )}
     </Container>
   );
 };
