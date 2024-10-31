@@ -12,27 +12,23 @@ const FeedbackPage: React.FC = () => {
   const navigate = useNavigate();
   const isDesktop = useMediaQuery("(min-width: 700px)");
 
-  // State for form inputs
   const [formData, setFormData] = useState({
     fullName: "",
     email: "",
     feedback: "",
   });
 
-  // State for "Thank You" modal
   const [showThankYou, setShowThankYou] = useState(false);
 
-  // Update state on input change
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({ ...prevData, [name]: value }));
   };
 
-  // Handle form submission
   const handleFormSubmit = (e: FormEvent) => {
     e.preventDefault();
-    console.log("Form Data Submitted:", formData); // Log the form data
-    setShowThankYou(true); // Show "Thank You" modal
+    console.log("Form Data Submitted:", formData); // For debug purposes
+    setShowThankYou(true);
   };
 
   const DisplayTooltip = () => {
@@ -143,7 +139,6 @@ const FeedbackPage: React.FC = () => {
         </div>
       </div>
 
-      {/* Thank You Modal */}
       {showThankYou && (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
           <div className="bg-white p-6 rounded-lg shadow-lg text-center">
