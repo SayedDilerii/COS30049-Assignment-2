@@ -29,7 +29,6 @@ const DrawerHeader: React.FC = () => {
   const { getFormState, batchUpdateForm } = useFireForm({ initialValues: initialValues });
 
   const formValues = getFormState();
-  console.log(formValues.initialValues);
 
   const today = format(new Date(), "yyyy-LL-dd");
   const tomorrow = format(add(today, { days: 1 }), "yyyy-LL-dd");
@@ -92,7 +91,6 @@ const DrawerHeader: React.FC = () => {
       if (error instanceof ZodError) {
         const parsedMessage: Array<ZodError> = JSON.parse(error.message);
         parsedMessage.map((field) => {
-          console.log(field);
           return toast.error(field.message, { icon: <CircleAlert size={16} color="red" />, duration: 3000 });
         });
       }

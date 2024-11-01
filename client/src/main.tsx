@@ -6,6 +6,7 @@ import "./index.css";
 import AboutUsPage from "./pages/about-us/AboutUsPage.tsx";
 import Dashboard from "./pages/dashboard/Dashboard.tsx";
 import FeedbackPage from "./pages/feedback/FeedbackPage.tsx";
+import ViewFeedbackPage from "./pages/feedback/ViewFeedbackPage.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
 import SandBoxPage from "./pages/sandbox/SandboxPage.tsx";
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
       {
         path: "help-page",
         element: <HelpPage />,
+      },
+      {
+        path: "community-feedback",
+        element: <ViewFeedbackPage />,
       },
     ],
   },

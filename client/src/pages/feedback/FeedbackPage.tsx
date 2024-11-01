@@ -4,13 +4,59 @@ import { Drawer, DrawerClose, DrawerContent, DrawerDescription, DrawerFooter, Dr
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+import { useFireForm } from "@/hooks/useFireForm";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
-import { FormEvent } from "react";
+import { CircleAlert } from "lucide-react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { toast } from "sonner";
+import { z, ZodError } from "zod";
+
+const DEFAULT_VALUES = {
+  full_name: "",
+  email: "",
+  feedback: "",
+};
+
+type TPayload = {
+  full_name: string;
+  email: string;
+  feedback: string;
+};
 
 const FeedbackPage: React.FC = () => {
+  const [showThankYou, setShowThankYou] = useState(false);
+  const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
+
   const navigate = useNavigate();
   const isDesktop = useMediaQuery("(min-width: 700px)");
+  const formValues = getFormState();
+
+  // Update state on input change
+  const handleInputChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    const { name, value } = event.target;
+    batchUpdateForm({ ...formValues.initialValues, [name]: value });
+  };
+
+  // Handle form submission
+  const handleFormSubmit = (payload: TPayload) => {
+    try {
+      const feedbackSchema = z.object({
+        full_name: z.string().min(1, { message: "Full name field cannot be empty!" }).max(50, { message: "Full name cannot exceed over 50 characters" }),
+        email: z.string().min(1, { message: "Email field cannot be empty!" }).email({ message: "Invalid email format" }),
+        feedback: z.string().min(1, { message: "Feedback cannot be empty!" }),
+      });
+      feedbackSchema.parse(payload);
+      setShowThankYou(true);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        const parsedMessage: Array<ZodError> = JSON.parse(error.message);
+        parsedMessage.map((field) => {
+          return toast.error(field.message, { icon: <CircleAlert size={16} color="red" />, duration: 3000 });
+        });
+      }
+    }
+  };
 
   const DisplayTooltip = () => {
     if (isDesktop) {
@@ -69,12 +115,19 @@ const FeedbackPage: React.FC = () => {
 
       <div className="flex flex-col items-center gap-8 px-4 py-12">
         <div className="w-full sm:w-1/2">
-          <form className="grid gap-6" onSubmit={(ev: FormEvent) => ev.preventDefault()}>
+          <form className="grid gap-6" onSubmit={(e) => e.preventDefault()}>
             <div className="grid gap-2">
               <Label>
                 Full Name <span className="text-orange-700">*</span>
               </Label>
-              <Input placeholder="Enter full name..." type="text" className="shadow-sm rounded-lg border-zinc-300" />
+              <Input
+                name="full_name"
+                value={formValues.initialValues.full_name}
+                onChange={(event) => handleInputChange(event)}
+                placeholder="Enter full name..."
+                type="text"
+                className="shadow-sm rounded-lg border-zinc-300"
+              />
             </div>
             <div className="grid gap-2">
               <Label className="flex items-center justify-between">
@@ -83,23 +136,57 @@ const FeedbackPage: React.FC = () => {
                 </span>
                 <DisplayTooltip />
               </Label>
-              <Input placeholder="Your email address..." type="email" className="shadow-sm rounded-lg border-zinc-300" />
+              <Input
+                name="email"
+                value={formValues.initialValues.email}
+                onChange={(event) => handleInputChange(event)}
+                placeholder="Your email address..."
+                type="email"
+                className="shadow-sm rounded-lg border-zinc-300"
+              />
             </div>
             <div className="grid gap-2">
               <Label>
                 Your thoughts on FireGuard <span className="text-orange-700">*</span>
               </Label>
               <textarea
+                name="feedback"
+                value={formValues.initialValues.feedback}
+                onChange={(event) => handleInputChange(event)}
                 placeholder="Please enter your feedback..."
                 className="flex min-h-[80px] w-full border-zinc-300 shadow-sm rounded-lg border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
               />
             </div>
-            <div>
-              <Button className="w-full">Submit</Button>
-            </div>
           </form>
+          <div className="mt-8 grid gap-2">
+            <Button className="w-full" type="submit" onClick={() => handleFormSubmit(formValues.initialValues)}>
+              Submit
+            </Button>
+            <Button className="w-full bg-zinc-100 hover:bg-zinc-200" variant={"ghost"} type="submit" onClick={() => navigate("/community-feedback")}>
+              View community feedback
+            </Button>
+          </div>
         </div>
       </div>
+
+      {/* Thank You Modal */}
+      {showThankYou && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
+          <div className="bg-white p-6 rounded-lg shadow-lg text-center">
+            <h2 className="text-2xl font-bold mb-4">Thank You!</h2>
+            <p>Your feedback has been submitted successfully.</p>
+            <Button
+              onClick={() => {
+                setShowThankYou(false);
+                resetToDefault();
+              }}
+              className="mt-4"
+            >
+              Close
+            </Button>
+          </div>
+        </div>
+      )}
     </Container>
   );
 };

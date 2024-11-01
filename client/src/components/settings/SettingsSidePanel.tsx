@@ -1,3 +1,5 @@
+import { useMediaQuery } from "@/hooks/useMediaQuery";
+import { useNavigate } from "react-router-dom";
 import { Button } from "../ui/button";
 
 interface IProps {
@@ -6,15 +8,29 @@ interface IProps {
 }
 
 const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
-  const buttonStylesActive: string = "bg-emerald-100 text-emerald-600";
+  const buttonStylesActive = "bg-emerald-100 text-emerald-600";
+  const isMobile = useMediaQuery("(max-width: 700px)");
+  const navigate = useNavigate();
 
   return (
-    <div className="flex flex-col h-full px-12 pt-24">
-      <div className="flex flex-col gap-24">
-        <h1 className="text-3xl font-medium text-zinc-500">Settings</h1>
-        <div className="flex flex-col gap-1">
+    <div className={isMobile ? "px-4 pt-10" : "flex flex-col h-full px-12 pt-24"}>
+      <div className={isMobile ? "flex flex-col gap-4" : "flex flex-col gap-24"}>
+        <div className="flex items-center justify-between">
+          <h1 className="text-3xl font-medium text-zinc-500">Settings</h1>
+          {isMobile && (
+            <Button onClick={() => navigate("/dashboard")} className="w-32">
+              Go to Dashboard
+            </Button>
+          )}
+        </div>
+        {isMobile && (
+          <>
+            <div className="border-b-2 mt-2 flex-grow"></div>
+          </>
+        )}
+        <div className={isMobile ? "flex flex-col gap-4" : "flex flex-col gap-1"}>
           <Button
-            variant={"ghost"}
+            variant="ghost"
             className={`${
               currentOption === "general" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
@@ -23,7 +39,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             General
           </Button>
           <Button
-            variant={"ghost"}
+            variant="ghost"
             className={`${
               currentOption === "options" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
@@ -32,7 +48,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             Options
           </Button>
           <Button
-            variant={"ghost"}
+            variant="ghost"
             className={`${
               currentOption === "notification" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
@@ -41,7 +57,7 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
             Notifications
           </Button>
           <Button
-            variant={"ghost"}
+            variant="ghost"
             className={`${
               currentOption === "privacy" && buttonStylesActive
             } text-[16px] text-start hover:text-emerald-700 rounded-lg justify-start sm:py-6 sm:pr-24 hover:bg-emerald-100`}
