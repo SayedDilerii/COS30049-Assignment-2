@@ -4,6 +4,7 @@ import DrawerFooter from "@/components/dashboard/drawer/DrawerFooter";
 import DrawerHeader from "@/components/dashboard/drawer/DrawerHeader";
 import GoogleMaps from "@/components/dashboard/google-maps/GoogleMaps";
 import Container from "@/components/ui/container";
+import { DashboardProvider } from "@/providers/DashboardProvider";
 
 const Dashboard: React.FC = () => {
   return (
@@ -13,7 +14,9 @@ const Dashboard: React.FC = () => {
           <GoogleMaps />
         </Container>
         <Container className="w-full h-1/2">
-          <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
+          <DashboardProvider>
+            <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
+          </DashboardProvider>
         </Container>
       </Container>
     </>

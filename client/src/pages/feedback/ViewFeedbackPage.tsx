@@ -36,7 +36,7 @@ const ViewFeedbackPage: React.FC = () => {
       return (
         <div>
           <p>Sorry, something went wrong.</p>
-          <Button variant={"destructive"} onClick={() => location.reload()}>
+          <Button variant={"destructive"} onClick={() => queryFeedback.refetch()}>
             Reload
           </Button>
         </div>
@@ -47,7 +47,7 @@ const ViewFeedbackPage: React.FC = () => {
       const feedbackItems = queryFeedback.data.results;
 
       return feedbackItems.map((result) => (
-        <Dialog>
+        <Dialog key={result.id}>
           <DialogTrigger className="hover:bg-zinc-100 block w-full text-start hover:px-4 transition-all py-6 border-b">
             <div className="flex flex-col items-start">
               <p className="text-[1.1em] text-slate-800 font-semibold tracking-tight">{result.full_name}</p>
@@ -83,9 +83,7 @@ const ViewFeedbackPage: React.FC = () => {
 
       <section className="h-full px-4 sm:px-44 py-4 w-full">
         <div className="text-zinc-500">Results: {feedbackCount}</div>
-        <div>
-          {renderFeedbackList()} {renderFeedbackList()}
-        </div>
+        <div>{renderFeedbackList()}</div>
       </section>
     </Container>
   );

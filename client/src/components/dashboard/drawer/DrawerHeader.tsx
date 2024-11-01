@@ -1,13 +1,19 @@
 import { Button } from "@/components/ui/button";
 import Container from "@/components/ui/container";
 import { Input } from "@/components/ui/input";
+import Loader from "@/components/ui/loader";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { states } from "@/constants/states";
 import { useFireForm } from "@/hooks/useFireForm";
-import { getNextMonday, getUpcomingWeekend } from "@/lib/date";
+import { get } from "@/lib/api";
+import { getNextMonday } from "@/lib/date";
+import { DashboardContext } from "@/providers/DashboardProvider";
+import { ModelResult } from "@/types/model.type";
+import { useQuery } from "@tanstack/react-query";
 import { add, format } from "date-fns";
 import { Calendar, CircleAlert, Cpu, SunIcon } from "lucide-react";
+import { useContext, useState } from "react";
 import { toast } from "sonner";
 import z, { ZodError } from "zod";
 
@@ -24,15 +30,35 @@ type TPayload = {
   tmax: string;
 };
 
+const validationSchema = z
+  .object({
+    state: z.string().min(2, { message: "State field is missing..." }),
+    date: z.string().min(1, { message: "Date field is required and must be correct format (yyyy-mm-dd)..." }),
+    tmin: z.string().min(1, { message: "Minimum temperature is missing..." }),
+    tmax: z.string().min(1, { message: "Maximum temperature is missing..." }),
+  })
+  .required()
+  .refine(
+    (data) => {
+      const min = Number(data.tmin);
+      const max = Number(data.tmax);
+      return !isNaN(min) && !isNaN(max) && min <= max;
+    },
+    {
+      message: "Minimum temperature cannot be greater than Maximum temperature",
+      path: ["tmin"],
+    }
+  );
+
 const DrawerHeader: React.FC = () => {
   const initialValues = { state: "", date: "", tmin: "", tmax: "" };
   const { getFormState, batchUpdateForm } = useFireForm({ initialValues: initialValues });
+  const [searchParams, setSearchParams] = useState<TPayload | null>(null);
+  const dashboardContext = useContext(DashboardContext);
 
   const formValues = getFormState();
 
   const today = format(new Date(), "yyyy-LL-dd");
-  const tomorrow = format(add(today, { days: 1 }), "yyyy-LL-dd");
-  const approachingWeekend = format(getUpcomingWeekend(today), "yyyy-LL-dd");
   const startOfNextWeek = format(getNextMonday(today), "yyyy-LL-dd");
   const nextSevenDays = format(add(today, { days: 7 }), "yyyy-LL-dd");
 
@@ -41,16 +67,6 @@ const DrawerHeader: React.FC = () => {
       option: "Today",
       date: today,
       day: format(today, "EEE"),
-    },
-    {
-      option: "Tomorrow",
-      date: tomorrow,
-      day: format(tomorrow, "EEE"),
-    },
-    {
-      option: "This weekend",
-      date: approachingWeekend,
-      day: format(approachingWeekend, "EEE"),
     },
     {
       option: "Start of next week",
@@ -64,29 +80,25 @@ const DrawerHeader: React.FC = () => {
     },
   ];
 
+  const queryModel = useQuery({
+    queryKey: ["/model", searchParams],
+    queryFn: async () => {
+      if (!searchParams) return null;
+      const { state, date, tmin, tmax } = searchParams;
+      const url = `/model?state=${state}&date=${date}&tmin=${tmin}&tmax=${tmax}`;
+      const result = await get<ModelResult>(url);
+      dashboardContext?.setDataHandler(result);
+      return result;
+    },
+    enabled: !!searchParams, // Only query when searchParams exists
+    staleTime: 600000,
+    refetchOnWindowFocus: false,
+  });
+
   const handleSubmit = (payload: TPayload) => {
     try {
-      const validationSchema = z
-        .object({
-          state: z.string().min(2, { message: "State field is missing..." }),
-          date: z.string().min(1, { message: "Date field is required and must be correct format (yyyy-mm-dd)..." }),
-          tmin: z.string().min(1, { message: "Minimum temperature is missing..." }),
-          tmax: z.string().min(1, { message: "Maximum temperature is missing..." }),
-        })
-        .required()
-        .refine(
-          (data) => {
-            const min = Number(data.tmin);
-            const max = Number(data.tmax);
-            return !isNaN(min) && !isNaN(max) && min <= max;
-          },
-          {
-            message: "Minimum temperature cannot be greater than Maximum temperature",
-            path: ["tmin"],
-          }
-        );
       validationSchema.parse(payload);
-      toast.success("Validation success...ready to ping API", { duration: 2000 });
+      setSearchParams(payload);
     } catch (error) {
       if (error instanceof ZodError) {
         const parsedMessage: Array<ZodError> = JSON.parse(error.message);
@@ -126,7 +138,7 @@ const DrawerHeader: React.FC = () => {
               <p className="text-[14px] font-normal">{formValues.initialValues.date.length !== 0 ? formValues.initialValues.date : "Select date:"}</p>
             </Button>
           </PopoverTrigger>
-          <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[300px] bg-white p-6 overflow-y-scroll" align="end">
+          <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[250px] bg-white p-6 overflow-y-scroll" align="end">
             <div>
               <p className="text-zinc-500 mb-6 font-medium">Select preset dates:</p>
               <form>
@@ -197,8 +209,8 @@ const DrawerHeader: React.FC = () => {
             </form>
           </PopoverContent>
         </Popover>
-        <Button className="text-[14px]" onClick={() => handleSubmit(formValues.initialValues)}>
-          <p className="text-[14px] font-normal">Search</p>
+        <Button className="text-[14px]" onClick={() => handleSubmit(formValues.initialValues)} disabled={queryModel.isFetching}>
+          {queryModel.isLoading ? <Loader message="loading..." /> : <p className="text-[14px] font-normal">Search</p>}
         </Button>
       </div>
     </Container>
