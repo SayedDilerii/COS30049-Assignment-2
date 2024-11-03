@@ -13,7 +13,7 @@ const OnBoardingPage: React.FC = () => {
   const isDesktop = useMediaQuery("(min-width: 700px)");
 
   const nextSlide = () => {
-    if (currentSlide >= 0 && currentSlide <= 3) {
+    if (currentSlide >= 0 && currentSlide <= 4) {
       setCurrentSlide((currentSlide) => currentSlide + 1);
     }
   };
@@ -49,8 +49,15 @@ const OnBoardingPage: React.FC = () => {
     },
     {
       icon: <FaviconPlaceholder isIcon icon={Check} />,
-      heading: <p>You’re all set</p>,
+      heading: <p>You’re almost all set</p>,
       caption: <p>Stay safe, stay informed, and check back regularly for updates.</p>,
+      isLastSlide: false,
+    },
+    {
+      icon: <FaviconPlaceholder isIcon icon={Check} />,
+      heading: <p>Please set your current state:</p>,
+      caption: <p>Stay safe, stay informed, and check back regularly for updates.</p>,
+      children: <>Form</>,
       isLastSlide: true,
     },
   ];
