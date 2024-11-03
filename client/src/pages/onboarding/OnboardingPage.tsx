@@ -6,7 +6,6 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Container from "../../components/ui/container";
 
-// TODO: make it response as per Figma design.
 const OnBoardingPage: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState<number>(0);
   const navigate = useNavigate();
