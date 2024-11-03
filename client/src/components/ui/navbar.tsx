@@ -1,5 +1,6 @@
+import { NavigationContext } from "@/providers/NavigationProvider";
 import { Bell, GroupIcon, HelpCircleIcon, Menu, Settings, Sun, ThumbsUp, TriangleAlert } from "lucide-react";
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "./button";
 import { Popover, PopoverContent, PopoverTrigger } from "./popover";
@@ -8,12 +9,19 @@ const Navbar: React.FC = () => {
   const url = useLocation();
   const isOnboardingPage = url.pathname === "/onboarding";
   const [isOpen, setIsOpen] = useState<boolean>(false);
+
+  const navbarContext = useContext(NavigationContext);
+  const isMobile = navbarContext?.isMobileView;
+
+  console.log(isMobile);
+
   const today = new Date().toLocaleDateString("en-US", {
     month: "long",
     day: "numeric",
     year: "numeric",
   });
 
+  // Dummy data:
   const notifications = [
     {
       urgency: "HIGH",
@@ -78,7 +86,7 @@ const Navbar: React.FC = () => {
   ];
 
   return (
-    <div className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-12"} bg-[#106B40]`}>
+    <div className={`h-[72px] sm:h-[64px] flex items-center justify-between gap-2 ${!isOnboardingPage ? "px-4" : "px-6 sm:px-12"} bg-[#106B40]`}>
       <div className="flex items-center gap-2">
         <Sun className="text-emerald-100" size={22} />
         <Link to={isOnboardingPage ? "/onboarding" : "/dashboard"} className="text-[1em] text-emerald-100 cursor-pointer" title="FireGuard Logo - Stay safe, stay aware.">
@@ -111,18 +119,20 @@ const Navbar: React.FC = () => {
                 <p className="text-lg sm:text-[1.5em] font-medium">Updates and Alerts</p>
               </div>
               <table className="w-full mt-6 hidden sm:block">
-                <tr className="w-full">
-                  <th className="font-light text-zinc-400 w-[150px] text-start tracking-tight">Urgency</th>
-                  <th className="font-light text-zinc-400 text-start w-[150px] tracking-tight">Location</th>
-                  <th className="font-light text-zinc-400 text-start tracking-tight">Datetime</th>
-                </tr>
-                {notifications.map((item) => (
+                <tbody>
                   <tr className="w-full">
-                    <td className={`font-medium w-[150px] py-2 ${item.color} tracking-tight`}>{item.urgency}</td>
-                    <td className="font-normal w-[150px] py-2">{item.location}</td>
-                    <td className="font-normal py-2">{item.datetime}</td>
+                    <th className="font-light text-zinc-400 w-[150px] text-start tracking-tight">Urgency</th>
+                    <th className="font-light text-zinc-400 text-start w-[150px] tracking-tight">Location</th>
+                    <th className="font-light text-zinc-400 text-start tracking-tight">Datetime</th>
                   </tr>
-                ))}
+                  {notifications.map((item, idx) => (
+                    <tr className="w-full" key={idx}>
+                      <td className={`font-medium w-[150px] py-2 ${item.color} tracking-tight`}>{item.urgency}</td>
+                      <td className="font-normal w-[150px] py-2">{item.location}</td>
+                      <td className="font-normal py-2">{item.datetime}</td>
+                    </tr>
+                  ))}
+                </tbody>
               </table>
               {/* Mobile view */}
               <div className="flex flex-col gap-3 h-[270px] overflow-y-scroll mt-4 sm:hidden ">
@@ -211,7 +221,7 @@ const Navbar: React.FC = () => {
   );
 };
 
-const MemoizedNavbar = React.memo(Navbar);
-MemoizedNavbar.displayName = "MemoizedNavbar";
+// const MemoizedNavbar = React.memo(Navbar);
+// MemoizedNavbar.displayName = "MemoizedNavbar";
 
-export default MemoizedNavbar;
+export default Navbar;

@@ -4,11 +4,32 @@ import { Drawer, DrawerClose, DrawerContent, DrawerDescription, DrawerFooter, Dr
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+import { useFireForm } from "@/hooks/useFireForm";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
-import { FormEvent, useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
+const DEFAULT_VALUES = {
+  full_name: "",
+  email: "",
+  feedback: "",
+};
+
+type TPayload = {
+  full_name: string;
+  email: string;
+  feedback: string;
+};
+
+type Response = {
+  success: boolean;
+  message: string;
+};
+
 const FeedbackPage: React.FC = () => {
+  const [showThankYou, setShowThankYou] = useState(false);
+  const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
+
   const navigate = useNavigate();
   const isDesktop = useMediaQuery("(min-width: 700px)");
 
@@ -88,15 +109,15 @@ const FeedbackPage: React.FC = () => {
 
       <div className="flex flex-col items-center gap-8 px-4 py-12">
         <div className="w-full sm:w-1/2">
-          <form className="grid gap-6" onSubmit={handleFormSubmit}>
+          <form className="grid gap-6" onSubmit={(e) => e.preventDefault()}>
             <div className="grid gap-2">
               <Label>
                 Full Name <span className="text-orange-700">*</span>
               </Label>
               <Input
-                name="fullName"
-                value={formData.fullName}
-                onChange={handleInputChange}
+                name="full_name"
+                value={formValues.initialValues.full_name}
+                onChange={(event) => handleInputChange(event)}
                 placeholder="Enter full name..."
                 type="text"
                 className="shadow-sm rounded-lg border-zinc-300"
@@ -111,8 +132,8 @@ const FeedbackPage: React.FC = () => {
               </Label>
               <Input
                 name="email"
-                value={formData.email}
-                onChange={handleInputChange}
+                value={formValues.initialValues.email}
+                onChange={(event) => handleInputChange(event)}
                 placeholder="Your email address..."
                 type="email"
                 className="shadow-sm rounded-lg border-zinc-300"
@@ -124,18 +145,21 @@ const FeedbackPage: React.FC = () => {
               </Label>
               <textarea
                 name="feedback"
-                value={formData.feedback}
-                onChange={handleInputChange}
+                value={formValues.initialValues.feedback}
+                onChange={(event) => handleInputChange(event)}
                 placeholder="Please enter your feedback..."
                 className="flex min-h-[80px] w-full border-zinc-300 shadow-sm rounded-lg border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
               />
             </div>
-            <div>
-              <Button className="w-full" type="submit">
-                Submit
-              </Button>
-            </div>
           </form>
+          <div className="mt-8 grid gap-2">
+            <Button className="w-full" type="submit" onClick={() => handleFormSubmit(formValues.initialValues)}>
+              Submit
+            </Button>
+            <Button className="w-full bg-zinc-100 hover:bg-zinc-200" variant={"ghost"} type="submit" onClick={() => navigate("/community-feedback")}>
+              View community feedback
+            </Button>
+          </div>
         </div>
       </div>
 
@@ -144,7 +168,13 @@ const FeedbackPage: React.FC = () => {
           <div className="bg-white p-6 rounded-lg shadow-lg text-center">
             <h2 className="text-2xl font-bold mb-4">Thank You!</h2>
             <p>Your feedback has been submitted successfully.</p>
-            <Button onClick={() => setShowThankYou(false)} className="mt-4">
+            <Button
+              onClick={() => {
+                setShowThankYou(false);
+                resetToDefault();
+              }}
+              className="mt-4"
+            >
               Close
             </Button>
           </div>

@@ -5,7 +5,8 @@ import SettingsPrivacy from "@/components/settings/SettingsPrivacy";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
 import Container from "@/components/ui/container";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
-import { useState } from "react";
+import { NavigationContext } from "@/providers/NavigationProvider";
+import { useContext, useEffect, useState } from "react";
 
 const SettingsPage: React.FC = () => {
   const [settings, setSettings] = useState({
@@ -14,6 +15,8 @@ const SettingsPage: React.FC = () => {
   const [mobileSettings, setMobileSettings] = useState({
     option: "menu",
   });
+
+  const navbarContext = useContext(NavigationContext);
 
   const isMobile = useMediaQuery("(max-width: 700px)");
   const isDesktop = useMediaQuery("(min-width: 1200px)");
@@ -27,6 +30,14 @@ const SettingsPage: React.FC = () => {
       setSettings({ option: value });
     }
   };
+
+  useEffect(() => {
+    if (isMobile) {
+      navbarContext?.setMobileViewHandler(true);
+    } else {
+      navbarContext?.setMobileViewHandler(false);
+    }
+  }, [isMobile, navbarContext]);
 
   const handleReturnToSettings = () => {
     setMobileSettings({ option: "menu" }); // Return to main settings view
