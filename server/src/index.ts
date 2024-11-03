@@ -1,14 +1,9 @@
-import express from "express";
-import usersRouter from "./routes/users.routes";
-import bodyParser from "body-parser";
+import { App } from "./app";
+import { Config } from "./types/config.type";
 
-const PORT = 3002;
-const app = express();
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(express.json())
+const config: Config = {
+  port: Number(process.env.PORT) || 3000,
+};
 
-app.use("/api/users", usersRouter);
-
-app.listen(PORT, () => {
-  console.log(`Server is listening on port: ${PORT}`);
-});
+const app = new App(config);
+app.start();

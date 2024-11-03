@@ -4,17 +4,20 @@ import DrawerFooter from "@/components/dashboard/drawer/DrawerFooter";
 import DrawerHeader from "@/components/dashboard/drawer/DrawerHeader";
 import GoogleMaps from "@/components/dashboard/google-maps/GoogleMaps";
 import Container from "@/components/ui/container";
+import { DashboardProvider } from "@/providers/DashboardProvider";
 
 const Dashboard: React.FC = () => {
   return (
     <>
       <Container className="h-full relative overflow-auto">
-        <Container className="bg-zinc-200 h-1/2">
-          <GoogleMaps />
-        </Container>
-        <Container className="w-full h-1/2">
-          <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
-        </Container>
+        <DashboardProvider>
+          <Container className="bg-zinc-200 h-1/2">
+            <GoogleMaps />
+          </Container>
+          <Container className="w-full h-1/2">
+            <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
+          </Container>
+        </DashboardProvider>
       </Container>
     </>
   );

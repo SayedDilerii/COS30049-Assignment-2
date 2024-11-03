@@ -1,61 +1,135 @@
-import PropertySelector from "@/components/settings/SettingsPropertySelector";
+import GeneralSettings from "@/components/settings/SettingsGeneral";
+import SettingsNotifications from "@/components/settings/SettingsNotification";
+import SettingsOptions from "@/components/settings/SettingsOptions";
+import SettingsPrivacy from "@/components/settings/SettingsPrivacy";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
 import Container from "@/components/ui/container";
-import { useState } from "react";
+import { useMediaQuery } from "@/hooks/useMediaQuery";
+import { NavigationContext } from "@/providers/NavigationProvider";
+import { useContext, useEffect, useState } from "react";
 
 const SettingsPage: React.FC = () => {
-  const [option, setOptions] = useState("general");
-  const setOptionsCallback = (optionValue: string) => {
-    setOptions(optionValue);
+  const [settings, setSettings] = useState({
+    option: "general",
+  });
+  const [mobileSettings, setMobileSettings] = useState({
+    option: "menu",
+  });
+
+  const navbarContext = useContext(NavigationContext);
+
+  const isMobile = useMediaQuery("(max-width: 700px)");
+  const isDesktop = useMediaQuery("(min-width: 1200px)");
+
+  const handleSelect = (key: string, value: string) => {
+    if (key !== "option") return; // Ensures the key is always "option"
+
+    if (isMobile) {
+      setMobileSettings({ option: value });
+    } else {
+      setSettings({ option: value });
+    }
   };
 
-  const [selectedTemperature, setSelectedTemperature] = useState<string>("Celsius");
-  const [selectedDateFormat, setSelectedDateFormat] = useState<string>("YYYY-MM-DD");
+  useEffect(() => {
+    if (isMobile) {
+      navbarContext?.setMobileViewHandler(true);
+    } else {
+      navbarContext?.setMobileViewHandler(false);
+    }
+  }, [isMobile, navbarContext]);
 
-  const handleTemperatureSelect = (format: string) => {
-    setSelectedTemperature(format);
+  const handleReturnToSettings = () => {
+    setMobileSettings({ option: "menu" }); // Return to main settings view
   };
 
-  const handleDateFormatSelect = (format: string) => {
-    setSelectedDateFormat(format);
+  const renderContent = () => {
+    switch (settings.option) {
+      case "general":
+        return <GeneralSettings />;
+      case "options":
+        return <SettingsOptions />;
+      case "notification":
+        return <SettingsNotifications />;
+      case "privacy":
+        return <SettingsPrivacy />;
+      default:
+        return <GeneralSettings />; // Provide a sensible default
+    }
+  };
+
+  const renderMobileContent = () => {
+    const returnButton = (
+      <button onClick={handleReturnToSettings} className="bg-zinc-400 text-white px-2 py-2 rounded-full">
+        Return to Settings
+      </button>
+    );
+
+    switch (mobileSettings.option) {
+      case "general":
+        return (
+          <div className="px-2">
+            <div className="flex items-center justify-between pt-4">
+              <h1 className="text-2xl font-medium text-zinc-500">General</h1>
+              {returnButton}
+            </div>
+            <div className="border-b-2 border-zinc-200 py-4"></div>
+            <GeneralSettings />
+          </div>
+        );
+      case "options":
+        return (
+          <div className="px-2">
+            <div className="flex items-center justify-between pt-4">
+              <h1 className="text-2xl font-medium text-zinc-500">Options</h1>
+              {returnButton}
+            </div>
+            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <SettingsOptions />
+          </div>
+        );
+      case "notification":
+        return (
+          <div className="px-2">
+            <div className="flex items-center justify-between pt-4">
+              <h1 className="text-2xl font-medium text-zinc-500">Notifications</h1>
+              {returnButton}
+            </div>
+            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <SettingsNotifications />
+          </div>
+        );
+      case "privacy":
+        return (
+          <div className="px-2">
+            <div className="flex items-center justify-between pt-4">
+              <h1 className="text-2xl font-medium text-zinc-500">Privacy</h1>
+              {returnButton}
+            </div>
+            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <SettingsPrivacy />
+          </div>
+        );
+      default:
+        return <SettingsSidePanel callback={handleSelect} currentOption={settings.option} />;
+    }
   };
 
   return (
-    <>
-      <Container className="flex h-full mx-20">
-        {/** Side panel div **/}
-        <div className="ml-24">
-          <SettingsSidePanel callback={(optionValue: string) => setOptionsCallback(optionValue)} currentOption={option} />
-        </div>
-        <div className="border-l w-full px-8 mt-24 flex-col">
-          {option === "general" && (
-            <div>
-              <div>
-                <PropertySelector
-                  heading="Temperature"
-                  caption="Select temperature unit"
-                  triggerText={selectedTemperature}
-                  items={["Celsius", "Fahrenheit"]}
-                  onSelect={handleTemperatureSelect}
-                />
-              </div>
-              <div className="pt-4">
-                <PropertySelector
-                  heading="Date format"
-                  caption="Select date format"
-                  triggerText={selectedDateFormat}
-                  items={["YYYY-MM-DD", "DD-MM-YYYY"]}
-                  onSelect={handleDateFormatSelect}
-                />
-              </div>
+    <Container>
+      <div className="flex h-full">
+        {isMobile ? (
+          <div className="w-full px-4">{renderMobileContent()}</div>
+        ) : (
+          <>
+            <div className={isDesktop ? "ml-24" : ""}>
+              <SettingsSidePanel callback={handleSelect} currentOption={settings.option} />
             </div>
-          )}
-          {option === "options" && <div>options</div>}
-          {option === "notification" && <div>notification</div>}
-          {option === "privacy" && <div>privacy</div>}
-        </div>
-      </Container>
-    </>
+            <div className="border-l w-full px-8 mt-24 flex-col">{renderContent()}</div>
+          </>
+        )}
+      </div>
+    </Container>
   );
 };
 

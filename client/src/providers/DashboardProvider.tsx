@@ -1,0 +1,52 @@
+import { ModelResult } from "@/types/model.type";
+import { createContext, useState } from "react";
+
+interface DashboardProps {
+  children: React.ReactNode;
+}
+
+interface ContextProps {
+  data: ModelResult | null;
+  isLoading: boolean;
+  isError: boolean;
+  error: Error | null;
+  isFetching: boolean;
+  setDataHandler: (data: ModelResult) => void;
+  setLoadingState: (loading: boolean) => void;
+  setErrorState: (isError: boolean, error: Error | null) => void;
+  setFetchingState: (isFetching: boolean) => void;
+}
+const DashboardContext = createContext<ContextProps | null>(null);
+
+const DashboardProvider: React.FC<DashboardProps> = ({ children }) => {
+  const [data, setData] = useState<ModelResult | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
+  const [isError, setIsError] = useState(false);
+  const [error, setError] = useState<Error | null>(null);
+  const [isFetching, setisFetching] = useState(false);
+
+  const setDataHandler = (data: ModelResult) => {
+    setData(data);
+  };
+
+  const setLoadingState = (loading: boolean) => {
+    setIsLoading(loading);
+  };
+
+  const setErrorState = (isError: boolean, error: Error | null) => {
+    setIsError(isError);
+    setError(error);
+  };
+
+  const setFetchingState = (isFetching: boolean) => {
+    setisFetching(isFetching);
+  };
+
+  return (
+    <DashboardContext.Provider value={{ data, isLoading, isError, error, isFetching, setDataHandler, setLoadingState, setErrorState, setFetchingState }}>
+      {children}
+    </DashboardContext.Provider>
+  );
+};
+
+export { DashboardContext, DashboardProvider };

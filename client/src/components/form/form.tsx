@@ -40,15 +40,6 @@ const notifications = [
   { value: "text", name: "Text" },
   { value: "call", name: "Call" },
 ];
-// const apiInitialValues = async () => {
-//   try {
-//     const result = await fetchFromServer();
-//     console.log(result);
-//     return result;
-//   } catch (error) {
-//     console.log(error);
-//   }
-// };
 
 const Form = forwardRef<HTMLFormElement, TFormProps>(({ submitCallback }, ref) => {
   const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues, defaultValues });
