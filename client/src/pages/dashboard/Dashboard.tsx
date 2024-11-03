@@ -10,14 +10,14 @@ const Dashboard: React.FC = () => {
   return (
     <>
       <Container className="h-full relative overflow-auto">
-        <Container className="bg-zinc-200 h-1/2">
-          <GoogleMaps />
-        </Container>
-        <Container className="w-full h-1/2">
-          <DashboardProvider>
+        <DashboardProvider>
+          <Container className="bg-zinc-200 h-1/2">
+            <GoogleMaps />
+          </Container>
+          <Container className="w-full h-1/2">
             <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
-          </DashboardProvider>
-        </Container>
+          </Container>
+        </DashboardProvider>
       </Container>
     </>
   );

@@ -13,7 +13,7 @@ import { ModelResult } from "@/types/model.type";
 import { useQuery } from "@tanstack/react-query";
 import { add, format } from "date-fns";
 import { Calendar, CircleAlert, Cpu, SunIcon } from "lucide-react";
-import { useContext, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { toast } from "sonner";
 import z, { ZodError } from "zod";
 
@@ -91,9 +91,14 @@ const DrawerHeader: React.FC = () => {
       return result;
     },
     enabled: !!searchParams, // Only query when searchParams exists
-    staleTime: 600000,
     refetchOnWindowFocus: false,
   });
+
+  useEffect(() => {
+    dashboardContext?.setLoadingState(queryModel.isLoading);
+    dashboardContext?.setFetchingState(queryModel.isFetching);
+    dashboardContext?.setErrorState(queryModel.isError, queryModel.error instanceof Error ? queryModel.error : null);
+  }, [queryModel.isLoading, queryModel.isError, queryModel.error, dashboardContext, queryModel.isFetching]);
 
   const handleSubmit = (payload: TPayload) => {
     try {
@@ -209,8 +214,8 @@ const DrawerHeader: React.FC = () => {
             </form>
           </PopoverContent>
         </Popover>
-        <Button className="text-[14px]" onClick={() => handleSubmit(formValues.initialValues)} disabled={queryModel.isFetching}>
-          {queryModel.isLoading ? <Loader message="loading..." /> : <p className="text-[14px] font-normal">Search</p>}
+        <Button className="text-[14px]" onClick={() => handleSubmit(formValues.initialValues)} disabled={dashboardContext?.isFetching}>
+          {dashboardContext?.isFetching ? <Loader message="loading..." /> : <p className="text-[14px] font-normal">Search</p>}
         </Button>
       </div>
     </Container>
