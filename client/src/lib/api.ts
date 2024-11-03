@@ -26,12 +26,11 @@ async function http<T>(path: string, config: RequestInit): Promise<T> {
   const response = await fetch(request);
 
   if (!response.ok) {
-    // You might want to handle specific status codes differently
     if (response.status === 403) {
       throw new Error("CORS Error: Permission denied");
     }
-    if (response.status === 401) {
-      throw new Error("Authentication required");
+    if (response.status === 500) {
+      throw new Error("Internal Server Error - Please ensure your form credentials are also correct.");
     }
     throw new Error(response.statusText || `Error ${response.status}`);
   }
@@ -51,7 +50,7 @@ export async function get<T>(path: string, config?: RequestInit): Promise<T> {
   return await http<T>(path, init);
 }
 
-export async function post<T, U>(path: string, body: T, config: RequestInit): Promise<U> {
+export async function post<T, U>(path: string, body: T, config?: RequestInit): Promise<U> {
   const init = { method: "post", body: JSON.stringify(body), ...config };
   return await http<U>(path, init);
 }

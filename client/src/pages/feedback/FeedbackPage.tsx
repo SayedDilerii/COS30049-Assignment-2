@@ -6,6 +6,8 @@ import { Label } from "@/components/ui/label";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { useFireForm } from "@/hooks/useFireForm";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
+import { post } from "@/lib/api";
+import { useMutation } from "@tanstack/react-query";
 import { CircleAlert } from "lucide-react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
@@ -24,6 +26,11 @@ type TPayload = {
   feedback: string;
 };
 
+type Response = {
+  success: boolean;
+  message: string;
+};
+
 const FeedbackPage: React.FC = () => {
   const [showThankYou, setShowThankYou] = useState(false);
   const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
@@ -38,6 +45,19 @@ const FeedbackPage: React.FC = () => {
     batchUpdateForm({ ...formValues.initialValues, [name]: value });
   };
 
+  const mutation = useMutation({
+    mutationFn: (form: TPayload) => {
+      return post<TPayload, Response>("/feedback", form);
+    },
+    retry: 1,
+    onSuccess: () => {
+      setShowThankYou(true);
+    },
+    onError: (error) => {
+      toast.error(error.message);
+    },
+  });
+
   // Handle form submission
   const handleFormSubmit = (payload: TPayload) => {
     try {
@@ -47,7 +67,7 @@ const FeedbackPage: React.FC = () => {
         feedback: z.string().min(1, { message: "Feedback cannot be empty!" }),
       });
       feedbackSchema.parse(payload);
-      setShowThankYou(true);
+      mutation.mutate(payload);
     } catch (error) {
       if (error instanceof ZodError) {
         const parsedMessage: Array<ZodError> = JSON.parse(error.message);
