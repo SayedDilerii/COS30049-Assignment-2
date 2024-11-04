@@ -43,6 +43,9 @@ export class MainRouter {
 
     // Report route - create report entry
     this.router.post("/report", validationMiddleware(reportSchema.create), (request: Request, response: Response) => this.reportController.create(request, response));
+
+    // Report route - get all reports
+    this.router.get("/report", (request: Request, response: Response) => this.reportController.getAllReports(request, response));
   }
 
   public getRouter(): Router {

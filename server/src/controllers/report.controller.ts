@@ -1,5 +1,5 @@
 import { Request, Response } from "express-serve-static-core";
-import { Feedback } from "../types/feedback.type";
+import { CreateReportDTO, Report } from "../types/report.type";
 import { Database } from "../utilities/database";
 
 export class ReportController {
@@ -11,15 +11,20 @@ export class ReportController {
 
   public create = async (request: Request, response: Response): Promise<void> => {
     try {
+      const reportEntry: CreateReportDTO = request.body;
+
+      // create report entry
+      await this.db.create("report", reportEntry);
+
       response.status(201).json({
         success: true,
         message: "Thank you for your report!",
       });
     } catch (error) {
-      console.error("Error creating feedback:", error);
+      console.error("Error creating report:", error);
       response.status(500).json({
         success: false,
-        message: "Failed to create feedback",
+        message: "Failed to create report",
       });
     }
   };
@@ -27,11 +32,11 @@ export class ReportController {
   // Used for admin to see all reviews of FireGuard
   public getAllReports = async (request: Request, response: Response): Promise<void> => {
     try {
-      const feedbacks = await this.db.findAll<Feedback>("report");
+      const reports = await this.db.findAll<Report>("report");
 
       response.status(200).json({
         success: true,
-        results: feedbacks,
+        results: reports,
       });
     } catch (error) {
       console.error("Error fetching feedback:", error);
