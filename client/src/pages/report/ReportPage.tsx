@@ -5,7 +5,11 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { states } from "@/constants/states";
 import { useFireForm } from "@/hooks/useFireForm";
+import { post } from "@/lib/api";
+import { Cause, EvacuationStatus, Severity, Status } from "@/types/report.type";
+import { useMutation } from "@tanstack/react-query";
 import { CircleAlert } from "lucide-react";
+import { useState } from "react";
 import { toast } from "sonner";
 import { z, ZodError } from "zod";
 
@@ -57,7 +61,9 @@ const reportSchema = z.object({
 });
 
 const ReportPage: React.FC = () => {
-  const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
+  const [showThankYou, setShowThankYou] = useState<boolean>(false);
+  const { getFormState, batchUpdateForm } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
+
   const formValues = getFormState();
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -65,15 +71,24 @@ const ReportPage: React.FC = () => {
     batchUpdateForm({ ...formValues.initialValues, [name]: value });
   };
 
-  console.log(formValues.initialValues);
+  const mutation = useMutation({
+    mutationFn: (form: TPayload) => {
+      return post<TPayload, Response>("/report", form);
+    },
+    retry: 1,
+    onSuccess: () => {
+      setShowThankYou(true);
+    },
+    onError: (error) => {
+      toast.error(error.message);
+    },
+  });
 
   const handleFormSubmit = (payload: TPayload) => {
     try {
       reportSchema.parse(payload);
       toast.success("Report submitted successfully!");
-      console.log(JSON.stringify(formValues.initialValues));
-
-      // mutation.mutate(payload);
+      mutation.mutate(payload);
     } catch (error) {
       if (error instanceof ZodError) {
         const parsedMessage: Array<ZodError> = JSON.parse(error.message);
@@ -294,6 +309,24 @@ const ReportPage: React.FC = () => {
           </div>
         </div>
       </div>
+      {/* Thank You Modal */}
+      {showThankYou && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
+          <div className="bg-white p-6 rounded-lg shadow-lg text-center">
+            <h2 className="text-2xl font-bold mb-4">Thank You!</h2>
+            <p>Your feedback has been submitted successfully.</p>
+            <Button
+              onClick={() => {
+                setShowThankYou(false);
+                location.reload();
+              }}
+              className="mt-4"
+            >
+              Close
+            </Button>
+          </div>
+        </div>
+      )}
     </Container>
   );
 };

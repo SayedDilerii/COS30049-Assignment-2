@@ -32,7 +32,7 @@ type Response = {
 };
 
 const FeedbackPage: React.FC = () => {
-  const [showThankYou, setShowThankYou] = useState(false);
+  const [showThankYou, setShowThankYou] = useState<boolean>(false);
   const { getFormState, batchUpdateForm, resetToDefault } = useFireForm({ initialValues: DEFAULT_VALUES, defaultValues: DEFAULT_VALUES });
 
   const navigate = useNavigate();
@@ -118,7 +118,7 @@ const FeedbackPage: React.FC = () => {
   };
 
   return (
-    <Container className="overflow-y-scroll">
+    <Container>
       <section className="bg-[#106B40] h-44 sm:h-72 flex items-center px-4 sm:px-44">
         <div className="flex flex-col gap-2 sm:gap-6 text-white text-balance">
           <h1 className="text-3xl sm:text-[3.7em] font-bold">Leave Feedback</h1>
