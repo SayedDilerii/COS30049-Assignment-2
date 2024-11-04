@@ -33,7 +33,7 @@ export class ModelController {
       const scriptPath = path.join(__dirname, "./../../../machine-learning-model/machine-learning.py");
       console.log(scriptPath);
 
-      const childProcess = spawn("python3", [scriptPath, state, date, tmin, tmax]);
+      const childProcess = spawn("python", [scriptPath, state, date, tmin, tmax]);
       let output = "";
 
       childProcess.stdout.on("data", (data) => {
