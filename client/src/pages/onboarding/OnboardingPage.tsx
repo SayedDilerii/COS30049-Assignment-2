@@ -73,8 +73,8 @@ const OnBoardingPage: React.FC = () => {
     },
     {
       icon: <FaviconPlaceholder isIcon icon={Check} />,
-      heading: <p>Please set your current state:</p>,
-      caption: <p>Stay safe, stay informed, and check back regularly for updates.</p>,
+      heading: <p>Select Your State for Tailored Alerts</p>,
+      caption: <p>Your selected state will help us send you timely updates and important information tailored to your area.</p>,
       input: (
         <form>
           <Select onValueChange={handleStateChange}>
@@ -106,8 +106,8 @@ const OnBoardingPage: React.FC = () => {
           .map((value) => (
             <>
               <section className="md:w-[50%] lg:w-[30%] flex justify-center">{value.icon}</section>
-              <section className="md:w-[50%] lg:w-[30%] grid gap-4">
-                <h1 className="font-semibold text-[#218556] text-[2.2em] sm:text-[3em] tracking-[-0.025em] text-balance leading-[1.2]">{value.heading}</h1>
+              <section className="w-full grid gap-4">
+                <h1 className="w-full font-semibold text-[#218556] text-[2.2em] sm:text-[3em] tracking-[-0.025em] text-balance leading-[1.2]">{value.heading}</h1>{" "}
                 <p className="font-medium text-[#2d9966] text-balance text-lg tracking-tight sm:tracking-normal sm:text-xl">{value.caption}</p>
               </section>
               {value.isLastSlide && <section className="md:w-[50%] lg:w-[30%] w-full flex flex-col gap-4 items-center">{value.input}</section>}
