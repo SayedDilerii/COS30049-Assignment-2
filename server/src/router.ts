@@ -2,20 +2,24 @@ import { Router } from "express";
 import { Request, Response } from "express-serve-static-core";
 import { FeedbackController } from "./controllers/feedback.controller";
 import { ModelController } from "./controllers/model.controller";
+import { ReportController } from "./controllers/report.controller";
 import { validationMiddleware } from "./middleware/validation.middleware";
 import { feedbackSchema } from "./schema/feedback.schema";
 import { modelSchema } from "./schema/model.schema";
+import { reportSchema } from "./schema/report.schema";
 
 export class MainRouter {
   private router: Router;
   private feedbackController: FeedbackController;
   private modelController: ModelController;
+  private reportController: ReportController;
 
   constructor() {
     this.router = Router();
     this.initializeRoutes();
     this.feedbackController = new FeedbackController();
     this.modelController = new ModelController();
+    this.reportController = new ReportController();
   }
 
   private initializeRoutes(): void {
@@ -34,8 +38,11 @@ export class MainRouter {
     // Feedback route - submit a feedback form
     this.router.post("/feedback", validationMiddleware(feedbackSchema.create), (request: Request, response: Response) => this.feedbackController.create(request, response));
 
-    // Feedback route - get all user feedback (for admin)
+    // Feedback route - get all user feedback
     this.router.get("/feedback", (request: Request, response: Response) => this.feedbackController.getAllFeedback(request, response));
+
+    // Report route - create report entry
+    this.router.post("/report", validationMiddleware(reportSchema.create), (request: Request, response: Response) => this.reportController.create(request, response));
   }
 
   public getRouter(): Router {

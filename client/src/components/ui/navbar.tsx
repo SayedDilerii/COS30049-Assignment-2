@@ -1,6 +1,5 @@
-import { NavigationContext } from "@/providers/NavigationProvider";
-import { Bell, GroupIcon, HelpCircleIcon, Menu, Settings, Sun, ThumbsUp, TriangleAlert } from "lucide-react";
-import React, { useContext, useState } from "react";
+import { AlertCircle, Bell, GroupIcon, HelpCircleIcon, Menu, Settings, Sun, ThumbsUp, TriangleAlert } from "lucide-react";
+import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "./button";
 import { Popover, PopoverContent, PopoverTrigger } from "./popover";
@@ -9,11 +8,6 @@ const Navbar: React.FC = () => {
   const url = useLocation();
   const isOnboardingPage = url.pathname === "/onboarding";
   const [isOpen, setIsOpen] = useState<boolean>(false);
-
-  const navbarContext = useContext(NavigationContext);
-  const isMobile = navbarContext?.isMobileView;
-
-  console.log(isMobile);
 
   const today = new Date().toLocaleDateString("en-US", {
     month: "long",
@@ -103,7 +97,7 @@ const Navbar: React.FC = () => {
           {/* Notifications dropdown */}
           <Popover>
             <PopoverTrigger asChild>
-              <Button className="flex gap-2 items-center font-normal bg-emerald-600">
+              <Button className="flex gap-2 items-center font-normal bg-emerald-600/70">
                 <Bell size={16} className="text-emerald-100" />
                 <span className="hidden sm:block">10 Notifications</span>
                 <span className="sm:hidden">10</span>
@@ -179,6 +173,14 @@ const Navbar: React.FC = () => {
                 </div>
               </div>
               <div>
+                <Link
+                  to={"/report"}
+                  onClick={() => setIsOpen((state) => !state)}
+                  className="w-full flex justify-start items-center gap-3 text-red-400 text-[15px] rounded-md hover:bg-zinc-600 hover:text-red h-10 px-3"
+                >
+                  <AlertCircle size={18} className="text-red-400" />
+                  Report
+                </Link>
                 <Link
                   to={"/settings"}
                   onClick={() => setIsOpen((state) => !state)}

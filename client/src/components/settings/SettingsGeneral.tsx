@@ -1,5 +1,6 @@
 import { useLocalStorage } from "@/hooks/useLocalStorage";
 import { useState } from "react";
+import { toast } from "sonner";
 import { Button } from "../ui/button";
 import PropertySelector from "./SettingsPropertySelector";
 
@@ -20,7 +21,6 @@ const defaultValue: SettingItem[] = [
 
 const GeneralSettings: React.FC = () => {
   const [localStorageValue, setLocalStorageValue] = useLocalStorage("generalSettings", defaultValue);
-
   const [formData, setFormData] = useState<SettingItem[]>(localStorageValue);
 
   const formHandler = (heading: string, selectedValue: string) => {
@@ -28,8 +28,14 @@ const GeneralSettings: React.FC = () => {
   };
 
   const formSubmitHandler = (event: React.FormEvent) => {
-    event.preventDefault();
-    setLocalStorageValue(formData);
+    try {
+      event.preventDefault();
+      setLocalStorageValue(formData);
+      toast.success("Settings saved successfully!");
+    } catch (error) {
+      toast.error("Something went wrong, please try again!");
+      console.error(error);
+    }
   };
 
   const resetHandler = () => {
@@ -37,18 +43,18 @@ const GeneralSettings: React.FC = () => {
   };
 
   return (
-    <form onSubmit={formSubmitHandler} className="pr-10 mt-2">
+    <form onSubmit={formSubmitHandler} className="pr-10">
       {formData.map((value, index) => (
         <div key={index} className={index > 0 ? "pt-4" : ""}>
           <PropertySelector heading={value.heading} value={value.value} caption={value.caption} items={value.items} formValue={formHandler} />
         </div>
       ))}
-      <div className="flex justify-end pt-3 gap-8">
-        <Button className="w-28 bg-zinc-400" onClick={resetHandler} type="reset">
-          Reset
+      <div className="flex justify-end pt-4 gap-2">
+        <Button variant={"secondary"} onClick={resetHandler} type="reset">
+          Reset to default
         </Button>
-        <Button className="w-28" type="submit">
-          Save
+        <Button className="text-[12px]" type="submit">
+          Save changes
         </Button>
       </div>
     </form>

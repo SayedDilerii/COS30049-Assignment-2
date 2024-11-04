@@ -36,7 +36,33 @@ export class Database {
     `,
       (error) => {
         if (error) {
-          console.error("Error while creating table: ", error);
+          console.error("Error while creating feedback table: ", error);
+        }
+      }
+    );
+
+    this.db.run(
+      `
+      CREATE TABLE IF NOT EXISTS report (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        full_name VARCHAR(50) NOT NULL,
+        contact_number VARCHAR(30) NOT NULL,
+        state VARCHAR(50) NOT NULL,
+        nearest_town VARCHAR(60) NOT NULL,
+        discovery_date VARCHAR(12) NOT NULL,
+        discovery_time VARCHAR(12) NOT NULL,
+        severity VARCHAR(12) NOT NULL,
+        cause VARCHAR(12) NOT NULL,
+        estimated_size VARCHAR(30) NOT NULL,
+        status VARCHAR(12) NOT NULL,
+        evacuation_status VARCHAR(12) NOT NULL,
+        description TEXT,
+        created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+      )
+    `,
+      (error) => {
+        if (error) {
+          console.error("Error while creating reports table: ", error);
         }
       }
     );

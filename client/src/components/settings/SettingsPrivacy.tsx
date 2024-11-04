@@ -1,6 +1,7 @@
 import PropertySelector from "@/components/settings/SettingsPropertySelector";
 import { useLocalStorage } from "@/hooks/useLocalStorage";
 import { useState } from "react";
+import { toast } from "sonner";
 import { Button } from "../ui/button";
 
 type SettingItem = {
@@ -16,7 +17,6 @@ const defaultValue = [
 
 const SettingsPrivacy: React.FC = () => {
   const [localStorageValue, setLocalStorageValue] = useLocalStorage("privacySettings", defaultValue);
-
   const [formData, setFormData] = useState<SettingItem[]>(localStorageValue);
 
   const formHandler = (heading: string, selectedValue: string) => {
@@ -24,8 +24,14 @@ const SettingsPrivacy: React.FC = () => {
   };
 
   const formSubmitHandler = (event: React.FormEvent) => {
-    event.preventDefault();
-    setLocalStorageValue(formData);
+    try {
+      event.preventDefault();
+      setLocalStorageValue(formData);
+      toast.success("Settings saved successfully!");
+    } catch (error) {
+      toast.error("Something went wrong, please try again!");
+      console.error(error);
+    }
   };
 
   const resetHandler = () => {
@@ -39,12 +45,12 @@ const SettingsPrivacy: React.FC = () => {
           <PropertySelector heading={value.heading} caption={value.caption} items={value.items} value={value.value} formValue={formHandler} />
         </div>
       ))}
-      <div className="flex justify-end pt-3 gap-8">
-        <Button className="w-28 bg-zinc-400" onClick={resetHandler} type="reset">
-          Reset
-        </Button>{" "}
-        <Button className="w-28" type="submit">
-          Save
+      <div className="flex justify-end pt-4 gap-2">
+        <Button variant={"secondary"} onClick={resetHandler} type="reset">
+          Reset to default
+        </Button>
+        <Button className="text-[12px]" type="submit">
+          Save changes
         </Button>
       </div>
     </form>

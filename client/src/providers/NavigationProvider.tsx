@@ -18,8 +18,6 @@ const NavigationProvider: React.FC<NavigationProps> = ({ children }) => {
     setMobileView(state);
   };
 
-  // console.log("MOBILE VIEW CONTEXT: ", isMobileView);
-
   return <NavigationContext.Provider value={{ isMobileView, setMobileViewHandler }}>{children}</NavigationContext.Provider>;
 };
 
