@@ -38,9 +38,9 @@ const MapContent: React.FC<MapContentProps> = ({ selectedState, highlightColor }
 
       return {
         fillColor: isSelected ? highlightColor : "#CCCCCC",
-        fillOpacity: isSelected ? 0.2 : 0.2,
-        strokeColor: isSelected ? highlightColor : "#000000",
-        strokeWeight: isSelected ? 1 : 0,
+        fillOpacity: isSelected ? 0.5 : 0.2,
+        strokeColor: "#FF0000",
+        strokeWeight: isSelected ? 2 : 0,
       };
     });
 

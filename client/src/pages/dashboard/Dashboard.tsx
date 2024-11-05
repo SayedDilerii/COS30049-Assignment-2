@@ -5,6 +5,7 @@ import DrawerHeader from "@/components/dashboard/drawer/DrawerHeader";
 import GoogleMaps from "@/components/dashboard/google-maps/GoogleMaps";
 import Container from "@/components/ui/container";
 import { states } from "@/constants/states";
+import { calculateRiskColour, riskScoreAlias } from "@/lib/utils";
 import { useDashboard } from "@/providers/DashboardProvider";
 import { StateName } from "@/types/maps.type";
 import { ModelResult } from "@/types/model.type";
@@ -46,7 +47,10 @@ const Dashboard: React.FC = () => {
       <Container className="h-full relative overflow-auto">
         <PanelGroup direction="vertical" ref={ref}>
           <Panel maxSize={50} defaultSize={50} className="bg-zinc-200 h-1/2 transition-all duration-500 ease-in-out">
-            <GoogleMaps highlightColor="#FF0000" selectedState={stateName as StateName} />
+            <GoogleMaps
+              highlightColor={calculateRiskColour(riskScoreAlias(dashboardContext.data.result!.current_prediction!.risk_score)).colour}
+              selectedState={stateName as StateName}
+            />
           </Panel>
           <PanelResizeHandle>
             <div className="z-10 flex h-4  items-center justify-center rounded-sm border bg-zinc-200">

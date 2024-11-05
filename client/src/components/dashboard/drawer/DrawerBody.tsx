@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Container from "@/components/ui/container";
 import Loader from "@/components/ui/loader";
-import { calculateRiskColour } from "@/lib/utils";
+import { calculateRiskColour, riskScoreAlias } from "@/lib/utils";
 import { DashboardContext } from "@/providers/DashboardProvider";
 import { useContext } from "react";
 import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
@@ -25,33 +25,7 @@ const DrawerBody: React.FC = () => {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const formatTemp = (value: any) => `${value.toFixed(1)}°C`;
 
-  const riskScoreAlias = (riskScore: number) => {
-    let alias = "";
-    if (+riskScore.toFixed(2) > 0.01 && +riskScore.toFixed(2) <= 0.25) {
-      alias = "Low Risk";
-    }
-
-    if (+riskScore.toFixed(2) >= 0.26 && +riskScore.toFixed(2) <= 0.5) {
-      alias = "Moderate Risk";
-    }
-
-    if (+riskScore.toFixed(2) >= 0.51 && +riskScore.toFixed(2) <= 0.75) {
-      alias = "High Risk";
-    }
-
-    if (+riskScore.toFixed(2) >= 0.76 && +riskScore.toFixed(2) <= 0.99) {
-      alias = "Extreme Risk";
-    }
-
-    return alias;
-  };
-
-  const risk = riskScoreAlias(0.05);
-  console.log(risk);
-
-  const me = calculateRiskColour(risk);
-  console.log(me);
-
+  // Show all visualisations
   const Visualisation: React.FC = () => {
     return (
       <section className="grid gap-6 pt-6 px-8">
@@ -184,28 +158,17 @@ const DrawerBody: React.FC = () => {
           <div>
             <p className="text-2xl font-medium tracking-tight text-slate-700">Risk overview</p>
           </div>
-          <div className="flex justify-between">
-            <div className="flex flex-col gap-2">
-              <p className="text-zinc-500 font-normal tracking-tight">Overall Predicted risk level:</p>
-              <span
-                className="py-1 px-4 w-fit rounded-md"
-                style={{
-                  backgroundColor: calculateRiskColour(riskScoreAlias(data!.result!.current_prediction!.risk_score)).colour,
-                  color: calculateRiskColour(riskScoreAlias(data!.result!.current_prediction!.risk_score)).fontColor,
-                }}
-              >
-                {(data!.result!.current_prediction!.risk_score * 100).toFixed(2)}% - {riskScoreAlias(data!.result!.current_prediction!.risk_score)}
-              </span>
-            </div>
-            <div className="flex flex-col gap-2">
-              <p className="text-zinc-500 font-normal tracking-tight">Risk Colour Legened:</p>
-              <div className="flex gap-2">
-                <span className="py-1 px-4 bg-green-200 text-green-700 w-fit rounded-md">Low</span>
-                <span className="py-1 px-4 bg-orange-200 text-orange-700 w-fit rounded-md">Moderate</span>
-                <span className="py-1 px-4 bg-orange-500 text-white w-fit rounded-md">High</span>
-                <span className="py-1 px-4 bg-red-800 text-white w-fit rounded-md">Extreme</span>
-              </div>
-            </div>
+          <div className="flex flex-col gap-2">
+            <p className="text-zinc-500 font-normal tracking-tight">Overall Predicted risk level:</p>
+            <span
+              className="py-1 px-4 w-fit rounded-md"
+              style={{
+                backgroundColor: calculateRiskColour(riskScoreAlias(data!.result!.current_prediction!.risk_score)).colour,
+                color: calculateRiskColour(riskScoreAlias(data!.result!.current_prediction!.risk_score)).fontColor,
+              }}
+            >
+              {(data!.result!.current_prediction!.risk_score * 100).toFixed(2)}% - {riskScoreAlias(data!.result!.current_prediction!.risk_score)}
+            </span>
           </div>
         </section>
         <hr />

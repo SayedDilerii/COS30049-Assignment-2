@@ -28,3 +28,24 @@ export function calculateRiskColour(risk: string): { colour: string; fontColor: 
 
   return typeography;
 }
+
+export function riskScoreAlias(riskScore: number): string {
+  let alias = "";
+  if (+riskScore.toFixed(2) > 0.01 && +riskScore.toFixed(2) <= 0.25) {
+    alias = "Low Risk";
+  }
+
+  if (+riskScore.toFixed(2) >= 0.26 && +riskScore.toFixed(2) <= 0.5) {
+    alias = "Moderate Risk";
+  }
+
+  if (+riskScore.toFixed(2) >= 0.51 && +riskScore.toFixed(2) <= 0.75) {
+    alias = "High Risk";
+  }
+
+  if (+riskScore.toFixed(2) >= 0.76 && +riskScore.toFixed(2) <= 0.99) {
+    alias = "Extreme Risk";
+  }
+
+  return alias;
+}
