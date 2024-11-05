@@ -17,7 +17,7 @@ const Dashboard: React.FC = () => {
   const ref = useRef<ImperativePanelGroupHandle>(null);
   const dashboardContext = useDashboard();
   const isDataPresent = dashboardContext.data;
-  const data = useRef<ModelResult>(null);
+  const data = useRef<ModelResult | null>(null);
 
   const convertToStateName = (input: string): string => {
     let stateName = "";
@@ -28,8 +28,6 @@ const Dashboard: React.FC = () => {
     });
     return stateName;
   };
-
-  const stateName = convertToStateName(data.current?.result?.current_prediction?.state);
 
   useEffect(() => {
     const panelGroup = ref.current;
@@ -42,6 +40,7 @@ const Dashboard: React.FC = () => {
     }
   }, [isDataPresent, dashboardContext]);
 
+  const stateName = convertToStateName(data.current?.result?.current_prediction?.state);
   return (
     <>
       <Container className="h-full relative overflow-auto">
