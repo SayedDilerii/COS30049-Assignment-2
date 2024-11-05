@@ -48,7 +48,7 @@ const Dashboard: React.FC = () => {
         <PanelGroup direction="vertical" ref={ref}>
           <Panel maxSize={50} defaultSize={50} className="bg-zinc-200 h-1/2 transition-all duration-500 ease-in-out">
             <GoogleMaps
-              highlightColor={calculateRiskColour(riskScoreAlias(dashboardContext.data.result!.current_prediction!.risk_score)).colour}
+              highlightColor={calculateRiskColour(riskScoreAlias(dashboardContext.data ? dashboardContext.data.result!.current_prediction!.risk_score : 0)).colour}
               selectedState={stateName as StateName}
             />
           </Panel>
