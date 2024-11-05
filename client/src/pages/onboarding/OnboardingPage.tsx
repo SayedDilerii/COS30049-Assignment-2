@@ -1,13 +1,16 @@
 import FaviconPlaceholder from "@/components/onboarding/FaviconPlaceholder";
 import { Button } from "@/components/ui/button";
+import { Select, SelectContent, SelectGroup, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { states } from "@/constants/states";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { Bell, Check, MapPin, Star } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Container from "../../components/ui/container";
 
 const OnBoardingPage: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState<number>(0);
+  const [state, setState] = useState<string>("default");
   const navigate = useNavigate();
   const isDesktop = useMediaQuery("(min-width: 700px)");
 
@@ -18,8 +21,23 @@ const OnBoardingPage: React.FC = () => {
   };
 
   const skipSlides = () => {
+    setCurrentSlide(5);
+  };
+
+  const navigateToDashboard = () => {
     navigate("/dashboard");
   };
+
+  const handleStateChange = (value: string) => {
+    setState(value);
+    // console.log("Selected state: ", value); // Debugging
+  };
+
+  useEffect(() => {
+    if (state !== "default") {
+      localStorage.setItem("state", JSON.stringify(state));
+    }
+  }, [state]);
 
   const steps = [
     {
@@ -54,8 +72,26 @@ const OnBoardingPage: React.FC = () => {
     },
     {
       icon: <FaviconPlaceholder isIcon icon={Check} />,
-      heading: <p>Please set your current state:</p>,
-      caption: <p>Stay safe, stay informed, and check back regularly for updates.</p>,
+      heading: <p>Select Your State for Tailored Alerts</p>,
+      caption: <p>Your selected state will help us send you timely updates and important information tailored to your area.</p>,
+      input: (
+        <form>
+          <Select onValueChange={handleStateChange}>
+            <SelectTrigger className="w-[250px] bg-transparent rounded-xl px-4 bg-white shadow-sm border-zinc-300">
+              <SelectValue placeholder="Select State" />
+            </SelectTrigger>
+            <SelectContent className="rounded-xl w-[250px]">
+              <SelectGroup>
+                {states.map((value, index) => (
+                  <SelectItem value={value.name} key={index}>
+                    {value.name}
+                  </SelectItem>
+                ))}
+              </SelectGroup>
+            </SelectContent>
+          </Select>
+        </form>
+      ),
       children: <>Form</>,
       isLastSlide: true,
     },
@@ -69,16 +105,22 @@ const OnBoardingPage: React.FC = () => {
           .map((value) => (
             <>
               <section className="md:w-[50%] lg:w-[30%] flex justify-center">{value.icon}</section>
-              <section className="md:w-[50%] lg:w-[30%] grid gap-4">
-                <h1 className="font-semibold text-[#218556] text-[2.2em] sm:text-[3em] tracking-[-0.025em] text-balance leading-[1.2]">{value.heading}</h1>
+              <section className="w-full grid gap-4">
+                <h1 className="w-full font-semibold text-[#218556] text-[2.2em] sm:text-[3em] tracking-[-0.025em] text-balance leading-[1.2]">{value.heading}</h1>{" "}
                 <p className="font-medium text-[#2d9966] text-balance text-lg tracking-tight sm:tracking-normal sm:text-xl">{value.caption}</p>
               </section>
+              {value.isLastSlide && <section className="md:w-[50%] lg:w-[30%] w-full flex flex-col gap-4 items-center">{value.input}</section>}
               <section className="md:w-[50%] lg:w-[30%] w-full flex flex-col gap-2">
-                <Button className="w-full" onClick={!value.isLastSlide ? () => nextSlide() : () => skipSlides()} size={"lg"}>
-                  {value.isLastSlide ? "Explore App" : "Next"}
+                <Button
+                  className={`w-full ${state === "default" && value.isLastSlide ? "bg-gray-400 cursor-not-allowed" : ""}`}
+                  onClick={!value.isLastSlide ? nextSlide : navigateToDashboard}
+                  size="lg"
+                  disabled={state === "default" && value.isLastSlide}
+                >
+                  {value.isLastSlide ? (state === "default" ? "Select State to Continue" : "Explore App") : "Next"}
                 </Button>
                 {!value.isLastSlide && (
-                  <Button className="w-full" variant={"secondary"} onClick={() => skipSlides()} size={"lg"}>
+                  <Button className="w-full" variant={"secondary"} onClick={skipSlides} size={"lg"}>
                     Skip
                   </Button>
                 )}
@@ -86,7 +128,7 @@ const OnBoardingPage: React.FC = () => {
               {isDesktop && (
                 <section>
                   <div className="flex gap-2">
-                    {Array.from({ length: 5 }, (_, key) => (
+                    {Array.from({ length: 6 }, (_, key) => (
                       <div key={key} className={`${key === currentSlide ? "w-[100px] bg-emerald-300" : "w-[32px]"} bg-emerald-100 rounded-full h-[12px]`}></div>
                     ))}
                   </div>
