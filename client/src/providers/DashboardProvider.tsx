@@ -1,5 +1,5 @@
 import { ModelResult } from "@/types/model.type";
-import { createContext, useState } from "react";
+import { createContext, useContext, useState } from "react";
 
 interface DashboardProps {
   children: React.ReactNode;
@@ -17,6 +17,14 @@ interface ContextProps {
   setFetchingState: (isFetching: boolean) => void;
 }
 const DashboardContext = createContext<ContextProps | null>(null);
+
+export const useDashboard = () => {
+  const context = useContext(DashboardContext);
+  if (!context) {
+    throw new Error("useDashboard must be used within DashboardProvider");
+  }
+  return context;
+};
 
 const DashboardProvider: React.FC<DashboardProps> = ({ children }) => {
   const [data, setData] = useState<ModelResult | null>(null);

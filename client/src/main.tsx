@@ -12,6 +12,7 @@ import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
 import ReportPage from "./pages/report/ReportPage.tsx";
 import SandBoxPage from "./pages/sandbox/SandboxPage.tsx";
 import SettingsPage from "./pages/settings/SettingsPage.tsx";
+import { DashboardProvider } from "./providers/DashboardProvider.tsx";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -23,7 +24,11 @@ const router = createBrowserRouter([
       },
       {
         path: "dashboard",
-        element: <Dashboard />,
+        element: (
+          <DashboardProvider>
+            <Dashboard />
+          </DashboardProvider>
+        ),
       },
       {
         path: "settings",
