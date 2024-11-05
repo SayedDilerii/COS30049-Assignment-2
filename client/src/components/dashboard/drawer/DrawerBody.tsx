@@ -19,8 +19,10 @@ const DrawerBody: React.FC = () => {
   const stateComparisonData = data?.result.state_comparison.slice(0, 15).sort((a, b) => b.avg_risk - a.avg_risk);
 
   // Conversion Utils
-  const formatRisk = (value) => `${(value * 100).toFixed(1)}%`;
-  const formatTemp = (value) => `${value.toFixed(1)}°C`;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const formatRisk = (value: any) => `${(value * 100).toFixed(1)}%`;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const formatTemp = (value: any) => `${value.toFixed(1)}°C`;
 
   const riskScoreAlias = (riskScore: number) => {
     let alias = "";
