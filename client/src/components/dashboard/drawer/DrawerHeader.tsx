@@ -92,6 +92,7 @@ const DrawerHeader: React.FC = () => {
     },
     enabled: !!searchParams, // Only query when searchParams exists
     refetchOnWindowFocus: false,
+    retry: 1,
   });
 
   useEffect(() => {

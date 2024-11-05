@@ -6,7 +6,7 @@ import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrig
 import { states } from "@/constants/states";
 import { useFireForm } from "@/hooks/useFireForm";
 import { post } from "@/lib/api";
-import { Cause, EvacuationStatus, Severity, Status } from "@/types/report.type";
+import { ReportPayload } from "@/types/report.type";
 import { useMutation } from "@tanstack/react-query";
 import { CircleAlert } from "lucide-react";
 import { useState } from "react";
@@ -26,21 +26,6 @@ const DEFAULT_VALUES = {
   status: "",
   evacuation_status: "",
   description: "",
-};
-
-type TPayload = {
-  full_name: string;
-  contact_number: string;
-  state: string;
-  nearest_town: string;
-  discovery_date: string;
-  discovery_time: string;
-  severity: Severity;
-  cause: Cause;
-  estimated_size: string;
-  status: Status;
-  evacuation_status: EvacuationStatus;
-  description?: string;
 };
 
 const severity = [{ level: "extreme" }, { level: "high" }, { level: "moderate" }, { level: "light" }];
@@ -72,8 +57,8 @@ const ReportPage: React.FC = () => {
   };
 
   const mutation = useMutation({
-    mutationFn: (form: TPayload) => {
-      return post<TPayload, Response>("/report", form);
+    mutationFn: (form: ReportPayload) => {
+      return post<ReportPayload, Response>("/report", form);
     },
     retry: 1,
     onSuccess: () => {
@@ -84,7 +69,7 @@ const ReportPage: React.FC = () => {
     },
   });
 
-  const handleFormSubmit = (payload: TPayload) => {
+  const handleFormSubmit = (payload: ReportPayload) => {
     try {
       reportSchema.parse(payload);
       toast.success("Report submitted successfully!");

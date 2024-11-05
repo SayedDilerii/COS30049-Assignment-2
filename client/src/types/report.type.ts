@@ -22,3 +22,21 @@ export enum EvacuationStatus {
   ADVISORY = "advisory",
   MANDATORY = "mandatory",
 }
+
+export type Report = {
+  id: number;
+  full_name: string;
+  contact_number: string;
+  state: string;
+  nearest_town: string;
+  discovery_date: string;
+  discovery_time: string;
+  severity: Severity;
+  cause: Cause;
+  estimated_size: string;
+  status: Status;
+  evacuation_status: EvacuationStatus;
+  description?: string;
+};
+
+export type ReportPayload = Report;
