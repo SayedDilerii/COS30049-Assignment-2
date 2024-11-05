@@ -18,8 +18,30 @@ const DrawerBody: React.FC = () => {
   const seasonalRiskData = data?.result.seasonal_risk;
   const stateComparisonData = data?.result.state_comparison.slice(0, 15).sort((a, b) => b.avg_risk - a.avg_risk);
 
+  // Conversion Utils
   const formatRisk = (value) => `${(value * 100).toFixed(1)}%`;
   const formatTemp = (value) => `${value.toFixed(1)}°C`;
+
+  const riskScoreAlias = (riskScore: number) => {
+    let alias = "";
+    if (+riskScore.toFixed(2) > 0.01 && +riskScore.toFixed(2) <= 0.25) {
+      alias = "Very Low Risk";
+    }
+
+    if (+riskScore.toFixed(2) >= 0.26 && +riskScore.toFixed(2) <= 0.5) {
+      alias = "Moderate Risk";
+    }
+
+    if (+riskScore.toFixed(2) >= 0.51 && +riskScore.toFixed(2) <= 0.75) {
+      alias = "High Risk";
+    }
+
+    if (+riskScore.toFixed(2) >= 0.76 && +riskScore.toFixed(2) <= 0.99) {
+      alias = "Extreme Risk";
+    }
+
+    return alias;
+  };
 
   const Visualisation: React.FC = () => {
     return (
@@ -33,12 +55,12 @@ const DrawerBody: React.FC = () => {
               <CardTitle className="text-lg">Temperature vs Risk Relationship</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="h-80">
+              <div className="h-[25rem]">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={temperatureRiskData} margin={{ left: 0, bottom: 16 }}>
                     <CartesianGrid strokeDasharray="2 2" fill="rgb(250,250,250)" />
-                    <XAxis dataKey="temperature" label={{ value: "Temperature (°C)", position: "bottom", offset: 0 }} tickFormatter={formatTemp} />
-                    <YAxis tickFormatter={formatRisk} label={{ value: "Risk Score", angle: -90, position: "insideLeft" }} />
+                    <XAxis dataKey="temperature" label={{ value: "Temperature (°C)", position: "bottom", offset: 0 }} tickFormatter={formatTemp} tick={{ fontSize: 12 }} />
+                    <YAxis tickFormatter={formatRisk} label={{ value: "Risk Score", angle: -90, position: "insideLeft" }} tick={{ fontSize: 12 }} />
                     <Tooltip formatter={formatRisk} labelFormatter={formatTemp} />
                     <Line type="monotone" dataKey="risk" stroke="#2563eb" strokeWidth={2} dot={false} />
                   </LineChart>
@@ -52,7 +74,7 @@ const DrawerBody: React.FC = () => {
               <CardTitle className="text-lg">Seasonal Risk Pattern</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="h-80">
+              <div className="h-[25rem]">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={seasonalRiskData}>
                     <CartesianGrid strokeDasharray="2 2" fill="rgb(250,250,250)" />
@@ -63,41 +85,44 @@ const DrawerBody: React.FC = () => {
                         return date.toLocaleString("default", { month: "short" });
                       }}
                       label={{ value: "Month", position: "bottom", offset: 0 }}
+                      tick={{ fontSize: 12 }}
                     />
-                    <YAxis yAxisId="left" tickFormatter={formatRisk} label={{ value: "Risk Score", angle: -90, position: "insideLeft" }} />
+                    <YAxis yAxisId="left" tickFormatter={formatRisk} label={{ value: "Risk Score", angle: -90, position: "insideLeft" }} tick={{ fontSize: 12 }} />
                     <YAxis
                       yAxisId="right"
                       orientation="right"
                       domain={["dataMin - 2", "dataMax + 2"]}
                       tickFormatter={formatTemp}
                       label={{ value: "Temperature (°C)", angle: 90, position: "insideRight" }}
+                      tick={{ fontSize: 12 }}
                     />
                     <Tooltip
                       formatter={(value, name) => {
-                        if (name === "risk_score") return formatRisk(value);
+                        if (name === "Risk Score") return formatRisk(value);
                         return formatTemp(value);
                       }}
                     />
-                    <Legend />
-                    <Line yAxisId="left" type="monotone" dataKey="risk_score" name="Risk Score" stroke="#2563eb" strokeWidth={2} />
-                    <Line yAxisId="right" type="monotone" dataKey="t_max" name="Max Temp" stroke="#dc2626" strokeWidth={2} />
-                    <Line yAxisId="right" type="monotone" dataKey="t_min" name="Min Temp" stroke="#059669" strokeWidth={2} />
+                    <Legend verticalAlign="top" />
+                    <Line yAxisId="left" type="monotone" dataKey="risk_score" name="Risk Score" stroke="#2563eb" strokeWidth={1.5} />
+                    <Line yAxisId="right" type="monotone" dataKey="t_max" name="Max Temp" stroke="#dc2626" strokeWidth={1.5} />
+                    <Line yAxisId="right" type="monotone" dataKey="t_min" name="Min Temp" stroke="#059669" strokeWidth={1.5} />
                   </LineChart>
                 </ResponsiveContainer>
               </div>
             </CardContent>
           </Card>
+
           <Card className="w-full">
             <CardHeader>
               <CardTitle className="text-lg">State Risk Comparison (Top 15)</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="h-80">
+              <div className="h-[25rem]">
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart data={stateComparisonData} layout="vertical" margin={{ left: 10 }}>
                     <CartesianGrid strokeDasharray="2 2" fill="rgb(250,250,250)" />
-                    <XAxis type="number" tickFormatter={formatRisk} domain={[0, "dataMax + 0.1"]} />
-                    <YAxis dataKey="state" type="category" width={20} />
+                    <XAxis type="number" tickFormatter={formatRisk} domain={[0, "dataMax + 0.1"]} tick={{ fontSize: 12 }} />
+                    <YAxis dataKey="state" type="category" width={20} tick={{ fontSize: 12 }} />
                     <Tooltip formatter={formatRisk} />
                     <Bar dataKey="avg_risk" fill="#2563eb" name="Average Risk" />
                   </BarChart>
@@ -150,24 +175,17 @@ const DrawerBody: React.FC = () => {
           <div>
             <p className="text-2xl font-medium tracking-tight text-slate-700">Risk overview</p>
           </div>
-          <div className="flex gap-24">
-            <div className="flex flex-col gap-2">
-              <p className="text-zinc-500 font-normal tracking-tight">Overall Predicted risk levels</p>
-              <span className="py-1 px-4 bg-orange-200 text-orange-700 w-fit rounded-md">Moderate Risk</span>
-            </div>
-            <div className="flex flex-col gap-2">
-              <p className="text-zinc-500 font-normal tracking-tight">High risk dates</p>
-              <div className="flex gap-4">
-                <HighRiskDatesBadge date="September 19, 2024" />
-                <HighRiskDatesBadge date="September 24, 2024" />
-                <HighRiskDatesBadge date="September 27, 2024" />
-                <HighRiskDatesBadge date="October 02, 2024" />
-              </div>
-            </div>
+          <div className="flex flex-col gap-2">
+            <p className="text-zinc-500 font-normal tracking-tight">Overall Predicted risk level</p>
+            <span className="py-1 px-4 bg-orange-200 text-orange-700 w-fit rounded-md">
+              {(data!.result!.current_prediction!.risk_score * 100).toFixed(2)}% - {riskScoreAlias(data!.result!.current_prediction!.risk_score)}
+            </span>
           </div>
         </section>
         <hr />
-        <Visualisation />
+        <section className="pb-8">
+          <Visualisation />
+        </section>
       </>
     );
   };
@@ -176,7 +194,3 @@ const DrawerBody: React.FC = () => {
 };
 
 export default DrawerBody;
-
-const HighRiskDatesBadge = ({ date }: { date: string }) => {
-  return <span className="py-1 px-4 bg-zinc-200/80 rounded-md cursor-default">{date}</span>;
-};
