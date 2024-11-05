@@ -1,5 +1,5 @@
 export const postReportSchema = {
-  tags: ["Reports"],
+  tags: ["Report system"],
   summary: "Submit bushfire incident report",
   description: "Submit a new bushfire incident report with location and severity details",
   requestBody: {

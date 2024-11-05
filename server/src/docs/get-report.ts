@@ -1,6 +1,6 @@
 export const getReportsSchema = {
-  tags: ["Reports"],
-  summary: "Get all bushfire reports",
+  tags: ["Report system"],
+  summary: "Get all bushfire incident reports",
   description: "Retrieve all submitted bushfire incident reports",
   responses: {
     200: {

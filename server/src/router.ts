@@ -96,7 +96,7 @@ export class MainRouter {
      *   get:
      *     tags:
      *        - Report system
-     *     summary: Get all bushfire reports
+     *     summary: Get all bushfire incident reports
      *     $ref: '#/components/schemas/PostReport'
      */
     this.router.get("/report", (request: Request, response: Response) => this.reportController.getAllReports(request, response));
