@@ -23,7 +23,26 @@ export class MainRouter {
   }
 
   private initializeRoutes(): void {
-    this.router.get("/", (request: Request, response: Response) => {
+    /**
+     * @openapi
+     * /api/health-check:
+     *   get:
+     *     tags:
+     *       - Health Check
+     *     summary: Welcome message
+     *     description: Returns a welcome message for the API
+     *     responses:
+     *       200:
+     *         description: Welcome message
+     *         content:
+     *           application/json:
+     *             schema:
+     *               type: object
+     *               properties:
+     *                 message:
+     *                   type: string
+     */
+    this.router.get("/health-check", (request: Request, response: Response) => {
       response.json({ message: "Welcome to the API" });
     });
 
@@ -35,10 +54,24 @@ export class MainRouter {
       response.json({ results: ["Hello there, there's a bushfire at Shillicon Valley yeah!!"] });
     });
 
-    // Feedback route - submit a feedback form
+    /**
+     * @openapi
+     * /api/feedback:
+     *   post:
+     *     tags:
+     *        - Feedback
+     *     $ref: '#/components/schemas/PostFeedback'
+     */
     this.router.post("/feedback", validationMiddleware(feedbackSchema.create), (request: Request, response: Response) => this.feedbackController.create(request, response));
 
-    // Feedback route - get all user feedback
+    /**
+     * @openapi
+     * /api/feedback:
+     *   get:
+     *     tags:
+     *        - Feedback
+     *     $ref: '#/components/schemas/GetFeedback'
+     */
     this.router.get("/feedback", (request: Request, response: Response) => this.feedbackController.getAllFeedback(request, response));
 
     // Report route - create report entry

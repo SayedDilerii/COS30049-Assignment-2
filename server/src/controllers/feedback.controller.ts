@@ -17,7 +17,7 @@ export class FeedbackController {
       const existingFeedback = await this.db.findByEmail<Feedback>("feedback", userFeedback.email);
 
       if (existingFeedback) {
-        response.status(500).json({
+        response.status(400).json({
           success: false,
           message: "This email address already exits",
         });

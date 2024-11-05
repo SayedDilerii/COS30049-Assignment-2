@@ -1,7 +1,10 @@
 import cors from "cors";
 import express, { Application } from "express";
+import swaggerUi from "swagger-ui-express";
 import { MainRouter } from "./router";
 import { Config } from "./types/config.type";
+import { specs } from "./utilities/swagger";
+
 const corsOptions = {
   origin: ["http://localhost:5173", "http://localhost:5178", "http://localhost:5179"],
   credentials: true,
@@ -26,6 +29,15 @@ export class App {
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
     this.app.use(cors(corsOptions));
+    this.app.use(
+      "/docs",
+      swaggerUi.serve,
+      swaggerUi.setup(specs, {
+        swaggerOptions: {
+          defaultModelsExpandDepth: -1, // Hide schemas section by default
+        },
+      })
+    );
   }
 
   private setupRoutes(): void {
