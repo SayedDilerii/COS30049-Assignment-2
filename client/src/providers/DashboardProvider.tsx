@@ -15,6 +15,8 @@ interface ContextProps {
   setLoadingState: (loading: boolean) => void;
   setErrorState: (isError: boolean, error: Error | null) => void;
   setFetchingState: (isFetching: boolean) => void;
+  riskColour: string;
+  setRiskColourState: (colour: string) => void;
 }
 const DashboardContext = createContext<ContextProps | null>(null);
 
@@ -28,10 +30,11 @@ export const useDashboard = () => {
 
 const DashboardProvider: React.FC<DashboardProps> = ({ children }) => {
   const [data, setData] = useState<ModelResult | null>(null);
-  const [isLoading, setIsLoading] = useState(false);
-  const [isError, setIsError] = useState(false);
+  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [isError, setIsError] = useState<boolean>(false);
   const [error, setError] = useState<Error | null>(null);
-  const [isFetching, setisFetching] = useState(false);
+  const [isFetching, setisFetching] = useState<boolean>(false);
+  const [riskColour, setRiskColour] = useState<string>("");
 
   const setDataHandler = (data: ModelResult) => {
     setData(data);
@@ -50,8 +53,14 @@ const DashboardProvider: React.FC<DashboardProps> = ({ children }) => {
     setisFetching(isFetching);
   };
 
+  const setRiskColourState = (colour: string) => {
+    setRiskColour(colour);
+  };
+
   return (
-    <DashboardContext.Provider value={{ data, isLoading, isError, error, isFetching, setDataHandler, setLoadingState, setErrorState, setFetchingState }}>
+    <DashboardContext.Provider
+      value={{ data, isLoading, isError, error, isFetching, setDataHandler, setLoadingState, setErrorState, setFetchingState, setRiskColourState, riskColour }}
+    >
       {children}
     </DashboardContext.Provider>
   );

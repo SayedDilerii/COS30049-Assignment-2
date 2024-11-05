@@ -17,7 +17,7 @@ const MapContent: React.FC<MapContentProps> = ({ selectedState, highlightColor }
 
       dataLayerRef.current.loadGeoJson("https://storage.googleapis.com/mapsdevsite/json/states.js");
 
-      // Add click handler for debugging
+      // for debugging
       dataLayerRef.current.addListener("click", (event) => {
         const feature = event.feature;
         const fipsCode = feature.getProperty("STATE");
@@ -30,7 +30,7 @@ const MapContent: React.FC<MapContentProps> = ({ selectedState, highlightColor }
       });
     }
 
-    // Set the style
+    // Set the style when state is selected
     dataLayerRef.current.setStyle((feature) => {
       const fipsCode = feature.getProperty("STATE");
       const featureStateCode = fipsToStateCode[fipsCode];
@@ -40,7 +40,7 @@ const MapContent: React.FC<MapContentProps> = ({ selectedState, highlightColor }
         fillColor: isSelected ? highlightColor : "#CCCCCC",
         fillOpacity: isSelected ? 0.2 : 0.2,
         strokeColor: isSelected ? highlightColor : "#000000",
-        strokeWeight: isSelected ? 2 : 0,
+        strokeWeight: isSelected ? 1 : 0,
       };
     });
 
