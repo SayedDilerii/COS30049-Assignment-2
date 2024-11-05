@@ -53,6 +53,34 @@ export const postFeedbackSchema = {
       },
     },
     400: {
+      description: "Validation error",
+      content: {
+        "application/json": {
+          schema: {
+            type: "object",
+            properties: {
+              error: {
+                type: "string",
+                example: "Invalid data",
+              },
+              details: {
+                type: "array",
+                items: {
+                  type: "object",
+                  properties: {
+                    message: {
+                      type: "string",
+                      example: "field - Required",
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+    404: {
       description: "Email is already in use",
       content: {
         "application/json": {

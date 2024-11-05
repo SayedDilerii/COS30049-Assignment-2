@@ -1,6 +1,9 @@
 import swaggerJSDoc from "swagger-jsdoc";
 import { getFeedbackSchema } from "../docs/get-feedback";
+import { getModelPredictionSchema } from "../docs/get-model";
+import { getReportsSchema } from "../docs/get-report";
 import { postFeedbackSchema } from "../docs/post-feedback";
+import { postReportSchema } from "../docs/post-report";
 
 const options = {
   definition: {
@@ -18,8 +21,14 @@ const options = {
     ],
     components: {
       schemas: {
-        PostFeedback: postFeedbackSchema,
+        // Feedback
         GetFeedback: getFeedbackSchema,
+        PostFeedback: postFeedbackSchema,
+        // Model
+        GetModelPrediction: getModelPredictionSchema,
+        // Report
+        GetReport: getReportsSchema,
+        PostReport: postReportSchema,
       },
     },
   },

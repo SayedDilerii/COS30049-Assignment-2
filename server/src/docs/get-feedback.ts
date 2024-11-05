@@ -73,6 +73,7 @@ export const getFeedbackSchema = {
         },
       },
     },
+
     500: {
       description: "Server error",
       content: {

@@ -46,13 +46,16 @@ export class MainRouter {
       response.json({ message: "Welcome to the API" });
     });
 
-    // Model route - it should allow for querying of the machine learning model and return risk and data for charts
+    /**
+     * @openapi
+     * /api/model:
+     *   get:
+     *     tags:
+     *        - Machine Learning Model
+     *     summary: Get bushfire risk prediction
+     *     $ref: '#/components/schemas/GetModelPrediction'
+     */
     this.router.get("/model", validationMiddleware(modelSchema.get), (request: Request, response: Response) => this.modelController.query(request, response));
-
-    // Notifications route - it should allow for client to query and return random instances of bushfire predictions to mimmic "News Alerts".
-    this.router.get("/notifications", (request: Request, response: Response) => {
-      response.json({ results: ["Hello there, there's a bushfire at Shillicon Valley yeah!!"] });
-    });
 
     /**
      * @openapi
@@ -60,6 +63,7 @@ export class MainRouter {
      *   post:
      *     tags:
      *        - Feedback
+     *     summary: Submit feedback
      *     $ref: '#/components/schemas/PostFeedback'
      */
     this.router.post("/feedback", validationMiddleware(feedbackSchema.create), (request: Request, response: Response) => this.feedbackController.create(request, response));
@@ -70,14 +74,31 @@ export class MainRouter {
      *   get:
      *     tags:
      *        - Feedback
+     *     summary: Get all feedback entries
      *     $ref: '#/components/schemas/GetFeedback'
      */
     this.router.get("/feedback", (request: Request, response: Response) => this.feedbackController.getAllFeedback(request, response));
 
-    // Report route - create report entry
+    /**
+     * @openapi
+     * /api/report:
+     *   post:
+     *     tags:
+     *        - Report system
+     *     summary: Submit bushfire incident report
+     *     $ref: '#/components/schemas/PostReport'
+     */
     this.router.post("/report", validationMiddleware(reportSchema.create), (request: Request, response: Response) => this.reportController.create(request, response));
 
-    // Report route - get all reports
+    /**
+     * @openapi
+     * /api/report:
+     *   get:
+     *     tags:
+     *        - Report system
+     *     summary: Get all bushfire reports
+     *     $ref: '#/components/schemas/PostReport'
+     */
     this.router.get("/report", (request: Request, response: Response) => this.reportController.getAllReports(request, response));
   }
 
