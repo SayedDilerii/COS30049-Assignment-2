@@ -25,7 +25,7 @@ export class MainRouter {
   private initializeRoutes(): void {
     /**
      * @openapi
-     * /api/health-check:
+     * /api/:
      *   get:
      *     tags:
      *       - Health Check
@@ -42,7 +42,7 @@ export class MainRouter {
      *                 message:
      *                   type: string
      */
-    this.router.get("/health-check", (request: Request, response: Response) => {
+    this.router.get("/", (request: Request, response: Response) => {
       response.json({ message: "Welcome to the API" });
     });
 

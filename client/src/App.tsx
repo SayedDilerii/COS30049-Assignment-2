@@ -1,6 +1,6 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useEffect } from "react";
-import { Outlet, useNavigate } from "react-router-dom";
+import { Outlet, useLocation, useNavigate } from "react-router-dom";
 import { Toaster } from "sonner";
 import Container from "./components/ui/container";
 import Navbar from "./components/ui/navbar";
@@ -9,15 +9,15 @@ import { NavigationProvider } from "./providers/NavigationProvider";
 const App: React.FC = () => {
   const queryClient = new QueryClient();
   const isUserOnboarded = localStorage.getItem("state");
+  const location = useLocation();
+  const isOnboardingPage = location.pathname === "/onboarding";
   const navigate = useNavigate();
 
   useEffect(() => {
-    if (!isUserOnboarded) {
+    if (!isUserOnboarded && isOnboardingPage) {
       navigate("/onboarding");
-    } else {
-      navigate("/dashboard");
     }
-  }, [isUserOnboarded, navigate]);
+  }, [isUserOnboarded, navigate, isOnboardingPage]);
 
   return (
     <>

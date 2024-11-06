@@ -135,7 +135,9 @@ const DrawerBody: React.FC = () => {
           <div className="text-center grid gap-2">
             <p className="text-2xl font-medium text-slate-700">Something went wrong</p>
             <p className="text-slate-500">We're sorry about this inconvenience.</p>
-            <Button variant={"destructive"}>Reload</Button>
+            <Button variant={"destructive"} onClick={() => location.reload()}>
+              Reload
+            </Button>
           </div>
         </div>
       );

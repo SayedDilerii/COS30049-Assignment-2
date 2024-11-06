@@ -47,7 +47,8 @@ export class App {
 
   public start(): void {
     this.app.listen(this.config.port, () => {
-      console.log(`Server is running on port ${this.config.port}`);
+      console.log(`Server is running on port http://localhost:${this.config.port}/api`);
+      console.log(`API docs is running on port http://localhost:${this.config.port}/docs`);
     });
   }
 
