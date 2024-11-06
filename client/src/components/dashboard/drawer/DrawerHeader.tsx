@@ -116,14 +116,14 @@ const DrawerHeader: React.FC = () => {
   };
 
   return (
-    <Container className="px-8 py-4 flex items-center justify-between">
+    <Container className="px-4 py-4 flex flex-col gap-4 items-start justify-between">
       <div className="flex items-center gap-2">
-        <Cpu size={40} color="green" />
-        <p className="text-[1.8em] font-medium">Risk Predictions</p>
+        <Cpu size={24} color="green" className="sm:h-5.5 sm:w-5.5" />
+        <p className="text-[1.2em] font-medium">Risk Predictions</p>
       </div>
-      <div className="flex items-center gap-2">
+      <div className="flex flex-col gap-3 w-full">
         <Select onValueChange={(value) => batchUpdateForm({ ...formValues.initialValues, state: value })}>
-          <SelectTrigger className="w-[400px] bg-transparent rounded-full px-4 bg-white shadow-sm border-zinc-300">
+          <SelectTrigger className="w-full bg-transparent rounded-full px-4 bg-white shadow-sm border-zinc-300 ">
             <SelectValue placeholder="Select a state:" />
           </SelectTrigger>
           <SelectContent className="rounded-xl w-[400px]">
@@ -137,84 +137,87 @@ const DrawerHeader: React.FC = () => {
             </SelectGroup>
           </SelectContent>
         </Select>
-        <Popover>
-          <PopoverTrigger asChild>
-            <Button className="bg-white border border-zinc-300 hover:bg-zinc-100 font-light flex gap-2 text-zinc-600 shadow-sm">
-              <Calendar size={14} />
-              <p className="text-[14px] font-normal">{formValues.initialValues.date.length !== 0 ? formValues.initialValues.date : "Select date:"}</p>
-            </Button>
-          </PopoverTrigger>
-          <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[250px] bg-white p-6 overflow-y-scroll" align="end">
-            <div>
-              <p className="text-zinc-500 mb-6 font-medium">Select preset dates:</p>
+        <div className="flex justify-between gap-1">
+          <Popover>
+            <PopoverTrigger asChild>
+              <Button className="bg-white border border-zinc-300 w-full hover:bg-zinc-100 flex justify-start gap-2 font-light text-zinc-600 shadow-sm">
+                <Calendar size={14} />
+                <p className="text-[14px] font-normal">{formValues.initialValues.date.length !== 0 ? formValues.initialValues.date : "Select date: "}</p>
+              </Button>
+            </PopoverTrigger>
+            <PopoverContent className="border-[0.5px] border-zinc-400  mt-1 shadow-xl rounded-xl h-[250px] bg-white p-6 overflow-y-scroll" align="end">
+              <div>
+                <p className="text-zinc-500 mb-6 font-medium">Select preset dates:</p>
+                <form>
+                  <div className="grid gap-2">
+                    {datePresets.map((field) => {
+                      const isChecked = (formValues.initialValues.date as string).includes(field.date);
+                      return (
+                        <div
+                          key={field.option}
+                          className={`cursor-pointer flex gap-2  p-1  rounded-md ${isChecked && "bg-blue-100 text-blue-800 px-2 duration-500"}`}
+                          onClick={() => {
+                            batchUpdateForm({ ...formValues.initialValues, date: field.date });
+                          }}
+                        >
+                          <input
+                            type="radio"
+                            name="date"
+                            value={field.date}
+                            onChange={(event) => batchUpdateForm({ ...formValues.initialValues, date: event.target.value })}
+                            checked={isChecked}
+                          />
+                          <label htmlFor={"date"} className="cursor-pointer w-full flex justify-between">
+                            <span>{field.option}</span>
+                            <span className="text-blue-400">{field.day}</span>
+                          </label>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </form>
+              </div>
+            </PopoverContent>
+          </Popover>
+          <Popover>
+            <PopoverTrigger asChild>
+              <Button className="bg-white border border-zinc-300 w-full hover:bg-zinc-100 font-light flex gap-2 text-zinc-600 shadow-sm text-wrap">
+                <SunIcon size={14} />
+                <p className="text-[14px] font-normal">
+                  {formValues.initialValues.tmin.length !== 0 && formValues.initialValues.tmax.length !== 0
+                    ? `${formValues.initialValues.tmin}℃ - ${formValues.initialValues.tmax}℃`
+                    : "Select tempreture:"}
+                </p>
+              </Button>
+            </PopoverTrigger>
+            <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[200px] bg-white p-6 overflow-y-scroll" align="end">
               <form>
-                <div className="grid gap-2">
-                  {datePresets.map((field) => {
-                    const isChecked = (formValues.initialValues.date as string).includes(field.date);
-                    return (
-                      <div
-                        key={field.option}
-                        className={`cursor-pointer flex gap-2  p-1  rounded-md ${isChecked && "bg-blue-100 text-blue-800 px-2 duration-500"}`}
-                        onClick={() => {
-                          batchUpdateForm({ ...formValues.initialValues, date: field.date });
-                        }}
-                      >
-                        <input
-                          type="radio"
-                          name="date"
-                          value={field.date}
-                          onChange={(event) => batchUpdateForm({ ...formValues.initialValues, date: event.target.value })}
-                          checked={isChecked}
-                        />
-                        <label htmlFor={"date"} className="cursor-pointer w-full flex justify-between">
-                          <span>{field.option}</span>
-                          <span className="text-blue-400">{field.day}</span>
-                        </label>
-                      </div>
-                    );
-                  })}
+                <div>
+                  <label htmlFor="tmin">Min temp:</label>
+                  <Input
+                    type="number"
+                    placeholder="Celsius..."
+                    value={formValues.initialValues.tmin}
+                    onChange={(event) => batchUpdateForm({ ...formValues.initialValues, tmin: event.target.value })}
+                    step={0.5}
+                    max={formValues.initialValues.tmax}
+                  />
+                </div>
+                <div>
+                  <label htmlFor="tmax">Max temp:</label>
+                  <Input
+                    type="number"
+                    placeholder="Celsius..."
+                    value={formValues.initialValues.tmax}
+                    onChange={(event) => batchUpdateForm({ ...formValues.initialValues, tmax: event.target.value })}
+                    min={formValues.initialValues.tmin}
+                  />
                 </div>
               </form>
-            </div>
-          </PopoverContent>
-        </Popover>
-        <Popover>
-          <PopoverTrigger asChild>
-            <Button className="bg-white border border-zinc-300 hover:bg-zinc-100 font-light flex gap-2 text-zinc-600 shadow-sm">
-              <SunIcon size={14} />
-              <p className="text-[14px] font-normal">
-                {formValues.initialValues.tmin.length !== 0 && formValues.initialValues.tmax.length !== 0
-                  ? `${formValues.initialValues.tmin}℃ - ${formValues.initialValues.tmax}℃`
-                  : "Select tempreture:"}
-              </p>
-            </Button>
-          </PopoverTrigger>
-          <PopoverContent className="border-[0.5px] border-zinc-400 w-[300px] mt-1 shadow-xl rounded-xl h-[200px] bg-white p-6 overflow-y-scroll" align="end">
-            <form>
-              <div>
-                <label htmlFor="tmin">Min temp:</label>
-                <Input
-                  type="number"
-                  placeholder="Celsius..."
-                  value={formValues.initialValues.tmin}
-                  onChange={(event) => batchUpdateForm({ ...formValues.initialValues, tmin: event.target.value })}
-                  step={0.5}
-                  max={formValues.initialValues.tmax}
-                />
-              </div>
-              <div>
-                <label htmlFor="tmax">Max temp:</label>
-                <Input
-                  type="number"
-                  placeholder="Celsius..."
-                  value={formValues.initialValues.tmax}
-                  onChange={(event) => batchUpdateForm({ ...formValues.initialValues, tmax: event.target.value })}
-                  min={formValues.initialValues.tmin}
-                />
-              </div>
-            </form>
-          </PopoverContent>
-        </Popover>
+            </PopoverContent>
+          </Popover>
+        </div>
+
         <Button className="text-[14px]" onClick={() => handleSubmit(formValues.initialValues)} disabled={dashboardContext?.isFetching}>
           {dashboardContext?.isFetching ? <Loader message="loading..." /> : <p className="text-[14px] font-normal">Search</p>}
         </Button>

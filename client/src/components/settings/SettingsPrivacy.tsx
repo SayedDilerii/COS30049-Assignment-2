@@ -36,10 +36,11 @@ const SettingsPrivacy: React.FC = () => {
 
   const resetHandler = () => {
     setFormData(defaultValue);
+    toast.success("Settings reset successfully!");
   };
 
   return (
-    <form onSubmit={formSubmitHandler} className="pr-10 mt-2">
+    <form onSubmit={formSubmitHandler} className="pr-10 sm:pr-10">
       {formData.map((value, index) => (
         <div key={index} className={index > 0 ? "pt-4" : ""}>
           <PropertySelector heading={value.heading} caption={value.caption} items={value.items} value={value.value} formValue={formHandler} />
@@ -49,9 +50,7 @@ const SettingsPrivacy: React.FC = () => {
         <Button variant={"secondary"} onClick={resetHandler} type="reset">
           Reset to default
         </Button>
-        <Button className="text-[12px]" type="submit">
-          Save changes
-        </Button>
+        <Button type="submit">Save changes</Button>
       </div>
     </form>
   );

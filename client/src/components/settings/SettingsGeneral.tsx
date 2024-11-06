@@ -40,10 +40,11 @@ const GeneralSettings: React.FC = () => {
 
   const resetHandler = () => {
     setFormData(defaultValue);
+    toast.success("Settings reset successfully!");
   };
 
   return (
-    <form onSubmit={formSubmitHandler} className="pr-10">
+    <form onSubmit={formSubmitHandler} className="pr-10 sm:pr-10">
       {formData.map((value, index) => (
         <div key={index} className={index > 0 ? "pt-4" : ""}>
           <PropertySelector heading={value.heading} value={value.value} caption={value.caption} items={value.items} formValue={formHandler} />
@@ -53,9 +54,7 @@ const GeneralSettings: React.FC = () => {
         <Button variant={"secondary"} onClick={resetHandler} type="reset">
           Reset to default
         </Button>
-        <Button className="text-[12px]" type="submit">
-          Save changes
-        </Button>
+        <Button type="submit">Save changes</Button>
       </div>
     </form>
   );

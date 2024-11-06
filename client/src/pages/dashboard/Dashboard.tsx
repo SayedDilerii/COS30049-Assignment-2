@@ -45,7 +45,7 @@ const Dashboard: React.FC = () => {
     <>
       <Container className="h-full relative overflow-auto">
         <PanelGroup direction="vertical" ref={ref}>
-          <Panel maxSize={50} defaultSize={50} className="bg-zinc-200 h-1/2 transition-all duration-500 ease-in-out">
+          <Panel maxSize={50} defaultSize={30} className="bg-zinc-200 h-1/2 transition-all duration-500 ease-in-out">
             <GoogleMaps
               highlightColor={calculateRiskColour(riskScoreAlias(dashboardContext.data ? dashboardContext.data.result!.current_prediction!.risk_score : 0)).colour}
               selectedState={stateName as StateName}
@@ -56,7 +56,7 @@ const Dashboard: React.FC = () => {
               <GripHorizontal className="h-3.5 w-3.5" color="black" />
             </div>
           </PanelResizeHandle>
-          <Panel maxSize={75} defaultSize={50} className="w-full h-1/2 transition-all duration-500 ease-in-out">
+          <Panel maxSize={75} defaultSize={70} className="w-full h-1/2 transition-all duration-500 ease-in-out">
             <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
           </Panel>
         </PanelGroup>

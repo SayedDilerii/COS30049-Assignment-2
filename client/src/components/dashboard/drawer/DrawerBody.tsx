@@ -143,7 +143,7 @@ const DrawerBody: React.FC = () => {
 
     if (!hasData) {
       return (
-        <div className="flex justify-center items-center w-full h-full">
+        <div className="flex justify-center items-center w-full h-full px-4">
           <div className="text-center grid gap-2">
             <p className="text-2xl font-medium text-slate-700">Currently, nothing to show.</p>
             <p className="text-slate-500">This area is dedicated to show the search results.</p>
@@ -179,7 +179,7 @@ const DrawerBody: React.FC = () => {
     );
   };
 
-  return <Container className="h-full overflow-y-scroll border-t border-b w-full">{renderQueryResult()}</Container>;
+  return <Container className="h-full border-t border-b w-full">{renderQueryResult()}</Container>;
 };
 
 export default DrawerBody;
