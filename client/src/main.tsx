@@ -9,8 +9,10 @@ import FeedbackPage from "./pages/feedback/FeedbackPage.tsx";
 import ViewFeedbackPage from "./pages/feedback/ViewFeedbackPage.tsx";
 import HelpPage from "./pages/help-center/HelpPage.tsx";
 import OnBoardingPage from "./pages/onboarding/OnboardingPage.tsx";
+import ReportPage from "./pages/report/ReportPage.tsx";
 import SandBoxPage from "./pages/sandbox/SandboxPage.tsx";
 import SettingsPage from "./pages/settings/SettingsPage.tsx";
+import { DashboardProvider } from "./providers/DashboardProvider.tsx";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -22,7 +24,11 @@ const router = createBrowserRouter([
       },
       {
         path: "dashboard",
-        element: <Dashboard />,
+        element: (
+          <DashboardProvider>
+            <Dashboard />
+          </DashboardProvider>
+        ),
       },
       {
         path: "settings",
@@ -43,6 +49,10 @@ const router = createBrowserRouter([
       {
         path: "community-feedback",
         element: <ViewFeedbackPage />,
+      },
+      {
+        path: "report",
+        element: <ReportPage />,
       },
     ],
   },

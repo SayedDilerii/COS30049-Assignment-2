@@ -13,19 +13,19 @@ const SettingsSidePanel: React.FC<IProps> = ({ callback, currentOption }) => {
   const navigate = useNavigate();
 
   return (
-    <div className={isMobile ? "px-4 pt-10" : "flex flex-col h-full px-12 pt-24"}>
-      <div className={isMobile ? "flex flex-col gap-4" : "flex flex-col gap-24"}>
+    <div className={isMobile ? "pt-10" : "flex flex-col h-full px-12 pt-24"}>
+      <div className={isMobile ? "flex flex-col gap-8" : "flex flex-col gap-24"}>
         <div className="flex items-center justify-between">
-          <h1 className="text-3xl font-medium text-zinc-500">Settings</h1>
+          <h1 className="text-2xl sm:text-3xl text-zinc-600">Settings</h1>
           {isMobile && (
-            <Button onClick={() => navigate("/dashboard")} className="w-32">
+            <Button onClick={() => navigate("/dashboard")} className="tracking-tight">
               Go to Dashboard
             </Button>
           )}
         </div>
         {isMobile && (
           <>
-            <div className="border-b-2 mt-2 flex-grow"></div>
+            <hr />
           </>
         )}
         <div className={isMobile ? "flex flex-col gap-4" : "flex flex-col gap-1"}>

@@ -3,6 +3,7 @@ import SettingsNotifications from "@/components/settings/SettingsNotification";
 import SettingsOptions from "@/components/settings/SettingsOptions";
 import SettingsPrivacy from "@/components/settings/SettingsPrivacy";
 import SettingsSidePanel from "@/components/settings/SettingsSidePanel";
+import { Button } from "@/components/ui/button";
 import Container from "@/components/ui/container";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { NavigationContext } from "@/providers/NavigationProvider";
@@ -60,53 +61,53 @@ const SettingsPage: React.FC = () => {
 
   const renderMobileContent = () => {
     const returnButton = (
-      <button onClick={handleReturnToSettings} className="bg-zinc-400 text-white px-2 py-2 rounded-full">
+      <Button onClick={handleReturnToSettings} className="tracking-tight">
         Return to Settings
-      </button>
+      </Button>
     );
 
     switch (mobileSettings.option) {
       case "general":
         return (
-          <div className="px-2">
-            <div className="flex items-center justify-between pt-4">
-              <h1 className="text-2xl font-medium text-zinc-500">General</h1>
+          <div className="flex flex-col gap-6">
+            <div className="flex items-center justify-between pt-10">
+              <h1 className="text-2xl text-zinc-600">General</h1>
               {returnButton}
             </div>
-            <div className="border-b-2 border-zinc-200 py-4"></div>
+            <hr />
             <GeneralSettings />
           </div>
         );
       case "options":
         return (
-          <div className="px-2">
-            <div className="flex items-center justify-between pt-4">
-              <h1 className="text-2xl font-medium text-zinc-500">Options</h1>
+          <div className="flex flex-col gap-6">
+            <div className="flex items-center justify-between pt-10">
+              <h1 className="text-2xl text-zinc-600">Options</h1>
               {returnButton}
             </div>
-            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <hr />
             <SettingsOptions />
           </div>
         );
       case "notification":
         return (
-          <div className="px-2">
-            <div className="flex items-center justify-between pt-4">
-              <h1 className="text-2xl font-medium text-zinc-500">Notifications</h1>
+          <div className="flex flex-col gap-6">
+            <div className="flex items-center justify-between pt-10">
+              <h1 className="text-2xl text-zinc-600">Notifications</h1>
               {returnButton}
             </div>
-            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <hr />
             <SettingsNotifications />
           </div>
         );
       case "privacy":
         return (
-          <div className="px-2">
-            <div className="flex items-center justify-between pt-4">
-              <h1 className="text-2xl font-medium text-zinc-500">Privacy</h1>
+          <div className="flex flex-col gap-6">
+            <div className="flex items-center justify-between pt-10">
+              <h1 className="text-2xl text-zinc-600">Privacy</h1>
               {returnButton}
             </div>
-            <div className="border-b-2 border-zinc-200 pt-4"></div>
+            <hr />
             <SettingsPrivacy />
           </div>
         );

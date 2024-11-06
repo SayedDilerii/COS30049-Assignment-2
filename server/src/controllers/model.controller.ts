@@ -31,9 +31,8 @@ export class ModelController {
   private invokeModel = ({ state, date, tmin, tmax }: any): Promise<any> => {
     return new Promise((resolve, reject) => {
       const scriptPath = path.join(__dirname, "./../../../machine-learning-model/machine-learning.py");
-      console.log(scriptPath);
-
-      const childProcess = spawn("python3", [scriptPath, state, date, tmin, tmax]);
+      const pythonExecutable = process.platform === "win32" ? "python" : "python3";
+      const childProcess = spawn(pythonExecutable, [scriptPath, state, date, tmin, tmax]);
       let output = "";
 
       childProcess.stdout.on("data", (data) => {

@@ -1,9 +1,12 @@
 import cors from "cors";
 import express, { Application } from "express";
+import swaggerUi from "swagger-ui-express";
 import { MainRouter } from "./router";
 import { Config } from "./types/config.type";
+import { specs } from "./utilities/swagger";
+
 const corsOptions = {
-  origin: ["http://localhost:5173", "http://localhost:5178", "http://localhost:5179"],
+  origin: ["http://localhost:5173", "http://localhost:5178", "http://localhost:5179", "http://localhost:4173"],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With", "Accept", "Origin"],
@@ -26,6 +29,15 @@ export class App {
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
     this.app.use(cors(corsOptions));
+    this.app.use(
+      "/docs",
+      swaggerUi.serve,
+      swaggerUi.setup(specs, {
+        swaggerOptions: {
+          defaultModelsExpandDepth: -1, // Hide schemas section by default
+        },
+      })
+    );
   }
 
   private setupRoutes(): void {
@@ -35,7 +47,8 @@ export class App {
 
   public start(): void {
     this.app.listen(this.config.port, () => {
-      console.log(`Server is running on port ${this.config.port}`);
+      console.log(`Server is running on port http://localhost:${this.config.port}/api`);
+      console.log(`API docs is running on port http://localhost:${this.config.port}/docs`);
     });
   }
 
