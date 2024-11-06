@@ -1,6 +1,5 @@
 import Drawer from "@/components/dashboard/drawer/Drawer";
 import DrawerBody from "@/components/dashboard/drawer/DrawerBody";
-import DrawerFooter from "@/components/dashboard/drawer/DrawerFooter";
 import DrawerHeader from "@/components/dashboard/drawer/DrawerHeader";
 import GoogleMaps from "@/components/dashboard/google-maps/GoogleMaps";
 import Container from "@/components/ui/container";
@@ -57,7 +56,7 @@ const Dashboard: React.FC = () => {
             </div>
           </PanelResizeHandle>
           <Panel maxSize={75} defaultSize={70} className="w-full h-1/2 transition-all duration-500 ease-in-out">
-            <Drawer header={<DrawerHeader />} body={<DrawerBody />} footer={<DrawerFooter />} />
+            <Drawer header={<DrawerHeader />} body={<DrawerBody />} />
           </Panel>
         </PanelGroup>
       </Container>

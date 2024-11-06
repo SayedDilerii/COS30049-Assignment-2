@@ -10,14 +10,16 @@ const App: React.FC = () => {
   const queryClient = new QueryClient();
   const isUserOnboarded = localStorage.getItem("state");
   const location = useLocation();
-  const isOnboardingPage = location.pathname === "/onboarding";
+  const isRootPath = location.pathname === "/";
   const navigate = useNavigate();
 
   useEffect(() => {
-    if (!isUserOnboarded && isOnboardingPage) {
+    if (!isUserOnboarded && isRootPath) {
       navigate("/onboarding");
+    } else if (isRootPath && isUserOnboarded) {
+      navigate("/dashboard");
     }
-  }, [isUserOnboarded, navigate, isOnboardingPage]);
+  }, [isUserOnboarded, navigate, isRootPath]);
 
   return (
     <>
